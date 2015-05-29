@@ -1,0 +1,75 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Ankit Aggarwal,145,405004621,29,1,0,75.8887
+2nd,Sickles,John Brown,126,479007921,25,4,1,68.9541
+3rd,Berkeley Prep,Zachary Diamandis,123,405003521,24,3,3,67.8592
+4th,Dunbar High School,Tyler Millis,121,477060221,23,1,6,67.1292
+5th,Middleton,Alexander Hoang,115,468000121,22,3,5,64.9394
+6th,Canterbury (Lee),Elbert Wu,111,411002621,22,7,1,63.4795
+7th,Palm Harbor Univ,Andrew An,111,413000021,22,7,1,63.4795
+8th,Berkeley Prep,Jarod Guzik,110,405004520,21,4,5,63.1145
+9th,Tampa Bay Tech,Nikhil Nagabandi,105,461000221,20,5,5,61.2896
+10th,King,Sebastian Ayala,105,435001221,20,5,5,61.2896
+11th,Berkeley Prep,Eva Khademi,104,405004221,19,2,9,60.9246
+12th,St Stephen's Episcopal,LILY LU,102,489003022,19,4,7,60.1947
+13th,Wharton,Jonathan Maggio,101,485002421,19,5,6,59.8297
+14th,Wharton,Owen Benefiel,100,485002621,19,6,5,59.4647
+15th,Spoto High,Saori Lorkowski,99,472001221,18,3,9,59.0997
+16th,Berkeley Prep,Nick Diaco,99,405001020,18,3,9,59.0997
+17th,Berkeley Prep,Colton Karpman,96,405007120,19,10,1,58.0048
+18th,Berkeley Prep,Jack Graham,95,405004321,18,7,5,57.6398
+19th,St Stephen's Episcopal,KYLE KOUGHAN,94,489002921,17,4,9,57.2749
+20th,King,Pranjal Tyagi,93,435003621,16,1,13,56.9099
+21st,Palm Harbor Univ,Matthew Nguyen,90,413004030,16,4,10,55.8150
+22nd,Middleton,Logan Kane,89,468000421,17,9,4,55.4500
+23rd,Robinson,Nhu-y Thuy Nguyen,89,458006321,16,5,9,55.4500
+24th,King,Amol Mavuduru,89,435002920,17,9,4,55.4500
+25th,St Stephen's Episcopal,NUPUR MATHUR,87,489001221,16,7,7,54.7200
+26th,Canterbury (Lee),Manny Hernandez,85,411002321,16,9,5,53.9901
+27th,Gaither High School,Brian Tran,83,426001421,14,3,13,53.2601
+28th,King,Austin Kee,81,435002321,14,5,11,52.5302
+29th,Berkeley Prep,Katie Freedy,81,405004120,15,9,6,52.5302
+30th,Berkeley Prep,Will Levine,81,405003720,15,9,6,52.5302
+31st,Spoto High,Agustin Martinez,79,472001421,14,7,9,51.8002
+32nd,Middleton,Vontero Duncan,78,468000621,13,4,13,51.4352
+33rd,Gaither High School,Dallas Gabby,75,426001621,12,3,15,50.3403
+34th,Spoto High,Anthony Chan,75,472001021,13,7,10,50.3403
+35th,Hillsborough,Sameer Puri,75,428061421,13,7,10,50.3403
+36th,Gaither High School,Dallas Madie,73,426003221,12,5,13,49.6104
+37th,King,Jonathan Ptak,72,435003221,12,6,12,49.2454
+38th,St Stephen's Episcopal,CHEYENNE FAUVEL,72,489001621,12,6,12,49.2454
+39th,Tampa Bay Tech,Cameron Wilson,70,461001121,12,8,10,48.5154
+40th,Berkeley Prep,Amol Dhaliwal,70,405003920,11,4,15,48.5154
+41st,St Stephen's Episcopal,HANNAH SAGE,67,489003322,13,15,2,47.4205
+42nd,Spoto High,Skye Inthavong,65,472001121,10,5,15,46.6906
+43rd,Middleton,Francis Roan,64,468002321,10,6,14,46.3256
+44th,Hillsborough,Khushali Mashruwada,64,428061021,10,6,14,46.3256
+45th,Dunbar High School,Marck Molina,63,477060321,10,7,13,45.9606
+46th,Tampa Bay Tech,Emily Compton,63,461001621,10,7,13,45.9606
+47th,Williams Middle,Easwar Prabakaran,63,468100322,10,7,13,45.9606
+48th,Sickles,Ryan Nolan,61,479007221,10,9,11,45.2306
+49th,Freedom (Tampa),Will Shima,60,466004621,8,2,20,44.8657
+50th,Wharton,Monica Borra,58,485002521,7,0,23,44.1357
+51st,Berkeley Prep,Roshan Kedar,58,405007220,9,8,13,44.1357
+52nd,Sickles,River Plunkett,58,479007021,9,8,13,44.1357
+53rd,Hillsborough,Robert Wood,56,428062221,8,6,16,43.4058
+54th,Canterbury (Lee),Courtney Halle,55,411003721,11,19,0,43.0408
+55th,Berkeley Prep,Hillary McLauchlin,54,405007320,10,16,4,42.6758
+56th,Dunbar High School,Bennett Hunter,52,477060521,7,6,17,41.9459
+57th,Gaither High School,Brandon See,52,426004921,8,10,12,41.9459
+58th,Sickles,Diego Antolinez,51,479006121,7,7,16,41.5809
+59th,Robinson,Rachel Goldstein,51,458006421,9,15,6,41.5809
+60th,Canterbury School of FL,Iliana Yanes,51,464001421,8,11,11,41.5809
+61st,Dunbar High School,Orfanel Fajardo,49,477060421,6,5,19,40.8509
+62nd,St Stephen's Episcopal,NICK RUNDE,49,489002121,8,13,9,40.8509
+63rd,Berkeley Prep,Sophia Raterman,45,405003420,4,1,25,39.3910
+64th,Tampa Bay Tech,Caitlyn Hayes,45,461000621,6,9,15,39.3910
+65th,Berkeley Prep,Kimberly Dil,44,405001120,8,18,4,39.0261
+66th,St Stephen's Episcopal,TIFFANY CHINWUBA,43,489001422,6,11,13,38.6611
+67th,Berkeley Prep,Sarah Ali,42,405003320,5,8,17,38.2961
+68th,Gaither High School,Dennis Erazo,42,426004722,5,8,17,38.2961
+69th,Canterbury School of FL,Christian Renner,40,464001221,4,6,20,37.5661
+70th,Berkeley Prep,CJ Black,37,405002220,5,13,12,36.4712
+71st,Canterbury (Lee),Curran Paffel,36,411002521,5,14,11,36.1062
+72nd,Williams Middle,Suman Adari,35,468100021,4,11,15,35.7413
+73rd,Canterbury School of FL,Danielle Scognamiglio,32,464001321,5,18,7,34.6463
+74th,Wharton,Adriana Kroeze,27,485002321,4,19,7,32.8215

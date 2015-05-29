@@ -1,0 +1,91 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),JIMMY QIN,86,341007441,23,6,1,85.6318
+2nd,Seminole (Seminole),LISA YANG,78,341007941,21,6,3,81.6709
+3rd,Seminole (Seminole),ARADHYA KASERA,74,341006341,20,6,4,79.6904
+4th,Lincoln Park Academy,Geoffrey Zheng,71,396003641,18,1,11,78.2051
+5th,Sanford Middle,Sam Li,61,344103641,17,7,6,73.2539
+6th,Seminole (Seminole),HAZEL DILMORE,55,341005641,17,13,0,70.2832
+7th,Seminole (Seminole),ANDY CAI,51,341005142,16,13,1,68.3028
+8th,Seminole (Seminole),OLIVIA XIANG,47,341007842,13,5,12,66.3223
+9th,Suncoast Comm,Jeffery Luo,43,327005841,12,5,13,64.3418
+10th,Vero Beach,KYLE BARKETT,40,372001741,12,8,10,62.8565
+11th,Hagerty High School,Cameron Yap,40,310001041,12,8,10,62.8565
+12th,Vero Beach,KADEN DINIZ,36,372009741,10,4,16,60.8760
+13th,Seminole (Seminole),NAVEEN KRISHNAN,32,341006442,9,4,17,58.8956
+14th,Seminole (Seminole),PRIYA MANJALY,32,341006842,11,12,7,58.8956
+15th,Hagerty High School,Aadit Vyas,29,310000941,9,7,14,57.4102
+16th,Seminole (Seminole),BAHRAM HOSSEINI,27,341005840,8,5,17,56.4200
+17th,Suncoast Comm,Shrestha Swochchhanda,24,327007540,8,8,14,54.9346
+18th,Seminole (Seminole),JOE NGUYEN,24,341007240,8,8,14,54.9346
+19th,Lake Mary,Madi Smith,22,308004340,9,14,7,53.9444
+20th,Suncoast Comm,Matias Musalem,21,327004741,7,7,16,53.4493
+21st,Hagerty High School,Christopher Long,20,310002541,6,4,20,52.9542
+22nd,Suncoast Comm,Maxwell Willett,19,327006641,6,5,19,52.4591
+23rd,Suncoast Comm,Andrew Meyer,18,327005941,5,2,23,51.9640
+24th,Saint Edward's School,GRIFFIN FAIRCHOK,17,374020741,5,3,22,51.4688
+25th,Bayside,Floyd Burke,17,303001541,5,3,22,51.4688
+26th,West Shore,Atharva Chopde,16,393000442,6,8,16,50.9737
+27th,Bayside,Samantha Osterhout,15,303001642,4,1,25,50.4786
+28th,Vero Beach,JOSIAH EVARISTO,15,372010041,4,1,25,50.4786
+29th,Bayside,Wistenly Alphonse,15,303001241,4,1,25,50.4786
+30th,Bayside,Priscilla Gonzalez,14,303002041,4,2,24,49.9835
+31st,Suncoast Comm,Lilli Riso,14,327003640,5,6,19,49.9835
+32nd,Saint Edward's School,ALLISON BROWN,13,374020541,4,3,23,49.4884
+33rd,Suncoast Comm,Kapil Sirivolu,13,327011140,4,3,23,49.4884
+34th,Vero Beach,NOAH LANIER,13,372010642,4,3,23,49.4884
+35th,West Shore,Stephen Latta,11,393000641,4,5,21,48.4982
+36th,Saint Edward's School,MORGAN BENSON,11,374020241,4,5,21,48.4982
+37th,West Shore,David Freeman,10,393007342,3,2,25,48.0030
+38th,Saint Edward's School,PEYTON KLEIN,10,374021140,3,2,25,48.0030
+39th,Seminole (Seminole),SERAPHINA CHOI,10,341005540,8,22,0,48.0030
+40th,Hagerty High School,Alexander Amin,9,310031941,4,7,19,47.5079
+41st,Vero Beach,LUCIE MOORE,8,372010842,2,0,28,47.0128
+42nd,Seminole (Seminole),CHIRAG LODHA,8,341006740,4,8,18,47.0128
+43rd,Suncoast Comm,Kenneth Nguyen,8,327008242,3,4,23,47.0128
+44th,Suncoast Comm,Preethna Anbu,8,327004240,3,4,23,47.0128
+45th,Orlando Science Charter  High School,Jonathan Montague,8,348000041,5,12,13,47.0128
+46th,Lake Mary,Joshua Spalter,7,308001541,5,13,12,46.5177
+47th,Suncoast Comm,Justin Hancock,7,327005742,3,5,22,46.5177
+48th,Suncoast Comm,Jerry Yang,7,327006842,6,17,7,46.5177
+49th,Suncoast Comm,Jason Phan,6,327005440,2,2,26,46.0226
+50th,Suncoast Comm,Pierre Ghobrial,6,327004440,3,6,21,46.0226
+51st,Suncoast Comm,Rohan Shah,5,327007442,3,7,20,45.5275
+52nd,Suncoast Comm,Jacqueline Chen,5,327003240,2,3,25,45.5275
+53rd,West Shore,Christopher Latta,5,393000741,2,3,25,45.5275
+54th,Lake Mary,Mason Bernstein,5,308000341,7,23,0,45.5275
+55th,Bayside,Zach Nichols,5,303000841,2,3,25,45.5275
+56th,Suncoast Comm,Natalie Pawlowski,4,327006240,1,0,29,45.0323
+56th,Vero Beach,DALIA HUSAINY,4,372008741,1,0,29,45.0323
+58th,Bayside,Michaela Mentzer,4,303001742,2,4,24,45.0323
+59th,Suncoast Comm,Noel Vincent,4,327007840,1,0,29,45.0323
+60th,Suncoast Comm,Katiushka Rich,4,327003540,1,0,29,45.0323
+61st,Saint Edward's School,JOHN SCHWERER,4,374021640,2,4,24,45.0323
+62nd,Vero Beach,KIKI PETERS,4,372004740,3,8,19,45.0323
+63rd,Lincoln Park Academy,Mali Kaminaga,3,396004041,3,9,18,44.5372
+64th,Suncoast Comm,Cameron Winslow,3,327006740,1,1,28,44.5372
+65th,Saint Edward's School,Alex Green,3,374000641,4,13,13,44.5372
+66th,Suncoast Comm,Christopher Warburton,2,327006540,1,2,27,44.0421
+67th,Suncoast Comm,Rahel Imru,2,327005040,1,2,27,44.0421
+68th,West Shore,Kaitlin Inganna,2,393000541,2,6,22,44.0421
+69th,Suncoast Comm,Azwad Rahman,1,327002440,2,7,21,43.5470
+70th,Suncoast Comm,Hunter Jarrell,1,327003740,1,3,26,43.5470
+71st,Vero Beach,CAITLYN TAYLOR,0,372002940,0,0,30,43.0519
+72nd,Suncoast Comm,Karen Sem,0,327006340,1,4,25,43.0519
+73rd,Suncoast Comm,Raymond Yim,0,327007240,1,4,25,43.0519
+74th,Lake Mary,Kenneth Wang,0,308009941,6,24,0,43.0519
+75th,Bayside,Martha Esparza,-1,303001942,1,5,24,42.5568
+76th,Vero Beach,HANNAH HARTLINE,-1,372005040,0,1,29,42.5568
+77th,Suncoast Comm,Himani Gubbi,-1,327005640,1,5,24,42.5568
+78th,West Shore,Samuel Mikhail,-1,393007552,1,5,24,42.5568
+79th,Vero Beach,RACHEL HOROWITZ,-2,372007840,0,2,28,42.0617
+80th,Vero Beach,BARRETT JELLIE,-2,372008840,0,2,28,42.0617
+81st,Vero Beach,MYKHANH NGUYENTRAN,-2,372010542,0,2,28,42.0617
+82nd,Saint Edward's School,BEN WEEKS,-3,374021740,0,3,27,41.5665
+83rd,Vero Beach,THEO WILLSON,-3,372007640,0,3,27,41.5665
+84th,Vero Beach,YUSRA HASHMI,-4,372005142,0,4,26,41.0714
+85th,Lake Mary,Amy Bliss,-4,308004041,3,16,11,41.0714
+86th,Seminole (Seminole),DAVID JONES,-5,341006140,5,25,0,40.5763
+87th,Lincoln Park Academy,Carlos Arce,-5,396003441,1,9,20,40.5763
+88th,West Shore,Srimayi Tenali,-5,393000941,1,9,20,40.5763
+89th,West Shore,Anton Samilian,-6,393005442,2,14,14,40.0812
+90th,Saint Edward's School,OLIVIA PIZZO,-8,374021540,0,8,22,39.0910

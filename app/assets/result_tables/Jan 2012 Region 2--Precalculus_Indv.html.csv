@@ -1,0 +1,96 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Eastside,Hope Pan,120,280002841,30,0,0,69.4179
+1st,Buchholz,HyunJee Rhee,120,295003942,30,0,0,69.4179
+3rd,Buchholz,Vivian Zhu,116,295002740,29,0,1,68.3344
+4th,Eastside,Yuxin Zhang,115,280003941,29,1,0,68.0635
+5th,Buchholz,Andreea Martin,115,295000942,29,1,0,68.0635
+5th,Buchholz,Andrew Fang,115,295002641,29,1,0,68.0635
+7th,Buchholz,John Huber,115,295004841,29,1,0,68.0635
+8th,Buchholz,Josh chipman,112,295006341,28,0,2,67.2508
+9th,Buchholz,Danny Dewitt,110,295003640,28,2,0,66.7091
+10th,Buchholz,Marie Thomas,107,295006242,27,1,2,65.8964
+11th,Buchholz,Stephen SO,107,295005441,27,1,2,65.8964
+12th,Buchholz,tomasz Andraka,105,295002940,27,3,0,65.3547
+13th,Buchholz,Minjia Zhong,105,295003042,27,3,0,65.3547
+14th,Eastside,Wenli Zhao,104,280004041,26,0,4,65.0838
+15th,Gainesville High School,Connor Davis,100,268006441,25,0,5,64.0003
+16th,Eastside,Lulu Cao,94,280000142,24,2,4,62.3750
+17th,Oak Hall,ALAN LI,94,249003841,24,2,4,62.3750
+18th,Buchholz,Liren Xue,89,295002440,23,3,4,61.0206
+19th,Buchholz,Ben Diuguid,89,295002840,23,3,4,61.0206
+20th,Eastside,Joe Kann,88,280001441,22,0,8,60.7497
+21st,Buchholz,Xinyi Wu,87,295001940,22,1,7,60.4788
+22nd,Buchholz,Cindy Xia,87,295002240,23,5,2,60.4788
+23rd,Bolles,Candace Fan,83,252000341,21,1,8,59.3953
+24th,Buchholz,Robin Xu,82,295003740,21,2,7,59.1244
+25th,Eastside,Qihan Zhu,82,280005242,22,6,2,59.1244
+26th,Buchholz,Eunsun Park,78,295001840,20,2,8,58.0409
+27th,Eastside,Apara Agarwal,70,280000042,18,2,10,55.8738
+28th,Eastside,Christine Pu,66,280003240,17,2,11,54.7903
+29th,Eastside,Xingchen Li,65,280002140,18,7,5,54.5194
+30th,Gainesville High School,Tyler Parker,58,268008241,16,6,8,52.6233
+31st,Fleming Island High,Daniel Cooksey,54,220002740,14,2,14,51.5397
+32nd,Eastside,Sangwook Lee,54,280002040,14,2,14,51.5397
+33rd,Eastside,Megan Mathew,54,280006140,14,2,14,51.5397
+34th,Gainesville High School,Ethan Ellis,53,268010042,15,7,8,51.2689
+35th,Oak Hall,DAVIS CHEN,52,249004142,15,8,7,50.9980
+36th,Stanton College Preparatory School,Dipayan Banerjee,51,296003141,13,1,16,50.7271
+37th,Eastside,Ahmad Guenoun,50,280000840,14,6,10,50.4562
+38th,Nease High School,Lauren Hsu,48,290001441,13,4,13,49.9145
+39th,Eastside,Unmil Patel,47,280002942,13,5,12,49.6436
+40th,Bolles,Phoebe Jin,46,252000641,15,14,1,49.3727
+41st,Fleming Island High,Aditya Mahadevan,46,220003641,12,2,16,49.3727
+42nd,Stanton College Preparatory School,Jeffrey Hung,45,296004441,12,3,15,49.1018
+43rd,Fleming Island High,Ben Ford,41,220002841,11,3,16,48.0183
+44th,Fleming Island High,Callie Baker,41,220002540,11,3,16,48.0183
+45th,Bolles,William Wang,40,252000741,14,16,0,47.7474
+46th,Gainesville High School,Lucia Murphy,38,268008941,12,10,8,47.2057
+47th,Oak Hall,MADISON O'LEARY,38,249004340,10,2,18,47.2057
+48th,Oak Hall,TAOTOA REN,37,249003441,10,3,17,46.9348
+49th,Fleming Island High,Regan Smith,37,220003141,10,3,17,46.9348
+50th,Fleming Island High,Ellen Waidner,32,220003441,8,0,22,45.5804
+51st,Fleming Island High,Samantha Beland,31,220002640,11,13,6,45.3095
+52nd,Oak Hall,ERIN EULIANO,31,249004842,9,5,16,45.3095
+53rd,Stanton College Preparatory School,Kanupriya Gupta,30,296000541,8,2,20,45.0386
+54th,Gainesville High School,Alanna Markowitz,30,268013841,9,6,15,45.0386
+55th,Oak Hall,MATT ANDERSON,30,249005240,12,18,0,45.0386
+56th,Stanton College Preparatory School,Chanllyca Chau,29,296004842,9,7,14,44.7677
+57th,Nease High School,Dante Castaldo,29,290001541,8,3,19,44.7677
+58th,Nease High School,Aamir Hasan,29,290001741,8,3,19,44.7677
+59th,Stanton College Preparatory School,Praneet Polinet,28,296002541,8,4,18,44.4968
+60th,Flagler Palm Coast,Linsey Smith,28,221020041,8,4,18,44.4968
+61st,Bolles,UMinn Woon,26,252000842,8,6,16,43.9551
+62nd,Oak Hall,FAROOQ FAISAL,26,249001340,8,6,16,43.9551
+63rd,Fleming Island High,Paul Johannes,26,220002940,8,6,16,43.9551
+64th,Fleming Island High,Rachna Patel,25,220003040,7,3,20,43.6842
+65th,Oak Hall,JORDAN KATZ,25,249005042,7,3,20,43.6842
+66th,Oak Hall,ERNIE THEURER,24,249004742,9,12,9,43.4133
+67th,Fleming Island High,Victoria Sales,23,220003740,7,5,18,43.1424
+68th,Gainesville High School,Taylor Parker,22,268001342,8,10,12,42.8716
+69th,Bolles,Ashanwa Aliogo,21,252000142,6,3,21,42.6007
+70th,Gainesville High School,Josie Corbett,19,268008442,7,9,14,42.0589
+71st,Fleming Island High,Justin Tongol,19,220003240,7,9,14,42.0589
+72nd,Fleming Island High,Evan Amstutz,19,220002440,6,5,19,42.0589
+73rd,Bolles,Ziqiao Zhou,18,252000241,7,10,13,41.7880
+74th,Flagler Palm Coast,Carly Esposito,17,221000641,6,7,17,41.5172
+75th,Oak Hall,NICOLE YELTON,17,249004440,5,3,22,41.5172
+76th,Oak Hall,BRITTNEY OLINGER,17,249004541,6,7,17,41.5172
+77th,Flagler Palm Coast,Forrest Mason,16,221021041,6,8,16,41.2463
+78th,Fleming Island High,Madison Van Dyke,16,220003342,5,4,21,41.2463
+79th,Gainesville High School,Ben Borgert,16,268000742,5,4,21,41.2463
+80th,Oak Hall,JAKE KIRSCHNER,14,249005141,6,10,14,40.7045
+81st,Fleming Island High,Michael Tellman,12,220003842,4,4,22,40.1627
+82nd,Nease High School,Ashley Bushdorf,12,290001841,5,8,17,40.1627
+83rd,Fleming Island High,Max Grandstaff,11,220003542,6,13,11,39.8919
+84th,Bolles,Elizabeth Pogrebniak,11,252002642,6,13,11,39.8919
+85th,Oak Hall,CHANDLER WHITEFIELD,11,249004940,4,5,21,39.8919
+86th,Oak Hall,SCOTTY WILLIS,9,249007640,3,3,24,39.3501
+87th,Oak Hall,OLIVIA EDMUNDSON,9,249000440,4,7,19,39.3501
+88th,Gainesville High School,Arielle Boudreaux,9,268009240,4,7,19,39.3501
+89th,Flagler Palm Coast,Michael Safarty,8,221020141,3,4,23,39.0792
+90th,Nease High School,Tyler Clowe,6,290001642,7,22,1,38.5375
+91st,Oak Hall,MOLLY MULDOON,5,249004240,2,3,25,38.2666
+92nd,Oak Hall,ZAHARA CHOWDHURY,5,249004040,2,3,25,38.2666
+93rd,Fleming Island High,Christina Veniskey,2,220003942,4,14,12,37.4539
+94th,Gainesville High School,Sarah Bullock,0,268009840,6,24,0,36.9122
+95th,Oak Hall,MICHAEL O'MEARA,-3,249003940,3,15,12,36.0995

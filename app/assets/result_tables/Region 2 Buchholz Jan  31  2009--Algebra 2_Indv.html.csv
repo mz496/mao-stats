@@ -1,0 +1,61 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Middle School,Keshav Vemuri,120,201002732,30,0,0,65.9420
+1st,Lincoln Middle School,Stephen Dolbier,120,201002931,30,0,0,65.9420
+1st,Lincoln Middle School,Kevin Huang,120,201003031,30,0,0,65.9420
+1st,Lincoln Middle School,David Liu,120,201002632,30,0,0,65.9420
+5th,Buchholz,Jasmine Robinson,116,295000031,29,0,1,64.9091
+6th,Buchholz,John Phillpot,115,295000632,29,1,0,64.6508
+7th,Lincoln Middle School,JuKyung Choi,111,201001931,28,1,1,63.6179
+8th,Buchholz,Haeun Jung,106,295000432,27,2,1,62.3267
+9th,Buchholz,Thachalada Thummakul,105,295001032,27,3,0,62.0684
+10th,Buchholz,Jeremy Liu,105,295000532,27,3,0,62.0684
+11th,Lincoln Middle School,Steve Han,105,201002131,27,3,0,62.0684
+12th,Buchholz,Jingyi Ye,102,295001131,26,2,2,61.2937
+13th,Lawton Chiles High School,Chase Belcher,101,181000331,26,3,1,61.0355
+14th,Lincoln Middle School,Davis Foote,100,201002532,26,4,0,60.7772
+15th,Lincoln Middle School,Alex Song,99,201002830,25,1,4,60.5190
+16th,Lawton Chiles High School,Ken Paterson,92,181002231,24,4,2,58.7113
+17th,Lincoln Middle School,Jennifer Li,90,201002432,24,6,0,58.1948
+18th,Buchholz,Fanchao Zhu,88,295001231,23,4,3,57.6783
+19th,Lincoln Middle School,Analee Perez,88,201002230,23,4,3,57.6783
+20th,Bolles,KuanLuu Chen,85,252000031,23,7,0,56.9036
+21st,Buchholz,Jooheui Son,85,295000831,23,7,0,56.9036
+22nd,Lincoln Middle School,Jimmy Zhang,73,201002330,20,7,3,53.8047
+23rd,Eastside,Judy Noh,67,280002531,17,1,12,52.2553
+24th,Eastside,Jon Claus,67,280000231,17,1,12,52.2553
+25th,Lawton Chiles High School,Niral Patel,63,181002131,17,5,8,51.2223
+26th,Stanton College Preparatory,Rupin Singh,60,296006232,17,8,5,50.4476
+27th,Bolles,Edgar Aranda-Michel,56,252000131,15,4,11,49.4147
+28th,Eastside,Safa Kaleen,53,280002831,15,7,8,48.6399
+29th,Lawton Chiles High School,Morrie Kim,53,181001331,15,7,8,48.6399
+30th,Stanton College Preparatory,Aditya Karhade,52,296006331,14,4,12,48.3817
+31st,Lawton Chiles High School,Amanda Langston,52,181001432,14,4,12,48.3817
+32nd,Lawton Chiles High School,Rachel Brownstein,50,181000730,13,2,15,47.8652
+33rd,Stanton College Preparatory,Disha Sharma,50,296005831,13,2,15,47.8652
+34th,Lawton Chiles High School,Eun Lee,46,181001630,12,2,16,46.8323
+35th,Stanton College Preparatory,Nupur Godbole,45,296006131,12,3,15,46.5740
+36th,Bolles,Geoffrey McQueen,45,252000331,15,15,0,46.5740
+37th,Leesburg High School,JESSICA WISON,41,287003231,12,7,11,45.5411
+38th,Fleming Island High,Tucker Simonton,35,220001632,10,5,15,43.9916
+39th,Lawton Chiles High School,Emily Pozzuoli,30,181002530,12,18,0,42.7004
+40th,Lawton Chiles High School,Corinne Watts,30,181003232,9,6,15,42.7004
+41st,Lawton Chiles High School,Elizabeth Lee,29,181001530,8,3,19,42.4422
+42nd,Fleming Island High,Kevin Wise,28,220000332,8,4,18,42.1839
+43rd,Eastside,Alec McCaffery,27,280000731,8,5,17,41.9257
+44th,Fleming Island High,Michelle Palmer,27,220000431,9,9,12,41.9257
+45th,Stanton College Preparatory,Janice Lee,27,296007131,8,5,17,41.9257
+46th,Fleming Island High,Zac Stachowiak,25,220000131,8,7,15,41.4092
+47th,Lawton Chiles High School,Kristina Weitzel,25,181003330,9,11,10,41.4092
+48th,Lawton Chiles High School,Annie Zheng,25,181003532,8,7,15,41.4092
+49th,Lawton Chiles High School,Annie Booth,24,181000530,7,4,19,41.1510
+50th,Leesburg High School,STEPHANIE DESANTIS,23,287000831,9,13,8,40.8927
+51st,Stanton College Preparatory,Diane Lieu,23,296005532,7,5,18,40.8927
+52nd,Maclay,William Owenby,20,172001231,5,0,25,40.1180
+53rd,Bolles,Yiming Hu,20,252002031,10,20,0,40.1180
+54th,Leesburg High School,DYLAN SHAW,14,287002332,7,14,9,38.5686
+55th,Matanzas H. S.,HUNTER FROMM,11,228001731,4,5,21,37.7938
+56th,Lawton Chiles High School,Bailey Ruark,10,181002732,8,22,0,37.5356
+57th,Matanzas H. S.,SERGE STOCKERT,9,228000831,3,3,24,37.2774
+58th,Leesburg High School,CORINNE BRACK,6,287000131,4,10,16,36.5026
+59th,Leesburg High School,STACYANN ROBINSON,-1,287002231,2,9,19,34.6950
+60th,Fleming Island High,Shannon Wegznek,-17,220000031,1,21,8,30.5631

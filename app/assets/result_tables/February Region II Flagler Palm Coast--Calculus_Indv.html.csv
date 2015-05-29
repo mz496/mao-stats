@@ -1,0 +1,94 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Josh chipman,120,295006350,30,0,0,67.7097
+1st,Buchholz,Nicholas Klugman,120,295000751,30,0,0,67.7097
+1st,Buchholz,Ben Wu,120,295000051,30,0,0,67.7097
+1st,Buchholz,Kevin Huang,120,295004952,30,0,0,67.7097
+1st,Buchholz,Zhao Li,120,295000352,30,0,0,67.7097
+1st,Buchholz,Stephen Dolbier,120,295004651,30,0,0,67.7097
+7th,Buchholz,Lisa Lu,116,295005552,29,0,1,66.6411
+8th,Buchholz,Jason Ai,115,295004551,29,1,0,66.3739
+9th,Buchholz,Vincent Mei,115,295004452,29,1,0,66.3739
+10th,Gainesville High School,KJ McIver,111,268009451,28,1,1,65.3053
+11th,Buchholz,Andrew Fang,110,295002650,28,2,0,65.0381
+12th,Buchholz,David Hurst,110,295000250,28,2,0,65.0381
+13th,Buchholz,Minjia Zhong,107,295003050,27,1,2,64.2367
+14th,Eastside,Yuxin Zhang,106,280006051,27,2,1,63.9695
+15th,Spruce Creek,Sam Swanson,105,267001451,27,3,0,63.7024
+16th,Buchholz,Michael Wong,105,295004050,27,3,0,63.7024
+17th,Eastside,Jess Smith,105,280005151,27,3,0,63.7024
+18th,Buchholz,Stephen SO,102,295005450,26,2,2,62.9009
+19th,Eastside,Wenli Zhao,95,280006351,24,1,5,61.0308
+20th,Spruce Creek,Preston Rasmussen,92,267001051,24,4,2,60.2294
+21st,Gainesville High School,Connor Davis,91,268006451,24,5,1,59.9622
+22nd,Buchholz,Vivian Zhu,90,295002750,24,6,0,59.6951
+23rd,Buchholz,Andreea Martin,87,295000950,23,5,2,58.8936
+24th,Spruce Creek,Oisin Harrington,86,267000751,23,6,1,58.6265
+25th,Nease High School,Farina Khandadia,82,290000451,21,2,7,57.5579
+26th,Stanton College Preparatory School,Baijun Desai,78,296007451,20,2,8,56.4892
+27th,Eastside,Apara Agarwal,74,280000051,20,6,4,55.4206
+28th,Eastside,Can (Lulu) Cao,72,280000652,20,8,2,54.8863
+29th,Eastside,Christine Pu,68,280004652,18,4,8,53.8177
+30th,Stanton College Preparatory School,Jeffrey Hung,67,296004451,18,5,7,53.5506
+31st,Nease High School,Christine Catania,67,290000152,18,5,7,53.5506
+32nd,Gainesville High School,Lucia Murphy,66,268008951,18,6,6,53.2834
+33rd,Gainesville High School,Ethan Ellis,65,268012551,18,7,5,53.0162
+34th,Spruce Creek,Ben Genereaux,64,267000452,18,8,4,52.7491
+35th,Nease High School,Aparna Sethumadhaven,64,290000752,16,0,14,52.7491
+36th,Spruce Creek,Rania Saboungi,61,267001252,16,3,11,51.9476
+37th,Spruce Creek,Amy Trainer,56,267001651,15,4,11,50.6119
+38th,Buchholz,HyunJee Rhee,52,295003950,15,8,7,49.5433
+39th,Nease High School,Tyler Goldsmith,51,290003052,14,5,11,49.2761
+40th,Gainesville High School,Christina Oakes,51,268010852,14,5,11,49.2761
+41st,Orange Park High School,Alexandria McCalmant,49,292001451,13,3,14,48.7418
+42nd,Fleming Island High,Max Grandstaff,48,220003151,13,4,13,48.4746
+43rd,Orange Park High School,Megan Buzby,45,292000451,15,15,0,47.6732
+44th,River City Science Academy,Courtney Dorrian,45,269013251,15,15,0,47.6732
+45th,Fleming Island High, ,45,220000451,15,15,0,47.6732
+46th,Stanton College Preparatory School,Alaap Murali,45,296004651,15,15,0,47.6732
+47th,Nease High School,Lauren Hsu,44,290000350,12,4,14,47.4060
+48th,Fleming Island High,R. J. Norris,44,220003252,12,4,14,47.4060
+49th,Fleming Island High,Victoria Sales,44,220003351,11,0,19,47.4060
+50th,Orange Park High School,Julian Sanchez,42,292001051,14,14,2,46.8717
+51st,Nease High School,Jane Viviano,41,290000852,12,7,11,46.6046
+52nd,Flagler Palm Coast High School,Sylvia Lujo,40,221005051,10,0,20,46.3374
+53rd,Flagler Palm Coast High School,Carlos Espinoza,39,221000550,10,1,19,46.0703
+54th,Spruce Creek,Kharina Guruvadoo,38,267000652,10,2,18,45.8031
+55th,Nease High School,Ashley Bushdorf,35,290000051,10,5,15,45.0016
+56th,Spruce Creek, ,35,267002050,13,17,0,45.0016
+57th,Nease High School,Jason Cochran,34,290002951,10,6,14,44.7345
+58th,Flagler Palm Coast High School,Benjamin Jones,33,221040151,10,7,13,44.4673
+59th,Flagler Palm Coast High School,Ryan McMeel,32,221004952,10,8,12,44.2002
+60th,Fleming Island High,Michael Tellman,32,220003451,9,4,17,44.2002
+61st,Spruce Creek, ,32,267002150,10,8,12,44.2002
+62nd,River City Science Academy,Aliye Karakoyun,30,269013351,11,14,5,43.6659
+63rd,Spruce Creek,Hailey Remigio,29,267001150,8,3,19,43.3987
+64th,Spruce Creek,Thomas Kenyon,28,267000950,8,4,18,43.1316
+65th,Flagler Palm Coast High School,Forrest Mason,28,221021050,9,8,13,43.1316
+66th,Flagler Palm Coast High School,Autumn Sanson,27,221001650,8,5,17,42.8644
+67th,Orange Park High School,Haley Geeser,25,292000850,11,19,0,42.3301
+68th,Gainesville High School,Kelsey Watts,23,268001452,7,5,18,41.7958
+69th,Spruce Creek, ,23,267002350,7,5,18,41.7958
+70th,Flagler Palm Coast High School,Chloe Carll,23,221004052,6,1,23,41.7958
+71st,Nease High School,Turner Street,23,290003150,6,1,23,41.7958
+72nd,Flagler Palm Coast High School,Marianna Sbordone,22,221003852,6,2,22,41.5287
+73rd,Spruce Creek,Shreya Singireddy,20,267001350,6,4,20,40.9944
+74th,Nease High School,Lauren Wisniewski,20,290003250,6,4,20,40.9944
+75th,Spruce Creek,Kristine Wong,20,267001950,6,4,20,40.9944
+76th,Flagler Palm Coast High School,Barret Manfre,18,221003650,5,2,23,40.4600
+77th,Flagler Palm Coast High School,Krystene Maceda,18,221001050,6,6,18,40.4600
+78th,Orange Park High School,Zack Yarbrough,18,292001951,7,10,13,40.4600
+79th,River City Science Academy,Mark Young,17,269013152,7,11,12,40.1929
+80th,Flagler Palm Coast High School,Austin Smith,16,221000652,5,4,21,39.9257
+81st,Flagler Palm Coast High School,Jazmine Virzi,15,221004850,9,21,0,39.6586
+82nd,Flagler Palm Coast High School,Daniel Gerhard,14,221020350,5,6,19,39.3914
+83rd,Spruce Creek,Ziad Suleiman,14,267001552,5,6,19,39.3914
+84th,Spruce Creek,Kristy Kim,12,267000850,4,4,22,38.8571
+85th,Flagler Palm Coast High School,Melissa Boyles,12,221021150,4,4,22,38.8571
+86th,Eastside,Kate Warren,11,280005852,4,5,21,38.5900
+87th,Flagler Palm Coast High School,Michael Safarty,10,221020150,5,10,15,38.3228
+88th,Flagler Palm Coast High School,Brandon Eng,10,221002551,5,10,15,38.3228
+89th,Spruce Creek, ,10,267002250,5,10,15,38.3228
+90th,Flagler Palm Coast High School,Hailey Cronk,6,221000350,4,10,16,37.2542
+91st,River City Science Academy,Tavarius Horne,5,269013451,7,23,0,36.9871
+92nd,Flagler Palm Coast High School,Eva Perez,0,221003251,2,8,20,35.6513
+93rd,Flagler Palm Coast High School,Daniel Kortyka,0,221002050,6,24,0,35.6513

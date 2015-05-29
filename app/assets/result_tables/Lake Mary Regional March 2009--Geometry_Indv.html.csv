@@ -1,0 +1,111 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Jackson Heights Middle,JOY SHEN,69,304102121,18,3,9,73.0649
+2nd,Seminole (Seminole),Ali.Musa Jaffer,68,341000321,18,4,8,72.4563
+3rd,Spruce Creek,Kevin Warren,67,267001821,18,5,7,71.8477
+4th,Jackson Heights Middle,ERIC ANSCHUETZ,65,304102421,18,7,5,70.6306
+5th,West Shore,Ian Chan,63,393001521,16,1,13,69.4134
+6th,Seminole (Seminole),TYLER COUGHLIN,61,341001721,16,3,11,68.1963
+7th,Spruce Creek,Eric Rose,59,267001122,16,5,9,66.9791
+8th,Markham Woods Middle,Arley Ruskin,59,323100021,16,5,9,66.9791
+9th,Spruce Creek,Fernando Cunha,57,267000121,15,3,12,65.7620
+10th,Spruce Creek,Zoe Volenec,55,267001721,15,5,10,64.5449
+11th,Spruce Creek,Renusha Indralingam,53,267000321,14,3,13,63.3277
+12th,Greenwood Lakes Middle School,Nicholas Coury,52,345100121,14,4,12,62.7191
+13th,Lake Mary,Nachiket Kulkarni,50,308000421,14,6,10,61.5020
+14th,Seminole (Seminole),DANIEL SWANN,49,341000921,13,3,14,60.8934
+15th,Vero Beach,SAMI HASHMI,49,372004721,13,3,14,60.8934
+16th,Vero Beach,HEATHER FREDRICKSON,48,372009621,13,4,13,60.2849
+17th,Lincoln Park Academy,ROHAN REDDY,47,396001121,13,5,12,59.6763
+18th,Markham Woods Middle,christopher Cattafi,47,323100221,13,5,12,59.6763
+19th,Sandford Middle,Dax Tyson,46,344102622,14,10,6,59.0677
+20th,Seminole (Seminole),PHONG NGUYEN,45,341001121,12,3,15,58.4591
+21st,Vero Beach,AMIRA ALKHATIB,43,372001722,11,1,18,57.2420
+22nd,Jackson Heights Middle,TATIANA ANTHONY,43,304102921,13,9,8,57.2420
+23rd,Sandford Middle,Lizzy Sult,42,344102321,12,6,12,56.6334
+24th,Lincoln Park Academy,CIMONE WATSON,42,396001421,12,6,12,56.6334
+25th,Greenwood Lakes Middle School,Jesse Wesenberg,42,345100021,13,10,7,56.6334
+26th,Greenwood Lakes Middle School,Devin Ahern,40,345100421,11,4,15,55.4163
+27th,Oviedo,Ryden Butler,40,377000121,14,16,0,55.4163
+28th,Greenwood Lakes Middle School,Frank Manfredi,40,345100321,14,16,0,55.4163
+29th,Vero Beach,LEO CURY,39,372009422,11,5,14,54.8077
+30th,West Shore,Theopeste Kerelos,39,393000121,11,5,14,54.8077
+31st,Vero Beach,DANIEL BOLING,39,372002421,11,5,14,54.8077
+32nd,Sandford Middle,Cas Kiersnowski,39,344102221,11,5,14,54.8077
+33rd,Vero Beach,COLIN MACKAY,38,372006720,11,6,13,54.1991
+34th,Vero Beach,SARAH KELLY,38,372009920,10,2,18,54.1991
+35th,Oviedo,Kevin Jones,38,377003622,11,6,13,54.1991
+36th,St Edward's,ETHAN KLEIN,38,374020521,11,6,13,54.1991
+37th,Vero Beach,TAD PALMER,38,372010622,13,14,3,54.1991
+38th,Lincoln Park Academy,JARRETT ELROD,36,396001221,10,4,16,52.9820
+39th,Vero Beach,ZOEY NEUDECK,36,372008721,10,4,16,52.9820
+40th,Vero Beach,TAYLOR NAROZANICK,36,372007820,10,4,16,52.9820
+41st,Jackson Heights Middle,MITCHELL CALLOWAY,36,304101322,10,4,16,52.9820
+42nd,Vero Beach,ANDREW HOLDEN,35,372009720,9,1,20,52.3734
+43rd,Hagerty High School,Austin Floeter,34,310003621,10,6,14,51.7649
+44th,Jackson Heights Middle,AMANDA HESTON,33,304101421,10,7,13,51.1563
+45th,Vero Beach,EMILY ASTROM,32,372009322,9,4,17,50.5477
+46th,St Edward's,SASHA BENINCASA,32,374020121,9,4,17,50.5477
+47th,Lake Mary,Sam Jackson,31,308000321,8,1,21,49.9391
+48th,Jackson Heights Middle,JONATHAN LE,31,304103122,9,5,16,49.9391
+49th,Markham Woods Middle,Aviel Yashar,31,323102521,10,9,11,49.9391
+50th,Seminole (Seminole),RYAN REILLY,31,341006020,10,9,11,49.9391
+51st,Sandford Middle,Austin Keatley,31,344102521,9,5,16,49.9391
+52nd,Oviedo,Nirvani Khan,31,377000421,10,9,11,49.9391
+53rd,Jackson Heights Middle,MEGAN MULLALLY,31,304102822,9,5,16,49.9391
+54th,West Shore,Kaylee McCormack,30,393001421,8,2,20,49.3306
+55th,Sandford Middle,Freddy Hodgin,30,344103122,9,6,15,49.3306
+56th,Sandford Middle,Nick Swann,29,344102421,8,3,19,48.7220
+57th,Hagerty High School,Jeet Chakravorty,29,310002721,9,7,14,48.7220
+58th,Tuskawilla Middle School,Ethan McGarvey,28,306101021,8,4,18,48.1134
+59th,Markham Woods Middle,Meagan Harwick,28,323101421,9,8,13,48.1134
+60th,St Edward's,EMILY SALVADOR,28,374020921,8,4,18,48.1134
+61st,Tuskawilla Middle School,Isabelle Kraus,27,306100821,8,5,17,47.5049
+62nd,Spruce Creek,Shahmeen Kasim,26,267007222,9,10,11,46.8963
+63rd,Bayside,Michael Allton,26,303001721,9,10,11,46.8963
+64th,Sebastian River,Kathryn Carnell,26,314000621,8,6,16,46.8963
+65th,Hagerty High School,Dean Edun,26,310003521,8,6,16,46.8963
+66th,Vero Beach,JACOB MINGEAR,25,372010520,8,7,15,46.2877
+67th,Lincoln Park Academy,ALI HAIDER,25,396001821,8,7,15,46.2877
+68th,West Shore,Sanju Vardhan,25,393001622,10,15,5,46.2877
+69th,Lake Mary,Patrick Mullen,25,308000521,11,19,0,46.2877
+70th,Sandford Middle,Annika Jarvinen,24,344102722,7,4,19,45.6791
+71st,Markham Woods Middle,Jack Rothman,24,323102422,9,12,9,45.6791
+72nd,West Shore,Adrian Tamayo,24,393001322,7,4,19,45.6791
+73rd,Spruce Creek,Victoria Gauthier,24,267000220,7,4,19,45.6791
+74th,Bayside,Elysse Rantanen,24,303000621,7,4,19,45.6791
+75th,West Shore,Jacob Smithe,24,393002922,7,4,19,45.6791
+76th,Vero Beach,REBECCA SCHEIDT,23,372010820,7,5,18,45.0706
+77th,Vero Beach,JUSTIN SUEN,23,372009120,6,1,23,45.0706
+78th,St Edward's,LEYLA TETTAMANTI,23,374021121,6,1,23,45.0706
+79th,Bayside,Kimberly Maragh,23,303002521,7,5,18,45.0706
+80th,St Edward's,MEAGAN CARRICK,23,374020222,7,5,18,45.0706
+81st,West Shore,Callie Heuser,22,393001221,7,6,17,44.4620
+82nd,Seminole (Seminole),JEFFERY LACHMAN,22,341009922,9,14,7,44.4620
+83rd,Sebastian River,Brooke Evans,22,314000721,7,6,17,44.4620
+84th,Seminole (Seminole),DAPHNE JACOBS,21,341001022,6,3,21,43.8534
+85th,Sebastian River,Leslie Brocksmith,21,314000521,6,3,21,43.8534
+86th,Bayside,Michael Bonaiuto,21,303000221,8,11,11,43.8534
+87th,Spruce Creek,Alan Wong,20,267007322,6,4,20,43.2449
+88th,Vero Beach,CONNOR DAVIDSON,20,372003520,7,8,15,43.2449
+89th,Bayside,Sean Justice,20,303000322,6,4,20,43.2449
+90th,Oviedo,Ryan Ridenbaugh,20,377003021,10,20,0,43.2449
+91st,Seminole (Seminole),MICHELL ZHANG,20,341006222,7,8,15,43.2449
+92nd,Hagerty High School,Brent Minnis,19,310002821,5,1,24,42.6363
+93rd,Sebastian River,Isabelle Vernon,18,314000321,5,2,23,42.0277
+94th,Sandford Middle,Yash Patel,17,344103320,7,11,12,41.4191
+95th,St Edward's,ALLISON RYAN,16,374020822,5,4,21,40.8106
+96th,Sebastian River,Eugene Wolff,14,314002722,5,6,19,39.5934
+97th,Jackson Heights Middle,ROCHELLE FREDERICK,13,304101522,5,7,18,38.9849
+98th,Markham Woods Middle,Avinash Bhikha,13,323100122,7,15,8,38.9849
+99th,Sandford Middle,Annisha Nazrul,12,344103220,5,8,17,38.3763
+100th,Seminole (Seminole),ANDREA OJEDA,11,341000422,4,5,21,37.7677
+101st,Markham Woods Middle,Derek Garber,11,323100922,4,5,21,37.7677
+102nd,Lake Mary,Sarah Schwartz,10,308000721,8,22,0,37.1591
+103rd,Sebastian River,Hannah Paperno,9,314001922,4,7,19,36.5506
+104th,Vero Beach,TYLER ORCUTT,8,372008820,4,8,18,35.9420
+105th,Oviedo,Victoria Fairman,8,377000221,3,4,23,35.9420
+106th,West Shore,Michelle Chin,7,393000722,5,13,12,35.3334
+107th,Spruce Creek,Philly Tang,3,267002022,3,9,18,32.8991
+108th,Markham Woods Middle,Riley Keck,2,323101722,4,14,12,32.2906
+109th,Seminole (Seminole),RADHIA KADAKIA,-2,341001320,1,6,23,29.8563
+110th,Bayside,Stephanie Long,-3,303000522,1,7,22,29.2477

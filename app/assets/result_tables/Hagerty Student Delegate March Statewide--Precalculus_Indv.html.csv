@@ -1,0 +1,125 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Jason Ai,137,295004540,27,1,2,71.8958
+2nd,Lawton Chiles High School,Jessie Chi,132,181003241,26,2,2,70.3464
+3rd,Rickards High School,Jeewoo Kang,125,140001841,25,5,0,68.1773
+4th,Buchholz,Zhao Li,125,295000341,25,5,0,68.1773
+5th,American Heritage (Plantation),Trevor Birenbaum,125,506005441,25,5,0,68.1773
+6th,Buchholz,David Hurst,122,295000241,24,4,2,67.2477
+7th,Buchholz,Vincent Mei,121,295004440,24,5,1,66.9378
+8th,Lawton Chiles High School,Brian Ahn,119,181003041,23,3,4,66.3181
+9th,Seminole (Seminole),REETI GULATI,118,341006741,23,4,3,66.0082
+10th,Seminole (Seminole),JUSTIN RAMAN,118,341006941,23,4,3,66.0082
+11th,American Heritage (Plantation),Kwesi Levy,116,506000541,23,6,1,65.3885
+12th,Buchholz,Lisa Lu,115,295005541,22,3,5,65.0786
+13th,Buchholz,Nicholas Klugman,115,295000740,22,3,5,65.0786
+14th,American Heritage (Plantation),Philip Gaddy,111,506001340,21,3,6,63.8392
+15th,Buchholz,Ben Wu,110,295000041,21,4,5,63.5293
+16th,Rickards High School,Siddarth Kethireddy,109,140000641,21,5,4,63.2194
+17th,Buchholz,HauLin Wu,109,295004240,21,5,4,63.2194
+18th,Buchholz,Timmie Xie,108,295005940,21,6,3,62.9095
+19th,Buchholz,Kevin Noh,106,295005740,21,8,1,62.2898
+20th,Buchholz,Michael Wong,106,295004040,20,4,6,62.2898
+21st,Buchholz,Victor Lin,105,295005040,20,5,5,61.9799
+22nd,Seminole (Seminole),ANTHONY CHEN,104,341007041,20,6,4,61.6701
+23rd,American Heritage (Plantation),Samir Khan,102,506001441,20,8,2,61.0503
+24th,Lawton Chiles High School,Nick Young,101,181004841,19,5,6,60.7405
+25th,Lawton Chiles High School,Chaewook Jhun,101,181000141,20,9,1,60.7405
+26th,Gainesville High School,KJ McIver,98,268009441,18,4,8,59.8109
+27th,Rickards High School,Stephen Barton,96,140000941,18,6,6,59.1911
+28th,Seminole (Seminole),SUNASH SHARMA,95,341007741,18,7,5,58.8813
+29th,Oak Hall,AMAN KABEER,94,249000140,17,4,9,58.5714
+30th,Rickards High School,Abhinav Harish,94,140001141,17,4,9,58.5714
+31st,American Heritage (Plantation),Dajon Thomas,93,506001841,18,9,3,58.2615
+32nd,Vero Beach,Evan MacKay,91,372003041,17,7,6,57.6418
+33rd,Seminole (Seminole),NIKITA PATEL,91,341003240,16,3,11,57.6418
+34th,Spruce Creek,Samuel Swanson,90,267005941,18,12,0,57.3319
+35th,Eastside,Kevin Peng,89,280004441,16,5,9,57.0220
+36th,Buchholz,Soomin Cho,88,295003240,16,6,8,56.7122
+37th,Eastside,Jessica Lee,88,280002841,16,6,8,56.7122
+38th,Buchholz,Spencer Douglas,88,295002340,17,10,3,56.7122
+39th,Miami Springs,ORLANDO LANEY,87,582002241,16,7,7,56.4023
+40th,Hagerty High School,Grant Elliot,86,310002441,16,8,6,56.0924
+41st,Deerfield Beach,Pedro Velazquez,85,577002841,17,13,0,55.7826
+42nd,Lawton Chiles High School,Andrew Dang,82,181003340,14,4,12,54.8530
+43rd,Rickards High School,Teja Jakkala,82,140001040,14,4,12,54.8530
+44th,Buchholz,Becky Liao,82,295004740,15,8,7,54.8530
+45th,Oviedo,Jing Wu,79,377001341,13,3,14,53.9233
+46th,Buchholz,Albert Zhou,79,295001540,15,11,4,53.9233
+47th,Lawton Chiles High School,Nick Dietrich,78,181003440,13,4,13,53.6135
+48th,Buchholz,Donghyun Yoon,77,295004340,14,9,7,53.3036
+49th,Seminole (Seminole),VIRAJ SHAH,75,341005140,13,7,10,52.6839
+50th,Vero Beach,MICHAEL GALLAGHER,75,372001841,12,3,15,52.6839
+51st,Miami Springs,NICHOLAS COSTA,68,582004641,11,6,13,50.5148
+52nd,Buchholz,Reva Ranka,68,295005840,12,10,8,50.5148
+53rd,Miami Springs,ANDRES EKANAYAKE,66,582001940,10,4,16,49.8950
+54th,Vero Beach,Matthew McCoy,65,372003141,13,17,0,49.5852
+55th,Hagerty High School,Alexander Creecy,64,310001441,10,6,14,49.2753
+56th,Seminole (Seminole),SHAWN HAMMERLING,60,341000040,10,10,10,48.0358
+57th,Gainesville High School,Kelsey Watts,58,268001440,8,4,18,47.4161
+58th,Hagerty High School,Robert Burke,58,310000641,8,4,18,47.4161
+59th,Seminole (Seminole),JULIUS CHAI,57,341015240,8,5,17,47.1062
+60th,Eastside,Kelly Lampotang,57,280002741,9,9,12,47.1062
+61st,Eastside,Vanna Yang,56,280005940,8,6,16,46.7964
+62nd,Lincoln,Kali Nelson,55,109001341,7,3,20,46.4865
+63rd,Miami Springs,ALAIN PEREZ,55,582005741,7,3,20,46.4865
+64th,Seminole (Seminole),DIPTODIP DEB,54,341008640,10,16,4,46.1766
+65th,Deerfield Beach,Aslan Goskan,54,577002641,9,12,9,46.1766
+66th,Seminole (Seminole),MARCELLUS JOHNSON,51,341005440,6,3,21,45.2470
+67th,Seminole (Seminole),AUSTIN MILLER,51,341008540,9,15,6,45.2470
+68th,Hagerty High School,Tyler Reilly,51,310002240,8,11,11,45.2470
+69th,Seminole (Seminole),CALVIN YEUNG,50,341000440,10,20,0,44.9371
+70th,Eastside,Shannon Liu,50,280003440,6,4,20,44.9371
+71st,Seminole (Seminole),KRISTOPHER TOLOPKA,50,341001640,6,4,20,44.9371
+72nd,Vero Beach,Patricia Portmann,49,372003841,8,13,9,44.6273
+73rd,Spruce Creek,Connor Brok,49,267005140,6,5,19,44.6273
+74th,Eastside,Reiner Dizon,48,280001141,7,10,13,44.3174
+75th,Lake Mary,Ernest Choi,48,308004741,6,6,18,44.3174
+76th,Eastside,Yong Shan,48,280005040,6,6,18,44.3174
+77th,Eastside,ALICE HOU,47,280001740,5,3,22,44.0075
+78th,Miami Springs,PATRICK BOLTON,47,582006041,7,11,12,44.0075
+79th,Vero Beach,SHERMEEN RAZA,46,372003940,5,4,21,43.6977
+80th,Spruce Creek,Kharina Guruvadoo,46,267005441,5,4,21,43.6977
+81st,Gainesville High School,Ashley Brockway,46,268004841,6,8,16,43.6977
+82nd,Gainesville High School,Savannah Schaffer,46,268004541,4,0,26,43.6977
+83rd,Spruce Creek,Andrew Markarov,45,267007040,9,21,0,43.3878
+84th,Hagerty High School,Alexander Georgiopoulos,45,310002840,9,21,0,43.3878
+85th,Seminole (Seminole),ANEESH JINDAL,45,341002240,9,21,0,43.3878
+86th,Deerfield Beach,Christian Ubillus,45,577004441,7,13,10,43.3878
+87th,Rickards High School,Raymond Reyes,44,140000040,5,6,19,43.0779
+88th,Oviedo,Samuel Goldstein,43,377002441,4,3,23,42.7681
+89th,Gainesville High School,Christina Oakes,43,268010841,5,7,18,42.7681
+90th,Lake Howell,Kaley Scanlon,42,391030341,5,8,17,42.4582
+91st,Spruce Creek,Kristine Wong,42,267006240,4,4,22,42.4582
+92nd,Lake Howell,Mary Tran,42,391030740,4,4,22,42.4582
+93rd,Eastside,Carlo Romo,41,280004840,5,9,16,42.1483
+94th,Deerfield Beach,Vita Tran,41,577006340,6,13,11,42.1483
+95th,Miami Springs,DANIELA ZAPATA,40,582002340,3,2,25,41.8384
+96th,Lake Mary Preparatory School,Kenneth Ukah,40,304001341,4,6,20,41.8384
+97th,Spruce Creek,Shreya Singireddy,39,267006541,3,3,24,41.5286
+98th,Eastside,Sarah Lulu,38,280003640,5,12,13,41.2187
+99th,Spruce Creek,Shahrose Kasim,37,267006640,4,9,17,40.9088
+100th,Lake Brantley,Maiquyen Nguyen,37,388004341,3,5,22,40.9088
+101st,Oviedo,Lloyd Verdeflor,37,377000541,3,5,22,40.9088
+102nd,Lake Howell,Khris Jubilag,36,391030141,2,2,26,40.5990
+103rd,Miami Springs,ALDO ARMELLA,35,582003240,7,23,0,40.2891
+104th,Hagerty High School,Lauren Holladay,35,310002741,7,23,0,40.2891
+105th,Vero Beach,Samantha Howard,35,372002740,2,3,25,40.2891
+106th,Seminole (Seminole),SATYA PATEL,35,341016240,7,23,0,40.2891
+107th,Oviedo,Zachary Spikes,34,377001941,3,8,19,39.9792
+108th,Lake Mary,Ariana Spalter,33,308003241,3,9,18,39.6694
+109th,Miami Springs,ASHLEY ZULUETA,33,582000440,1,1,28,39.6694
+110th,Spruce Creek,Sophia Watret,33,267006940,2,5,23,39.6694
+111th,Eastside,Sunwoo (Jennifer) Ha,33,280001640,3,9,18,39.6694
+112th,Miami Springs,ETHAN FREIRE,32,582005340,1,2,27,39.3595
+113th,Miami Springs,JENNIFER PORRES,31,582000740,1,3,26,39.0496
+114th,Deerfield Beach,Heeral Patel,30,577002241,6,24,0,38.7398
+115th,Miami Springs,GIORDAO ACOSTA,30,582002940,1,4,25,38.7398
+116th,Seminole (Seminole),BOBACK MANESH,30,341009540,1,4,25,38.7398
+117th,Spruce Creek,Hailey Remigio,30,267005741,1,4,25,38.7398
+118th,Spruce Creek,Kristy Kim,28,267006440,1,6,23,38.1200
+119th,Miami Springs,AUSTIN AGUIAR,26,582004840,0,4,26,37.5003
+120th,Lake Howell,Luis Lozano,25,391030641,5,25,0,37.1904
+121st,Lake Howell,Laylo Mukhsinova,25,391030241,1,9,20,37.1904
+122nd,Lake Brantley,Nick Tran,25,388006641,1,9,20,37.1904
+123rd,Deerfield Beach,Allyson Rosales,23,577006140,2,15,13,36.5707
+124th,Gainesville High School,Rebekah Dain,23,268005040,2,15,13,36.5707

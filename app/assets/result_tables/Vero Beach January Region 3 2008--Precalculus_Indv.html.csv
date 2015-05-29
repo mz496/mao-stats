@@ -1,0 +1,93 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Vero Beach,Nathan Mattice,91,3724185,24,5,1,83.1211
+2nd,Seminole (Seminole),Alakh Gulati,85,3414106,22,3,5,80.2545
+3rd,Seminole (Seminole),Sayeed Tasnim,83,3414125,22,5,3,79.2990
+4th,Vero Beach,John Narozanick,80,3724174,21,4,5,77.8657
+5th,Suncoast Comm,Julia Metzger,75,3274110,20,5,5,75.4770
+6th,Vero Beach,Julia Morris,59,3724186,16,5,9,67.8328
+7th,West Shore,Jesse Jia,59,3934128,16,5,9,67.8328
+8th,Vero Beach,Josh Lamothe,54,3724182,15,6,9,65.4440
+9th,St Edwards,Ying Bao,52,3744141,15,8,7,64.4885
+10th,St Edwards,Ben Smith,52,3744145,15,8,7,64.4885
+11th,Oviedo,Jennifer Cavararetta,49,3774133,13,3,14,63.0553
+12th,Seminole (Seminole),Teodora Latinska,45,3414115,12,3,15,61.1442
+13th,Lake Mary,Michael Frye,43,3084149,12,5,13,60.1887
+14th,Lake Mary,Alex Friedman,42,3084147,12,6,12,59.7109
+15th,Vero Beach,John Obryan,37,8724172,11,7,12,57.3222
+16th,West Shore,Dominick Cioppa,36,3934126,10,4,16,56.8444
+17th,Vero Beach,Carrie Orcutt,34,8724183,11,10,9,55.8889
+18th,St Edwards,Joey Cataldo,32,3744142,9,4,17,54.9334
+19th,Lake Mary,Kiersten Harpe,32,3084155,10,8,12,54.9334
+20th,Lincoln Park Academy,Lady Sepulveda,30,3964121,9,6,15,53.9779
+21st,Suncoast Comm,Stephen Horgan,30,8274116,9,6,15,53.9779
+22nd,Oviedo,Daniel Leonard,30,3774145,9,6,15,53.9779
+23rd,Suncoast Comm,Satish Chandrasekhar,29,3274102,9,7,14,53.5001
+24th,Lake Mary,John Gibison,29,8084151,8,3,19,53.5001
+25th,American Heritage - P Bch,Ryan Kaufman,28,3294103,9,8,13,53.0223
+26th,Suncoast Comm,Anurag Komaravelli,28,3274109,9,8,13,53.0223
+27th,West Shore,Deen Amin,27,8934124,10,13,7,52.5446
+28th,Lincoln Park Academy,Shelby Strong,27,3964102,8,5,17,52.5446
+29th,Suncoast Comm,Daniel Morris,27,3274111,8,5,17,52.5446
+30th,Lake Mary,Eric Holgate,26,8084156,8,6,16,52.0668
+31st,Seminole (Seminole),Komal Patel,25,3414119,7,3,20,51.5891
+32nd,Lake Mary,Amit Gangrade,24,8084150,7,4,19,51.1113
+33rd,St Edwards,Jarred Spear,23,3744146,9,13,8,50.6335
+34th,Lake Mary,Samantha Savallo,21,3084163,6,3,21,49.6780
+35th,Atlantic Community,Samir Borle,21,3574109,7,7,16,49.6780
+36th,West Shore,Marcus Chin,21,8934125,7,7,16,49.6780
+37th,Lake Mary,Matthew Hammack,20,8084154,9,16,5,49.2003
+38th,Sebastian River,Maike Fillmer,20,3144147,7,8,15,49.2003
+39th,Sebastian River,Alex Cool,20,3144143,10,20,0,49.2003
+40th,Oviedo,David Parsons,19,8774148,6,5,19,48.7225
+41st,Suncoast Comm,Prajwal Dara,19,8274104,6,5,19,48.7225
+42nd,Bayside,Mariah Almerez,19,8034124,6,5,19,48.7225
+43rd,Lake Mary,Sean Delvecchio,19,3084345,8,13,9,48.7225
+44th,West Shore,Minje Kim,18,8934129,7,10,13,48.2448
+45th,Suncoast Comm,Aron Stark,17,8274112,6,7,17,47.7670
+46th,Lake Howell, ,17,3914119,5,3,22,47.7670
+47th,Bayside,Colton Rockwell,17,3034139,7,11,12,47.7670
+48th,Lake Howell,Michael Rodriguez,16,8914121,9,20,1,47.2892
+49th,Atlantic Community,Jenny Yao,16,3574115,6,8,16,47.2892
+50th,Spanish River,Kevin Hershey,16,3734113,6,8,16,47.2892
+51st,Vero Beach,Allison Mackay,15,8724184,9,21,0,46.8115
+52nd,Lake Howell,Jonathan Posner,14,8914114,5,6,19,46.3337
+53rd,Vero Beach,Sarah Sarnoski,14,3724381,8,18,4,46.3337
+54th,Oviedo,Kyle Davis,13,3774137,5,7,18,45.8560
+55th,Oviedo,Sam Kaiser,13,8774144,4,3,23,45.8560
+56th,Seminole (Seminole),Nhan Le,13,8414116,5,7,18,45.8560
+57th,Vero Beach,Allison Bazinet,13,3724370,6,11,13,45.8560
+58th,Oviedo,John Clore,13,8774135,5,7,18,45.8560
+59th,Lake Howell,Kim Yaug,13,3914115,6,11,13,45.8560
+60th,Oviedo,Nicole Schlotzhauer,13,3774149,6,11,13,45.8560
+61st,Suncoast Comm,Tucker Elliott,12,8274105,4,4,22,45.3782
+62nd,Bayside,David Jansen,11,3034334,3,1,26,44.9005
+63rd,Sebastian River,Cecile Vocelle,11,3144153,5,9,16,44.9005
+64th,Seminole (Seminole),Maria Canonizado,11,8414103,5,9,16,44.9005
+65th,Lincoln Park Academy,Nathaniel Watson,10,3964119,4,6,20,44.4227
+66th,Lincoln Park Academy,Matt Lages,9,3964127,5,11,14,43.9449
+67th,West Shore,Taylor Zimmerman,8,3934132,6,16,8,43.4672
+68th,Lake Howell,Kim Yaug,8,3914115,3,4,23,43.4672
+69th,Lake Howell, ,8,8914117,4,8,18,43.4672
+70th,Bayside, ,8,8034336,3,4,23,43.4672
+71st,Vero Beach,Emily Graves,7,8724179,4,9,17,42.9894
+72nd,Lake Howell, ,6,8914118,3,6,21,42.5117
+73rd,Lake Mary,Sean Farrell,6,3084346,4,10,16,42.5117
+74th,Atlantic Community,Megan Hanvivatpong,5,3574127,2,3,25,42.0339
+75th,Vero Beach,Dakota Unruh,5,3724377,2,3,25,42.0339
+76th,Bayside,Emily Davis,5,3034332,2,3,25,42.0339
+77th,West Shore,Joseph Del Prete,5,8934127,4,11,15,42.0339
+78th,Bayside,Melissa Mitchell,4,3034136,5,16,9,41.5561
+79th,West Shore,Ben Uhing,4,3934131,3,8,19,41.5561
+80th,Bayside,Julie Barnes,4,8034125,3,8,19,41.5561
+81st,Oviedo,Ansley Hobbs,4,8774142,5,16,9,41.5561
+82nd,Bayside,Justin Grahm,4,3034333,4,12,14,41.5561
+83rd,Bayside,Heather Culp,2,3034131,3,10,17,40.6006
+84th,St Edwards,Horton Li,2,8744144,4,14,12,40.6006
+85th,Bayside,Matt Carrick,2,3034328,4,14,12,40.6006
+86th,Lake Howell,Derek Lavander,0,3914112,2,8,20,39.6451
+87th,Bayside,Tyrell Stickland,-1,3034341,2,9,19,39.1674
+88th,Bayside,Samantha Bonaiuto,-1,3034326,2,9,19,39.1674
+89th,Spanish River,Kelly Horner,-6,3734114,0,6,24,36.7786
+90th,Bayside,Lauren Cardamone,-9,3034327,1,13,16,35.3453
+91st,Bayside,Ashley Meckus,-11,8034135,0,11,19,34.3898
+92nd,Bayside,Ryan Selby,-12,8034140,0,12,18,33.9120

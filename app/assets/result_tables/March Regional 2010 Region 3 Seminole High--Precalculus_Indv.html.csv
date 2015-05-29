@@ -1,0 +1,77 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),PETER LI,105,341000641,27,3,0,87.7191
+2nd,Seminole (Seminole),JESSICA CHEN,100,341000141,26,4,0,85.5660
+3rd,Vero Beach,VISHAL PATEL,80,372005441,22,8,0,76.9535
+4th,Seminole (Seminole),KHONDAKER SADMAN,75,341006141,20,5,5,74.8004
+5th,Vero Beach,KAREN MONUSZKO,61,372005141,17,7,6,68.7717
+6th,Seminole (Seminole),NAUMAN JAVED,57,341002641,17,11,2,67.0492
+7th,Vero Beach,JESUS MORENO,55,372005241,15,5,10,66.1880
+8th,Vero Beach,NICOLE GAGNON,48,372004241,14,8,8,63.1736
+9th,Spruce Creek,Aashish Lalani,42,267014941,12,6,12,60.5899
+10th,Sebastian River,Gregg Spagnolia,40,314001741,12,8,10,59.7287
+11th,Seminole (Seminole),HANNAH MIYANJI,35,341002342,11,9,10,57.5755
+12th,Spruce Creek,Eric Rose,34,267015841,10,6,14,57.1449
+13th,Spruce Creek,Michael Mankbadi,31,267015141,10,9,11,55.8531
+14th,West Shore,Varun Bansal,30,393001941,9,6,15,55.4224
+15th,Spruce Creek,Fernando Cunha,29,267014042,9,7,14,54.9918
+16th,Seminole (Seminole),RUTH HSU,26,341002742,8,6,16,53.7000
+17th,Palm Bay High School,Joachim Jones,25,382010441,7,3,20,53.2693
+18th,Crooms Academy,Lee Berman,25,312040141,8,7,15,53.2693
+19th,Spruce Creek,Nicole Negedly,20,267015642,6,4,20,51.1162
+20th,Palm Bay High School,Kyle Lin,20,382011041,7,8,15,51.1162
+21st,Bayside,Lea Harp,20,303047441,10,20,0,51.1162
+22nd,Spruce Creek,Kevin Warren,19,267016641,7,9,14,50.6856
+23rd,Hagerty High School,Jeremy Nuwayhid,19,310004841,7,9,14,50.6856
+24th,Sebastian River,Zachary Devirgilio,18,314001542,5,2,23,50.2550
+25th,St Edward's,EVA LAUER,17,374040741,6,7,17,49.8244
+26th,West Shore,D.K. Issitt,15,393001841,5,5,20,48.9631
+27th,St Edward's,CORY QUINLAN,15,374041141,5,5,20,48.9631
+28th,Hagerty High School,Gianni Tucciarone,15,310006241,6,9,15,48.9631
+29th,St Edward's,RHETT REISMAN,14,374041241,6,10,14,48.5325
+30th,Lyman High School,Safkat Islam,14,351003741,6,10,14,48.5325
+31st,Bayside,Robert Judin,14,303048441,6,10,14,48.5325
+32nd,Hagerty High School,Adam Collin,14,310003742,6,10,14,48.5325
+33rd,Spruce Creek,Alan Wong,13,267016840,4,3,23,48.1019
+34th,Sebastian River,Chris Touros,13,314002142,4,3,23,48.1019
+35th,West Shore,Rashad Abdulla,13,393005041,6,11,13,48.1019
+36th,West Shore,Ben Heuser,12,393004041,5,8,17,47.6712
+37th,Sebastian River,Kaitlyn Folkening,12,314001641,4,4,22,47.6712
+38th,Freedom (Orlando),Tomas Guarnizo,11,381000841,6,13,11,47.2406
+39th,Oviedo,AJ Rathnakrishnan,10,377001341,3,2,25,46.8100
+40th,Lake Mary,Ayushi Patel,10,308007641,4,6,20,46.8100
+41st,Seminole (Seminole),LUKE MORRIS,10,341004742,8,22,0,46.8100
+42nd,Satellite High School,Kelly O'Shea,10,360002941,4,6,20,46.8100
+43rd,Hagerty High School,Kristen Lichtenthal,10,310004141,5,10,15,46.8100
+44th,Sebastian River,Fischer Gabbert,10,314000841,8,22,0,46.8100
+45th,Seminole (Seminole),RAJIB CHOWDHURY,9,341003140,6,15,9,46.3794
+46th,Flagler Palm Coast,KACIE JOHNSTON,8,221040341,3,4,23,45.9488
+47th,Sebastian River,Gabrielle Hinton,8,314001041,4,8,18,45.9488
+48th,Flagler Palm Coast,JENNIFER CHEUNG,7,221040141,3,5,22,45.5181
+49th,Hagerty High School,Cody McMahon,7,310004441,3,5,22,45.5181
+50th,Crooms Academy,Tomashevsky Dmytro,7,312040241,7,21,2,45.5181
+51st,Matanzas H. S.,Jerica Trotter,6,228002341,2,2,26,45.0875
+52nd,Freedom (Orlando),Isabella Gong,6,381000741,3,6,21,45.0875
+53rd,Spruce Creek,Emmet Harrington,6,267014542,4,10,16,45.0875
+54th,Seminole (Seminole),LEANNE DUMENY,6,341006412,3,6,21,45.0875
+55th,Flagler Palm Coast,AUSTIN BERRY,6,221040041,4,10,16,45.0875
+56th,Lake Brantley,Steven Sharifi,5,388004940,7,23,0,44.6569
+57th,Satellite High School,Kasey Raymo,4,360003241,2,4,24,44.2263
+58th,Matanzas H. S.,HUNTER FROMM,4,228001741,2,4,24,44.2263
+59th,Freedom (Orlando),Tracy Nguyen,3,381000941,1,1,28,43.7956
+60th,Spruce Creek,Mitchell Artin,3,267013842,3,9,18,43.7956
+61st,Bayside,Mackenzie Newell,3,303050441,2,5,23,43.7956
+62nd,Oviedo,Jarrett Slater,2,377000441,2,6,22,43.3650
+63rd,Crooms Academy,Jonathan Lundstrom,2,312040341,3,10,17,43.3650
+64th,Satellite High School,Jennifer Larson,0,360002441,2,8,20,42.5038
+65th,Seminole (Seminole),TRE NISI,0,341012840,2,8,20,42.5038
+66th,Lyman High School,Andrew Trad,0,351000241,3,12,15,42.5038
+67th,Satellite High School,Jacob Kimmel,0,360006741,6,24,0,42.5038
+68th,Seminole (Seminole),CATHERINE PHAN,-1,341002240,3,13,14,42.0732
+69th,Hagerty High School,Megan Amend,-1,310000042,5,21,4,42.0732
+70th,Freedom (Orlando),Estella Gong,-4,381000641,1,8,21,40.7813
+71st,Hagerty High School,Vanessa Falero,-5,310002142,2,13,15,40.3507
+72nd,Spruce Creek,Philly Tang,-5,267016340,0,5,25,40.3507
+73rd,Oviedo,Tom Goff,-5,377001041,1,9,20,40.3507
+74th,Vero Beach,Tappas Desai,-6,372003042,1,10,19,39.9200
+75th,Bayside,Chang Wu,-8,303005141,1,12,17,39.0588
+76th,Seminole (Seminole),ZACK PRYTULA,-10,341004340,4,26,0,38.1976

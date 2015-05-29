@@ -1,0 +1,124 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Steven Li,115,295003020,29,1,0,75.9748
+2nd,Buchholz,Chris Campo,110,295000820,28,2,0,74.3115
+3rd,Berkeley Prep,Jake Sokol,105,405001830,27,3,0,72.6482
+4th,Seminole (Seminole),SORIN CHO,103,341002430,26,1,3,71.9829
+5th,Fort Myers,Tianxin Zheng,101,423003330,26,3,1,71.3176
+6th,Saint Stephen's Episcopal School,VANESSA YAN,99,489000930,25,1,4,70.6522
+7th,Community School of Naples,Leaf Kalikow,95,562003230,25,5,0,69.3216
+8th,American Heritage (Plantation),Sameera Vedantam,93,506004230,24,3,3,68.6562
+9th,Berkeley Prep,Samantha Tun,93,405002430,24,3,3,68.6562
+10th,Buchholz,Arjun Panicker,93,295003920,24,3,3,68.6562
+11th,American Heritage (Plantation),Jessica Kang,90,506003230,24,6,0,67.6582
+12th,King,Akum Kang,89,435002630,23,3,4,67.3256
+13th,Rickards High School,Carson  Jones,85,140000030,23,7,0,65.9949
+14th,Lawton Chiles High School,Alanna Du,85,181008130,23,7,0,65.9949
+15th,Seminole (Seminole),WENJIE GONG,78,341000930,21,6,3,63.6663
+16th,Doral Academy High,Amanda Fernandez,77,537505830,20,3,7,63.3336
+17th,Buchholz,Sohan Subhash,76,295004720,21,8,1,63.0009
+18th,Cypress Bay,Joseph Li,75,588002030,20,5,5,62.6683
+19th,American Heritage - Boca/Delray,Cole McMullen,74,526001730,19,2,9,62.3356
+20th,Cypress Bay,Enrico Bautista,72,588000230,20,8,2,61.6703
+21st,Saint Andrew's School,Alex Delhumeau,70,566501030,18,2,10,61.0050
+22nd,Gainesville High School,Emmett Kendall,68,268006530,18,4,8,60.3396
+23rd,Community School of Naples,Cici Hu,67,562008130,18,5,7,60.0070
+24th,American Heritage (Plantation),June Dong,67,506002030,19,9,2,60.0070
+25th,Lawton Chiles High School,Allison Stevens,66,181009030,17,2,11,59.6743
+26th,Lawton Chiles High School,Raluca Popa,66,181008930,17,2,11,59.6743
+27th,Cypress Bay,Tanmai Bandarupalli,58,588000130,17,10,3,57.0130
+28th,American Heritage - Boca/Delray,Daniel Schneider,58,526002320,15,2,13,57.0130
+29th,Deerfield Beach,Mini Luo,51,577003930,13,1,16,54.6843
+30th,Stoneman Douglas,SIMON HOO,51,532002831,15,9,6,54.6843
+31st,Hillsborough,Carlos Morales,50,428083030,13,2,15,54.3517
+32nd,Gainesville High School,Forrest Collins,50,268001730,14,6,10,54.3517
+33rd,Cape Coral High School,Ethan Howe,49,418001530,13,3,14,54.0190
+34th,Saint Stephen's Episcopal School,MARYANN PLACHERIL,47,489000830,13,5,12,53.3537
+35th,Berkeley Prep,Kevin Ren,46,405009730,13,6,11,53.0210
+36th,Gainesville High School,Darian Phidd,46,268008230,13,6,11,53.0210
+37th,American Heritage - Boca/Delray,Qiaochu (Sabrina) Huang,46,526001430,12,2,16,53.0210
+38th,King,Aryan Patider,45,435003330,13,7,10,52.6884
+39th,Community School of Naples,Tina You,44,562007230,13,8,9,52.3557
+40th,Saint Stephen's Episcopal School,IRIS YAN,43,489005530,12,5,13,52.0230
+41st,Saint Stephen's Episcopal School,STEPHEN WU,43,489005130,13,9,8,52.0230
+42nd,Rickards High School,Chanda  Deenadayalan,43,140000930,12,5,13,52.0230
+43rd,Berkeley Prep,Ivan Von Greiff,42,405000330,12,6,12,51.6904
+44th,Saint Stephen's Episcopal School,IAN SHARFF,41,489000020,11,3,16,51.3577
+45th,Community School of Naples,Matthew Magardino,39,562006730,10,1,19,50.6924
+46th,Lincoln,McFero Grace,39,109004830,11,5,14,50.6924
+47th,Lawton Chiles High School,Ashley Tang,39,181009330,11,5,14,50.6924
+48th,Community School of Naples,Tom Xu,37,562007030,11,7,12,50.0270
+49th,Vero Beach,MARGARET WELTE,37,372001130,10,3,17,50.0270
+50th,Fort Myers,Caroline Parslow,36,423003730,10,4,16,49.6944
+51st,Gainesville High School,Sophie Edelman,36,268005630,11,8,11,49.6944
+52nd,Eastside,Amogh Agarwal,35,280007030,9,1,20,49.3617
+53rd,Ferguson,VALERIA TORRES,35,507005830,9,1,20,49.3617
+54th,Gulf Coast,Spencer Gauta,35,575003330,10,5,15,49.3617
+55th,Berkeley Prep,Anjali Shah,34,405005530,9,2,19,49.0291
+56th,Palm Harbor Univ,Matthew Hansen,33,413003830,9,3,18,48.6964
+57th,Fort Myers,Purvis Amin,33,423002330,9,3,18,48.6964
+58th,Berkeley Prep,Andrew Koch,33,405001130,9,3,18,48.6964
+59th,Lawton Chiles High School,Odessa Deng,31,181008030,9,5,16,48.0311
+60th,Saint Stephen's Episcopal School,EMMA JONES,31,489004030,8,1,21,48.0311
+61st,Saint Stephen's Episcopal School,JACK BERRY,30,489001830,9,6,15,47.6984
+62nd,Middleton,Brianna Schroeder,29,468003530,8,3,19,47.3657
+63rd,Berkeley Prep,Brad Batas,29,405000930,11,15,4,47.3657
+64th,Gainesville High School,Ashley Sarkees,27,268004830,9,9,12,46.7004
+65th,Palm Harbor Univ,Molly Durnas,27,413002630,7,1,22,46.7004
+66th,Dunbar High School,Israel Rodriguez,26,477070430,9,10,11,46.3677
+67th,Flagler Palm Coast High School,Alexandra Feldman,26,221003330,7,2,21,46.3677
+68th,Suncoast Comm,David Wang,26,327006730,8,6,16,46.3677
+69th,Berkeley Prep,Rowan Majumdar,25,405001530,11,19,0,46.0351
+70th,Naples,Elizabeth Martin,25,545002530,7,3,20,46.0351
+71st,Community School of Naples,Alison Xu,25,562006630,7,3,20,46.0351
+72nd,Doral Academy High,Crystal Zhang,25,537500030,7,3,20,46.0351
+73rd,Suncoast Comm,Alex Levine,24,327005432,6,0,24,45.7024
+74th,Rickards High School,Siddharth  Balireddy,24,140000830,9,12,9,45.7024
+75th,Deerfield Beach,Chandler Trousdale,23,577008930,7,5,18,45.3697
+76th,Ferguson,KELLY LY,22,507012130,6,2,22,45.0371
+77th,Community School of Naples,Sydnie Lenchner,22,562003530,6,2,22,45.0371
+78th,Berkeley Prep,Jessica Cascio,22,405000730,6,2,22,45.0371
+79th,Robinson,Christopher Vietas,22,458005830,7,6,17,45.0371
+80th,Berkeley Prep,Shyam Dewan,21,405009130,6,3,21,44.7044
+81st,Palm Harbor Univ,Jenna Stannard,20,413007630,6,4,20,44.3718
+82nd,Community School of Naples,Brendan Nguyen,20,562003630,7,8,15,44.3718
+83rd,Escambia High School,Kayla Wilson,20,106006530,10,20,0,44.3718
+84th,Palm Harbor Univ,Christina Brown,19,413001430,5,1,24,44.0391
+85th,Suncoast Comm,Justin Lumberman,19,327005530,5,1,24,44.0391
+86th,Vero Beach,HUNTER KASTENDMIDT,19,372001930,6,5,19,44.0391
+87th,Miami Springs,OSCAR TORRES,19,582002920,6,5,19,44.0391
+88th,Saint Stephen's Episcopal School,TOM ZHANG,18,489003930,6,6,18,43.7064
+89th,Saint Stephen's Episcopal School,YUQING LIU,18,489002330,6,6,18,43.7064
+90th,Canterbury (Lee),Yimei Tong,18,411001620,7,10,13,43.7064
+91st,Saint Stephen's Episcopal School,ARWEN QIU,17,489005630,5,3,22,43.3738
+92nd,Deerfield Beach,Noah Yehuda,17,577003230,5,3,22,43.3738
+93rd,Saint Andrew's School,Phoebus Hu,16,566503230,5,4,21,43.0411
+94th,American Heritage - Boca/Delray,Eswar Saraswathi-Mohan,15,526002030,6,9,15,42.7084
+95th,Lincoln,Chelsea Lin,14,109005130,5,6,19,42.3758
+96th,Middleton,Quang Tran,14,468004030,5,6,19,42.3758
+97th,Cape Coral High School,Tristan D'Agostino,12,418004330,4,4,22,41.7104
+98th,Saint Andrew's School,Sihao Zheng,12,566507630,4,4,22,41.7104
+99th,Ferguson,JANKO MICIN,12,507005430,5,8,17,41.7104
+100th,Doral Academy High,Elier Bermudez,12,537502130,4,4,22,41.7104
+101st,Naples,Alexandra Puckett,11,545008730,3,1,26,41.3778
+102nd,Deerfield Beach,Melissa Currie,10,577003330,3,2,25,41.0451
+103rd,Middleton,Serina Bush,9,468000930,4,7,19,40.7124
+104th,Palmetto Ridge,Ariel McCrary,8,518002830,4,8,18,40.3798
+105th,Escambia High School,Nicolas Martin,7,106006330,4,9,17,40.0471
+106th,Escambia High School,Aviyonne Tart,5,106005930,7,23,0,39.3818
+107th,Ferguson,MARICEL TROITINO,5,507001530,3,7,20,39.3818
+108th,Escambia High School,Ryan Powers,5,106007530,7,23,0,39.3818
+109th,Hillsborough,Lewis Li,5,428080730,4,11,15,39.3818
+110th,Miami Sunset,Lina Perez,4,544003230,1,0,29,39.0491
+110th,Saint Andrew's School,Sterling Ortiz,4,566505830,1,0,29,39.0491
+110th,Flagler Palm Coast High School,Anastasia Zwenger,4,221005930,1,0,29,39.0491
+113th,Dunbar High School,Manny Gonzalez,3,477061030,3,9,18,38.7165
+114th,Escambia High School,Gabby Malden,3,106003530,2,5,23,38.7165
+115th,Deerfield Beach,Maxine Nazaire,3,577007430,2,5,23,38.7165
+116th,Ferguson,JACKLYN ROJAS,2,507003130,1,2,27,38.3838
+117th,Deerfield Beach,MeikaFae Farquharson,2,577003430,1,2,27,38.3838
+118th,Escambia High School,Morgan Thomas,1,106008230,4,15,11,38.0511
+119th,Wharton,Briana Hernandez,1,485001630,2,7,21,38.0511
+120th,Ferguson,PRIYANKA SOOKHAI,-1,507004230,0,1,29,37.3858
+121st,Ferguson,ALYSSA SANCHEZ,-2,507003530,1,6,23,37.0531
+122nd,Ferguson,JISSEL MUIR,-2,507005530,1,6,23,37.0531
+123rd,Escambia High School,Kia Scott,-5,106008030,5,25,0,36.0552

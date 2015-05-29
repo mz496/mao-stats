@@ -1,0 +1,74 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Hagerty High School,Eric Anschuetz,90,310000341,24,6,0,76.3340
+2nd,Seminole (Seminole),TATIANA ANTHONY,75,341014941,20,5,5,69.4814
+3rd,Hagerty High School,Dean Edun,69,310001841,18,3,9,66.7404
+4th,Seminole (Seminole),JOHN LI,69,341005741,19,7,4,66.7404
+5th,Seminole (Seminole),PRAKASH SUNDAR,68,341003541,18,4,8,66.2835
+6th,Vero Beach,EMILY ASTROM,67,372009341,18,5,7,65.8267
+7th,Seminole (Seminole),ELIZABETH SULT.CASE,67,341002842,17,1,12,65.8267
+8th,St Edward's,ETHAN KLEIN,66,374030841,18,6,6,65.3699
+9th,Vero Beach,DANIEL BOLING,63,372002441,17,5,8,63.9993
+10th,Vero Beach,HEATHER FREDRICKSON,63,372009641,17,5,8,63.9993
+11th,Seminole (Seminole),ARLEY RUSKIN,59,341002441,17,9,4,62.1720
+12th,Seminole (Seminole),JULIAN CHACON,59,341004940,16,5,9,62.1720
+13th,Suncoast Comm,Shreyash Agrawal,55,327000141,15,5,10,60.3446
+14th,Lake Mary,Jesse Wesenberg,50,308009941,14,6,10,58.0604
+15th,Seminole (Seminole),SNIGDHA DAS,50,341015742,14,6,10,58.0604
+16th,Bayside,Michael Diotte,49,303002141,14,7,9,57.6036
+17th,West Shore,Lexie Krehbiel,48,393005841,13,4,13,57.1467
+18th,Hagerty High School,Paulina Le,47,310003941,13,5,12,56.6899
+19th,Seminole (Seminole),FREDERICK HODGIN,47,341016540,13,5,12,56.6899
+20th,West Shore,Krunal Patel,43,393003741,13,9,8,54.8625
+21st,Seminole (Seminole),ANDREAS CHAI,43,341015140,12,5,13,54.8625
+22nd,Suncoast Comm,Michael Ollukaren,42,327008641,12,6,12,54.4057
+23rd,Vero Beach,TAD PALMER,40,372010641,13,12,5,53.4920
+24th,Vero Beach,SAMI HASHMI,40,372004742,11,4,15,53.4920
+25th,Hagerty High School,Amanda Heston,38,310002742,11,6,13,52.5783
+26th,Seminole (Seminole),MICHELLE ZHANG,38,341006242,12,10,8,52.5783
+27th,Lake Howell,Corben Hogan,36,391002741,10,4,16,51.6647
+28th,Hagerty High School,Amy Dickerson,35,310007040,10,5,15,51.2078
+29th,Lake Mary,Jerome Hall,35,308004541,11,9,10,51.2078
+30th,West Shore,Jack Goffinet,35,393006142,13,17,0,51.2078
+31st,Suncoast Comm,Nathan Mandi,34,327010441,11,10,9,50.7510
+32nd,Hagerty High School,Alyssa Latrobe,34,310004041,11,10,9,50.7510
+33rd,Seminole (Seminole),MEAGAN HARWICK,33,341016340,10,7,13,50.2941
+34th,St Edward's,EMILY SALVADOR,32,374031241,10,8,12,49.8373
+35th,Bayside,Robert Borrero,31,303001742,9,5,16,49.3804
+36th,Seminole (Seminole),YASH PATEL,30,341010242,12,18,0,48.9236
+37th,Hagerty High School,Emily Hunter,30,310003042,9,6,15,48.9236
+38th,Suncoast Comm,Yourui Ruan,30,327000542,12,18,0,48.9236
+39th,West Shore,Ian Chan,30,393005741,9,6,15,48.9236
+40th,Vero Beach,SARAH KELLY,29,372003642,8,3,19,48.4668
+41st,Hagerty High School,Chang-Hyun Choi,27,310001242,9,9,12,47.5531
+42nd,Seminole (Seminole),WON KIM,26,341003640,8,6,16,47.0962
+43rd,Suncoast Comm,Rachael Stark,25,327000040,11,19,0,46.6394
+44th,Suncoast Comm,Anuradha Gulati,24,327000440,7,4,19,46.1826
+45th,Seminole (Seminole),MARISSA OJEDA,23,341000240,8,9,13,45.7257
+46th,Suncoast Comm,Joshua Perry,23,327004241,7,5,18,45.7257
+47th,Vero Beach,ZOEY NEUDECK,23,372008742,8,9,13,45.7257
+48th,West Shore,Diana Sheedy,21,393006042,7,7,16,44.8120
+49th,Suncoast Comm,James Cardaman,20,327011142,6,4,20,44.3552
+50th,Suncoast Comm,Daniel McLeod,19,327003740,8,13,9,43.8984
+51st,Lyman High School,Dax Tyson,19,351000941,8,13,9,43.8984
+52nd,Suncoast Comm,Michelle Chang,18,327004342,7,10,13,43.4415
+53rd,West Shore,Nithya Sheshadri,17,393005641,5,3,22,42.9847
+54th,Bayside,Kaylee Clark,17,303001941,5,3,22,42.9847
+55th,St Edward's,JORDAN CANEVARI,17,374030341,7,11,12,42.9847
+56th,Bayside,Lidia Potapova,16,303002441,6,8,16,42.5278
+57th,Hagerty High School,Kathryn Folse,16,310002142,8,16,6,42.5278
+58th,Suncoast Comm,Nathan Goodman,15,327008942,6,9,15,42.0710
+59th,Lake Howell,Camila Carro,15,391002541,7,13,10,42.0710
+60th,Bayside,Michael Allton,15,303001642,7,13,10,42.0710
+61st,Oviedo,Mitchell Callaway,15,377003441,6,9,15,42.0710
+62nd,Lake Mary,Namrata Palsule,14,308008241,5,6,19,41.6142
+63rd,Suncoast Comm,Soo Ngoh,12,327006840,4,4,22,40.7005
+64th,Lake Howell,Chris Carey,10,391002441,7,18,5,39.7868
+65th,Suncoast Comm,Ross Pantone,8,327004040,3,4,23,38.8731
+66th,Freedom (Orlando),Victoria Page,5,381003640,2,3,25,37.5026
+67th,Hagerty High School,Megan McCormack,5,310005040,3,7,20,37.5026
+68th,Seminole (Seminole),ANTHONY CATOTTI,5,341007140,7,23,0,37.5026
+69th,Lyman High School,Lille Pidor,1,351000541,3,11,16,35.6752
+70th,Lake Mary,Sunil Mahajan,0,308006541,2,8,20,35.2184
+71st,Suncoast Comm,Ezra Olenick,-2,327006540,1,6,23,34.3047
+72nd,Suncoast Comm,Kim Bowen,-3,327003140,1,7,22,33.8479
+73rd,Bayside,Thara Gauthier,-3,303004242,4,19,7,33.8479

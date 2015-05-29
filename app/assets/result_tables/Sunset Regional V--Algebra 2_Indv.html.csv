@@ -1,0 +1,97 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Cypress Bay,Albert Ho,97,588003631,25,3,2,75.1172
+2nd,Coral Springs Middle,Vivek Miglani,96,515100031,25,4,1,74.7327
+3rd,Ferguson,SANCHIT BHATTACHARJEE,96,507001531,25,4,1,74.7327
+4th,American Heritage (Plantation),Kevin Kang,95,506004031,25,5,0,74.3481
+5th,American Heritage (Plantation),Catherine Ma,85,506004530,22,3,5,70.5031
+6th,Coral Reef,Aaron Crair,80,587000731,21,4,5,68.5805
+7th,Miami Palmetto,Carlos Suhr,80,541003431,21,4,5,68.5805
+8th,Cypress Bay,Steve Segall,77,588006131,20,3,7,67.4270
+9th,Stoneman Douglas,MUDIT DUTTA,74,532000931,19,2,9,66.2735
+10th,Stoneman Douglas,SARAH SHERMAN,74,532001531,19,2,9,66.2735
+11th,American Heritage (Plantation),Maximillian Major,72,506000631,19,4,7,65.5045
+12th,American Heritage (Plantation),Rachel Oei,70,506004630,18,2,10,64.7355
+13th,American Heritage (Plantation),Earl Generato,70,506002531,18,2,10,64.7355
+14th,Cypress Bay,Lokbondo Kung,67,588012331,18,5,7,63.5819
+15th,American Heritage (Plantation),Harshi Gupta,67,506002631,18,5,7,63.5819
+16th,Cypress Bay,Scott Liu,65,588004631,18,7,5,62.8129
+17th,Miami Springs,MAX DUNEVITZ,63,582004031,17,5,8,62.0439
+18th,Dr Michael Krop,Jonas Shomorony,61,502002431,16,3,11,61.2749
+19th,American Heritage (Plantation),Zoe Zhou,55,506005030,15,5,10,58.9678
+20th,Miami Palmetto,Kyle Choi,51,541002631,15,9,6,57.4298
+21st,Deerfield Beach,Lirun Ronen,50,577002531,14,6,10,57.0453
+22nd,Palm Beach Gardens,Jason Le,50,373003331,16,14,0,57.0453
+23rd,West Broward High School,Paul Kim,47,534003831,12,1,17,55.8918
+24th,Stoneman Douglas,RYAN LAI,46,532002231,13,6,11,55.5073
+25th,Coral Reef,Tanarut Chaisuesomboon,42,587000431,12,6,12,53.9692
+26th,Coral Reef,Leia Schwartz,41,587003231,11,3,16,53.5847
+27th,Piper,Victor Chen,39,552000931,11,5,14,52.8157
+28th,Deerfield Beach,Sameer Pandhare,39,577003931,11,5,14,52.8157
+29th,Coral Glades,Theoderick Besana,37,528000130,10,3,17,52.0467
+30th,American Heritage (Plantation),Alyce Kuo,36,506004230,10,4,16,51.6622
+31st,Ferguson,ASHWIN BHAT,34,507001431,9,2,19,50.8932
+32nd,Miami Springs,ALEXANDER JIMENEZ,34,582005131,10,6,14,50.8932
+33rd,Florida Chrisitan School of Dade,Eric Rubido,33,524500831,10,7,13,50.5087
+34th,Florida Chrisitan School of Dade,Isis Cendan,30,524500331,8,2,20,49.3551
+35th,Miami Springs,LEONARDO GUTIERREZ,30,582003331,9,6,15,49.3551
+36th,Palm Beach Gardens,China Jules,30,373000431,12,18,0,49.3551
+37th,Ferguson,NATALIA FIGUEROA,29,507003130,8,3,19,48.9706
+38th,Stoneman Douglas,JAMES CHO,29,532000830,11,15,4,48.9706
+39th,Miami Springs,ARMANDO ALICANDU,26,582000930,7,2,21,47.8171
+40th,North Miami Beach Senior High School,Analis Lawrence,26,546098931,7,2,21,47.8171
+41st,Stoneman Douglas,YIYU LI,26,532002131,9,10,11,47.8171
+42nd,Belen Jesuit Prep,Jose Prieto,25,535004331,7,3,20,47.4326
+43rd,Westland Hialeah Senior HS,Marilee Quintana,25,504501831,9,11,10,47.4326
+44th,Coral Glades,Tsun Leung,25,528002231,11,19,0,47.4326
+45th,Hollywood Hills,Carlos Manrique,24,508001731,6,0,24,47.0481
+46th,Piper,Yaseen Ramadan,24,552000331,8,8,14,47.0481
+47th,Coral Reef,Danielle Coogan,24,587000531,7,4,19,47.0481
+48th,American Heritage - Boca/Delray,Robert Carelli,23,526005331,7,5,18,46.6636
+49th,American Heritage (Plantation),Blanche Kuo,22,506004430,7,6,17,46.2791
+50th,Homestead Senior High,Maria Francois,22,529000630,9,14,7,46.2791
+51st,Mater Lakes Academy,Stephanie Parrado,21,559002331,7,7,16,45.8946
+52nd,Miami Sunset,ANDRES VALDESRECIO,21,544006731,8,11,11,45.8946
+53rd,Stoneman Douglas,CARLOS TALLARD,21,532001830,8,11,11,45.8946
+54th,Nova High School,Fatima Quddus,21,553025731,8,11,11,45.8946
+55th,Miami Sunset,CARIDAD HERNANDEZ,20,544003231,6,4,20,45.5101
+56th,Miami Palmetto,Derek Chanit,19,541007231,7,9,14,45.1256
+57th,Coral Glades,Lauren Bertino,19,528000031,5,1,24,45.1256
+58th,Hollywood Hills,Ezequiel Beltrame,18,508000131,5,2,23,44.7411
+59th,JP Taravella,ILYA EVDOKIMOV,18,533001931,6,6,18,44.7411
+60th,Ferguson,ARAM SARGSYAN,18,507012231,5,2,23,44.7411
+61st,North Miami Beach Senior High School,Allison Lawrence,17,546001831,5,3,22,44.3565
+62nd,Miami Sunset,CHRISTINA FERNANDEZ,17,544002330,5,3,22,44.3565
+63rd,West Broward High School,Rishi Jain,17,534003231,6,7,17,44.3565
+64th,Florida Chrisitan School of Dade,Billy Nealey,16,524500631,6,8,16,43.9720
+65th,Coral Reef,Erika Carhuapoma,15,587000330,4,1,25,43.5875
+66th,Piper,Shiela Chancoco,15,552000031,5,5,20,43.5875
+67th,Miami Springs,LUIS NEGRON,15,582008431,5,5,20,43.5875
+68th,Mater Lakes Academy,Gelsey Brizo,15,559000631,9,21,0,43.5875
+69th,Dr Michael Krop,Sahar Haik,14,502001031,6,10,14,43.2030
+70th,JP Taravella,ALEANGEE PEREZCEA,14,533002331,4,2,24,43.2030
+71st,Dr Michael Krop,Ariel Bendavid,14,502000231,5,6,19,43.2030
+72nd,American Heritage - Boca/Delray,Deanna Bradley,14,526000531,4,2,24,43.2030
+73rd,West Broward High School,Jiewon Lee,14,534004431,5,6,19,43.2030
+74th,Deerfield Beach,Alexis Rebeca,13,577000631,5,7,18,42.8185
+75th,Westland Hialeah Senior HS,Jorge Gonzalez,13,504501331,4,3,23,42.8185
+76th,Miami Sunset,GISELLE GARCIA,13,544002731,4,3,23,42.8185
+77th,Deerfield Beach,Nidhi Patel,13,577003331,4,3,23,42.8185
+78th,Ferguson,DENNIS LEJARDI,12,507006530,5,8,17,42.4340
+79th,West Broward High School,Philipe Cruz,12,534001651,4,4,22,42.4340
+80th,JP Taravella,JONATHAN ARGOV,12,533001331,4,4,22,42.4340
+81st,American Heritage - Boca/Delray,Nicholas Gasparri,12,526005031,3,0,27,42.4340
+82nd,Palm Beach Gardens,Guerthie Atilus,12,373001631,5,8,17,42.4340
+83rd,Ferguson,ANDRES LOZANO,11,507007331,3,1,26,42.0495
+84th,Florida Chrisitan School of Dade,Monica Andrade,11,524500230,4,5,21,42.0495
+85th,Coral Glades,Caroline Kaplan,10,528003931,4,6,20,41.6650
+86th,Miami Southridge,Carolyna Guillen,9,543000531,4,7,19,41.2805
+87th,Ferguson,KATHERINE LEMUS,9,507006630,3,3,24,41.2805
+88th,Florida Chrisitan School of Dade,Reinaldo Perez,5,524500731,3,7,20,39.7425
+89th,North Miami Beach Senior High School,Bheena Persaud,5,546001531,5,15,10,39.7425
+90th,Miami Southridge,Farrah Mohammed,5,543000731,4,11,15,39.7425
+91st,Dr Michael Krop,Tamara Rosemblat,4,502000931,2,4,24,39.3579
+92nd,Coral Glades,Harpreet Kaur,4,528001731,3,8,19,39.3579
+93rd,Miami Sunset,NICOLE SMITH,3,544006231,2,5,23,38.9734
+94th,Mater Lakes Academy,Lucia Alvarado,0,559004331,6,24,0,37.8199
+95th,Mater Lakes Academy,Alex Bringas,-1,559002730,2,9,19,37.4354
+96th,Miami Sunset,LIBNI FERNANDEZ,-2,544002430,4,18,8,37.0509

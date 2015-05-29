@@ -1,0 +1,145 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),JUSTIN RAMAN,115,341006930,29,1,0,75.7645
+2nd,American Heritage (Plantation),Kwesi Levy,111,506000530,28,1,1,74.4139
+3rd,Seminole (Seminole),SUNASH SHARMA,110,341007730,28,2,0,74.0763
+4th,Rickards High School,Jenny Kang,106,140001830,27,2,1,72.7257
+5th,Buchholz,David Hurst,101,295000220,26,3,1,71.0375
+6th,American Heritage (Plantation),Matthew Soree,96,506000030,25,4,1,69.3492
+7th,Lawton Chiles High School,Shiming Deng,95,181000930,25,5,0,69.0116
+8th,Buchholz,Vincent Mei,95,295004420,25,5,0,69.0116
+9th,Rickards High School,Stephen Barton,95,140000930,25,5,0,69.0116
+10th,Buchholz,Becky Liao,93,295004720,24,3,3,68.3363
+11th,King,John Qin,93,435010430,24,3,3,68.3363
+12th,Cypress Bay,Marianne Aguilar,92,588013620,24,4,2,67.9986
+13th,Fort Myers,Andrew Suh,86,423004720,22,2,6,65.9727
+14th,Buchholz,Kevin Noh,85,295005720,23,7,0,65.6351
+15th,Buchholz,Victor Lin,82,295005020,22,6,2,64.6221
+16th,Cypress Bay,Sebastian Hincapie,82,588002520,22,6,2,64.6221
+17th,Cypress Bay,Jake Ukleja,81,588005020,22,7,1,64.2845
+18th,Eastside,Kelly Lampotang,79,280005620,21,5,4,63.6092
+19th,American Heritage (Plantation),Felix Tiet,77,506000230,21,7,2,62.9339
+20th,Seminole (Seminole),VIRAJ SHAH,77,341005130,21,7,2,62.9339
+21st,American Heritage (Plantation),Kevin Tan,77,506000430,21,7,2,62.9339
+22nd,King,Tianbo Chen,73,435009130,20,7,3,61.5833
+23rd,King,Matthew Chan,73,435006530,20,7,3,61.5833
+24th,Vero Beach,Evan Mackay,71,372003030,20,9,1,60.9080
+25th,Fort Myers,Jacob Hambor,69,423000520,19,7,4,60.2327
+26th,Tampa Bay Tech,Islam Ahmad,66,461001420,18,6,6,59.2197
+27th,Spruce Creek,David Flasterstein,65,267005520,18,7,5,58.8821
+28th,Rickards High School,Raymond Reyes,65,140000030,19,11,0,58.8821
+29th,Cypress Bay,Rebecca Ki,63,588013830,18,9,3,58.2068
+30th,Eastside,Reiner Dizon,63,280007320,18,9,3,58.2068
+31st,American Heritage (Plantation), ,62,506019300,18,10,2,57.8691
+32nd,Seminole (Seminole),NEIL SHAH,61,341002030,18,11,1,57.5315
+33rd,Shorecrest Prep,Katherina Fucci,61,451002520,17,7,6,57.5315
+34th,Oak Hall,HAOQING YAN,59,249001130,17,9,4,56.8562
+35th,American Heritage (Plantation),Mayuri Viswanathan,58,506000830,16,6,8,56.5185
+36th,Spruce Creek,Shreya Singireddy,57,267006220,16,7,7,56.1809
+37th,Community Sch Naples,Mike Wulber,56,562006320,16,8,6,55.8432
+38th,Spruce Creek,Vincent Imbimbo,56,267006120,16,8,6,55.8432
+39th,Flanagan,Christian Lawson,56,591000430,17,12,1,55.8432
+40th,Eastside,Noble Chun,55,280006820,16,9,5,55.5056
+41st,Naples,Owen Gemmer,54,545003820,15,6,9,55.1679
+42nd,Gaither High School,Sky Kim,53,426006520,15,7,8,54.8303
+43rd,Berkeley Prep,Evan Miller,52,405003220,16,12,2,54.4926
+44th,Lawton Chiles High School,Kevin Waldman,48,181002430,13,4,13,53.1420
+45th,Lawton Chiles High School,Delaney Ding,48,181001130,14,8,8,53.1420
+46th,Berkeley Prep,Nathan Mester,47,405002320,13,5,12,52.8044
+47th,Oak Hall,JESSE HE,46,249000520,14,10,6,52.4667
+48th,Berkeley Prep,Julia Weber,46,405003920,13,6,11,52.4667
+49th,Vero Beach,Charles Pascale,46,372003530,13,6,11,52.4667
+50th,Lincoln,Dylan Johnson,45,109001330,13,7,10,52.1291
+51st,Berkeley Prep,Catherine Bai,44,405004520,13,8,9,51.7914
+52nd,Rickards High School,Carolyn Shi,44,140003630,13,8,9,51.7914
+53rd,Spruce Creek,Connor Brok,43,267005120,13,9,8,51.4538
+54th,Berkeley Prep,Jonathan Haist,43,405007420,12,5,13,51.4538
+55th,King,Michael Cory,42,435009430,14,14,2,51.1161
+56th,Palm Harbor Univ,Andrew Lo,41,413002720,13,11,6,50.7785
+57th,Community Sch Naples,Chris Sciavolino,41,562001420,12,7,11,50.7785
+58th,Spruce Creek,Shahrose Kasim,41,267006320,13,11,6,50.7785
+59th,American Heritage - Boca/Delray,Yi (Catherine) Wang,40,526005130,11,4,15,50.4408
+60th,Tampa Bay Tech,Kasarachi Ihedoro,40,461000120,12,8,10,50.4408
+61st,Stoneman Douglas,HUNGYI CHANG,40,532001730,13,12,5,50.4408
+62nd,Berkeley Prep,Alexis Smith,39,405003420,12,9,9,50.1032
+63rd,Robinson,Kyle Bustami,39,458000220,12,9,9,50.1032
+64th,Miami Springs,ORLANDO LANEY,39,582002230,11,5,14,50.1032
+65th,Lawton Chiles High School,Doreen Yang,38,181002730,11,6,13,49.7655
+66th,Community Sch Naples,Nick Lewis,37,562003320,11,7,12,49.4279
+67th,Deerfield Beach,Heeral Patel,35,577002230,13,17,0,48.7526
+68th,King,Kathy Tian,33,435011030,10,7,13,48.0773
+69th,Eastside,Eric Brigham,33,280004320,10,7,13,48.0773
+70th,RANSOM EVERGLADES,Ava Frankel,33,519001820,10,7,13,48.0773
+71st,Naples,Sami Sanderson,32,545004520,10,8,12,47.7396
+72nd,Palm Harbor Univ,Gabriel Soliman,31,413005730,12,17,1,47.4020
+73rd,American Heritage - Boca/Delray,Jeff Joseph,31,526005430,11,13,6,47.4020
+74th,Tampa Bay Tech,Ashley Lopez,31,461003320,9,5,16,47.4020
+75th,Naples,Sydney Harrington,31,545004020,10,9,11,47.4020
+76th,Community Sch Naples,Samantha Korn,30,562001020,10,10,10,47.0643
+77th,Spruce Creek,Kristy Kim,30,267006720,10,10,10,47.0643
+78th,Berkeley Prep,Sebastien Rhodes,28,405004220,9,8,13,46.3890
+79th,Gaither High School,Matt Griffin,28,426006620,9,8,13,46.3890
+80th,Durant,John Kuebler,28,475002720,11,16,3,46.3890
+81st,American Heritage - Boca/Delray,Xinyi (Cindy) Zhang,28,526007630,9,8,13,46.3890
+82nd,Naples,Joseph Fischer,27,545003720,10,13,7,46.0514
+83rd,Berkeley Prep,Max Henderson,26,405002820,8,6,16,45.7137
+84th,Gaither High School,Kimberly Archer,26,426007030,8,6,16,45.7137
+85th,Naples,Marion Truax,26,545004620,8,6,16,45.7137
+86th,St Edward's,ZHENYU LI,26,374002630,8,6,16,45.7137
+87th,Eastside,Alice Hou,26,280004630,8,6,16,45.7137
+88th,Community Sch Naples,Jack Melnick,25,562001220,11,19,0,45.3761
+89th,Berkeley Prep,Rachel Weinbren,25,405009220,8,7,15,45.3761
+90th,Coral Glades,Emily Robinson,25,528003830,11,19,0,45.3761
+91st,Coral Glades,Jaimee Katz,24,528002730,7,4,19,45.0384
+92nd,Coral Glades,Avia Muller,24,528005830,7,4,19,45.0384
+93rd,Spruce Creek,Thomas Kenyon,24,267004130,10,16,4,45.0384
+94th,Naples,Austin Mendes,23,545004220,8,9,13,44.7008
+95th,Fort Myers,Kaelin McDaniel,22,423005620,8,10,12,44.3631
+96th,Freedom (Tampa),JooHyun Lee,21,466001320,8,11,11,44.0255
+97th,Community Sch Naples,Alex Casola,21,562000620,7,7,16,44.0255
+98th,Palm Beach Gardens,Shirley Pierre,21,373000420,9,15,6,44.0255
+99th,Palm Harbor Univ,Chaitanya Guthikonda,20,413001820,8,12,10,43.6878
+100th,Lincoln,Lisanne vanEngelen,20,109002630,7,8,15,43.6878
+101st,Cape Coral High School,Gerardo Sibaja,19,418003030,6,5,19,43.3502
+102nd,Canterbury (Lee),Katie Flaharty,19,411002120,6,5,19,43.3502
+103rd,Miami Sunset,KEIDY CARRASCO,18,544005620,6,6,18,43.0125
+104th,Fort Myers,Sophia Angeletti,17,423004520,6,7,17,42.6749
+105th,Berkeley Prep,Natalie Raterman,17,405008620,6,7,17,42.6749
+106th,Robinson,Clay Thompson,17,458005630,7,11,12,42.6749
+107th,Community Sch Naples,Konstantin Kotschenreuther,17,562005820,6,7,17,42.6749
+108th,Navarre,SAVANNAH BIFULCO,16,180002120,5,4,21,42.3372
+109th,Miami Sunset,HOLLIS STAMATYADES,16,544010020,6,8,16,42.3372
+110th,Suncoast Comm,MyAn Le,15,327009020,5,5,20,41.9996
+111th,Middleton,Persys Fernandez,15,468001221,8,17,5,41.9996
+112th,Ferguson,HUANYI WU,14,507005220,5,6,19,41.6619
+113th,Naples,Austin Kalmans,13,545004120,5,7,18,41.3243
+114th,Miami Springs,DAVID BARAHONA,12,582003420,5,8,17,40.9866
+115th,Berkeley Prep,Jesus Sanchez,12,405001720,5,8,17,40.9866
+116th,Miami Springs,ASHLEY ZULUETA,12,582000430,4,4,22,40.9866
+117th,Shorecrest Prep,Evie Sobczak,12,451005230,6,12,12,40.9866
+118th,RANSOM EVERGLADES,Analisa Vallejo,11,519000520,5,9,16,40.6490
+119th,Fort Myers,Jeni Biji,11,423004230,4,5,21,40.6490
+120th,Navarre,KAYLIN COLVINREECE,10,180004720,4,6,20,40.3113
+121st,Navarre,MONICA FOSTER,10,180002220,4,6,20,40.3113
+122nd,Deerfield Beach,Melisha Jagat,10,577003820,5,10,15,40.3113
+123rd,Coral Glades,Alana Scheuerer,9,528006020,3,3,24,39.9737
+124th,Deerfield Beach,Keval Patel,8,577004320,5,12,13,39.6360
+125th,Robinson,Lauren Place,8,458004120,7,20,3,39.6360
+126th,Spruce Creek,EunJi Lim,7,267006930,3,5,22,39.2984
+127th,Coral Glades,Arianna Hernandez,7,528002530,5,13,12,39.2984
+128th,Deerfield Beach,Noor Cozzolino,7,577004920,4,9,17,39.2984
+129th,Navarre,LAURA HARMS,6,180002320,3,6,21,38.9607
+130th,St Edward's,TRACY NGUYEN,6,374011030,2,2,26,38.9607
+131st,Flagler Palm Coast,Eva Perez,6,221001530,3,6,21,38.9607
+132nd,Robinson,Tristen Wallace,6,458006020,7,22,1,38.9607
+133rd,Fort Myers,Rachel Maguire,5,423004430,3,7,20,38.6231
+134th,Flanagan,Benny Hsu,5,591003230,7,23,0,38.6231
+135th,Deerfield Beach,Janel Weatherly,5,577002320,4,11,15,38.6231
+136th,Middleton,Aks Anand,5,468001920,3,7,20,38.6231
+137th,Shorecrest Prep,Molly Gilroy,4,451004930,4,12,14,38.2854
+138th,Robinson,Miranda Tidwell,3,458005720,2,5,23,37.9478
+139th,Vero Beach,Megan Clarke,3,372001230,3,9,18,37.9478
+140th,Middleton,Awni Asab,2,468003921,2,6,22,37.6101
+141st,Middleton,Marshall Williams,1,468003420,3,11,16,37.2725
+142nd,Gaither High School,Jeanny Cerrato,-1,426007120,3,13,14,36.5972
+143rd,Navarre,NICOLE LAUTENSLAGER,-5,180002520,1,9,20,35.2466
+144th,Middleton,Sarah Kampeier,-5,468002721,5,25,0,35.2466

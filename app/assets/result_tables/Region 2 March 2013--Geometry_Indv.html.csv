@@ -1,0 +1,67 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Lillian Zhu,142,295000421,28,0,2,73.1468
+2nd,Buchholz,Ellen Li,142,295002221,28,0,2,73.1468
+3rd,Buchholz,Jonathan Fang,133,295001821,26,1,3,69.9582
+4th,Buchholz,Anand Vidyasager,127,295000122,25,3,2,67.8325
+5th,Eastside,Kalp Patel,120,280004321,23,2,5,65.3525
+6th,Spruce Creek,Tala Saboungi,116,267000320,22,2,6,63.9353
+7th,Buchholz,Lisa Zhang,114,295001122,22,4,4,63.2267
+8th,Buchholz,Sanika Subhash,113,295000521,21,1,8,62.8725
+9th,Buchholz,Eric Ye,112,295001222,21,2,7,62.5182
+10th,Spruce Creek,Suraj Singireddy,110,267001221,21,4,5,61.8096
+11th,Buchholz,Michael Mulligan,103,295005620,20,7,3,59.3296
+12th,Howard Bishop Middle,Brandon Morgan,102,208101821,18,0,12,58.9753
+13th,Gainesville High School,Colin Guy,101,268014121,19,5,6,58.6210
+14th,Gainesville High School,John Neill,100,268007321,18,2,10,58.2667
+15th,James W. Johnson Middle,Victoria Ge,99,215100221,18,3,9,57.9124
+16th,Buchholz,Erin Mowry,98,295006022,18,4,8,57.5581
+17th,James W. Johnson Middle,George Pu,97,215100921,18,5,7,57.2039
+18th,Eastside,Danielle Liu,97,280003321,18,5,7,57.2039
+19th,Spruce Creek,Matthew D'Antonio,95,267000221,19,11,0,56.4953
+20th,James W. Johnson Middle,Shreya Ravi,93,215100721,18,9,3,55.7867
+21st,Gainesville High School,Ryan Jacobs,91,268012021,17,7,6,55.0781
+22nd,Eastside,Alireza Azari,85,280000221,15,5,10,52.9524
+23rd,James W. Johnson Middle,Jason Raiti,83,215100621,15,7,8,52.2438
+24th,Gainesville High School,Morgan Garris,81,268003022,16,13,1,51.5352
+25th,Fleming Island High,Jacob Porter,80,220000921,13,2,15,51.1810
+26th,Fleming Island High,Sam Aiken,80,220001021,16,14,0,51.1810
+27th,Spruce Creek,Thomas Dao,76,267000122,12,2,16,49.7638
+28th,Gainesville High School,Karoline McKaig,76,268007421,12,2,16,49.7638
+29th,Gainesville High School,Tucker Moretta,75,268013922,15,15,0,49.4095
+30th,Eastside,Sangeun Lee,75,280002921,15,15,0,49.4095
+31st,Gainesville High School,Aimee Wright,75,268012720,15,15,0,49.4095
+32nd,Kanapaha Middle School,Jenny Baik,72,209100021,12,6,12,48.3467
+33rd,Kanapaha Middle School,Sunny Baik,72,209100121,13,10,7,48.3467
+34th,Leesburg High School,Emilie Palmer,70,287002321,14,16,0,47.6381
+35th,Spruce Creek,Kevin Ling,69,267000721,11,5,14,47.2838
+36th,Gainesville High School,Alan Wagner,69,268007122,11,5,14,47.2838
+37th,Gainesville High School,Brooke Timms,68,268006922,12,10,8,46.9295
+38th,Howard Bishop Middle,Noah Cook,68,208100021,11,6,13,46.9295
+39th,Gainesville High School,Melissa Kreeger,66,268009320,10,4,16,46.2209
+40th,Kanapaha Middle School,Joseph Hardin,65,209101021,11,9,10,45.8666
+41st,Howard Bishop Middle,Lizzie Ingersent,65,208102021,9,1,20,45.8666
+42nd,Fleming Island High,Drew Thompson,65,220001121,11,9,10,45.8666
+43rd,Fleming Island High,C. J. Volz,65,220000021,11,9,10,45.8666
+44th,Kanapaha Middle School,Paul Harris,64,209101122,10,6,14,45.5124
+45th,Spruce Creek, ,62,267001922,10,8,12,44.8038
+46th,Spruce Creek,Laura LaStarza,61,267000621,9,5,16,44.4495
+47th,Howard Bishop Middle,Carolina Rosales,61,208101921,11,13,6,44.4495
+48th,James W. Johnson Middle,Srajat Rastogi,61,215101422,10,9,11,44.4495
+49th,James W. Johnson Middle,David Shi,59,215100822,10,11,9,43.7409
+50th,Kanapaha Middle School,Thomas Kemp,56,209100621,8,6,16,42.6781
+51st,Spruce Creek,Santiago Gutierrez,54,267000422,8,8,14,41.9695
+52nd,Gainesville High School,Jordan Horn,53,268008620,8,9,13,41.6152
+53rd,Spruce Creek,Sophia Semenski,51,267001122,7,7,16,40.9066
+54th,Gainesville High School,Jay Leshan,51,268007820,8,11,11,40.9066
+55th,Leesburg High School,James Austin,50,287000421,10,20,0,40.5523
+56th,Spruce Creek,Thinh Pham,49,267001520,6,5,19,40.1980
+57th,Gainesville High School,Lauren Wooley,49,268015220,5,1,24,40.1980
+58th,Gainesville High School,Victoria Williamson,49,268013420,6,5,19,40.1980
+59th,Gainesville High School,Kylie Doherty,47,268013120,5,3,22,39.4895
+60th,Gainesville High School,Emily Weigel,45,268014220,9,21,0,38.7809
+61st,Gainesville High School,Kase Abernathy,42,268013520,6,12,12,37.7180
+62nd,Flagler Palm Coast High School,Mini Tran,41,221001921,6,13,11,37.3637
+63rd,Flagler Palm Coast High School,Olivia Pinard,39,221002221,4,7,19,36.6552
+64th,Kanapaha Middle School,Michele Altomare,38,209100522,5,12,13,36.3009
+65th,Gainesville High School,Diana Truman,37,268008520,3,5,22,35.9466
+66th,Flagler Palm Coast High School,Ally Erickson,36,221000221,3,6,21,35.5923

@@ -1,0 +1,68 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Alex Yu,120,140003151,30,0,0,72.4491
+2nd,Lawton Chiles High School,Nicholas Yang,115,181004251,29,1,0,71.1055
+3rd,Lawton Chiles High School,Brian Ahn,115,181002451,29,1,0,71.1055
+4th,Lincoln,Billy Brickner,110,109000451,28,2,0,69.7618
+5th,Lawton Chiles High School,Jessie Chi,107,181002651,27,1,2,68.9556
+6th,Lincoln,Seong HwaMin,105,109003151,27,3,0,68.4181
+7th,Lincoln,Justin Bartell,102,109001151,26,2,2,67.6119
+8th,Rickards High School,Jeewoo Kang,101,140001851,26,3,1,67.3432
+9th,Lawton Chiles High School,Wyatt Schroeder,88,181004852,23,4,3,63.8497
+10th,Rickards High School,Stephen Barton,87,140000952,23,5,2,63.5810
+11th,Lawton Chiles High School,Shiming Deng,82,181002950,22,6,2,62.2373
+12th,Lincoln,Jeffrey Zou,81,109002951,22,7,1,61.9686
+13th,Rickards High School,Mihir Thakkar,80,140004651,21,4,5,61.6999
+14th,Rickards High School,Ryan Lerch,65,140001351,18,7,5,57.6689
+15th,Lawton Chiles High School,Nick Young,64,181004351,18,8,4,57.4001
+16th,Navarre,NOA GROOMS,62,180003351,17,6,7,56.8627
+17th,Lawton Chiles High School,Anisha Sinha,60,181003550,17,8,5,56.3252
+18th,Lawton Chiles High School,Nick Dietrich,58,181003052,16,6,8,55.7878
+19th,Lawton Chiles High School,Nathan Hoekman,53,181003352,16,11,3,54.4441
+20th,Rutherford High School,Jessica Adams,52,174001351,15,8,7,54.1754
+21st,Lincoln,Yuqi Xu,51,109000952,15,9,6,53.9066
+22nd,Lincoln,Brendan Schneider,49,109000852,14,7,9,53.3692
+23rd,Rickards High School,Raymond Reyes,46,140000052,13,6,11,52.5630
+24th,Lawton Chiles High School,Thomas LaJoie,42,181004750,12,6,12,51.4881
+25th,Lincoln,Grant Dennison,42,109002152,12,6,12,51.4881
+26th,Lawton Chiles High School,Nitharsan Sivakanthan,39,181003652,12,9,9,50.6819
+27th,Navarre,ALEX KAYSER,33,180004150,9,3,18,49.0695
+28th,Navarre,SARAH DENNIS,32,180003250,9,4,17,48.8007
+29th,Gulf Breeze High,Ashley Tringas,31,101009051,9,5,16,48.5320
+30th,Navarre,SKYLER SINGLETON,30,180003951,12,18,0,48.2633
+31st,Gulf Breeze High,Kristyn Suelflow,29,101008751,9,7,14,47.9945
+32nd,Rocky Bayou Christian School,Dave Tan,27,192001651,8,5,17,47.4571
+33rd,Navarre,JESSICA THOMPSON,25,180004252,11,19,0,46.9196
+34th,Navarre,ROMAN SPEAR,25,180004051,11,19,0,46.9196
+35th,Navarre,KATELYN COVINGTON,22,180000950,8,10,12,46.1134
+36th,Gulf Breeze High,Naomi Allen,19,101007952,7,9,14,45.3072
+37th,Gulf Breeze High,Amelia Leenig,16,101008552,7,12,11,44.5010
+38th,Navarre,LEILA HARRIS,15,180003550,5,5,20,44.2323
+39th,Rutherford High School,Angela Pham,15,174000151,6,9,15,44.2323
+40th,Navarre,CELINA CALMA,14,180000250,5,6,19,43.9636
+41st,Rutherford High School,Nhung Phan,14,174002751,6,10,14,43.9636
+42nd,Rocky Bayou Christian School,Tyler Paskell,13,192003551,5,7,18,43.6948
+43rd,Gulf Breeze High,Andrew Carney,13,101000951,7,15,8,43.6948
+44th,Lawton Chiles High School,Colleen Cui,12,181002750,6,12,12,43.4261
+45th,Navarre,CHANDLER MOORER,11,180001452,6,13,11,43.1574
+46th,Navarre,JALIA BANNAMON,11,180000050,4,5,21,43.1574
+47th,Gulf Breeze High,Annemarie Schultz,11,101007651,6,13,11,43.1574
+48th,Navarre,SAVANNAH BIFULCO,9,180002151,3,3,24,42.6199
+49th,Navarre,LAURA HARMS,9,180002350,3,3,24,42.6199
+50th,Lincoln,Austin Howard,8,109002752,5,12,13,42.3512
+51st,Navarre,HAYDEN HUDSON,8,180000450,3,4,23,42.3512
+52nd,Rocky Bayou Christian School,Kelly Hanning,7,192001452,3,5,22,42.0824
+53rd,Navarre,JESSICA BEASLEY,6,180000850,3,6,21,41.8137
+54th,Navarre,KIERA FOSTER,6,180003452,4,10,16,41.8137
+55th,Rocky Bayou Christian School,Shaun Li,5,192002451,7,23,0,41.5450
+56th,Navarre,MONICA FOSTER,5,180002250,2,3,25,41.5450
+57th,Navarre,NICOLE THRONTON,4,180000650,2,4,24,41.2763
+58th,Rocky Bayou Christian School,Cameron Esses,1,192002251,2,7,21,40.4701
+59th,Navarre,SAMANTHA BRADLEY,1,180000550,1,3,26,40.4701
+60th,Navarre,SAVANNAH ADAMS,0,180002450,1,4,25,40.2013
+61st,Rickards High School,Grace Hong,0,140004152,2,8,20,40.2013
+62nd,Rocky Bayou Christian School,John Zhang,0,192001952,2,8,20,40.2013
+63rd,Rutherford High School,Naomi Machala,-1,174002651,0,1,29,39.9326
+64th,Rocky Bayou Christian School,Connor Lynch,-2,192001252,1,6,23,39.6639
+65th,Navarre,AMANDA CARMICHAEL,-3,180002950,0,3,27,39.3951
+66th,Navarre,ABIGAIL ALLGOOD,-4,180000150,1,8,21,39.1264
+67th,Navarre,BENJAMIN JACKSON,-10,180002752,1,14,15,37.5140

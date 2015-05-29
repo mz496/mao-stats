@@ -1,0 +1,67 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Alex Yu,105,140003140,27,3,0,68.0787
+2nd,Lawton Chiles High School,Nicholas Yang,100,181005040,26,4,0,66.4508
+3rd,American Heritage (Plantation),Matthew Zhu,97,506005140,25,3,2,65.4742
+4th,Seminole (Seminole),SAURABH SUDESH,96,341004840,25,4,1,65.1486
+5th,Buchholz,Ben Diuguid,96,295002840,24,0,6,65.1486
+6th,Eastside,Wenli Zhao,95,280004040,24,1,5,64.8230
+7th,American Heritage (Plantation),Adam Wang,95,506004840,25,5,0,64.8230
+8th,Buchholz,Andreea Martin,94,295000940,24,2,4,64.4975
+9th,Buchholz,Stephen SO,90,295005440,23,2,5,63.1952
+10th,Eastside,Yuxin Zhang,84,280003940,22,4,4,61.2418
+11th,Cypress Bay,Scott Liu,82,588016240,22,6,2,60.5907
+12th,Buchholz,Vivian Zhu,80,295002740,21,4,5,59.9396
+13th,Buchholz,Minjia Zhong,80,295003040,21,4,5,59.9396
+14th,Berkeley Prep,Corey Salzer,77,405006940,21,7,2,58.9629
+15th,Miami Springs,MICHAEL PEREZ,76,582000340,20,4,6,58.6373
+16th,Seminole (Seminole),ALEX CHEN,73,341001540,20,7,3,57.6606
+17th,American Heritage (Plantation),Earl Generato,73,506002540,20,7,3,57.6606
+18th,Seminole (Seminole),ANDREW KWON,73,341003040,20,7,3,57.6606
+19th,Eastside,Lulu Cao,70,280000140,18,2,10,56.6839
+20th,Vero Beach,EMBER COURTNEY,70,372007140,18,2,10,56.6839
+21st,Stoneman Douglas,SARAH SHERMAN,70,532001540,18,2,10,56.6839
+22nd,Palm Harbor Univ,Mohamed Nuh,68,413011540,19,8,3,56.0328
+23rd,Tampa Bay Tech,Nelano East,67,461001940,18,5,7,55.7072
+24th,Lincoln,Joanna Zhao,64,109002840,17,4,9,54.7305
+25th,King,Kevin Zhou,63,435008740,17,5,8,54.4050
+26th,Spruce Creek,Oisin Harrington,62,267011340,17,6,7,54.0794
+27th,Suncoast Comm,Cody Johnson,62,327006040,17,6,7,54.0794
+28th,Rickards High School,Ryan Lerch,60,140001340,17,8,5,53.4283
+29th,Deerfield Beach,Lirun Ronen,55,577002540,16,9,5,51.8005
+30th,Cypress Bay,Jessica Tantivit,53,588018040,14,3,13,51.1493
+31st,Fort Myers,JiYoon Kim,53,423006040,15,7,8,51.1493
+32nd,St Edward's,ELLIOT JAFFE,50,374020240,15,10,5,50.1726
+33rd,Deerfield Beach,Bernie Degnan,49,577001140,13,3,14,49.8471
+34th,Suncoast Comm,Zhaoqi Li,48,327005840,14,8,8,49.5215
+35th,Fort Myers,Danial Zuberi,47,423002740,14,9,7,49.1960
+36th,Canterbury (Lee),Carver Sorensen,41,411004240,13,11,6,47.2426
+37th,RANSOM EVERGLADES,Alexa Kalandiak,41,519002440,11,3,16,47.2426
+38th,Deerfield Beach,Sameer Pandhare,40,577003940,12,8,10,46.9170
+39th,Middleton,Marissa Mendez,40,468000541,14,16,0,46.9170
+40th,Hagerty High School,Esther Cha,40,310001340,11,4,15,46.9170
+41st,Miami Springs,JAMES EBY,39,582003640,10,1,19,46.5914
+42nd,King,Robert Zhang,38,435009030,12,10,8,46.2659
+43rd,RANSOM EVERGLADES,Jack Kim,33,519002040,11,11,8,44.6381
+44th,Berkeley Prep,Tyler Terenzi,32,405007340,9,4,17,44.3125
+45th,Naples,Andy Morgado,32,545008940,9,4,17,44.3125
+46th,Tampa Bay Tech,Arthur Johnson,29,461002040,9,7,14,43.3358
+47th,Hillsborough,CHINDU MOHANAKUMAR,28,428040640,8,4,18,43.0102
+48th,Ferguson,DANIEL VASQUEZ,27,507008040,7,1,22,42.6847
+49th,Cape Coral High School,KRYSTIAN SICARD,25,418002440,8,7,15,42.0335
+50th,American Heritage - Boca/Delray,Jiachen (Jessie) Ji,22,526007840,6,2,22,41.0569
+51st,Lincoln,Richard Reason,21,109091840,7,7,16,40.7313
+52nd,Hagerty High School,Jennifer Lam,20,310002940,6,4,20,40.4057
+53rd,Flagler Palm Coast,Linsey Smith,19,221020040,5,1,24,40.0802
+54th,Ferguson,JOSE BOHORQUES,15,507005540,4,1,25,38.7779
+55th,Canterbury (Lee),Persichilli Sam,14,411001340,8,18,4,38.4523
+56th,Fort Myers,Kayla Chew,13,423005040,4,3,23,38.1268
+57th,Gaither High School,Jonathan Sardja,12,426000240,4,4,22,37.8012
+58th,Ferguson,AHMED SALIM,11,507011840,3,1,26,37.4757
+59th,Cypress Bay,Natalie Richter,11,588017140,8,21,1,37.4757
+60th,Suncoast Comm,Samantha Grubner,10,327006240,3,2,25,37.1501
+61st,Palmetto Ridge,Kevin Garcia,9,518001240,6,15,9,36.8245
+62nd,Miami Sunset,SCARLETT CORSON,7,544001130,2,1,27,36.1734
+63rd,Deerfield Beach,MONICA MOYA,6,577001040,2,2,26,35.8478
+64th,Sickles,Austin Unger,6,479007440,2,2,26,35.8478
+65th,Community Sch Naples,Pierce Gleeson,4,562001740,3,8,19,35.1967
+66th,Ferguson,ANETMARIE VALDES,3,507000240,1,1,28,34.8711

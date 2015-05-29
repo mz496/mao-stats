@@ -1,0 +1,123 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Bekka DePew,120,405002631,30,0,0,83.8789
+2nd,Community School of Naples,Max Bressler,110,562003431,28,2,0,79.9285
+3rd,Berkeley Prep,Zack Tripp,100,405004431,26,4,0,75.9782
+4th,Community School of Naples,Jeremy Price,90,562002431,24,6,0,72.0279
+5th,Wharton,HYUNCHUL ROH,90,485000231,24,6,0,72.0279
+6th,Palm Harbor University,Zhicheng Qiao,80,413016131,22,8,0,68.0776
+7th,King,Shivam Bharadwaj,77,435000331,20,3,7,66.8925
+8th,Berkeley Prep,Neil Mandal,74,405003531,20,6,4,65.7074
+9th,H. B. Plant,Walter Ley,70,427034031,18,2,10,64.1273
+10th,Hillsborough,HAOYUN CAO,70,428030331,19,6,5,64.1273
+11th,Community School of Naples,Andrea Moreno,70,562000131,19,6,5,64.1273
+12th,Cape Coral,KEVIN WELLS,68,418000731,19,8,3,63.3372
+13th,Community School of Naples,Alex Fogg,68,562003031,18,4,8,63.3372
+14th,Hillsborough,ADAM BACHMANN,67,428030131,19,9,2,62.9422
+15th,Palm Harbor University,Elizabeth Zeng,66,413020831,19,10,1,62.5471
+16th,Fort Myers,ALEX GARCIA,64,423000131,17,4,9,61.7571
+17th,Berkeley Prep,Derek Cohen,60,405002430,16,4,10,60.1769
+18th,Berkeley Prep,Will Watson,59,405004530,16,5,9,59.7819
+19th,Plant City,Bijen Patel,59,454020131,16,5,9,59.7819
+20th,Cape Coral,KILLIAN MUOLLO,58,418000231,15,2,13,59.3869
+21st,Berkeley Prep,Alex Nelson,56,405002330,15,4,11,58.5968
+22nd,Naples,Rich Krapf,55,545005731,14,1,15,58.2018
+23rd,King,Andres Saez,55,435004931,15,5,10,58.2018
+24th,Fort Myers,INDRASENA CHILAKALA,53,423003031,14,3,13,57.4117
+25th,Fort Myers,MICHAEL D'ANGELO,53,423002131,14,3,13,57.4117
+26th,Berkeley Prep,Ajay Kanuri,53,405003231,16,11,3,57.4117
+27th,Community School of Naples,Colette Rackleff,51,562005130,15,9,6,56.6216
+28th,Berkeley Prep,Tatianna Padmanabhan,50,405004030,13,2,15,56.2266
+29th,Hillsborough,MOON BO,50,428030631,14,6,10,56.2266
+30th,King,Rachita Das,50,435000731,14,6,10,56.2266
+31st,Freedom,Kevin Tian,49,466005231,13,3,14,55.8316
+32nd,Berkeley Prep,Conor Murphy,48,405003830,13,4,13,55.4365
+33rd,Palm Harbor University,Hammad Huda,48,413008331,14,8,8,55.4365
+34th,Cape Coral,KYLE PARTRIDGE,47,418000631,13,5,12,55.0415
+35th,King,Subramanian Lakshminarasimhan,46,435002731,13,6,11,54.6465
+36th,Naples,Hector Mora,45,545006230,12,3,15,54.2515
+37th,The Koc School,DAMLA DARICI,45,412000731,13,7,10,54.2515
+38th,Berkeley Prep,Robert Cui,44,405002530,12,4,14,53.8564
+39th,Naples,Vren Manuel,43,545006131,12,5,13,53.4614
+40th,H. B. Plant,Mei Raley,43,427034331,12,5,13,53.4614
+41st,Gaither,Jenny Yoder,42,426001831,11,2,17,53.0664
+42nd,Berkeley Prep,Josh Bobo,42,405002230,12,6,12,53.0664
+43rd,St. Stephen's Episcopal,JOSHUA KEZAR,42,489001131,12,6,12,53.0664
+44th,St. Stephen's Episcopal,ISHPAUL BHAMBER,40,489000931,11,4,15,52.2763
+45th,Community School of Naples,Daniela Lopez,40,562007630,11,4,15,52.2763
+46th,Naples,Rodrigo Mora,39,545006330,11,5,14,51.8813
+47th,Community School of Naples,Valentina Grekos,39,562004230,10,1,19,51.8813
+48th,Canterbury (Lee),Oscar Anderson,38,411003931,11,6,13,51.4862
+49th,Middleton,Chris Nevins,37,468002131,11,7,12,51.0912
+50th,Naples,Zoe Ball,37,545005030,11,7,12,51.0912
+51st,Wharton,EARL BELL,35,485000031,9,1,20,50.3011
+52nd,Middleton,Zachary Ottenburg,35,468002231,10,5,15,50.3011
+53rd,Palm Harbor University,Megan Gutter,35,413006930,9,1,20,50.3011
+54th,Naples,Courtney Kramer,34,545005630,10,6,14,49.9061
+55th,Naples,Stephen Childs,34,545005131,10,6,14,49.9061
+56th,Naples,Josiah Villarosa,33,545007030,9,3,18,49.5111
+57th,Mariner,Angela Minich,32,473002131,9,4,17,49.1160
+58th,H. B. Plant,David Yienger,32,427034231,11,12,7,49.1160
+59th,Bishop Verot,LeAnn Meyer,32,453001031,10,8,12,49.1160
+60th,Naples,Danny Digiorno,31,545005431,9,5,16,48.7210
+61st,Community School of Naples,Taylor Rembos,31,562004830,10,9,11,48.7210
+62nd,Bishop Verot,Kelly Williamson,30,453001230,12,18,0,48.3260
+63rd,Berkeley Prep,Shaun Majumdar,29,405003430,9,7,14,47.9309
+64th,Plant City,Kyle Griffin,28,454020431,8,4,18,47.5359
+65th,Plant City,Michael Sykes,28,454020331,8,4,18,47.5359
+66th,Naples,Sarah DeShields,28,545005330,8,4,18,47.5359
+67th,Durant,Manuel Perez,27,475001531,8,5,17,47.1409
+68th,Wharton,WILLIAM KOLLURI,27,485002431,9,9,12,47.1409
+69th,Fort Myers,CORY FRENCH,26,423001431,7,2,21,46.7458
+70th,St. Stephen's Episcopal,AMY ADDISON,26,489000731,7,2,21,46.7458
+71st,Bishop Verot,Anna Aulino,25,453000230,8,7,15,46.3508
+72nd,Gaither,Alexander Auto,25,426000331,7,3,20,46.3508
+73rd,Palm Harbor University,Ross Yanuck,24,413020530,7,4,19,45.9558
+74th,Durant,Kevin Taylor,23,475001731,6,1,23,45.5607
+75th,Gaither,Joseph Sawyers,23,426003231,7,5,18,45.5607
+76th,Cape Coral,MISTY KAR,23,418000530,7,5,18,45.5607
+77th,Canterbury (Lee),Nick Thompson,22,411004031,7,6,17,45.1657
+78th,St. Stephen's Episcopal,MORGAN WILLIAMS,22,489001730,8,10,12,45.1657
+79th,Mariner,Michael Wozny,21,473003131,7,7,16,44.7707
+80th,Plant City,Thomas Sustek,20,454020231,6,4,20,44.3757
+81st,Middleton,Brandon Hernandez,20,468000831,7,8,15,44.3757
+82nd,St. Stephen's Episcopal,NILAN PATEL,20,489001431,6,4,20,44.3757
+83rd,Mariner,Nicole Ballman,20,473000330,10,20,0,44.3757
+84th,Bishop Verot,Holly Abernathy,20,453000130,10,20,0,44.3757
+85th,Bishop Verot,Sarah Branthoover,19,453000331,7,9,14,43.9806
+86th,Gaither,Rachel Strelser,19,426001431,6,5,19,43.9806
+87th,The Koc School,METE OZMEN,19,412000631,8,13,9,43.9806
+88th,Fort Myers,SAMMY WAPPI,18,423001330,5,2,23,43.5856
+89th,Fort Myers,TREY DOUGHERTY,18,423001730,6,6,18,43.5856
+90th,Wharton,JAY WICKERSHAM,18,485002531,6,6,18,43.5856
+91st,North Fort Myers,Lydia Rodriguez,15,433000331,5,5,20,42.4005
+92nd,Hillsborough,ANTHONY CRUZ,15,428030531,9,21,0,42.4005
+93rd,Riverdale, ,15,059102531,9,21,0,42.4005
+94th,Fort Myers,RHEA PATEL,14,423001630,4,2,24,42.0055
+95th,Palm Harbor University,Cameron Frost,14,413005931,5,6,19,42.0055
+96th,Golden Gate,Xiomara Brioso,13,560001031,6,11,13,41.6104
+97th,Berkeley Prep,John Psaltis,13,405004130,7,15,8,41.6104
+98th,Berkeley Prep,Adam Soliman,12,405004230,4,4,22,41.2154
+99th,Cape Coral,ANDRE CARDOSO,11,418000330,4,5,21,40.8204
+100th,Bishop Verot,Adrian Isberto,11,453000731,4,5,21,40.8204
+101st,Golden Gate,Guadalupe Lopez,11,560000331,5,9,16,40.8204
+102nd,Naples,Peter Yanson,10,545007430,4,6,20,40.4253
+103rd,Cape Coral,KATINA WHITE,10,418000131,4,6,20,40.4253
+104th,Durant,Krysta Tate,10,475005031,7,18,5,40.4253
+105th,Riverdale, ,10,059102831,8,22,0,40.4253
+106th,Naples,Leianne Louis,9,545006030,4,7,19,40.0303
+107th,Riverdale, ,8,059102731,6,16,8,39.6353
+108th,Naples,Romina Rosales,7,545006530,3,5,22,39.2402
+109th,Fort Myers,THOMAS SEIDLER,7,423001830,3,5,22,39.2402
+110th,North Fort Myers,Isaac Gainey,6,433000131,3,6,21,38.8452
+111th,Durant,Raymond Dalton,6,475004931,4,10,16,38.8452
+112th,Middleton,Rahul Sirigiri,6,468000931,3,6,21,38.8452
+113th,Bishop Verot,Adriana Diaz,5,453000531,3,7,20,38.4502
+114th,Canterbury (Lee),Ryan Foor,5,411001431,4,11,15,38.4502
+115th,Mariner,Amanda Yoho,4,473003231,3,8,19,38.0551
+116th,North Fort Myers,Reid Thompson,2,433000431,1,2,27,37.2651
+117th,Riverdale, ,2,059102631,3,10,17,37.2651
+118th,Mariner,Lissette Ortiz,0,473002331,4,16,10,36.4750
+119th,Mariner,Monica Amaya,0,473000430,6,24,0,36.4750
+120th,North Fort Myers,Dean Bui,-1,433000231,2,9,19,36.0800
+121st,Fort Myers,TY CHRISTOFF,-1,423001530,5,21,4,36.0800
+122nd,Lely,Anthonine Charles,-4,581000630,1,8,21,34.8949

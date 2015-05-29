@@ -1,0 +1,98 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Cypress Bay,Richie   Pick,115,588012161,29,1,0,70.0873
+2nd,Cypress Bay,Arun  Kuruppumadom,115,588011461,29,1,0,70.0873
+3rd,Miami Palmetto,Sijie Fan,115,541004060,29,1,0,70.0873
+4th,Cypress Bay,Sebastian  Vidal,110,588013361,28,2,0,68.5929
+5th,Cypress Bay,Anna  Wang,110,588013461,28,2,0,68.5929
+6th,Deerfield Beach,Abbey Bethel,110,577008661,28,2,0,68.5929
+7th,Deerfield Beach,Isabel Lopez,106,577009161,27,2,1,67.3973
+8th,Suncoast Comm,Stephen Horgan,105,327001661,27,3,0,67.0984
+9th,American Heritage (plantation),James Peng,100,506005161,26,4,0,65.6039
+10th,Atlantic High School,Zachary Homans,100,597002961,26,4,0,65.6039
+11th,Stoneman Douglas,Madu Nagaraj,98,532021361,25,2,3,65.0062
+12th,American Heritage - P. B,Francis Musella,92,526000461,24,4,2,63.2128
+13th,Suncoast Comm,Anurag Komaravelli,90,327000760,23,2,5,62.6150
+14th,Cypress Bay,Emma   Babb,90,588009360,24,6,0,62.6150
+15th,Suncoast Comm,Jennifer Tilton,88,327014361,23,4,3,62.0173
+16th,Miami Springs,Evan Williams,86,582010261,23,6,1,61.4195
+17th,Suncoast Comm,Adityanaray Radhakrishnan,86,327014061,23,6,1,61.4195
+18th,Coral Glades,Adam Waters,86,528004461,23,6,1,61.4195
+19th,Suncoast Comm,John Bralich,86,327005061,23,6,1,61.4195
+20th,Nova High School,Chelsie Librun,85,553000661,23,7,0,61.1206
+21st,Coral Glades,Jonathan Muller,83,528003661,22,5,3,60.5228
+22nd,Coral Glades,Jessica Yeh,81,528008761,21,3,6,59.9250
+23rd,Cypress Bay,Ian   Norman,80,588011860,21,4,5,59.6261
+24th,Stoneman Douglas,Daniel Mazlin,79,532021161,21,5,4,59.3272
+25th,Deerfield Beach,Mauricio Villa,77,577010261,20,3,7,58.7295
+26th,Cypress Bay,Nancy   Si,75,588012660,21,9,0,58.1317
+27th,American Heritage (plantation),Carmel Barrau,73,506005561,19,3,8,57.5339
+28th,Cypress Bay,Rahul   Dendukuri,68,588010260,18,4,8,56.0394
+29th,Miami Springs,Toni Canonico,63,582011261,17,5,8,54.5450
+30th,Flanagan,Ryan Chancoco,62,591000661,16,2,12,54.2461
+31st,Dr Michael Krop,Stefania Halas,62,502005361,17,6,7,54.2461
+32nd,Deerfield Beach,Paula Pluchino,61,577009361,16,3,11,53.9472
+33rd,Coral Glades,Abraham Duplaa,55,528002561,16,9,5,52.1539
+34th,Coral Springs,Robbie Muth,55,515004261,15,5,10,52.1539
+35th,Spanish River High School,Rachel Zhuang,55,594043361,16,9,5,52.1539
+36th,Belen Jesuit Prep,Alexander Marina,54,535010261,14,2,14,51.8550
+37th,American Heritage (plantation),Mike Farruggia,53,506004861,15,7,8,51.5561
+38th,North Miami Beach,Kelvin Li,51,546073161,14,5,11,50.9583
+39th,Dr Michael Krop,Nicole Ludmir,51,502000261,14,5,11,50.9583
+40th,Deerfield Beach,Krish Sigler,50,577009660,16,14,0,50.6594
+41st,Coral Springs,Winnie Lo,50,515002861,16,14,0,50.6594
+42nd,Deerfield Beach,Javaughn Lawrence,45,577009060,14,11,5,49.1650
+43rd,Suncoast Comm,Tucker Elliott,44,327001960,13,8,9,48.8661
+44th,Stoneman Douglas,Kitman Chan,43,532020361,12,5,13,48.5672
+45th,Jp Taravella,Marissa Kaslof,42,533003461,12,6,12,48.2683
+46th,Mast Academy,Emily Deng,39,556003561,12,9,9,47.3716
+47th,Coral Glades,Matthew Sheinbaum,38,528005160,11,6,13,47.0727
+48th,American Heritage (plantation),Yiran Chen,38,506005760,12,10,8,47.0727
+49th,Deerfield Beach,Jagjit Singh,37,577009860,11,7,12,46.7738
+50th,Ronald Reagan H. S.,Santiago Franco,37,527001660,10,3,17,46.7738
+51st,North Miami Beach,Kintin Ng,37,546000861,10,3,17,46.7738
+52nd,Spanish River High School,Sarah Nader,36,594042161,11,8,11,46.4749
+53rd,Spanish River High School,Matt Chan,36,594043461,12,12,6,46.4749
+54th,Stoneman Douglas,Joanne Lau,35,532020861,11,9,10,46.1760
+55th,Jp Taravella,Pui Kwong,35,533002361,9,1,20,46.1760
+56th,Suncoast Comm,Scott Jagolinzer,34,327005860,10,6,14,45.8772
+57th,Ferguson,Christina Diaz,32,507001560,9,4,17,45.2794
+58th,American Heritage (plantation),Saman Saleem,32,506000061,10,8,12,45.2794
+59th,Everglades High,Leon Chen,31,530005261,10,9,11,44.9805
+60th,Flanagan,Jaynee Hart,30,591000261,8,2,20,44.6816
+61st,Ferguson,Taaha Mendha,30,507000061,12,18,0,44.6816
+62nd,Coral Gables,Yosleny  Perez,29,513001660,9,7,14,44.3827
+63rd,American High School,Nathalia Perez,27,523002261,9,9,12,43.7849
+64th,American Heritage - P. B,Madison Wagener,26,526001060,8,6,16,43.4860
+65th,Deerfield Beach,Sydney Smith,26,577009960,8,6,16,43.4860
+66th,Coral Springs,Yudir Chang,26,515002161,11,18,1,43.4860
+67th,Dr Michael Krop,Shane Mackey,26,502002561,8,6,16,43.4860
+68th,Deerfield Beach,Mackenzie Fay,25,577008960,8,7,15,43.1871
+69th,Dr Michael Krop,Hira Shabbir,23,502001461,8,9,13,42.5894
+70th,Miami Springs,Natalie Martinez,23,582012160,8,9,13,42.5894
+71st,Miami Springs,Tyler Thomas,23,582013461,6,1,23,42.5894
+72nd,Braddock,Claudia Vega,22,538000560,6,2,22,42.2905
+73rd,North Miami Beach,Sandra Yee,21,546071161,7,7,16,41.9916
+74th,Ferguson,Ricardo Dearmas,21,507004961,8,11,11,41.9916
+75th,American Heritage - P. B,Jossie Yashinskie,21,526000261,7,7,16,41.9916
+76th,Deerfield Beach,Abdullah Khalid,20,577014360,10,20,0,41.6927
+77th,Piper,Samantha Leung,19,552000861,6,5,19,41.3938
+78th,Everglades High,Chandelle Raza,19,530006161,5,1,24,41.3938
+79th,Flanagan,Tiffany Cheung,18,591004061,6,6,18,41.0949
+80th,Flanagan,Jesse Cheung,18,591000161,6,6,18,41.0949
+81st,Miami Springs,Christina Lob,17,582004461,7,11,12,40.7960
+82nd,Miami Springs,Joel Druan,16,582008260,6,8,16,40.4971
+83rd,Miami Springs,Anny Rodriguez,16,582004560,5,4,21,40.4971
+84th,Everglades High,Zyonne Arcena,14,530000461,5,6,19,39.8993
+85th,American High School,Abel Aybar,14,523000061,5,6,19,39.8993
+86th,American Heritage - P. B,Lauren Steinberg,13,526000561,6,11,13,39.6005
+87th,Coral Glades,Marie Santarcangelo,13,528004060,5,7,18,39.6005
+88th,Piper,Nicole Dezeeuw,13,552001261,7,15,8,39.6005
+89th,Coral Glades,Rohan Nadkarni,11,528001460,5,9,16,39.0027
+90th,Deerfield Beach,Casey Duanjick,10,577008860,8,22,0,38.7038
+91st,American High School,Saul Garcia,9,523000861,5,11,14,38.4049
+92nd,Ferguson,Adrian Cotarelo,9,507004761,3,3,24,38.4049
+93rd,Piper,Danielle Dennis,8,552001161,6,16,8,38.1060
+94th,Miami Springs,Andrew Meyers,5,582007460,7,23,0,37.2093
+95th,Coral Glades,Kyle Pagan,0,528006960,1,4,25,35.7149
+96th,Ferguson,Justin Bernardo,-2,507004661,1,6,23,35.1171
+97th,Piper,Gabriel Gonzalez,-5,552001361,5,25,0,34.2204

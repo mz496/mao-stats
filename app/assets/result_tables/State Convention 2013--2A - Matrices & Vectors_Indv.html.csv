@@ -1,0 +1,65 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),REETI GULATI,150,341006740,30,0,0,64.8703
+2nd,Buchholz,David Hurst,146,295000240,29,0,1,63.7566
+3rd,Fort Myers,Andrew Suh,145,423004740,29,1,0,63.4781
+4th,Lawton Chiles High School,Nick Young,145,181004840,29,1,0,63.4781
+5th,Buchholz,Jason Ai,145,295004540,29,1,0,63.4781
+6th,American Heritage (Plantation),Kwesi Levy,145,506000540,29,1,0,63.4781
+7th,Cypress Bay,Christian Madali,140,588003940,28,2,0,62.0859
+8th,Seminole (Seminole),JUSTIN RAMAN,140,341006940,28,2,0,62.0859
+9th,King,Daniel Suen,135,435010840,27,3,0,60.6937
+10th,Berkeley Prep,Theo Diamandis,135,405000240,27,3,0,60.6937
+11th,Vero Beach,RYAN ZEREGA,135,372004940,27,3,0,60.6937
+12th,Rickards High School,Awnish Choudhary,135,140002640,27,3,0,60.6937
+13th,Buchholz,HauLin Wu,133,295004240,26,1,3,60.1369
+14th,Buchholz,Spencer Douglas,131,295002340,26,3,1,59.5800
+15th,King,Tianbo Chen,131,435009140,26,3,1,59.5800
+16th,Hagerty High School,Grant Elliot,130,310002440,26,4,0,59.3016
+17th,Eastside,Kelly Lampotang,128,280002740,25,2,3,58.7447
+18th,Fort Myers,Kamryn Lewis,128,423000640,25,2,3,58.7447
+19th,Rickards High School,Stephen Barton,127,140000940,25,3,2,58.4662
+20th,Buchholz,Soomin Cho,126,295003240,25,4,1,58.1878
+21st,American Heritage (Plantation),Dajon Thomas,125,506001840,25,5,0,57.9094
+22nd,Buchholz,Victor Lin,121,295005040,24,5,1,56.7956
+23rd,Miami Palmetto,Benjamin Bao,120,541000440,24,6,0,56.5172
+24th,Lincoln,Justin Bartell,120,109001140,24,6,0,56.5172
+25th,King,Jesse Huang,112,435009740,22,6,2,54.2897
+26th,Rickards High School,Rhea Reyes,109,140003840,21,5,4,53.4544
+27th,Stoneman Douglas,NATHANIEL MA,108,532001140,20,2,8,53.1759
+28th,Fort Myers,Punith Chilakala,107,423000440,20,3,7,52.8975
+29th,Miami Springs,PATRICK BOLTON,106,582006040,20,4,6,52.6191
+30th,Spruce Creek,Samuel Swanson,105,267005940,21,9,0,52.3406
+31st,Eastside,Yong Shan,105,280005040,20,5,5,52.3406
+32nd,Miami Springs,DANIELA ZAPATA,98,582002340,18,4,8,50.3916
+33rd,Oak Hall,NEAL PATEL,97,249000340,17,1,12,50.1131
+34th,Hagerty High School,Alexander Creecy,97,310001440,18,5,7,50.1131
+35th,Lawton Chiles High School,Daniel Zheng,93,181004940,17,5,8,48.9994
+36th,Eastside,Gloria Kann,90,280002240,17,8,5,48.1641
+37th,Eastside,Sarah Lulu,89,280003640,16,5,9,47.8856
+38th,Spruce Creek,Kristine Wong,83,267006240,14,3,13,46.2150
+39th,Spruce Creek,Vincent Imbimbo,82,267005540,15,8,7,45.9365
+40th,American Heritage - Boca/Delray,Brendan Haggerty,81,526000240,14,5,11,45.6581
+41st,Berkeley Prep,Morgan Brazel,77,405000140,12,1,17,44.5444
+42nd,Spruce Creek,Shreya Singireddy,76,267006540,13,6,11,44.2659
+43rd,American Heritage - Boca/Delray,Dylan Cahill,70,526001840,11,4,15,42.5953
+44th,Palm Harbor Univ,Chaitanya Guthikonda,69,413001840,12,9,9,42.3169
+45th,Coral Glades,Emily Robinson,69,528003840,10,1,19,42.3169
+46th,Suncoast Comm,Maham Karatela,69,327006040,10,1,19,42.3169
+47th,Deerfield Beach,Vita Tran,68,577006340,11,6,13,42.0384
+48th,Miami Palmetto,Christopher Park,66,541007140,9,0,21,41.4815
+49th,Community Sch Naples,Steve Wulber,64,562004860,9,2,19,40.9247
+50th,Spruce Creek,Shahrose Kasim,64,267006640,11,10,9,40.9247
+51st,Vero Beach,Samantha Howard,63,372002740,9,3,18,40.6462
+52nd,Spruce Creek,Connor Brok,61,267005140,9,5,16,40.0894
+53rd,Community Sch Naples,Jose Sandoval,61,562004240,8,1,21,40.0894
+54th,Spruce Creek,Kristy Kim,59,267006440,9,7,14,39.5325
+55th,Berkeley Prep,Daniela Marques,57,405006140,9,9,12,38.9756
+56th,Coral Glades,Dana Molk,56,528002440,7,2,21,38.6972
+57th,Cape Coral High School,Omar Hanbali,52,418000940,8,10,12,37.5834
+58th,Flagler Palm Coast High School,Maha Muneer,49,221001240,5,1,24,36.7481
+59th,Freedom (Tampa),Serah Choi,49,466000240,6,5,19,36.7481
+60th,Community Sch Naples,Anthony Vernava,48,562004340,5,2,23,36.4697
+61st,Palm Harbor Univ,Andrew Lo,45,413002740,9,21,0,35.6344
+62nd,Ferguson,ALEJANDRO PENARREDONDA,40,507010540,3,2,25,34.2422
+63rd,Saint Edward's School,TRACY NGUYEN,37,374030540,2,1,27,33.4069
+64th,Flagler Palm Coast High School,Lauren Umpenhour,35,221003440,3,7,20,32.8500

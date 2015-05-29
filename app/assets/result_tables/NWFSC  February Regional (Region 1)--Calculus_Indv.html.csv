@@ -1,0 +1,94 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln,Shawn Best,111,109010651,28,1,1,69.5909
+2nd,Lincoln,Preston Donaldson,111,109083251,28,1,1,69.5909
+3rd,Rickards High School,Chris Kim,110,140000551,28,2,0,69.2698
+3rd,Lincoln,Jennifer Zou,110,109011551,28,2,0,69.2698
+5th,Pensacola,Nathan Gupta,110,115000951,28,2,0,69.2698
+6th,Lawton Chiles High School,Niral Patel,110,181011051,28,2,0,69.2698
+7th,Lincoln,Ziyan Song,105,109088851,27,3,0,67.6643
+8th,Pensacola,Kay Li,105,115002651,27,3,0,67.6643
+9th,Rickards High School,Jason Waldman,103,140002351,26,1,3,67.0221
+10th,Fort Walton Beach High School,Scott Alsid,102,139000151,26,2,2,66.7010
+11th,Rickards High School,Jarrod Frankenfield,96,140000651,24,0,6,64.7743
+12th,Lawton Chiles High School,Joseph Kim,92,181009751,24,4,2,63.4899
+13th,Rickards High School,Daniel Kang,90,140004351,24,6,0,62.8477
+14th,Lawton Chiles High School,Linda Wang,88,181012051,23,4,3,62.2055
+15th,Lawton Chiles High School,Chase Belcher,84,181008751,22,4,4,60.9211
+16th,Rickards High School,Lester Nandati,81,140001552,21,3,6,59.9577
+17th,Lawton Chiles High School,Joyce Lin,78,181010350,21,6,3,58.9944
+18th,Lincoln,Luxi Qiao,77,109016852,20,3,7,58.6733
+19th,Rocky Bayou Christian School,Joseph Sung,77,192006751,20,3,7,58.6733
+20th,Rickards High School,Dhyan Valle,76,140000052,20,4,6,58.3522
+21st,Navarre,BRYAN BARRETT,75,180000451,20,5,5,58.0311
+22nd,Pensacola,Sami Alsheikh,73,115004451,19,3,8,57.3889
+23rd,Navarre,BRIAN NYKANEN,71,180001350,20,9,1,56.7467
+24th,Fort Walton Beach High School,Ali Adams,70,139000952,20,10,0,56.4256
+25th,Maclay,Yang Liu,70,172001051,18,2,10,56.4256
+26th,Pensacola,Wesley Henderson,69,115002252,18,3,9,56.1045
+27th,Lawton Chiles High School,Zechariah Lin,69,181010452,18,3,9,56.1045
+28th,Lincoln,Emilee Stowers,68,109011152,19,8,3,55.7834
+29th,Maclay,SoHyun Park,65,172000051,19,11,0,54.8200
+30th,Rocky Bayou Christian School,Jon Allen,65,192007451,18,7,5,54.8200
+31st,Lincoln,Michael Johns,63,109001352,17,5,8,54.1778
+32nd,Maclay,Marco Cognetta,61,172001151,16,3,11,53.5356
+33rd,Rickards High School,Bishoy Ameen,61,140002552,17,7,6,53.5356
+34th,Navarre,RYANNE MOORE,61,180001152,16,3,11,53.5356
+35th,Lawton Chiles High School,Daniel Hoekman,57,181010152,15,3,12,52.2512
+36th,Fort Walton Beach High School,Ari Palanjian,56,139000351,15,4,11,51.9301
+37th,Gulf Breeze High,Kevin Rollins,55,101003351,14,1,15,51.6090
+38th,Fort Walton Beach High School,Taylor Muench,54,139000451,16,10,4,51.2879
+39th,Lincoln,Kirsten Brown,53,109001450,14,3,13,50.9668
+40th,Lawton Chiles High School,John Fox,48,181009450,13,4,13,49.3612
+41st,Lincoln,Christopher Weeden,47,109091652,14,9,7,49.0401
+42nd,Lawton Chiles High School,Miranda Andrews,47,181008550,13,5,12,49.0401
+43rd,Lawton Chiles High School,Amanda Langston,46,181009952,13,6,11,48.7190
+44th,Fort Walton Beach High School,Sarah Franklin,45,139000852,15,15,0,48.3979
+45th,Rickards High School,Kenny Soyars,45,140004252,15,15,0,48.3979
+46th,Rocky Bayou Christian School,Jacob Emerick,44,192004851,12,4,14,48.0768
+47th,Lawton Chiles High School,Andrew Young,43,181012552,12,5,13,47.7557
+48th,West Florida H. S.,Rocio GomezNovo,41,111001551,12,7,11,47.1135
+49th,Rocky Bayou Christian School,William Hudson,41,192004651,11,3,16,47.1135
+50th,Lawton Chiles High School,Andy Downing,40,181009150,12,8,10,46.7924
+51st,Choctawhatchee,Jordan Coker,40,119001451,14,16,0,46.7924
+52nd,Fort Walton Beach High School,Sam Ammons,38,139000251,11,6,13,46.1502
+53rd,Navarre,WILL POLOSKI,38,180001652,10,2,18,46.1502
+54th,Milton,Kaitlyn Lyle,37,154005451,11,7,12,45.8291
+55th,Pensacola,Patrick Tran,37,115002152,11,7,12,45.8291
+56th,Pensacola,Young Baek,37,115004651,11,7,12,45.8291
+57th,Choctawhatchee,Alex Strom,36,119001651,11,8,11,45.5080
+58th,Maclay,Cameron Ridgewell,36,172001551,10,4,16,45.5080
+59th,Choctawhatchee,Brandon Jowers,35,119001351,11,9,10,45.1869
+60th,Navarre,JIMMY CAMPBELL,34,180000752,9,2,19,44.8658
+61st,Rutherford High School,Nhi Luong,34,174002151,9,2,19,44.8658
+62nd,Milton,Colton Westover,34,154005651,9,2,19,44.8658
+63rd,Fort Walton Beach High School,James Hayes,34,139001052,11,10,9,44.8658
+64th,Milton,Landen Ryder,33,154006151,10,7,13,44.5447
+65th,Navarre,TRINH NGUYEN,33,180001252,10,7,13,44.5447
+66th,Milton,James Pool,30,154003151,9,6,15,43.5813
+67th,Maclay,Andy Fadool,29,172001350,8,3,19,43.2602
+68th,Rocky Bayou Christian School,JinWoo Jang,28,192003252,9,8,13,42.9391
+69th,Maclay,Josh Kaplan,27,172002650,7,1,22,42.6180
+70th,Rocky Bayou Christian School,Ryan Burns,26,192006450,10,14,6,42.2969
+71st,Pensacola,Melody Dalton,26,115000552,8,6,16,42.2969
+72nd,Navarre,REBEKAH PADILLA,25,180001450,7,3,20,41.9758
+73rd,Lawton Chiles High School,Annie Booth,24,181008850,7,4,19,41.6547
+74th,Fort Walton Beach High School,Dani Adams,24,139000752,9,12,9,41.6547
+75th,Rutherford High School,David Hill,23,174002051,7,5,18,41.3336
+76th,Lawton Chiles High School,Kelsey McWilliams,22,181010650,7,6,17,41.0125
+77th,Navarre,NATALIE FOSTER,21,180002551,7,7,16,40.6914
+78th,Navarre,XANDRA SCHLECHTE,20,180001851,6,4,20,40.3703
+79th,Lawton Chiles High School,Elizabeth Lee,19,181010050,6,5,19,40.0492
+80th,Lincoln,Courtney Simpson,18,109031450,6,6,18,39.7281
+81st,Rocky Bayou Christian School,Timothy Sung,17,192003952,6,7,17,39.4070
+82nd,Choctawhatchee,Diego delaHoz,14,119002151,5,6,19,38.4436
+83rd,Navarre,BLAINE BECK,13,180000651,5,7,18,38.1225
+84th,Rocky Bayou Christian School,Glory Allen,13,192006352,5,7,18,38.1225
+85th,Navarre,ALEX WHITESIDE,12,180002350,3,0,27,37.8014
+86th,Navarre,KYLE REVETTE,12,180001750,4,4,22,37.8014
+87th,Rocky Bayou Christian School,Sarah Lynch,11,192006650,5,9,16,37.4803
+88th,Rocky Bayou Christian School,Julia Denney,10,192000652,5,10,15,37.1592
+89th,Rutherford High School,Neil Vijapura,9,174002351,4,7,19,36.8381
+90th,West Florida H. S.,Matt O'Rear,9,111001651,4,7,19,36.8381
+91st,Rocky Bayou Christian School,LAURA PATE,8,192010250,3,4,23,36.5170
+92nd,Rocky Bayou Christian School,Teresa Riker,5,192006850,2,3,25,35.5537
+93rd,Rocky Bayou Christian School,Emily Kent,-1,192006550,2,9,19,33.6271

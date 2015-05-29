@@ -1,0 +1,64 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Fairview Middle,Alex Yu,120,125104911,30,0,0,71.0123
+2nd,Lincoln Middle School,Vincent Mei,111,201000511,28,1,1,68.3700
+3rd,Fairview Middle,Tommy Luo,110,125101611,28,2,0,68.0764
+4th,Seacrest High School,Chris Price,102,555700811,26,2,2,65.7278
+5th,Fairview Middle,Mihir Thakkar,100,125104310,26,4,0,65.1406
+6th,Berkeley Prep,Yunhan Xu,99,405008911,25,1,4,64.8470
+7th,Fairview Middle,Kevin Kim,95,125100410,25,5,0,63.6727
+8th,Deerfield Beach,JANAN KHIMANI,93,577001911,24,3,3,63.0855
+9th,Fairview Middle,Pamela Hu,93,125101111,24,3,3,63.0855
+10th,Fairview Middle,Matthew Kang,91,125109911,24,5,1,62.4983
+11th,Deerfield Beach,CHAN SIVARAMAN,86,577003311,23,6,1,61.0304
+12th,Seacrest High School,Jennifer Grigsby,85,555700311,22,3,5,60.7368
+13th,Berkeley Prep,Reed Miller,84,405007811,22,4,4,60.4432
+14th,Lincoln, ,84,109001110,22,4,4,60.4432
+15th,Fairview Middle,David Weng,82,125102810,22,6,2,59.8561
+16th,Cobb,Alex Stowers,81,166002510,22,7,1,59.5625
+17th,Seacrest High School,Donato DiNorcia,81,555700111,22,7,1,59.5625
+18th,Berkeley Prep,Jenn Hobbs,75,405007411,20,5,5,57.8010
+19th,Seacrest High School,William Luer,70,555700610,19,6,5,56.3330
+20th,Fairview Middle,Steven Cui,69,125103810,19,7,4,56.0395
+21st,Deerfield Beach,MOHAMMAD GHANCHI,65,577000911,17,3,10,54.8651
+22nd,Berkeley Prep,Alvin Choy,62,405009110,17,6,7,53.9844
+23rd,Berkeley Prep,Doug Nguyen,60,405009210,17,8,5,53.3972
+24th,Seacrest High School,Kelly Riebesell,58,555700910,17,10,3,52.8100
+25th,Naples,Sidney Hanson,57,545008511,17,11,2,52.5164
+26th,Seacrest High School,Lisa Dunleavy,54,555700211,16,10,4,51.6357
+27th,Miami Springs Middle School,Hector Flores,50,582100611,15,10,5,50.4613
+28th,Seacrest High School,Taylor MacFarlane,50,555700710,14,6,10,50.4613
+29th,Deerfield Beach,SAAIM VALIANI,48,577003611,13,4,13,49.8742
+30th,Trafalgar Middle School,Juan Alonso,47,400100111,15,13,2,49.5806
+31st,Deerfield Beach,MILANPREET KAUR,44,577001710,12,4,14,48.6998
+32nd,Seacrest High School,Gus Joseph,39,555700510,12,9,9,47.2319
+33rd,Parkway Middle School,Eddie oliver,38,527100511,11,6,13,46.9383
+34th,Trafalgar Middle School,Isaias Velasquez,36,400100411,12,12,6,46.3512
+35th,Deerfield Beach,RAQUEL BENSADOUN,32,577000110,9,4,17,45.1768
+36th,Seacrest High School,Sammy Bozza,32,555700010,11,12,7,45.1768
+37th,Mariner,Alisa Scribner,30,473002711,9,6,15,44.5897
+38th,Labelle High School,Trevor Selph,30,510000511,9,6,15,44.5897
+39th,Parkway Middle School,Matthew Hart,28,527100111,9,8,13,44.0025
+40th,Parkway Middle School,Willjames Philiston,28,527101110,9,8,13,44.0025
+41st,Parkway Middle School,Ragyne Moncriefe,26,527101510,11,18,1,43.4153
+42nd,Miami Springs Middle School,Philip Montano,25,582100811,8,7,15,43.1217
+43rd,Riverdale,Rochelle Bovill,25,457001211,8,7,15,43.1217
+44th,Berkeley Prep,Adam Wolf,25,405008811,8,7,15,43.1217
+45th,Trafalgar Middle School,Nick Dalabes,23,400100311,8,9,13,42.5346
+46th,Labelle High School,Jena Howard,22,510000111,7,6,17,42.2410
+47th,Mariner,Peter Illicete,22,473000011,8,10,12,42.2410
+48th,Trafalgar Middle School,Cristian Sin,22,400100211,8,10,12,42.2410
+49th,Parkway Middle School,Britashia Burns,21,527100410,7,7,16,41.9474
+50th,Riverdale,Sarah Pavel,18,457001511,7,10,13,41.0666
+51st,Ferguson,NATALIE HERRERA,17,507099511,5,3,22,40.7731
+52nd,Ferguson,LEMUS,17,507099711,7,11,12,40.7731
+53rd,Riverdale,Jessica Canul,16,457001311,9,20,1,40.4795
+54th,Parkway Middle School,Avachon Pinkey,15,527101310,5,5,20,40.1859
+55th,Labelle High School,Tabitha Parker,13,510000211,6,11,13,39.5987
+56th,Parkway Middle School,Ashley Fletcher,8,527100911,3,4,23,38.1308
+57th,Miami Springs Middle School,Roger Salgado,8,582100711,5,12,13,38.1308
+58th,Parkway Middle School,Tremaine Johnson,8,527101610,4,8,18,38.1308
+59th,Parkway Middle School,Jenna Charles,6,527100610,2,2,26,37.5436
+60th,Miami Springs Middle School,Jose Suarez,6,582100511,3,6,21,37.5436
+61st,Parkway Middle School,Tanagna Payne,4,527100311,2,4,24,36.9564
+62nd,Parkway Middle School,Roneisha Swain,3,527101010,3,9,18,36.6629
+63rd,Parkway Middle School,Kenya Marshall,2,527101410,4,14,12,36.3693

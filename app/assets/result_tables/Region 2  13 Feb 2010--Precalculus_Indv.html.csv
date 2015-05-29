@@ -1,0 +1,71 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,George Tedder,115,295003542,29,1,0,80.5256
+2nd,Buchholz,Jeremy Liu,95,295000542,25,5,0,73.8627
+3rd,Buchholz,Emily Shroads,94,295003441,24,2,4,73.5295
+4th,Buchholz,David Annable,78,295000142,21,6,3,68.1992
+5th,Buchholz,John Phillpot,73,295000641,20,7,3,66.5335
+6th,Buchholz,Fanchao Zhu,73,295001241,19,3,8,66.5335
+7th,Eastside,Jon Claus,72,280001741,19,4,7,66.2004
+8th,Buchholz,June Huang,69,295003240,18,3,9,65.2009
+9th,Buchholz,Antony Gillette,69,295000341,19,7,4,65.2009
+10th,Buchholz,Mackenzie Sims,62,295000740,17,6,7,62.8689
+11th,Buchholz,Haeun Jung,58,295000442,16,6,8,61.5363
+12th,Spruce Creek,Aashish Lalani,57,267014941,15,3,12,61.2032
+13th,Eastside,David Liu,56,280002241,15,4,11,60.8700
+14th,Stanton College Preparatory School,Tuongvan Le,56,296002341,16,8,6,60.8700
+15th,Stanton College Preparatory School,Mohan Ravi,53,296003041,14,3,13,59.8706
+16th,Buchholz,Bryce Sperling,43,295000940,12,5,13,56.5392
+17th,Eastside,Jason Kim,43,280002141,12,5,13,56.5392
+18th,Buchholz,Jingyi Ye,43,295001140,12,5,13,56.5392
+19th,Fleming Island,Molly Merritt,37,220000241,10,3,17,54.5403
+20th,Fleming Island,Giorgi Didebashvili,32,220002041,9,4,17,52.8746
+21st,Stanton College Preparatory School,Janice Lee,31,296007141,9,5,16,52.5414
+22nd,Eastside,Tahsis Claus,28,280001841,10,12,8,51.5420
+23rd,Spruce Creek,Michael Mankbadi,28,267015141,9,8,13,51.5420
+24th,Buchholz,Josh black,28,295005940,10,12,8,51.5420
+25th,Buchholz,Yuhak Choi,26,295003140,8,6,16,50.8757
+26th,Bolles,Nick Zakoske,22,252002841,6,2,22,49.5431
+27th,Stanton College Preparatory School,Daniel Josol,22,296002442,7,6,17,49.5431
+28th,Fleming Island,Nicolas deLeon,20,220001941,6,4,20,48.8768
+29th,Spruce Creek,Mitchell Artin,20,267013842,6,4,20,48.8768
+30th,Episcopal,Ben Wilson,19,204001741,6,5,19,48.5437
+31st,Bolles,Yiming Hu,18,252002041,6,6,18,48.2105
+32nd,St. Francis Catholic High School,Caitlin Neill,15,201000241,9,21,0,47.2111
+33rd,Episcopal,Tanner Roick,15,204001941,6,9,15,47.2111
+34th,Bolles,KuanLuu Chen,15,252000041,7,13,10,47.2111
+35th,Fleming Island,Melissa Andrews,14,220000540,4,2,24,46.8780
+36th,Stanton College Preparatory School,Rupin Singh,12,296003141,5,8,17,46.2117
+37th,Stanton College Preparatory School,Nupur Godbole,12,296006142,4,4,22,46.2117
+38th,Bolles,Zhongyuan Ying,12,252001841,6,12,12,46.2117
+39th,Episcopal,Robert Shepherd,11,204003840,4,5,21,45.8785
+40th,Spruce Creek,Nicole Negedly,10,267015641,3,2,25,45.5454
+41st,Flagler Palm Coast,AUSTIN BERRY,9,221040041,4,7,19,45.2122
+42nd,Nease High School,Emma Domingoes,8,290000441,4,8,18,44.8791
+43rd,Spruce Creek,Emmet Harrington,7,267014541,3,5,22,44.5459
+44th,Fleming Island,Leslie Morgan,7,220000742,3,5,22,44.5459
+45th,Fleming Island,Laurel Perrine,4,220001042,2,4,24,43.5465
+46th,Episcopal,Satchel Siegel,4,204001841,3,8,19,43.5465
+47th,Matanzas,HUNTER FROMM,4,228001741,2,4,24,43.5465
+48th,Fleming Island,Becky Perron,3,220001142,2,5,23,43.2134
+49th,Fleming Island,Wren Flesher,3,220001742,2,5,23,43.2134
+50th,Spruce Creek,Philly Tang,2,267016340,2,6,22,42.8802
+51st,Spruce Creek,Alan Wong,1,267016842,1,3,26,42.5471
+52nd,Gainesville High School,Dagan Martinez,0,268000241,4,16,10,42.2139
+53rd,Leesburg High School,MARIA WILLIAMS,0,287003541,6,24,0,42.2139
+54th,Nease High School,Ajay Loferski,0,290000541,3,12,15,42.2139
+55th,Matanzas,Jerica Trotter,-1,228002341,0,1,29,41.8808
+56th,Stanton College Preparatory School,Diane Lieu,-1,296005542,1,5,24,41.8808
+57th,Leesburg High School,FELICIA COSTA,-2,287001341,1,6,23,41.5476
+58th,Trinity Catholic,Delaney Pfister,-2,294000841,1,6,23,41.5476
+59th,Trinity Catholic,Patricia Phillips,-2,294000941,2,10,18,41.5476
+60th,Gainesville High School,Karen Gomez,-2,268000841,0,2,28,41.5476
+61st,Trinity Catholic,Jessica Vermillion,-2,294001841,3,14,13,41.5476
+62nd,Stanton College Preparatory School,Kaitlin Ramirez,-3,296003442,0,3,27,41.2145
+63rd,Spruce Creek,Gretchen Krantz,-4,267014842,2,12,16,40.8814
+64th,Spruce Creek,Tommy Suddard,-5,267016142,1,9,20,40.5482
+65th,Leesburg High School,SYMONNE SMITH,-6,287003441,1,10,19,40.2151
+66th,Trinity Catholic,Emily Teeter,-6,294001641,4,22,4,40.2151
+67th,Fleming Island,Shannon Wegznek,-7,220000041,2,15,13,39.8819
+68th,St. Francis Catholic High School,Joshua Diblin,-8,201000341,4,24,2,39.5488
+69th,Flagler Palm Coast,KACIE JOHNSTON,-10,221040341,4,26,0,38.8825
+70th,St. Francis Catholic High School,Matthew Hughes,-11,201000141,3,23,4,38.5493

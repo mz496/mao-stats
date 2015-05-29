@@ -1,0 +1,59 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,Niral Patel,53,181002130,14,3,3,69.3837
+2nd,Lincoln Middle School,Steve Han,51,201002130,13,1,6,68.1826
+3rd,Hillsborough,GARRETT LUZADDER,51,428021430,13,1,6,68.1826
+4th,Lincoln Middle School,Jimmy Zhang,50,201002330,13,2,5,67.5820
+5th,Buchholz,Jasmine Robinson,47,295000030,12,1,7,65.7803
+6th,Lincoln Middle School,Alex Song,45,201002830,13,7,0,64.5792
+7th,Buchholz,Thachalada Thummakul,44,295001030,12,4,4,63.9787
+8th,Lincoln Middle School,David Liu,41,201002630,12,7,1,62.1770
+9th,Lawton Chiles High School,Jason Wu,41,181003430,12,7,1,62.1770
+10th,Lincoln,Luxi Qiao,37,109016830,10,3,7,59.7747
+11th,Palm Harbor Univ,Ashwin Dewan,36,413001430,11,8,1,59.1741
+12th,Lawton Chiles High School,Morrie Kim,35,181001330,10,5,5,58.5736
+13th,Buchholz,Fanchao Zhu,34,295001230,9,2,9,57.9730
+14th,Palm Harbor Univ,Ethan Dunn,33,413001530,9,3,8,57.3724
+15th,Lawton Chiles High School,Matthew Smith,32,181002830,9,4,7,56.7719
+16th,Hagerty High School,Elaine Lam,31,310000430,9,5,6,56.1713
+17th,Buchholz,Jooheui Son,31,295000830,9,5,6,56.1713
+18th,Hagerty High School,Tara Scott,30,310001730,9,6,5,55.5708
+19th,Oviedo,Caitlin Loftus,27,377000930,8,5,7,53.7691
+20th,Miami Springs,MAIKEL ZALDIVAR,26,582008030,8,6,6,53.1685
+21st,St Edward's,NICK HAMMERLE,25,374030330,9,11,0,52.5679
+22nd,Hillsborough, ,25,428021330,7,3,10,52.5679
+23rd,Stoneman Douglas,ADAM WESTERDALE,25,532016030,8,7,5,52.5679
+24th,Stoneman Douglas,DECHENG YOU,24,532016230,8,8,4,51.9674
+25th,Lawton Chiles High School,Bailey Ruark,23,181002730,7,5,8,51.3668
+26th,Lawton Chiles High School,Annie Zheng,23,181003530,6,1,13,51.3668
+27th,Freedom,KEVIN LAY,22,466005830,7,6,7,50.7662
+28th,Lincoln,Stephanie Hong,20,109069630,7,8,5,49.5651
+29th,Lincoln Middle School,Analee Perez,20,201002230,6,4,10,49.5651
+30th,Miami Springs,NASTHIA VILLAVICENCIO,20,582003130,8,12,0,49.5651
+31st,Miami Springs,ELIZABETH PEREZ,18,582009030,5,2,13,48.3640
+32nd,Ferguson,DAVID SOTOLONGO,18,507010530,5,2,13,48.3640
+33rd,Oviedo,Jarrett Slater,17,377001430,5,3,12,47.7634
+34th,Lincoln,Courtney Simpson,17,109031430,6,7,7,47.7634
+35th,Lawton Chiles High School,Kelsey McWilliams,15,181001830,6,9,5,46.5623
+36th,Lawton Chiles High School,Elizabeth Lee,15,181001530,4,1,15,46.5623
+37th,Miami Springs,JONATHAN ENRIQUEZ,15,582000730,7,13,0,46.5623
+38th,Lincoln Middle School,JuKyung Choi,14,201001930,6,10,4,45.9617
+39th,Hillsborough,TRISHA DEY,14,428020630,5,6,9,45.9617
+40th,Miami Springs,RUBI BRAVO,13,582008330,4,3,13,45.3612
+41st,Lincoln,Katie Rudzik,11,109066630,3,1,16,44.1600
+42nd,Hagerty High School,Sohani Kasireddy,10,310000230,6,14,0,43.5595
+43rd,Miami Springs,KEVIN UGAZ,9,582002930,3,3,14,42.9589
+44th,Hagerty High School,Vanessa Markgraf,7,310000330,4,9,7,41.7578
+45th,Hillsborough,REBECCA TRAN,5,428021130,2,3,15,40.5566
+46th,Miami Springs,FUNDORA ARLETTIS,4,582008830,3,8,9,39.9561
+47th,Miami Springs,REBECCA RICHEY,3,582002330,2,5,13,39.3555
+48th,Miami Springs,RANCES VARGAS,2,582009130,3,10,7,38.7549
+49th,Palm Harbor Univ,Lauren Moseley,1,413003830,2,7,11,38.1544
+50th,Miami Springs,GINA STONEY,1,582002630,2,7,11,38.1544
+51st,Miami Springs,ASHLEY BRODHEAD,0,582000430,1,4,15,37.5538
+52nd,Palm Harbor Univ,Justin Singh,0,413005730,4,16,0,37.5538
+53rd,Miami Springs,ALEX RODRIGUEZ,0,582002130,4,16,0,37.5538
+54th,Miami Springs,MARK ANDRE,-1,582008630,1,5,14,36.9533
+55th,Lawton Chiles High School,Dana Edwards,-1,181011530,0,1,19,36.9533
+56th,Lawton Chiles High School,Annie Booth,-1,181000530,1,5,14,36.9533
+57th,Miami Springs,ASHLEY CASTILLO,-3,582008730,0,3,17,35.7521
+58th,Freedom,TAYLOR WISEMAN,-3,466001530,1,7,12,35.7521

@@ -1,0 +1,127 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,George Tedder,94,295003521,24,2,4,74.1053
+2nd,Buchholz,Emily Shroads,89,295003421,23,3,4,71.9700
+3rd,Fairview Middle,Bhavana Pottabatula,85,125102921,22,3,5,70.2618
+4th,Buchholz,June Huang,83,295003221,21,1,8,69.4076
+5th,Fairview Middle,Andrew Chen,83,125103121,21,1,8,69.4076
+6th,Fairview Middle,Diego Hernandez,82,125100721,21,2,7,68.9806
+7th,Buchholz,Mackenzie Sims,81,295000720,21,3,6,68.5535
+8th,Fairview Middle,Annie Ma,79,125101520,20,1,9,67.6994
+9th,Seminole (Seminole),Ali.Musa Jaffer,78,341000321,21,6,3,67.2723
+10th,Buchholz,Haeun Jung,77,295000421,20,3,7,66.8453
+11th,Seminole (Seminole),TYLER COUGHLIN,74,341001721,19,2,9,65.5641
+12th,Eastside,Tahsis Claus,74,280000421,19,2,9,65.5641
+13th,Howard Bishop Middle,Matthew Pearson,73,208101221,20,7,3,65.1370
+14th,Buchholz,Bryce Sperling,70,295000920,19,6,5,63.8558
+15th,Jackson Heights Middle,JOY SHEN,70,304102121,18,2,10,63.8558
+16th,Cobb,Angela Jiang,68,166002921,18,4,8,63.0017
+17th,Freedom,ALEX COLEMAN,67,466003721,17,1,12,62.5746
+18th,Fairview Middle,Sonia Koul,66,125101820,17,2,11,62.1476
+19th,Cobb,Jasmine Tsai,64,166005621,18,8,4,61.2934
+20th,Buchholz,Yuhak Choi,63,295003120,17,5,8,60.8664
+21st,Buchholz,Paul Park,61,295003320,17,7,6,60.0123
+22nd,Buchholz,Jingyi Ye,60,295001120,16,4,10,59.5852
+23rd,Markham Woods Middle,Arley Ruskin,58,323100021,16,6,8,58.7311
+24th,Jackson Heights Middle,TATIANA ANTHONY,57,304102922,16,7,7,58.3040
+25th,Williams Middle,Rachita Das,57,468177521,15,3,12,58.3040
+26th,Sandford Middle,Dax Tyson,57,344102621,16,7,7,58.3040
+27th,Buchholz,Josh Black,56,295000220,15,4,11,57.8769
+28th,Fairview Middle,Kavitha Chintam,56,125101320,15,4,11,57.8769
+29th,Fairview Middle,Andrew Chico,55,125104420,17,13,0,57.4499
+30th,Jackson Heights Middle,ERIC ANSCHUETZ,55,304102421,15,5,10,57.4499
+31st,Howard Bishop Middle,Joshua Brownstein,55,208100821,14,1,15,57.4499
+32nd,Seminole (Seminole),DANIEL SWANN,54,341000921,14,2,14,57.0228
+33rd,Oviedo,Kevin Jones,54,377003621,14,2,14,57.0228
+34th,Howard Bishop Middle,Henry Cole,52,208100921,14,4,12,56.1687
+35th,Sandford Middle,Cas Kiersnowski,51,344102221,14,5,11,55.7416
+36th,Fairview Middle,Sathwik Madireddy,50,125100321,15,10,5,55.3146
+37th,Williams Middle,Shivan Bharadwaj,50,468177821,13,2,15,55.3146
+38th,Jackson Heights Middle,JOHN LI,50,304102221,15,10,5,55.3146
+39th,Seminole (Seminole),PHONG NGUYEN,49,341001121,13,3,14,54.8875
+40th,Fairview Middle,Nidhi Desai,49,125102520,13,3,14,54.8875
+41st,Freedom,WERTHER MARCIALES,49,466005021,14,7,9,54.8875
+42nd,Sandford Middle,Lizzy Sult,48,344102321,13,4,13,54.4604
+43rd,Lawton Chiles High School,Zechariah Lin,47,181007421,14,9,7,54.0334
+44th,King,RAVI MEDIKONDA,46,435003820,12,2,16,53.6063
+45th,Lincoln Park Academy,CIMONE WATSON,45,396001421,12,3,15,53.1792
+46th,Miami Springs Middle School,Henry Laney,44,582100021,11,0,19,52.7522
+47th,Buchholz,Huisub Yoon,42,295003620,13,10,7,51.8981
+48th,Howard Bishop Middle,Caleb Summers,42,208101421,12,6,12,51.8981
+49th,Sandford Middle,Nick Swann,42,344102421,11,2,17,51.8981
+50th,Freedom,LOGAN FREEZE,42,466004121,11,2,17,51.8981
+51st,Sandford Middle,Austin Keatley,40,344102520,11,4,15,51.0439
+52nd,Kipp Pride High,William Bell,40,199900221,11,4,15,51.0439
+53rd,Markham Woods Middle,Besant Nandra,39,323102221,11,5,14,50.6169
+54th,Sandford Middle,Annika Jarvinen,38,344102720,10,2,18,50.1898
+55th,Sandford Middle,Lee Berman,38,344102920,13,14,3,50.1898
+56th,Eastside,Jon Yoo,37,280000321,13,15,2,49.7627
+57th,Shorecrest Prep,NICK NUNNELLY,37,451003921,11,7,12,49.7627
+58th,Cobb,Samuel Tew,37,166005521,11,7,12,49.7627
+59th,Markham Woods Middle,Snigdha Das,37,323100421,11,7,12,49.7627
+60th,Lincoln,Austin Shaeffer,35,109022521,10,5,15,48.9086
+61st,Fleming Island High,Laurel Perrine,35,220001021,9,1,20,48.9086
+62nd,Gainesville High School,Justin Baker,34,268001321,10,6,14,48.4816
+63rd,Fleming Island High,Melissa Andrews,34,220000521,9,2,19,48.4816
+64th,Seminole (Seminole),DAPHNE JACOBS,34,341001020,9,2,19,48.4816
+65th,Cobb,Cindy Wang,34,166005721,10,6,14,48.4816
+66th,Jackson Heights Middle,MITCHELL CALLOWAY,34,304101322,9,2,19,48.4816
+67th,Buchholz,Yuxiang Zhang,33,295003720,9,3,18,48.0545
+68th,Sandford Middle,Dasan Costandi,33,344103020,10,7,13,48.0545
+69th,Sandford Middle,Freddy Hodgin,32,344103120,10,8,12,47.6274
+70th,Lincoln Park Academy,JARRETT ELROD,32,396001221,9,4,17,47.6274
+71st,St Edward's,SASHA BENINCASA,31,374020121,8,1,21,47.2004
+72nd,Gainesville High School,Joseph Haddle,30,268000521,9,6,15,46.7733
+73rd,Miami Springs,MARIANELYS BARRIOS,29,582000521,8,3,19,46.3462
+74th,Lincoln Park Academy,ALI HAIDER,28,396001821,7,0,23,45.9192
+75th,Shorecrest Prep,JARED ELINGER,28,451003621,8,4,18,45.9192
+76th,Fairview Middle,Parth Amin,28,125102220,8,4,18,45.9192
+77th,Sandford Middle,Olivia Carbone,27,344100820,8,5,17,45.4921
+78th,Fleming Island High,Wren Flesher,26,220001721,7,2,21,45.0650
+79th,St Edward's,RIHA WADHWA,26,374021021,10,14,6,45.0650
+80th,Markham Woods Middle,Jack Rothman,25,323102420,11,19,0,44.6380
+81st,Markham Woods Middle,Meagan Harwick,25,323101420,7,3,20,44.6380
+82nd,Fleming Island High,Leslie Morgan,25,220000721,8,7,15,44.6380
+83rd,Jackson Heights Middle,AMANDA HESTON,25,304101422,7,3,20,44.6380
+84th,Freedom,LAUREN GANDY,25,466004220,7,3,20,44.6380
+85th,Miami Springs Middle School,Pablo Hernandez,23,582100121,7,5,18,43.7839
+86th,Seminole (Seminole),MARIA CASTANO,23,341001820,6,1,23,43.7839
+87th,Hagerty High School,Jeet Chakravorty,22,310002721,7,6,17,43.3568
+88th,Hagerty High School,Brent Minnis,22,310002821,6,2,22,43.3568
+89th,Freedom,CHRISTOPHER TOLSON,22,466005221,6,2,22,43.3568
+90th,Markham Woods Middle,Ravi Jindal,22,323101621,7,6,17,43.3568
+91st,Lawton Chiles High School,Madison Moore,21,181007521,6,3,21,42.9297
+92nd,Jackson Heights Middle,JONATHAN LE,21,304103122,7,7,16,42.9297
+93rd,Seminole (Seminole),STACIE ARECHAVALIA,20,341013620,5,0,25,42.5027
+94th,Jackson Heights Middle,MEGAN MULLALLY,19,304102821,6,5,19,42.0756
+95th,Stoneman Douglas,CATHY LUO,19,532000221,6,5,19,42.0756
+96th,Howard Bishop Middle,Ryan Moore,18,208101120,5,2,23,41.6485
+97th,Howard Bishop Middle,Seth Rutman,18,208101520,6,6,18,41.6485
+98th,Markham Woods Middle,Avinash Bhikha,17,323100120,6,7,17,41.2215
+99th,Seminole (Seminole),ANDREA OJEDA,16,341000420,5,4,21,40.7944
+100th,St Edward's,ETHAN KLEIN,16,374020521,6,8,16,40.7944
+101st,St Edward's,EMILY SALVADOR,16,374020921,7,12,11,40.7944
+102nd,Sandford Middle,Annisha Nazrul,15,344103220,5,5,20,40.3674
+103rd,Miami Springs Middle School,Pier Sanchez,14,582100921,4,2,24,39.9403
+104th,Lincoln,Hans Kollar,14,109010121,5,6,19,39.9403
+105th,Kipp Pride High,Brandon Scott,14,199900021,4,2,24,39.9403
+106th,Lawton Chiles High School,Nitasha Menon,13,181011421,5,7,18,39.5132
+107th,Kipp Pride High,Shana Mauerman,13,199900321,5,7,18,39.5132
+108th,Rickards High School,Bo Bogan,13,140002721,5,7,18,39.5132
+109th,St Edward's,SADHANA CHALASANI,13,374020320,4,3,23,39.5132
+110th,Lawton Chiles High School,Eun Lee,13,181001621,4,3,23,39.5132
+111th,Miami Springs Middle School,Stephen Winchester,13,582100321,4,3,23,39.5132
+112th,Howard Bishop Middle,Evan Sokol,12,208101620,4,4,22,39.0862
+113th,Shorecrest Prep,LUKE NUNNELLY,12,451003821,5,8,17,39.0862
+114th,Gainesville High School,Dylan Bradley,10,268000621,4,6,20,38.2320
+115th,Hagerty High School,Austin Floeter,9,310003621,4,7,19,37.8050
+116th,Belen Jesuit Prep,Jonas Egusquiza,8,535001221,3,4,23,37.3779
+117th,Miami Springs,AILEEN DELEON,8,582000821,3,4,23,37.3779
+118th,Markham Woods Middle,Madeline Kewley,8,323101820,3,4,23,37.3779
+119th,Sandford Middle,Katherine Kalbach,8,344103920,4,8,18,37.3779
+120th,Belen Jesuit Prep,Jeremy Martinez,8,535001721,3,4,23,37.3779
+121st,Lincoln,Doug Roberts,8,109010221,4,8,18,37.3779
+122nd,Sandford Middle,Yash Patel,7,344103320,5,13,12,36.9508
+123rd,Miami Springs,LIDISLAY GONZALEZ,6,582001021,2,2,26,36.5238
+124th,Miami Springs,ELIZABETH JIMENEZ,6,582001621,3,6,21,36.5238
+125th,Kipp Pride High,Whitney Jenkins,5,199900121,7,23,0,36.0967
+126th,Rickards High School,Cory Jackson,3,140004021,2,5,23,35.2426

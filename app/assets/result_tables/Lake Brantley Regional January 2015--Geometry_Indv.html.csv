@@ -1,0 +1,71 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Sanford Middle,Cyriac Manjaly,115,344103521,29,1,0,71.5496
+2nd,Orlando Science Middle Charter School,Nicholas Nguyen,110,348100721,28,2,0,69.9217
+3rd,Orlando Science Middle Charter School,Esha Ranade,110,348100421,28,2,0,69.9217
+4th,Jackson Heights Middle,JESSE FEI,110,304100221,28,2,0,69.9217
+5th,Orlando Science Middle Charter School,Sanjana Konda,105,348100521,27,3,0,68.2937
+6th,Orlando Science Middle Charter School,Harshitha Uppada,100,348100621,26,4,0,66.6657
+7th,Sanford Middle,Srinija Cherivirala,100,344104121,26,4,0,66.6657
+8th,Sanford Middle,Yashvi Vardhan,95,344104521,25,5,0,65.0378
+9th,Sanford Middle,Vishal Dubey,90,344104322,24,6,0,63.4098
+10th,Sanford Middle,Tanuj Prajapati,90,344104220,24,6,0,63.4098
+11th,Sanford Middle,Caitlin Chen,87,344103422,23,5,2,62.4330
+12th,Sanford Middle,Sanjana Prasad,86,344104022,23,6,1,62.1074
+13th,West Shore,Ryan Feldbush,80,393005221,22,8,0,60.1539
+14th,Sanford Middle,Anderson Moonguaklang,73,344103321,20,7,3,57.8747
+15th,Markham Woods Middle,Raich Ishigaki,73,323100521,20,7,3,57.8747
+16th,Sanford Middle,Vishal Purohitham,71,344104422,19,5,6,57.2235
+17th,Freedom (Orlando),Giselle Negron,71,381007421,20,9,1,57.2235
+18th,Sanford Middle,Aayush Shah,67,344103220,19,9,2,55.9211
+19th,Sanford Middle,Narenkumar Thirmiya,65,344103620,18,7,5,55.2700
+20th,St. Edwards Middle,Anand Chundi,64,305000521,18,8,4,54.9444
+21st,Gifford Middle School,CODY LANIER,62,309100121,17,6,7,54.2932
+22nd,Sanford Middle,Noah Burkhart,61,344105220,16,3,11,53.9676
+23rd,Markham Woods Middle,michelle miller,61,323100421,17,7,6,53.9676
+24th,Orlando Science Middle Charter School,Saardhak Bhrugubanda,58,348102322,17,10,3,52.9908
+25th,West Shore,Cameron Burrows,56,393002021,15,4,11,52.3396
+26th,Jackson Heights Middle,GIDEON ANDERSON,56,304101321,15,4,11,52.3396
+27th,Markham Woods Middle,Eesaa Razzaq,55,323102321,16,9,5,52.0140
+28th,Seminole (Seminole),ILIANA SUNKARA,54,341013321,15,6,9,51.6884
+29th,Sanford Middle,Rishabdev Bahl,52,344103820,14,4,12,51.0372
+30th,West Shore,Smriti SanjayGopal,52,393001921,15,8,7,51.0372
+31st,Orlando Science Middle Charter School,Mehmet Akin,50,348100922,13,2,15,50.3861
+32nd,Hagerty High School,Chris Kim,45,310000821,15,15,0,48.7581
+33rd,Spruce Creek,Laura Babiceanu,45,267002221,13,7,10,48.7581
+34th,Markham Woods Middle,adrian dee,44,323100221,12,4,14,48.4325
+35th,Spruce Creek,Ruohan Wu,42,267002321,14,14,2,47.7813
+36th,Jackson Heights Middle,CAITLYN PHAM,40,304100422,11,4,15,47.1301
+37th,Freedom (Orlando),Tala Rippin,39,381008121,12,9,9,46.8045
+38th,Crooms Academy,Mary Sanchez,38,368600121,11,6,13,46.4789
+39th,West Shore,Divya Reddy,38,393004122,12,10,8,46.4789
+40th,Jackson Heights Middle,RYAN SELF,38,304100821,10,2,18,46.4789
+41st,Spruce Creek,Abby Lorden,37,267002722,11,7,12,46.1533
+42nd,Markham Woods Middle,Saima Haseeb,36,323102022,11,8,11,45.8278
+43rd,Lake Mary,Emmett Wainwright,34,308005521,10,6,14,45.1766
+44th,Spruce Creek,Juanita Morales,34,267002621,10,6,14,45.1766
+45th,Jackson Heights Middle,NIDHI OHRI,34,304100321,11,10,9,45.1766
+46th,Gifford Middle School,SIMON CASAS,32,309100221,10,8,12,44.5254
+47th,Lincoln Park Academy,Shreya Reddy,32,396000521,9,4,17,44.5254
+48th,Markham Woods Middle,Vaishnavi Mavilla,31,323102122,11,13,6,44.1998
+49th,Freedom (Orlando),Karim Aloul,31,381007921,11,13,6,44.1998
+50th,Lincoln Park Academy,Aneesah Melaram,30,396000621,10,10,10,43.8742
+51st,West Shore,Iksha Handa,29,393003621,10,11,9,43.5486
+52nd,Lincoln Park Academy,Priscilla Riberio,27,396001422,8,5,17,42.8974
+53rd,Crooms Academy,Brianna Young,25,368602221,8,7,15,42.2462
+54th,Spruce Creek,Dillon Lev,25,267002421,9,11,10,42.2462
+55th,Gifford Middle School,CONNOR RILEY,24,309100421,7,4,19,41.9206
+56th,Lincoln Park Academy,Nissan Uddin,22,396001621,6,2,22,41.2694
+57th,Lincoln Park Academy,Alyssa Baglia,20,396001322,6,4,20,40.6183
+58th,Lincoln Park Academy,Tiffani Kinnaman,20,396000721,10,20,0,40.6183
+59th,Jackson Heights Middle,KAITLIN YAP,19,304101122,6,5,19,40.2927
+60th,St. Edwards Middle,Jerry Johnson,18,305000221,7,10,13,39.9671
+61st,Freedom (Orlando),Angelica Sterner,18,381008321,8,14,8,39.9671
+62nd,Suncoast Comm,John Webber,17,327011221,6,7,17,39.6415
+63rd,Suncoast Comm,Mark Muchechetere,15,327006121,5,5,20,38.9903
+64th,Suncoast Comm,Ariba Rezwan,13,327007121,5,7,18,38.3391
+65th,Jackson Heights Middle,SHEA MCLINDEN,12,304100922,4,4,22,38.0135
+66th,Orlando Science Middle Charter School,Khushil Ganti,10,348102122,8,22,0,37.3623
+67th,Markham Woods Middle,britney hammerling,10,323100122,8,22,0,37.3623
+68th,Lincoln Park Academy,Maria Dominguez,7,396001822,4,9,17,36.3855
+69th,Markham Woods Middle,Emily Underwood,6,323101122,4,10,16,36.0600
+70th,Seminole (Seminole),YAQI LI,1,341004021,5,19,6,34.4320

@@ -1,0 +1,476 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),Xiaotian Le,115,506009050,29,1,0,86.0192
+2nd,American Heritage (Plantation),Ryan Broder,110,506003151,28,2,0,83.9924
+3rd,University School of NSU,Zachary Chase,105,563000051,27,3,0,81.9656
+4th,American Heritage (Plantation),Samir Khan,105,506001450,27,3,0,81.9656
+5th,American Heritage (Plantation),Trevor Birenbaum,105,506005450,27,3,0,81.9656
+6th,American Heritage - Boca/Delray,Dong (David) He,100,526010051,26,4,0,79.9389
+7th,Stoneman Douglas,VIVEK MIGLANI,100,532000151,26,4,0,79.9389
+8th,University School of NSU,Matthew Mann,100,563000151,26,4,0,79.9389
+9th,Ferguson,ABHINAV KOPPU,97,507006451,25,3,2,78.7228
+10th,American Heritage (Plantation),Dajon Thomas,96,506001851,25,4,1,78.3175
+11th,American Heritage (Plantation),Philip Gaddy,95,506001351,25,5,0,77.9121
+12th,Miami Springs,NICHOLAS COSTA,93,582004651,24,3,3,77.1014
+13th,Cypress Bay,Alison Huang,92,588013251,24,4,2,76.6961
+14th,American Heritage (Plantation),Kwesi Levy,90,506000550,24,6,0,75.8854
+15th,American Heritage (Plantation),Francisco Rivera,90,506006151,24,6,0,75.8854
+16th,Cypress Bay,Marianne Aguilar,88,588008350,23,4,3,75.0747
+17th,Deerfield Beach,Aslan Goskan,85,577002651,23,7,0,73.8586
+18th,Mater Lakes Academy,Rawabi Elannan,85,559006051,23,7,0,73.8586
+19th,Cypress Bay,Christian Madali,82,588011551,22,6,2,72.6425
+20th,Mater Lakes Academy,Laura Garrido,81,559006351,21,3,6,72.2372
+21st,American Heritage (Plantation),Matthew Robins,81,506004450,22,7,1,72.2372
+22nd,Ferguson,NAVIN SINGH,80,507015751,21,4,5,71.8318
+23rd,Mater Lakes Academy,Nathalie Toro,78,559007951,20,2,8,71.0211
+24th,Community School of Naples,Ivan Wang,77,562002551,21,7,2,70.6158
+25th,Belen Jesuit Prep,David Fager,77,535002151,21,7,2,70.6158
+26th,Cypress Bay,Jake Ukleja,76,588010950,21,8,1,70.2104
+27th,Cypress Bay,Rodmy Paredes,76,588011651,21,8,1,70.2104
+28th,Western,Nicolas Pena,75,573001051,21,9,0,69.8051
+29th,Ransom Everglades,John Mistele,75,519000751,21,9,0,69.8051
+30th,Western,Andrew Zhang,75,573000751,21,9,0,69.8051
+31st,Saint Andrew's School,Chenyang Sun,74,566506950,20,6,4,69.3997
+32nd,American Heritage (Plantation),Haoyun Cui,73,506002150,20,7,3,68.9944
+33rd,Cypress Bay,Rodrigo Cuba,73,588008750,20,7,3,68.9944
+34th,American Heritage - Boca/Delray,Yikai (Fanny) Jin,72,526010150,20,8,2,68.5890
+35th,Doral Academy High,Mia Mishaan,72,537500951,19,4,7,68.5890
+36th,Cypress Bay,Sebastian Hincapie,72,588009351,20,8,2,68.5890
+37th,Mater Lakes Academy,Kimanh Nguyen,71,559006851,19,5,6,68.1837
+38th,Stoneman Douglas,DOMINICK HING,71,532003051,19,5,6,68.1837
+39th,Ferguson,VISHNU TANGUTURI,70,507011451,20,10,0,67.7783
+40th,Flanagan,Christian Lawson,70,591000451,20,10,0,67.7783
+41st,American Heritage (Plantation),Lawrence Xu,69,506000950,19,7,4,67.3730
+42nd,Doral Academy High,Franco Vera,68,537505151,19,8,3,66.9676
+43rd,Miami Palmetto,Logan Kraus,67,541000051,18,5,7,66.5623
+44th,Cypress Bay,John Lundell,65,588011450,18,7,5,65.7516
+45th,Miami Palmetto,Kaylee de Soto,65,541054251,19,11,0,65.7516
+46th,Deerfield Beach,Pedro Velazquez,65,577008251,19,11,0,65.7516
+47th,Ransom Everglades,Eric Cai,64,519006751,18,8,4,65.3462
+48th,Belen Jesuit Prep,Manuel Fernandez,62,535002851,18,10,2,64.5355
+49th,Miami Springs,ALAIN PEREZ,60,582005751,16,4,10,63.7248
+50th,Monarch High,Ryan Bell,60,565500251,17,8,5,63.7248
+51st,American Heritage - Boca/Delray,Junsong (Magic) Wang,60,526005151,18,12,0,63.7248
+52nd,Western,Maxwell Bronstein,59,573000251,17,9,4,63.3194
+53rd,West Broward High School,Michael Velez,58,534000250,15,2,13,62.9141
+54th,American Heritage - Boca/Delray,Jiayi (Charlotte) Gong,57,526001650,16,7,7,62.5087
+55th,American Heritage - Boca/Delray,Yilun (Eric) Jiang,56,526009950,15,4,11,62.1034
+56th,Ferguson,WILSON LY,56,507014251,16,8,6,62.1034
+57th,American Heritage (Plantation),Xiaotian Le,56,506009050,17,12,1,62.1034
+58th,Doral Academy High,Daniel Herrera,56,537501151,15,4,11,62.1034
+59th,Western,Heejin Cho,55,573003250,16,9,5,61.6980
+60th,Flanagan,Calvin Fai,55,591004051,15,5,10,61.6980
+61st,Miami Springs,BRYANT PORRAS,54,582007551,15,6,9,61.2927
+62nd,Coral Springs High School,Ana Montalvo,54,515002251,15,6,9,61.2927
+63rd,Mast Academy,Gaby Muino,53,556003051,14,3,13,60.8873
+64th,Cypress Bay,Munir Libos,53,588009850,16,11,3,60.8873
+65th,Stoneman Douglas,NATHANIEL MA,53,532001151,14,3,13,60.8873
+66th,Mast Academy,Jiong Gao,52,556000850,14,4,12,60.4820
+67th,American Heritage - Boca/Delray,Alexander Chea,51,526007451,15,9,6,60.0766
+68th,Ferguson,JORGE VERA-REBOLLAR,51,507012650,14,5,11,60.0766
+69th,American Heritage (Plantation),Ashley Westerfield,51,506005750,13,1,16,60.0766
+70th,American Heritage (Plantation),James McLaughlin,51,506002750,14,5,11,60.0766
+71st,Flanagan,Tony Parra,50,591000351,14,6,10,59.6713
+72nd,Deerfield Beach,Heeral Patel,50,577002251,16,14,0,59.6713
+73rd,Saint Andrew's School,Yining Li,49,566503150,13,3,14,59.2659
+74th,Naples,Sarah Carroll,49,545005351,15,11,4,59.2659
+75th,Miami Palmetto,Benjamin Bao,48,541053250,15,12,3,58.8606
+76th,American Heritage (Plantation),Felix Tiet,48,506000250,14,8,8,58.8606
+77th,Ronald Reagan H. S.,Andres Mata,48,527003951,14,8,8,58.8606
+78th,Saint Andrew's School,Vy Nguyen,47,566503550,15,13,2,58.4552
+79th,Flanagan,Hannah Doyle,47,591005950,14,9,7,58.4552
+80th,Western,Zhongkai Liu,46,573002951,14,10,6,58.0499
+81st,Community School of Naples,Stephen Wulbur,46,562002750,13,6,11,58.0499
+82nd,Coral Glades,Sarju Patel,46,528000651,15,14,1,58.0499
+83rd,Cypress Bay,Rebecca Ki,45,588009650,13,7,10,57.6445
+84th,American Heritage - Boca/Delray,Aashay Patel,45,526000251,13,7,10,57.6445
+85th,Flanagan,Steven Yang,45,591000151,15,15,0,57.6445
+86th,Miami Palmetto,Andrew Zaw,45,541091350,15,15,0,57.6445
+87th,Miami Springs,YOANNIER HERMIDA,44,582006251,12,4,14,57.2392
+88th,Ransom Everglades,Patrick Visan,43,519003551,13,9,8,56.8338
+89th,Miami Palmetto,Tianjian Guo,43,541017651,14,13,3,56.8338
+90th,Saint Andrew's School,Chenyang Sun,43,566506950,14,13,3,56.8338
+91st,Belen Jesuit Prep,Andres Concepcion,43,535002051,11,1,18,56.8338
+92nd,Western,Nicolas Buitrago,43,573001450,12,5,13,56.8338
+93rd,Saint Andrew's School,Javier Moreno Marin,43,566505750,12,5,13,56.8338
+94th,Miami Springs,TIMOTHY MILLS,42,582002450,13,10,7,56.4285
+95th,Cypress Bay,Erin Yoo,42,588004550,12,6,12,56.4285
+96th,Coral Reef,Benjamin Contesse,42,587004051,11,2,17,56.4285
+97th,Western,Ananya Chandra,42,573000950,12,6,12,56.4285
+98th,Community School of Naples,Jieqiu Wu,42,562002651,13,10,7,56.4285
+99th,Miami Springs,ANDRES EKANAYAKE,42,582001950,12,6,12,56.4285
+100th,Miami Springs,BRENT CATES,42,582000050,12,6,12,56.4285
+101st,JP Taravella,Brandon LaRue,41,533003851,11,3,16,56.0231
+102nd,Dr Michael Krop,Ileana Martinez,41,502043151,11,3,16,56.0231
+103rd,Community School of Naples,Kara Bressler,40,562001151,14,16,0,55.6178
+104th,American Heritage - Boca/Delray,Alexander Dougherty,40,526008250,12,8,10,55.6178
+105th,Miami Lakes Educational Center,Andres Canas,40,558500150,11,4,15,55.6178
+106th,Cypress Bay,Xintong Meng,40,588010250,13,12,5,55.6178
+107th,Ferguson,MALENA CORA,40,507004850,14,16,0,55.6178
+108th,American Heritage - Boca/Delray,Xinyi (Cindy) Zhang,38,526007650,11,6,13,54.8070
+109th,Ransom Everglades,Timothy O'Brien,38,519000851,12,10,8,54.8070
+110th,Coral Springs High School,Gabrielle Tanenbaum,38,515005451,13,14,3,54.8070
+111th,American Heritage - Boca/Delray,Charles Suarez,38,526000550,11,6,13,54.8070
+112th,Doral Academy High,Estefani Perez,37,537501051,11,7,12,54.4017
+113th,University School of NSU,Rhys Murray,37,563001451,12,11,7,54.4017
+114th,Ronald Reagan H. S.,Brandon Purvis,37,527005050,11,7,12,54.4017
+115th,Pembroke Pines Charter High School,Kelsey Farenhem,36,548500351,11,8,11,53.9963
+116th,American Heritage - Boca/Delray,Devin Barkey,36,526000350,10,4,16,53.9963
+117th,West Broward High School,Scott Sakowitz,36,534001651,11,8,11,53.9963
+118th,Miami Palmetto,Gardner Blackburn,36,541012050,10,4,16,53.9963
+119th,Miami Palmetto,Ross Rosen,36,541013050,13,16,1,53.9963
+120th,Ronald Reagan H. S.,Joaquin Maggi,36,527003651,12,12,6,53.9963
+121st,TERRA Environmental Research Institute,CATHERINE GARRIDO,35,584502050,13,17,0,53.5910
+122nd,American Heritage - Boca/Delray,Zijun (Jerry) Li,35,526006150,11,9,10,53.5910
+123rd,Miami Palmetto,Orko Sarkar,34,541029150,9,2,19,53.1856
+124th,Saint Andrew's School,Ji Yoon Lee,34,566502150,11,10,9,53.1856
+125th,TERRA Environmental Research Institute,CARLOS MACHADO,34,584507151,10,6,14,53.1856
+126th,TERRA Environmental Research Institute,JOHNATHAN MARIN-ROMERO,34,584507850,10,6,14,53.1856
+127th,JP Taravella,Roger Tran,34,533004651,10,6,14,53.1856
+128th,Saint Andrew's School,Jorge Nunez,34,566504050,10,6,14,53.1856
+129th,Ronald Reagan H. S.,Luis Fernandez,34,527002350,10,6,14,53.1856
+130th,Pembroke Pines Charter High School,Arvind Iyengar,34,548500151,11,10,9,53.1856
+131st,Coral Gables,Cyrus Zeledon,34,513002950,11,10,9,53.1856
+132nd,West Broward High School,Melanie Lo,34,534000151,10,6,14,53.1856
+133rd,American Heritage - Boca/Delray,Tianyi (Steve) Zhang,33,526008350,10,7,13,52.7803
+134th,Western,Joshua Geller,33,573001650,10,7,13,52.7803
+135th,American Heritage (Plantation),Kunal Naik,33,506002850,12,15,3,52.7803
+136th,Ferguson,JORGE LOO,32,507002450,9,4,17,52.3749
+137th,Doral Academy High,Alexander Nunez,32,537501250,11,12,7,52.3749
+138th,Pembroke Pines Charter High School,Yasir Nagi,32,548500051,11,12,7,52.3749
+139th,Sagemont School,Jonathan Albo,32,505001650,11,12,7,52.3749
+140th,Ransom Everglades,Alexa Bishopric,32,519003050,9,4,17,52.3749
+141st,Miami Lakes Educational Center,Mario Font,31,558500351,9,5,16,51.9696
+142nd,Doral Academy High,David Molina,31,537500350,9,5,16,51.9696
+143rd,TERRA Environmental Research Institute,ERIC CHAN,31,584507351,11,13,6,51.9696
+144th,Coral Gables,Juan Salazar,31,513002250,10,9,11,51.9696
+145th,American Heritage - Boca/Delray,Ben Cutler,30,526004950,10,10,10,51.5642
+146th,American Heritage (Plantation),Dylan Parker,30,506000450,9,6,15,51.5642
+147th,Ferguson,TERESA CHEUNG,30,507002250,9,6,15,51.5642
+148th,Gulf Coast,Rex Focht,30,575004151,10,10,10,51.5642
+149th,Coral Springs High School,Seth Adler,30,515000050,12,18,0,51.5642
+150th,Jose Marti MAST 6-12 Academy,Christopher Dominguez,30,551501751,12,18,0,51.5642
+151st,JP Taravella,Ryan Pearce,30,533004151,9,6,15,51.5642
+152nd,Miami Lakes Educational Center,David Pacheco,30,558501351,12,18,0,51.5642
+153rd,TERRA Environmental Research Institute,JAHAN DADLANI,30,584507750,12,18,0,51.5642
+154th,Dr Michael Krop,Gabriel Shlain,30,502068051,9,6,15,51.5642
+155th,Academy for Advanced Academics,Triana Pena,30,595500451,12,18,0,51.5642
+156th,Golden Gate High,Therlking Dervil,30,560000351,12,18,0,51.5642
+157th,Ronald Reagan H. S.,Gian Carrara,30,527001450,12,18,0,51.5642
+158th,Ronald Reagan H. S.,Tomas Bohorquez,29,527000751,11,15,4,51.1589
+159th,Coral Reef,Kshitij Kulkarni,29,587003051,8,3,19,51.1589
+160th,Coral Gables,Henry Santer,29,513002350,9,7,14,51.1589
+161st,Ferguson,TATYANA MEDINA,29,507002850,9,7,14,51.1589
+162nd,Ferguson,JUAN SANFIEL,29,507015350,8,3,19,51.1589
+163rd,Coral Springs High School,Lucas Ramos,29,515003351,9,7,14,51.1589
+164th,TERRA Environmental Research Institute,FELIX SANCHEZ,29,584507650,9,7,14,51.1589
+165th,Braddock,CARLA LAUS,29,538004150,11,15,4,51.1589
+166th,University School of NSU,Yunqi Xu,28,563003350,10,12,8,50.7535
+167th,West Broward High School,Christy Abraham,28,534002851,10,12,8,50.7535
+168th,Mast Academy,Diego Arevalo,28,556000051,7,0,23,50.7535
+169th,TERRA Environmental Research Institute,KEVIN RODRIGUEZ,28,584506550,11,16,3,50.7535
+170th,Mast Academy,Keven Ponce,28,556002350,10,12,8,50.7535
+171st,American Heritage - Boca/Delray,Yu (Alice) Shi,27,526002150,9,9,12,50.3482
+172nd,Miami Springs,DAVID PEREZ,27,582001750,8,5,17,50.3482
+173rd,American Heritage (Plantation),Donovan Ye,27,506000650,11,17,2,50.3482
+174th,Ferguson,AR-THI CHOONHAPONG,27,507002350,8,5,17,50.3482
+175th,Flanagan,Marcus Armband,26,591000550,8,6,16,49.9428
+176th,Sagemont School,Kaiqi Luo,26,505002350,8,6,16,49.9428
+177th,Saint Andrew's School,Stockton Sheehan,26,566504950,8,6,16,49.9428
+178th,Ferguson,ANDREW CHANG,26,507002050,8,6,16,49.9428
+179th,Ronald Reagan H. S.,Kenny Ramos,26,527005350,10,14,6,49.9428
+180th,Mast Academy,Jorge Betancourt,26,556000350,9,10,11,49.9428
+181st,Deerfield Beach,Evan White,26,577006450,8,6,16,49.9428
+182nd,Gulf Coast,Alex Stetson,26,575005551,9,10,11,49.9428
+183rd,Coral Shores,COURTNEY CAPUTO,26,589000151,10,14,6,49.9428
+184th,Mast Academy,Alexandra Brown,25,556000450,7,3,20,49.5375
+185th,Nova High School,Kendra Washington,25,553002450,7,3,20,49.5375
+186th,Miami Palmetto,Edward Noguera,25,541073051,7,3,20,49.5375
+187th,Ferguson,IAN CHANG,25,507002150,7,3,20,49.5375
+188th,JP Taravella,Isabelle Lady,25,533003750,8,7,15,49.5375
+189th,Hialeah,Louis Figueroa,25,579001251,9,11,10,49.5375
+190th,American Heritage (Plantation),Alejandro Lopez,24,506000350,9,12,9,49.1321
+191st,Nova High School,Jessica Chow,24,553000851,7,4,19,49.1321
+192nd,Coral Springs High School,Paul Licht,24,515001651,8,8,14,49.1321
+193rd,Coral Glades,Lauren Bendesky,24,528000251,8,8,14,49.1321
+194th,Southwest Miami,Sara Borrelli,24,555000550,9,12,9,49.1321
+195th,Coral Reef,Ariel Brito,24,587003951,9,12,9,49.1321
+196th,Sagemont School,Yiwen Hu,24,505003550,7,4,19,49.1321
+197th,Gulf Coast,Trevor Reilly,24,575005251,9,12,9,49.1321
+198th,Cypress Bay,Aaron Wong,23,588011050,9,13,8,48.7268
+199th,Coral Springs High School,Hailey Menkhas,23,515004350,7,5,18,48.7268
+200th,TERRA Environmental Research Institute,ALISA DASILVA,23,584506751,9,13,8,48.7268
+201st,Naples,Daniel Quintero,23,545002851,8,9,13,48.7268
+202nd,Saint Andrew's School,Will Smiles,23,566502250,8,9,13,48.7268
+203rd,Dr Michael Krop,Vanessa Wu,23,502048851,10,17,3,48.7268
+204th,Deerfield Beach,Alex Isaly,23,577006550,7,5,18,48.7268
+205th,Hialeah,Cynder Rodriguez,22,579001050,7,6,17,48.3214
+206th,Western,Xinyue Li,22,573002650,10,18,2,48.3214
+207th,University School of NSU,Ruben Merenfeld,22,563001351,8,10,12,48.3214
+208th,Southwest Miami,Emely Diaz,22,555000750,8,10,12,48.3214
+209th,Deerfield Beach,Andrew Kwong,22,577000651,8,10,12,48.3214
+210th,Braddock,MARIO LOPEZ,22,538041051,6,2,22,48.3214
+211th,Nova High School,Divya Sunny,22,553002050,7,6,17,48.3214
+212th,Mast Academy,Daniela D'Silva,22,556000150,6,2,22,48.3214
+213th,Mast Academy,Carlos Fernandez,21,556003250,6,3,21,47.9161
+214th,Belen Jesuit Prep,Alexander Alepuz,21,535001651,6,3,21,47.9161
+215th,Ronald Reagan H. S.,Alejandro Buttari,21,527001050,7,7,16,47.9161
+216th,Coral Gables,Brandon Chung,21,513000650,7,7,16,47.9161
+217th,Flanagan,Tobi Taieb,21,591004250,9,15,6,47.9161
+218th,Golden Gate High,Yefri Figueroa,21,560000551,7,7,16,47.9161
+219th,TERRA Environmental Research Institute,ERIC IGLESIAS,21,584503050,7,7,16,47.9161
+220th,Nova High School,Aurora Luong,21,553004451,7,7,16,47.9161
+221st,Community School of Naples,Tom Yi,21,562005650,7,7,16,47.9161
+222nd,Ronald Reagan H. S.,Anthony Rodriguez,21,527005650,7,7,16,47.9161
+223rd,Deerfield Beach,Richa Parikh,21,577005750,7,7,16,47.9161
+224th,Southwest Miami,Trong Bui,21,555001960,10,19,1,47.9161
+225th,Riviera Preparatory School,Victoria Basnuevo,21,585500551,9,15,6,47.9161
+226th,TERRA Environmental Research Institute,DANIEL MARTINEZ,20,584507251,7,8,15,47.5107
+227th,Saint Andrew's School,Melanie Crombie,20,566501450,6,4,20,47.5107
+228th,Saint Andrew's School,Cristian Cano,20,566501850,6,4,20,47.5107
+229th,Southwest Miami,Fernando Garcia,20,555003260,10,20,0,47.5107
+230th,Coral Gables,Jessica Breznick,20,513000450,7,8,15,47.5107
+231st,Saint Andrew's School,Addison Armstrong,20,566500650,6,4,20,47.5107
+232nd,Ferguson,MUBIN KHAN,20,507006850,7,8,15,47.5107
+233rd,Southwest Miami,Danny DeLeon,20,555003160,10,20,0,47.5107
+234th,TERRA Environmental Research Institute,KRISTYN BRINER,20,584504150,9,16,5,47.5107
+235th,TERRA Environmental Research Institute,TASIA WHITE,20,584505550,10,20,0,47.5107
+236th,TERRA Environmental Research Institute,DANIELA LOPEZ,20,584502750,10,20,0,47.5107
+237th,Ferguson,RODOLFO RODRIGUEZ,19,507003650,7,9,14,47.1054
+238th,Saint Andrew's School,Justin Zwiebel,19,566507850,7,9,14,47.1054
+239th,Ferguson,GABRIEL GUZMAN,19,507001150,5,1,24,47.1054
+240th,Ferguson,VICTORIA LARRANAGA,19,507000150,6,5,19,47.1054
+241st,Flanagan,Adriana Villares,19,591003750,6,5,19,47.1054
+242nd,Deerfield Beach,Christian Ubillus,19,577004450,8,13,9,47.1054
+243rd,Ferguson,SHIRLY LY,19,507008750,6,5,19,47.1054
+244th,Community School of Naples,Josh Galang,19,562005750,8,13,9,47.1054
+245th,Deerfield Beach,Vita Tran,19,577006350,7,9,14,47.1054
+246th,Ronald Reagan H. S.,Irene Wang,19,527007050,7,9,14,47.1054
+247th,Miami Springs,AHMED CARAMES,19,582002150,6,5,19,47.1054
+248th,Ronald Reagan H. S.,Steven Mejia,18,527004050,7,10,13,46.7000
+249th,Coral Glades,Emily Robinson,18,528003850,6,6,18,46.7000
+250th,TERRA Environmental Research Institute,CHRISTOPHE HART,18,584502450,6,6,18,46.7000
+251st,Ronald Reagan H. S.,Ana Olano,17,527004450,7,11,12,46.2947
+252nd,Coral Gables,Daniela Quijano,17,513001750,9,19,2,46.2947
+253rd,Naples,Austin Kalmans,17,545004151,7,11,12,46.2947
+254th,Mast Academy,Natalie Cortinas,17,556001750,8,15,7,46.2947
+255th,Flanagan,Daniela Tabares,17,591003550,6,7,17,46.2947
+256th,Hialeah,Andy Martinez,17,579001151,7,11,12,46.2947
+257th,Coral Glades,Avia Muller,17,528005851,5,3,22,46.2947
+258th,TERRA Environmental Research Institute,Aaron Varkonyi,17,584500750,6,7,17,46.2947
+259th,Sagemont School,Christopher Iacono,17,505001150,7,11,12,46.2947
+260th,Mast Academy,Nicholas Gutierrez,17,556002150,5,3,22,46.2947
+261st,Mast Academy,Ayis Papargeorgi,17,556000551,5,3,22,46.2947
+262nd,American Heritage - Boca/Delray,Yichen (Sean) Zhang,17,526002250,7,11,12,46.2947
+263rd,Coral Springs High School,Justin Castillo,17,515003750,6,7,17,46.2947
+264th,Ronald Reagan H. S.,Alfredo Martin,16,527003750,5,4,21,45.8893
+265th,Ronald Reagan H. S.,Anthony Aguilera,16,527000051,6,8,16,45.8893
+266th,Coral Gables,Rafael Gonzalez,16,513001050,6,8,16,45.8893
+267th,JP Taravella,Krupa Patel,16,533004051,6,8,16,45.8893
+268th,Gulf Coast,Noelle Torres,16,575006150,5,4,21,45.8893
+269th,Nova High School,Nicholas Gross,16,553002251,6,8,16,45.8893
+270th,Coral Reef,Chaitanya Lokireddy,16,587001651,8,16,6,45.8893
+271st,West Broward High School,Alexander Mink,16,534000350,5,4,21,45.8893
+272nd,Mast Academy,Gia Castillo,16,556001251,5,4,21,45.8893
+273rd,Dr Michael Krop,Brandon Shaffer,16,502035051,6,8,16,45.8893
+274th,Ronald Reagan H. S.,Paola Charco,16,527001950,5,4,21,45.8893
+275th,Ronald Reagan H. S.,Daniel Garanton,16,527002750,5,4,21,45.8893
+276th,TERRA Environmental Research Institute,ROBERTO MARTINEZ,16,584506150,6,8,16,45.8893
+277th,Riviera Preparatory School,Jordan Barouh,16,585500750,6,8,16,45.8893
+278th,Pembroke Pines Charter High School,Anthony Perez,16,548500551,5,4,21,45.8893
+279th,Palmetto Ridge,Sandra Lovos,16,518000651,5,4,21,45.8893
+280th,Naples,Kieron DiGiorno,16,545007450,6,8,16,45.8893
+281st,Ferguson,SEBASTIAN FLORES,16,507009350,7,12,11,45.8893
+282nd,Ronald Reagan H. S.,Alonso Bernal,16,527000550,6,8,16,45.8893
+283rd,Ronald Reagan H. S.,Ariana Bueno,16,527000850,8,16,6,45.8893
+284th,Coral Glades,Sarang Patel,15,528000751,9,21,0,45.4840
+285th,Naples,Jilian Sansone,15,545000450,4,1,25,45.4840
+286th,Miami Palmetto,Jacquelyn Hsiao,15,541056750,4,1,25,45.4840
+287th,TERRA Environmental Research Institute,Jency Almanzar,15,584506450,9,21,0,45.4840
+288th,Miami Palmetto,Marah Selim,15,541094050,9,21,0,45.4840
+289th,Naples,Matthew Stowell,15,545008650,9,21,0,45.4840
+290th,American Heritage - Boca/Delray,Andrea Shulman,15,526002650,5,5,20,45.4840
+291st,Coral Shores,NATALIA GONZALEZ,15,589000051,5,5,20,45.4840
+292nd,TERRA Environmental Research Institute,ALEXANDER RHODE,15,584500950,5,5,20,45.4840
+293rd,Ronald Reagan H. S.,Jonathan Lopez,15,527007550,5,5,20,45.4840
+294th,Monarch High,Julia Dasilva,15,565500450,7,13,10,45.4840
+295th,Coral Glades,Christian Sutton,15,528006150,5,5,20,45.4840
+296th,TERRA Environmental Research Institute,RUBEN CORTES,15,584505250,5,5,20,45.4840
+297th,Coral Reef,Joseph David,15,587004850,6,9,15,45.4840
+298th,Mast Academy,Daniela Garcia,15,556001950,5,5,20,45.4840
+299th,Ronald Reagan H. S.,Johanna Chang,15,527001650,5,5,20,45.4840
+300th,Sagemont School,Dora Dong,15,505003350,5,5,20,45.4840
+301st,Academy for Advanced Academics,Genesys Giraldo,15,595500251,9,21,0,45.4840
+302nd,Southwest Miami,Emely Diaz,15,555000750,9,21,0,45.4840
+303rd,Gulf Coast,Pascal Bahms,14,575004650,5,6,19,45.0786
+304th,Deerfield Beach,Venay Chitepu,14,577001650,5,6,19,45.0786
+305th,Hialeah,Mario Rodriguez,14,579000051,4,2,24,45.0786
+306th,Labelle High School,Christian Gause,14,510001451,6,10,14,45.0786
+307th,Coral Glades,Olivia Brandel,14,528001850,4,2,24,45.0786
+308th,Ronald Reagan H. S.,Hernan Bustamante,14,527000950,4,2,24,45.0786
+309th,Coral Gables,Cesar Rojas,14,513002150,7,14,9,45.0786
+310th,Riviera Preparatory School,Alea Delmastro,14,585500451,5,6,19,45.0786
+311th,Nova High School,Dang Le,14,553002950,4,2,24,45.0786
+312th,Sagemont School,Connor Hatch,14,505000551,7,14,9,45.0786
+313th,Sagemont School,Wen Cheng,14,505004650,6,10,14,45.0786
+314th,Labelle High School,Uriel Ramirez,14,510002851,7,14,9,45.0786
+315th,Mast Academy,Gabriel Fernandes,14,556001150,6,10,14,45.0786
+316th,Belen Jesuit Prep,Joseph Chan,14,535001950,6,10,14,45.0786
+317th,Community School of Naples,Millie Trimm,13,562005250,5,7,18,44.6732
+318th,Ferguson,CAN NGUYEN,13,507002950,5,7,18,44.6732
+319th,Flanagan,Carlos Lezcano,13,591001750,5,7,18,44.6732
+320th,Palm Beach Gardens,Jeronimo Medina,13,373001051,4,3,23,44.6732
+321st,Saint Andrew's School,Biyao Liang,13,566503450,5,7,18,44.6732
+322nd,Riviera Preparatory School,Joshua Kammer,13,585500651,6,11,13,44.6732
+323rd,Hialeah,Jessie Rodriguez,13,579000850,6,11,13,44.6732
+324th,Miami Sunset,Marcus Lorenzo,13,544001051,6,11,13,44.6732
+325th,Belen Jesuit Prep,Francisco Fuentes,13,535000750,6,11,13,44.6732
+326th,Ronald Reagan H. S.,Sebastian Diaz,13,527002050,4,3,23,44.6732
+327th,West Broward High School,Joseph Braun,13,534001351,7,15,8,44.6732
+328th,Coral Glades,Gina Bae,13,528000450,5,7,18,44.6732
+329th,Naples,Austin Mendes,13,545004250,6,11,13,44.6732
+330th,Academy for Advanced Academics,Namita Khajanchi,13,595500951,7,15,8,44.6732
+331st,Ronald Reagan H. S.,Akshat Sanan,12,527005950,4,4,22,44.2679
+332nd,Naples,Thalia Romero,12,545002950,7,16,7,44.2679
+333rd,Saint Andrew's School,Leah Fawzi,12,566504550,3,0,27,44.2679
+334th,Miami Palmetto,Alan Plaza,12,541043550,4,4,22,44.2679
+335th,Naples,Emily Black,12,545006350,5,8,17,44.2679
+336th,Mast Academy,Ana Sicilia,12,556002750,5,8,17,44.2679
+337th,Southwest Miami,Ricardo Notaro,12,555001050,5,8,17,44.2679
+338th,Nova High School,LaiJing Su,12,553006250,6,12,12,44.2679
+339th,Deerfield Beach,Kaitlyn Blade,12,577006650,6,12,12,44.2679
+340th,Coral Gables,Margarita Rivers,11,513002050,4,5,21,43.8625
+341st,Miami Palmetto,Christopher Park,11,541047950,3,1,26,43.8625
+342nd,Monarch High,Shane Sahadeo,11,565500951,6,13,11,43.8625
+343rd,Ferguson,LORENA GONZALEZ,11,507000950,4,5,21,43.8625
+344th,Doral Academy High,Giuliana Suplicy,11,537506450,4,5,21,43.8625
+345th,JP Taravella,Dinia Salmeron,11,533002350,4,5,21,43.8625
+346th,Coral Gables,Matthew Monjarrez,11,513001450,5,9,16,43.8625
+347th,Sagemont School,Kavya Babu,11,505002050,4,5,21,43.8625
+348th,Riviera Preparatory School,Nicole Leon,11,585501550,5,9,16,43.8625
+349th,TERRA Environmental Research Institute,ALEXEI GIROD,11,584501150,4,5,21,43.8625
+350th,Coral Reef,Samantha Morales,10,587007450,8,22,0,43.4572
+351st,Academy for Advanced Academics,Javier Perez,10,595500751,8,22,0,43.4572
+352nd,Monarch High,Chandler Lefevere,10,565502251,5,10,15,43.4572
+353rd,Labelle High School,Magali Salinas,10,510001751,5,10,15,43.4572
+354th,Miami Palmetto,Thomas teRiele,10,541018750,3,2,25,43.4572
+355th,Naples,Marion Truax,10,545004650,8,22,0,43.4572
+356th,Ferguson,NOAH PENA,10,507003950,3,2,25,43.4572
+357th,Nova High School,Devi Lakhlani,10,553001850,5,10,15,43.4572
+358th,Coral Springs High School,Maegan Ramchal,10,515001750,7,18,5,43.4572
+359th,Hialeah,Lisandro Martin,10,579001351,7,18,5,43.4572
+360th,Southwest Miami,Alejandro Diaz,10,555000650,7,18,5,43.4572
+361st,Southwest Miami,Bryant Vega,10,555001560,8,22,0,43.4572
+362nd,Doral Academy High,Sophia Menendez,9,537504250,4,7,19,43.0518
+363rd,Naples,Ana Barnett,9,545006250,5,11,14,43.0518
+364th,Mast Academy,Hanna Erb,9,556003350,3,3,24,43.0518
+365th,Doral Academy High,Nelsa Vazquez,9,537504450,4,7,19,43.0518
+366th,West Broward High School,Marcus Elosegui,8,534001950,5,12,13,42.6465
+367th,Monarch High,Rina Matarasso,8,565500550,3,4,23,42.6465
+368th,Coral Gables,Fidel Lozano,8,513001250,5,12,13,42.6465
+369th,Mast Academy,Jose Negron,8,556002650,2,0,28,42.6465
+370th,Palmetto Ridge,Esteban Aguilar-Ramirez,8,518001551,3,4,23,42.6465
+371st,Naples,HsihTing Wu,8,545001251,3,4,23,42.6465
+372nd,Community School of Naples,Joseph Badra,8,562005350,5,12,13,42.6465
+373rd,Miami Palmetto,Matthew Wadle,8,541019950,5,12,13,42.6465
+374th,Ferguson,JOHN-JOHN WILLIAMS,8,507004650,3,4,23,42.6465
+375th,Community School of Naples,Tom Beckmann,8,562004150,5,12,13,42.6465
+376th,Gulf Coast,Preston Olinger,8,575001051,6,16,8,42.6465
+377th,Golden Gate High,Shivangi Patel,7,560000451,4,9,17,42.2411
+378th,Ronald Reagan H. S.,Flor Casanas,7,527001550,4,9,17,42.2411
+379th,Naples,Eavan Donovan,7,545005450,3,5,22,42.2411
+380th,Saint Andrew's School,Peter Dykas,7,566501950,2,1,27,42.2411
+381st,Monarch High,Jennifer Patterson,7,565500750,3,5,22,42.2411
+382nd,Stoneman Douglas,JOANNA ZHUANG,7,532001651,4,9,17,42.2411
+383rd,Nova High School,Ariel BenSalmon,7,553000150,3,5,22,42.2411
+384th,Stoneman Douglas,JOHN HUANG,7,532000850,3,5,22,42.2411
+385th,Coral Reef,Mavel Morales,7,587003250,2,1,27,42.2411
+386th,TERRA Environmental Research Institute,EMMA RUANO,7,584502950,3,5,22,42.2411
+387th,Palmetto Ridge,Shayanne Rivera,7,518003350,3,5,22,42.2411
+388th,Ferguson,JOSE SOTOLONGO,7,507015950,3,5,22,42.2411
+389th,Braddock,KELVIN VALDES,7,538020851,5,13,12,42.2411
+390th,Ronald Reagan H. S.,Gianfranco Perez-Greco,6,527004850,3,6,21,41.8358
+391st,Ronald Reagan H. S.,Daniela Esteves,6,527002150,3,6,21,41.8358
+392nd,Palm Beach Gardens,Vinh Huynh,6,373002551,4,10,16,41.8358
+393rd,Sagemont School,Braedon Villano,6,505000950,3,6,21,41.8358
+394th,Coral Shores,BROOKLYN IRWIN,6,589000651,4,10,16,41.8358
+395th,Ferguson,LUISANA CAICEDO,6,507001750,4,10,16,41.8358
+396th,Miami Palmetto,Trent Potter,6,541051050,3,6,21,41.8358
+397th,Belen Jesuit Prep,Joseph Fuentes,6,535001250,3,6,21,41.8358
+398th,Sagemont School,Erica Merlino,6,505000650,3,6,21,41.8358
+399th,Community School of Naples,Emilie Touma,5,562005450,2,3,25,41.4304
+400th,Sagemont School,Adam Jurko,5,505000051,5,15,10,41.4304
+401st,TERRA Environmental Research Institute,CATARINA VALE,5,584501950,7,23,0,41.4304
+402nd,Southwest Miami,Rafael Cardoso,5,555001650,7,23,0,41.4304
+403rd,University School of NSU,Brandon Lewis,5,563001250,7,23,0,41.4304
+404th,Ronald Reagan H. S.,Natalie Acevedo,5,527008450,2,3,25,41.4304
+405th,Golden Gate High,Erik Garcia,5,560000150,3,7,20,41.4304
+406th,Naples,Caroline Baldwin,5,545003850,3,7,20,41.4304
+407th,Monarch High,Thomas Reis,5,565500851,3,7,20,41.4304
+408th,Ronald Reagan H. S.,Santiago Suarez,5,527008050,2,3,25,41.4304
+409th,Miami Sunset,Matthew Lee,5,544000951,7,23,0,41.4304
+410th,Coral Reef,Carly Medina,4,587003650,2,4,24,41.0251
+411th,JP Taravella,Melissa Bazurto,4,533001150,3,8,19,41.0251
+412th,Miami Sunset,Samuel Salazar,4,544003951,3,8,19,41.0251
+413th,Palmetto Ridge,Jessica Rakich,4,518001151,2,4,24,41.0251
+414th,Miami Palmetto,Chris Tordi,3,541011250,2,5,23,40.6197
+415th,Palm Beach Gardens,Victoria Amirniroumand,3,373000351,2,5,23,40.6197
+416th,Ferguson,EFRAIN ORTA,3,507009750,3,9,18,40.6197
+417th,TERRA Environmental Research Institute,KEANDRE BLOUNT,3,584503950,2,5,23,40.6197
+418th,Mast Academy,Enrique Ruiz,3,556002550,2,5,23,40.6197
+419th,Coral Reef,Ashley Martin,3,587002550,3,9,18,40.6197
+420th,Palmetto Ridge,Sam Camp,3,518002250,2,5,23,40.6197
+421st,TERRA Environmental Research Institute,YUNISSE GONZALEZ,3,584505850,4,13,13,40.6197
+422nd,Nova High School,Seth Tanenhaus,3,553001950,3,9,18,40.6197
+423rd,Miami Sunset,Kino Maravillas,2,544001151,3,10,17,40.2144
+424th,Ronald Reagan H. S.,Ashley Flaquer,2,527002450,1,2,27,40.2144
+425th,Mast Academy,Rina Lucena,2,556000750,1,2,27,40.2144
+426th,Coral Reef,Sarah Abella,2,587005850,5,18,7,40.2144
+427th,Coral Shores,JULIANA PENA,2,589001450,3,10,17,40.2144
+428th,Ronald Reagan H. S.,Maria Jerez,2,527008350,3,10,17,40.2144
+429th,Palm Beach Gardens,Alison Mae Austria,2,373002450,2,6,22,40.2144
+430th,Sagemont School,Serene Shehadeh,2,505002650,1,2,27,40.2144
+431st,Mast Academy,Jacqueline Nguyen,2,556002950,2,6,22,40.2144
+432nd,Ronald Reagan H. S.,Guilianna Canizares,2,527001350,4,14,12,40.2144
+433rd,Community School of Naples,Alexandra Casola,1,562004250,2,7,21,39.8090
+434th,Sagemont School,Marco Wehrhahn,1,505004450,2,7,21,39.8090
+435th,Palmetto Ridge,Rachael Hendrix,1,518000450,2,7,21,39.8090
+436th,Palm Beach Gardens,MinYoung Chae,1,373001651,2,7,21,39.8090
+437th,Community School of Naples,Hayden Hilbert,1,562006450,1,3,26,39.8090
+438th,Coral Reef,Brittany Montesino,1,587004650,3,11,16,39.8090
+439th,Golden Gate High,Nga Huynh,1,560000051,2,7,21,39.8090
+440th,Palm Beach Gardens,Tamara Raymond,1,373002050,2,7,21,39.8090
+441st,Coral Shores,KYIA HERLTH,0,589001051,6,24,0,39.4037
+442nd,TERRA Environmental Research Institute,RACHEL SANTACRUZ,0,584505050,6,24,0,39.4037
+443rd,Coral Reef,Sebastian Salathe,0,587004150,0,0,30,39.4037
+444th,Coral Reef,Faith Torcuator,0,587002050,1,4,25,39.4037
+445th,Ronald Reagan H. S.,Barbarah Heimer,0,527003150,1,4,25,39.4037
+446th,Gulf Coast,Nestor Garcia,0,575000850,2,8,20,39.4037
+447th,Sagemont School,Gu'ness Khourma,0,505000750,1,4,25,39.4037
+448th,TERRA Environmental Research Institute,Mariana Mendonca,0,584504550,6,24,0,39.4037
+449th,Hialeah,Andurin Rivero,-1,579000950,1,5,24,38.9983
+450th,Palmetto Ridge,John Andrus,-1,518002451,2,9,19,38.9983
+451st,Coral Reef,Liseth Perez-Sanchez,-1,587004350,2,9,19,38.9983
+452nd,Sagemont School,Veronica Betancur,-1,505002851,1,5,24,38.9983
+453rd,Academy for Advanced Academics,Ana Castro,-1,595500350,3,13,14,38.9983
+454th,Sagemont School,Megan Bodden,-1,505002550,1,5,24,38.9983
+455th,Miami Springs,SARA BETANCOURT,-2,582000150,1,6,23,38.5930
+456th,Hialeah,Samantha Carias,-2,579000150,3,14,13,38.5930
+457th,Coral Reef,Alyssa Perez,-2,587002750,0,2,28,38.5930
+458th,TERRA Environmental Research Institute,CHARAN KOTHA,-2,584502150,1,6,23,38.5930
+459th,Coral Shores,KELSEA VOLLAND,-2,589001250,1,6,23,38.5930
+460th,Sagemont School,Chengcheng Hua,-3,505001750,5,23,2,38.1876
+461st,Stoneman Douglas,CONNIE MEI,-3,532000950,0,3,27,38.1876
+462nd,Sagemont School,Mano Asif,-3,505002450,0,3,27,38.1876
+463rd,Palmetto Ridge,Rachel Garcia,-3,518002650,0,3,27,38.1876
+464th,Coral Reef,Deirdre Edward,-3,587003850,4,19,7,38.1876
+465th,Riviera Preparatory School,Yishan Shi,-4,585501751,5,24,1,37.7823
+466th,Coral Gables,Melissa Boza,-4,513000350,2,12,16,37.7823
+467th,Flanagan,Davin Moy,-5,591004850,3,17,10,37.3769
+468th,Sagemont School,Claudia Moncaliano,-5,505001350,1,9,20,37.3769
+469th,TERRA Environmental Research Institute,BARRY NEAL,-5,584506850,5,25,0,37.3769
+470th,Naples,Austin Fuller,-5,545004750,2,13,15,37.3769
+471st,Palm Beach Gardens,Amanda Raymond,-6,373001950,0,6,24,36.9716
+472nd,Palmetto Ridge,Zoe Fregozo,-7,518001850,0,7,23,36.5662
+473rd,Gulf Coast,Kady Sciog,-9,575005650,1,13,16,35.7555
+474th,Sagemont School,Dora Dong,-10,505003350,4,26,0,35.3501
+475th,Southwest Miami,Jessica Vazquez,-10,555001250,4,26,0,35.3501

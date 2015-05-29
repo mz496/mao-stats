@@ -1,0 +1,106 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Williams Middle,Anmol Mittal,105,468102721,27,3,0,73.5422
+2nd,Hillsborough,Varun Puri,98,428081121,25,2,3,70.9085
+3rd,Berkeley Prep,Sneha Patel,97,405000621,25,3,2,70.5323
+4th,Williams Middle,Thushar Mahesh,95,468102621,25,5,0,69.7798
+5th,Berkeley Prep,Tony Leche,94,405007521,24,2,4,69.4035
+6th,Saint Stephen's Episcopal School,MATTHEW THOMAS,89,489002421,23,3,4,67.5223
+7th,Wharton,Tim Ford,87,485000321,23,5,2,66.7698
+8th,Coleman Middle,Aidan Reilly,85,420500421,23,7,0,66.0173
+9th,Williams Middle,Roshan Jayaramen,83,468103222,22,5,3,65.2648
+10th,Robinson,Catherine Johnson,83,458005721,22,5,3,65.2648
+11th,Berkeley Prep,Krishna Menon,82,405007722,22,6,2,64.8886
+12th,Williams Middle,Padma Vasanthakumar,81,468105822,21,3,6,64.5123
+13th,Robinson,CJ Baab,78,458005921,21,6,3,63.3836
+14th,Williams Middle,Andrew Paul,76,468103122,20,4,6,62.6311
+15th,Berkeley Prep,Andre Armero,76,405008121,20,4,6,62.6311
+16th,King,Minerva Nong,75,435004021,20,5,5,62.2549
+17th,Spoto High,Xiran Wang,72,472000221,20,8,2,61.1261
+18th,Williams Middle,Raphael Brosula,70,468100621,19,6,5,60.3736
+19th,Robinson,Hana Yankowitz,68,458006221,19,8,3,59.6211
+20th,Fort Myers,Tina Yang,66,423002922,18,6,6,58.8686
+21st,Williams Middle,Isha Harshe,66,468101520,18,6,6,58.8686
+22nd,King,Ananya Jain,65,435002321,19,11,0,58.4924
+23rd,Spoto High,Lena Nguyen,64,472000121,17,4,9,58.1162
+24th,Saint Stephen's Episcopal School,HAYES CHATHAM,63,489005322,16,1,13,57.7399
+25th,King,Sruthika Baviriseaty,61,435001121,17,7,6,56.9874
+26th,Fort Myers,Martin Smith,60,423002721,17,8,5,56.6112
+27th,Dunbar High School,Austin Pickett,59,477080221,17,9,4,56.2349
+28th,Coleman Middle,Sean Williams,58,420500522,17,10,3,55.8587
+29th,Hillsborough,Jonathan Strickland,57,428081721,16,7,7,55.4824
+30th,Tampa Bay Tech,Suzanna Cronyn,56,461000321,16,8,6,55.1062
+31st,Williams Middle,Saketh Katta,55,468104022,16,9,5,54.7299
+32nd,Coleman Middle,raelyn hoskinson,54,420500021,15,6,9,54.3537
+33rd,Coleman Middle,Carly Long,53,420500220,15,7,8,53.9775
+34th,Sickles,Sheridan Flood,52,479009721,16,12,2,53.6012
+35th,King,Megan Zhang,51,435003921,14,5,11,53.2250
+36th,Berkeley Prep,Lindsey Marion,49,405004820,14,7,9,52.4725
+37th,King,Scott Boksbaum,49,435001920,14,7,9,52.4725
+38th,Middleton,McFarlane Jack,49,468000021,14,7,9,52.4725
+39th,Robinson,Tristan Le,49,458008922,14,7,9,52.4725
+40th,Sickles,John Desmet,47,479007921,14,9,7,51.7200
+41st,Fort Myers,Ryan McGary,46,423003021,13,6,11,51.3437
+42nd,Berkeley Prep,Jalen Li,45,405000421,13,7,10,50.9675
+43rd,Williams Middle,Manish Bhatta,45,468102520,13,7,10,50.9675
+44th,Coleman Middle,Alyssa nagle,44,420500821,12,4,14,50.5912
+45th,Saint Stephen's Episcopal School,LUKE VALADIE,43,489000621,12,5,13,50.2150
+46th,Clearwater Fundamental Middle,Rana Hanna,43,438150522,12,5,13,50.2150
+47th,Middleton,Karup Devansh,42,468003821,13,10,7,49.8388
+48th,Clearwater Fundamental Middle,Brent Wilson,41,438165821,11,3,16,49.4625
+49th,Robinson,Nathan Lee,40,458008021,12,8,10,49.0863
+50th,Robinson,Tatiana Fabian,40,458008722,11,4,15,49.0863
+51st,Saint Stephen's Episcopal School,GABY PUNG,40,489000521,12,8,10,49.0863
+52nd,Freedom (Tampa),Caroline Kee,40,466007021,12,8,10,49.0863
+53rd,Coleman Middle,Gabrielle Tapley,38,420500322,11,6,13,48.3338
+54th,Saint Stephen's Episcopal School,ZLATA UZDENOVA,38,489003222,11,6,13,48.3338
+55th,Coleman Middle,Alexandra Stefanovici,37,420500722,13,15,2,47.9575
+56th,Hillsborough,Rushabh Shah,37,428081621,12,11,7,47.9575
+57th,Tampa Bay Tech,Donovan Doyle,36,461001521,11,8,11,47.5813
+58th,Cape Coral High School,William Kao,36,418002021,12,12,6,47.5813
+59th,Cape Coral High School,Rishi Merchant,35,418004621,13,17,0,47.2050
+60th,Williams Middle,Truman Hoang,35,468103521,13,17,0,47.2050
+61st,Clearwater Fundamental Middle,Kendall Mackin,35,438167221,10,5,15,47.2050
+62nd,Robinson,Winnie Zheng,34,458009222,11,10,9,46.8288
+63rd,Saint Stephen's Episcopal School,COLTON MELNICK,34,489002222,10,6,14,46.8288
+64th,Dunbar High School,Tyler Brown,33,477080621,11,11,8,46.4525
+65th,Sickles,Lucas Morehouse,33,479003821,10,7,13,46.4525
+66th,Saint Stephen's Episcopal School,RISHAB RAMAMURTHY,32,489002821,10,8,12,46.0763
+67th,Wharton,Alina Kurji,30,485001221,10,10,10,45.3238
+68th,Canterbury School of FL,Madelyn Wilson,30,464000922,9,6,15,45.3238
+69th,Coleman Middle,Haley Short,29,420500122,10,11,9,44.9476
+70th,Tampa Bay Tech,Eman Hasan,29,461000121,9,7,14,44.9476
+71st,Dunbar High School,Tahtiana Rangel,29,477080321,11,15,4,44.9476
+72nd,Berkeley Prep,Melinda Lu,28,405000522,9,8,13,44.5713
+73rd,Wharton,Briana Hernandez,28,485001621,9,8,13,44.5713
+74th,Cape Coral High School,Nick Brian,27,418002421,9,9,12,44.1951
+75th,Wharton,Michael McCarthy,27,485001421,8,5,17,44.1951
+76th,Sickles,Connor Supple,26,479004021,9,10,11,43.8188
+77th,Cape Coral High School,Alicia Frink,26,418002621,11,18,1,43.8188
+78th,Dunbar High School,Magdali Bartolome,26,477080520,8,6,16,43.8188
+79th,Robinson,Joseph Trenchik,25,458007122,9,11,10,43.4426
+80th,Hillsborough,Mica Jadick,25,428080421,7,3,20,43.4426
+81st,Berkeley Prep,Nick Banull,23,405003022,8,9,13,42.6901
+82nd,Clearwater Fundamental Middle,Zoe Davidson,23,438170521,7,5,18,42.6901
+83rd,Saint Stephen's Episcopal School,MPO CHO,21,489003622,6,3,21,41.9376
+84th,Clearwater Fundamental Middle,Sommer Mack,21,438190622,6,3,21,41.9376
+85th,Tampa Bay Tech,Caitlin Romberger,20,461000521,7,8,15,41.5614
+86th,Spoto High,Christina Hong,18,472002121,7,10,13,40.8089
+87th,Williams Middle,Prakash Vasanthakumar,16,468105920,5,4,21,40.0564
+88th,Williams Middle,Issay Barry,16,468100320,5,4,21,40.0564
+89th,Dunbar High School,Ezequiel Mejias Melo,16,477080121,7,12,11,40.0564
+90th,New Springs Schools,Brandon Ramdeholl,16,461601021,5,4,21,40.0564
+91st,Canterbury School of FL,Dominic Donovan,15,464000422,9,21,0,39.6801
+92nd,Spoto High,Aseel Asfour,15,472000521,9,21,0,39.6801
+93rd,Freedom (Tampa),Marigny Duga,14,466007421,7,14,9,39.3039
+94th,Middleton,Nguyen Khan,13,468000121,5,7,18,38.9276
+95th,Clearwater Fundamental Middle,Benjamin Allen,12,438154022,4,4,22,38.5514
+96th,Berkeley Prep,Alex Tingiris,12,405005120,5,8,17,38.5514
+97th,Berkeley Prep,Marcus Rose,11,405005020,5,9,16,38.1751
+98th,New Springs Schools,Brian Ramdeholl,8,461600921,5,12,13,37.0464
+99th,Middleton,Mohamed Adam,6,468003421,5,14,11,36.2939
+100th,Canterbury School of FL,Maria Rios,4,464000721,6,20,4,35.5414
+101st,Clearwater Fundamental Middle,Joe Sanders,4,438124321,3,8,19,35.5414
+102nd,Berkeley Prep,John Flynn,4,405007622,5,16,9,35.5414
+103rd,Canterbury School of FL,Jessica Hanna,2,464000521,5,18,7,34.7889
+104th,Canterbury School of FL,Catherine Hyden,-5,464000621,3,17,10,32.1552
+105th,New Springs Schools,Romeo Daniels,-14,461600721,3,26,1,28.7690

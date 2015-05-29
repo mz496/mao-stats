@@ -1,0 +1,69 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Markham Woods Middle,lisa yang,120,323105621,30,0,0,69.1408
+2nd,Jackson Heights Middle,CAMERON YAP,115,304100721,29,1,0,67.6437
+3rd,Sanford Middle,Jimmy Qin,115,344100021,29,1,0,67.6437
+4th,Sanford Middle,Amrita Sumal,110,344100120,28,2,0,66.1466
+5th,Sanford Middle,Seraphina Choi,110,344100720,28,2,0,66.1466
+6th,Markham Woods Middle,naveen krishnan,105,323103921,27,3,0,64.6495
+7th,Sanford Middle,Aradhya Kasera,105,344101321,27,3,0,64.6495
+8th,Lincoln Park Academy,Geoffrey Zheng,105,396001221,27,3,0,64.6495
+9th,Markham Woods Middle,amanda dilmore,105,323103821,27,3,0,64.6495
+10th,Seminole (Seminole),RJ GAMMON,102,341008321,26,2,2,63.7513
+11th,Sanford Middle,Sydney Good,101,344106321,26,3,1,63.4518
+12th,Millenium Middle School,Andy Cai,95,318100121,25,5,0,61.6553
+13th,Jackson Heights Middle,JONGHYUN LEE,93,304101221,24,3,3,61.0565
+14th,Sanford Middle,Shachi Pandya,92,344100220,24,4,2,60.7571
+15th,Sanford Middle,Sara Keatley,90,344100822,24,6,0,60.1582
+16th,Sanford Middle,Bahram Hosseini,86,344102021,23,6,1,58.9606
+17th,Sanford Middle,Priya Manjaly,82,344101520,22,6,2,57.7629
+18th,Markham Woods Middle,LangJoe nguyen,75,323104921,21,9,0,55.6669
+19th,Millenium Middle School,Marie Juge,75,318100221,20,5,5,55.6669
+20th,Sanford Middle,Patrick Lim,74,344100320,20,6,4,55.3675
+21st,Sanford Middle,Alex Villanueva,74,344103520,20,6,4,55.3675
+22nd,Sanford Middle,Silvia Huaman,74,344101922,20,6,4,55.3675
+23rd,Sanford Middle,Sita Ramaswamy,70,344100620,19,6,5,54.1698
+24th,Sanford Middle,Nafisa Mostofa,69,344101722,19,7,4,53.8704
+25th,Lake Mary,Kailey Pak,67,308003721,19,9,2,53.2716
+26th,Millenium Middle School,Melissa Anthony,65,318100021,17,3,10,52.6728
+27th,Bayside,Jordan Danel,65,303000322,19,11,0,52.6728
+28th,Sanford Middle,Gabrielle Plympton,63,344100922,18,9,3,52.0739
+29th,Bayside,Jeremiah Carpenter,60,303000121,16,4,10,51.1757
+30th,Sanford Middle,David Jones,59,344106220,16,5,9,50.8762
+31st,Lincoln Park Academy,Kaminaga Mali,56,396000221,16,8,6,49.9780
+32nd,Markham Woods Middle,william huether,54,323106322,15,6,9,49.3791
+33rd,Seminole (Seminole),WEIWEI CHEN,52,341010521,14,4,12,48.7803
+34th,St Edward's,GRIFFIN FAIRCHOK,52,374000821,15,8,7,48.7803
+35th,Lawton Chiles Middle School,Chris Long,50,329100121,14,6,10,48.1815
+36th,West Shore,Srimayi Tenali,49,393000921,14,7,9,47.8821
+37th,West Shore,Connor Stokes,47,393000821,14,9,7,47.2832
+38th,Markham Woods Middle,neil krishnan,44,323104222,13,8,9,46.3850
+39th,West Shore,Christopher Latta,44,393000721,13,8,9,46.3850
+40th,St Edward's,PEYTON KLEIN,42,374001222,11,2,17,45.7861
+41st,St Edward's,MORGAN BENSON,41,374000121,12,7,11,45.4867
+42nd,Sanford Middle,Jordan Zabrecky,41,344103220,12,7,11,45.4867
+43rd,Jackson Heights Middle,CHRISTOPHER RODRIGUEZ,40,304101321,11,4,15,45.1873
+44th,Sanford Middle,Gouthami Gadamsetty,38,344104820,12,10,8,44.5884
+45th,West Shore,David Freeman,38,393004822,11,6,13,44.5884
+46th,Bayside,Matthew Green,33,303000521,11,11,8,43.0913
+47th,Sanford Middle,Jonathan Manipadam,32,344104220,10,8,12,42.7919
+48th,Jackson Heights Middle,KEVIN LI,31,304101421,11,13,6,42.4925
+49th,Seminole (Seminole),SARAH KAMPIYIL,31,341010721,9,5,16,42.4925
+50th,Bayside,Poly Snover,30,303001122,8,2,20,42.1931
+51st,St Edward's,ALLISON BROWN,29,374000421,9,7,14,41.8937
+52nd,Bayside,Andrew Nichols,28,303000721,10,12,8,41.5943
+53rd,West Shore,Austin Smithe,27,393001122,9,9,12,41.2948
+54th,Bayside,Thomas Carrella,26,303000222,10,14,6,40.9954
+55th,Lawton Chiles Middle School,Jane Liang,26,329101021,8,6,16,40.9954
+56th,West Shore,Atharva Chopde,26,393000422,8,6,16,40.9954
+57th,Sanford Middle,Michelle An,25,344102920,9,11,10,40.6960
+58th,Sanford Middle,Elizabeth Bellerson,25,344103120,9,11,10,40.6960
+59th,Markham Woods Middle,zachary noble,24,323105122,8,8,14,40.3966
+60th,Bayside,Zach Nichols,23,303000821,7,5,18,40.0972
+61st,Lawton Chiles Middle School,Surya Sankar,21,329101721,10,19,1,39.4983
+62nd,Sanford Middle,Anvita Nath,18,344101620,7,10,13,38.6001
+63rd,St Edward's,OLIVIA PIZZO,16,374001422,6,8,16,38.0012
+64th,West Shore,Natalie Brown,12,393003922,4,4,22,36.8035
+65th,Markham Woods Middle,david mcbroom,12,323106022,6,12,12,36.8035
+66th,Seminole (Seminole),AREESHA AHMAD,11,341010621,4,5,21,36.5041
+67th,St Edward's,SEAN KENNEY,7,374001121,4,9,17,35.3065
+68th,Bayside,Bannon Fortune,-9,303000422,0,9,21,30.5157

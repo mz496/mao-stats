@@ -1,0 +1,87 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Fairview Middle,Jenny Kang,120,125103911,30,0,0,62.4090
+1st,Fairview Middle,Siddarth Kethireddy,120,125100711,30,0,0,62.4090
+3rd,Deerlake Middle,JESSIE CHI,116,185103611,29,0,1,61.1182
+4th,Lincoln Middle,Reva Ranka,115,201103411,29,1,0,60.7955
+4th,Lincoln Middle,Ben Wu,115,201103711,29,1,0,60.7955
+4th,Sanford Middle,Sunash Sharma,115,344105412,29,1,0,60.7955
+4th,Fairview Middle,Teja Jakkala,115,125107212,29,1,0,60.7955
+4th,Sanford Middle,Kyle Gettig,115,344103311,29,1,0,60.7955
+4th,Montford Middle,Shiming Deng,115,151122912,29,1,0,60.7955
+4th,Fairview Middle,Awnish Choudhary,115,125100212,29,1,0,60.7955
+4th,Deerlake Middle,DANIEL ZHENG,115,185101511,29,1,0,60.7955
+12th,Montford Middle,Shinyoung Lee,111,151126512,28,1,1,59.5047
+12th,Sanford Middle,Raymund Vista,111,344104610,28,1,1,59.5047
+12th,Montford Middle,Seonghyun Lee,111,151133912,28,1,1,59.5047
+15th,Deerlake Middle,ELLEN YU,110,185102311,28,2,0,59.1820
+16th,Deerlake Middle,SUNGSAN KIM,110,185100311,28,2,0,59.1820
+17th,Lincoln Middle,Jason Ai,110,201101612,28,2,0,59.1820
+18th,Lincoln Middle,Kevin Peng,110,201104210,28,2,0,59.1820
+19th,Fairview Middle,Salma ElAzab,107,125107712,27,1,2,58.2139
+20th,Fairview Middle,Stephen Barton,106,125103512,27,2,1,57.8912
+21st,Lincoln Middle,Megan Mathew,106,201103010,27,2,1,57.8912
+22nd,Sanford Middle,Justin Raman,106,344104112,27,2,1,57.8912
+23rd,Sanford Middle,Viraj Shah,106,344104310,27,2,1,57.8912
+24th,Lincoln Middle,Jessica Lee,106,201102711,27,2,1,57.8912
+25th,Montford Middle,Amanda Velez-Cortes,105,151132112,27,3,0,57.5685
+26th,Sanford Middle,Neil Shah,105,344102711,27,3,0,57.5685
+27th,Sanford Middle,Diptodip Deb,104,344103212,26,0,4,57.2458
+28th,Montford Middle,Annie Watts,102,151132911,26,2,2,56.6004
+29th,Fairview Middle,Carolyn Shi,102,125100910,26,2,2,56.6004
+30th,Lincoln Middle,Derek Li,101,201102802,26,3,1,56.2777
+31st,Fairview Middle,John Ameen,100,125104610,26,4,0,55.9550
+32nd,Sanford Middle,Helen Tolley,100,344104511,26,4,0,55.9550
+33rd,Lincoln Middle,Kevin Noh,100,201103211,26,4,0,55.9550
+34th,Sanford Middle,Satya Patel,100,344104011,26,4,0,55.9550
+35th,Sanford Middle,Kyle Cook,97,344103112,25,3,2,54.9868
+36th,Sanford Middle,Mahzain Malik,97,344103910,25,3,2,54.9868
+37th,Fairview Middle,Ifrah Waris,96,125109710,25,4,1,54.6641
+38th,Lincoln Middle,Victor Lin,96,201104412,25,4,1,54.6641
+39th,Lincoln Middle,Lisa Lu,95,201102912,25,5,0,54.3414
+40th,Fairview Middle,Andre Rodriguez,95,125101311,25,5,0,54.3414
+41st,Montford Middle,Doreen Yang,94,151133611,24,2,4,54.0187
+42nd,Montford Middle,Justin Marshall,93,151127211,24,3,3,53.6960
+43rd,Fairview Middle,Brian Lockwood,92,125100111,24,4,2,53.3733
+44th,Lincoln Middle,Kelly Lampotang,92,201102510,24,4,2,53.3733
+45th,Lincoln Middle,Vanna Yang,92,201103810,24,4,2,53.3733
+46th,Lincoln Middle,Lewis Curl,86,201102110,22,2,6,51.4371
+47th,Sanford Middle,Shivani Mehta,85,344102410,22,3,5,51.1144
+48th,Sanford Middle,Reid Ferguson,85,344105610,22,3,5,51.1144
+49th,Montford Middle,Pranshu Trivedi,84,151131610,22,4,4,50.7917
+50th,Sanford Middle,Sandhya Shankar,82,344104410,22,6,2,50.1463
+51st,Montford Middle,Stacy Wang,82,151132711,22,6,2,50.1463
+52nd,Kanapaha Middle School,Olivia Sanchez,77,209100111,20,3,7,48.5328
+53rd,Kanapaha Middle School,Brooke Schroepfer,75,209100611,20,5,5,47.8874
+54th,Fairview Middle,Aiman Waris,75,125103710,19,1,10,47.8874
+55th,Sanford Middle,Austin Miller,74,344105510,20,6,4,47.5647
+56th,Lincoln Middle,Becky Lao,70,201102610,19,6,5,46.2739
+57th,Lincoln Middle,Yong Shan,69,201103510,19,7,4,45.9512
+58th,Montford Middle,Zach Sespico,69,151130510,19,7,4,45.9512
+59th,Fairview Middle,Evan Wilson,67,125108810,18,5,7,45.3058
+60th,Lincoln Middle,Lisa Lu,65,201102910,18,7,5,44.6604
+61st,Howard Bishop Middle,Nicholas Klugman,64,208100011,17,4,9,44.3377
+62nd,Sanford Middle,Ernest Choi,64,344102510,18,8,4,44.3377
+63rd,Sanford Middle,Nina Kumar,60,344103610,16,4,10,43.0469
+64th,Kanapaha Middle School,Maddy Segal,59,209100911,17,9,4,42.7242
+65th,Montford Middle,Michael Waryoba,59,151132810,17,9,4,42.7242
+66th,Howard Bishop Middle,Jonathan Jacobs,59,208100111,17,9,4,42.7242
+67th,Montford Middle,Hannah Williams,58,151133210,15,2,13,42.4015
+68th,Montford Middle,Grace Hong,55,151125210,17,13,0,41.4334
+69th,Montford Middle,Bethany Bianchini,51,151120410,14,5,11,40.1426
+70th,Sanford Middle,Samiha Nazrul,51,344102310,15,9,6,40.1426
+71st,Montford Middle,William Burch,50,151121010,16,14,0,39.8199
+72nd,Montford Middle,Shrikumar Nair,50,151128410,15,10,5,39.8199
+73rd,Sanford Middle,Alexander Lowie,47,344103710,15,13,2,38.8518
+74th,Kanapaha Middle School,Ben Sanchez,47,209100211,14,9,7,38.8518
+75th,Howard Bishop Middle,Jennifer Sheldon,46,208101011,13,6,11,38.5291
+76th,Sanford Middle,Aaron Sanders,45,344104210,12,3,15,38.2064
+77th,Sanford Middle,Sara Friend,38,344103010,11,6,13,35.9475
+78th,Sanford Middle,Nadiya Nawsheen,38,344105710,11,6,13,35.9475
+79th,Sanford Middle,Aaron Sanders,36,344104210,10,4,16,35.3021
+80th,Sanford Middle,Swathi Khonduri,31,344102810,9,5,16,33.6886
+81st,Sanford Middle,Priya Amilineni,30,344105010,10,10,10,33.3659
+82nd,Howard Bishop Middle,Riley Alstodt,26,208100311,11,18,1,32.0751
+83rd,Sanford Middle,Swara Desai,23,344105110,7,5,18,31.1070
+84th,Montford Middle,Eugene Rehfeldt,19,151103710,6,5,19,29.8162
+85th,Montford Middle,Katie Maxwell,16,151127510,5,4,21,28.8481
+86th,Kanapaha Middle School,Aliya Miranda,2,209101112,2,6,22,24.3303

@@ -1,0 +1,68 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Sanford Middle,Kyle Gettig,115,344103311,29,1,0,74.2385
+2nd,Markham Woods Middle,robert blaine,105,323103511,27,3,0,71.1552
+3rd,Markham Woods Middle,anthony chen,100,323101611,26,4,0,69.6135
+4th,Indian Trails Middle School,REETI GULATI,92,375000011,24,4,2,67.1469
+5th,West Shore,Esha Bansal,90,393000011,24,6,0,66.5302
+6th,Sanford Middle,Helen Tolley,90,344104511,24,6,0,66.5302
+7th,Sanford Middle,Satya Patel,85,344104010,23,7,0,64.9886
+8th,Sanford Middle,Sunash Sharma,77,344105412,20,3,7,62.5219
+9th,St. Edwards Middle,Daniel Mullen,75,305010111,21,9,0,61.9053
+10th,Gifford Middle School,Ryan Zerega,72,309100811,20,8,2,60.9803
+11th,Ocoee High School,Jeremy Hill,70,275000411,20,10,0,60.3636
+12th,Gifford Middle School,Evan MacKay,70,309100911,19,6,5,60.3636
+13th,Markham Woods Middle,hyunbin oh,69,323101111,19,7,4,60.0553
+14th,Sanford Middle,Raymund Vista,65,344104612,18,7,5,58.8220
+15th,Jackson Heights Middle,NATHAN ZHANG,63,304100111,17,5,8,58.2053
+16th,Sanford Middle,Justin Raman,58,344104111,16,6,8,56.6636
+17th,West Shore,Alex Heuser,58,393000112,16,6,8,56.6636
+18th,Sanford Middle,Diptodip Deb,58,344103210,16,6,8,56.6636
+19th,Ocoee High School,Jake Butler,57,275000511,17,11,2,56.3553
+20th,Lincoln Park Academy,Samantha Strong,55,396001511,16,9,5,55.7386
+21st,Markham Woods Middle,kristopher tolopka,51,323103012,14,5,11,54.5053
+22nd,Sanford Middle,Kyle Cook,50,344103111,15,10,5,54.1970
+23rd,Sanford Middle,Reid Ferguson,49,344105612,15,11,4,53.8887
+24th,West Shore,Shelley Mitchell,48,393000511,14,8,8,53.5803
+25th,Sanford Middle,Viraj Shah,48,344104310,14,8,8,53.5803
+26th,West Shore,Alex Autenreib,44,393001312,14,12,4,52.3470
+27th,Sanford Middle,Adam Jaffer,43,344103410,13,9,8,52.0387
+28th,Markham Woods Middle,shawnison hammerling,43,323102011,14,13,3,52.0387
+29th,Sanford Middle,Austin Miller,40,344105510,14,16,0,51.1137
+30th,West Shore,Kha Duong,40,393002111,12,8,10,51.1137
+31st,Sanford Middle,Alexander Lowie,37,344103710,13,15,2,50.1887
+32nd,Jackson Heights Middle,MARK VAINSHTEIN,36,304100311,11,8,11,49.8803
+33rd,Markham Woods Middle,sabrina phillips,35,323101212,13,17,0,49.5720
+34th,Jackson Heights Middle,PRERNA SHARMA,34,304100211,10,6,14,49.2637
+35th,Sanford Middle,Nina Kumar,34,344103610,11,10,9,49.2637
+36th,Sanford Middle,Mahzain Malik,34,344103910,11,10,9,49.2637
+37th,West Shore,Sarah Arends,31,393000911,9,5,16,48.3387
+38th,Sanford Middle,Ernest Choi,28,344102510,11,16,3,47.4137
+39th,Sanford Middle,Aaron Sanders,20,344104210,8,12,10,44.9471
+40th,Sanford Middle,Swathi Khonduri,19,344102810,6,5,19,44.6387
+41st,Jackson Heights Middle,AMYGRACE POTHEN,18,304101211,7,10,13,44.3304
+42nd,Gifford Middle School,Matthew McCoy,18,309101011,9,18,3,44.3304
+43rd,Jackson Heights Middle,PAVAN KHALSA,17,304100812,9,19,2,44.0221
+44th,West Shore,Marissa Patel,15,393005612,8,17,5,43.4054
+45th,Sanford Middle,Derek Zoock,15,344105210,7,13,10,43.4054
+46th,Sanford Middle,Sandhya Shankar,15,344104410,8,17,5,43.4054
+47th,Lawton Chiles Middle School,Robert Burke,14,329100412,6,10,14,43.0971
+48th,Lawton Chiles Middle School,Devi Mody,12,329101511,5,8,17,42.4804
+49th,Lawton Chiles Middle School,Bridget Adkins,12,329100012,6,12,12,42.4804
+50th,Sanford Middle,Joshua Tijerino,10,344102910,5,10,15,41.8637
+51st,Indian Trails Middle School,JACOB EDEL,10,375000111,8,22,0,41.8637
+52nd,Sanford Middle,Swara Desai,9,344105110,3,3,24,41.5554
+53rd,Lawton Chiles Middle School,Sephanie Steedle,7,329101812,4,9,17,40.9387
+54th,Ocoee High School,Joshua Joyner,7,275000051,7,21,2,40.9387
+55th,Jackson Heights Middle,RADHIA AZAD,5,304101112,6,19,5,40.3221
+56th,Sanford Middle,Shivani Mehta,4,344102410,5,16,9,40.0138
+57th,St. Edwards Middle,Wesley Campbell,1,305010611,4,15,11,39.0888
+58th,Lawton Chiles Middle School,Kaitlyn Monroe,1,329101611,4,15,11,39.0888
+59th,West Shore,Nazish Mirza,1,393005212,5,19,6,39.0888
+60th,Sanford Middle,Nadiya Nawsheen,0,344105710,3,12,15,38.7804
+61st,Markham Woods Middle,shanpetriaya Adudu,0,323104112,3,12,15,38.7804
+62nd,Sanford Middle,Samiha Nazrul,-2,344102310,3,14,13,38.1638
+63rd,Sanford Middle,Sohul Kapil,-5,344102610,0,5,25,37.2388
+64th,Lawton Chiles Middle School,Caitlin McGonegal,-5,329101211,5,25,0,37.2388
+65th,Markham Woods Middle,stephanie yuan,-5,323103412,5,25,0,37.2388
+66th,Sanford Middle,Sara Friend,-10,344103010,1,14,15,35.6971
+67th,Lawton Chiles Middle School,Courtney McGonegal,-14,329101311,3,26,1,34.4638

@@ -1,0 +1,83 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Ankit Aggarwal,111,405004621,22,7,1,71.0791
+2nd,Gainesville High School,Jordan Horn,111,268008621,22,7,1,71.0791
+3rd,Eastside,Kalp Patel,103,280004321,20,7,3,67.1674
+4th,Tampa Bay Tech,Nikhil Nagabandi,102,461000221,19,4,7,66.6785
+5th,Berkeley Prep,Eva Khademi,101,405004221,18,1,11,66.1895
+6th,Berkeley Prep,Jack Graham,100,405004321,19,6,5,65.7005
+7th,Wharton,Ryan Borum,98,485002721,19,8,3,64.7226
+8th,Berkeley Prep,Zachary Diamandis,96,405003521,18,6,6,63.7447
+9th,King,Amol Mavuduru,96,435002921,18,6,6,63.7447
+10th,King,Sebastian Ayala,95,435001221,17,3,10,63.2557
+11th,Berkeley Prep,Nick Diaco,93,405001022,17,5,8,62.2778
+12th,Berkeley Prep,Amol Dhaliwal,92,405003920,16,2,12,61.7888
+13th,Middleton,Alexander Hoang,90,468000121,16,4,10,60.8109
+14th,Robinson,Nhu-y Thuy Nguyen,89,458006321,16,5,9,60.3219
+15th,Wharton,Owen Benefiel,86,485002621,15,4,11,58.8550
+16th,Berkeley Prep,Lance Esposito,85,405007022,16,9,5,58.3661
+17th,Eastside,Danielle Liu,85,280003321,16,9,5,58.3661
+18th,King,Austin Kee,83,435002320,14,3,13,57.3881
+19th,Gainesville High School,John Neill,82,268007321,14,4,12,56.8992
+20th,Berkeley Prep,Will Levine,80,405003720,14,6,10,55.9212
+21st,Gainesville High School,Ryan Jacobs,79,268012021,14,7,9,55.4323
+22nd,Hillsborough,Sameer Puri,78,428061421,14,8,8,54.9433
+23rd,Berkeley Prep,Alan Armero,76,405007620,12,2,16,53.9654
+24th,Berkeley Prep,Katie Freedy,76,405004122,13,6,11,53.9654
+25th,Gainesville High School,Karoline McKaig,75,268007421,13,7,10,53.4764
+26th,Newsome,JACOB PFAFFENBICHLER,73,465000521,12,5,13,52.4985
+27th,Eastside,Sangeun Lee,73,280002921,13,9,8,52.4985
+28th,St Stephen's Episcopal,KYLE KOUGHAN,72,489002921,12,6,12,52.0095
+29th,Berkeley Prep,Gabriel Villasana,72,405007420,12,6,12,52.0095
+30th,Gaither High School,Brian Tran,72,426001421,12,6,12,52.0095
+31st,Freedom (Tampa),Sky Russell,72,466004421,12,6,12,52.0095
+32nd,King,Pranjal Tyagi,71,435003621,11,3,16,51.5206
+33rd,Berkeley Prep,Stanley Dennison,71,405007520,11,3,16,51.5206
+34th,Wharton,Jonathan Maggio,70,485002421,12,8,10,51.0316
+35th,Gainesville High School,Rebekah Malpass,70,268014622,12,8,10,51.0316
+36th,King,Jonathan Ptak,70,435003221,12,8,10,51.0316
+37th,Bloomingdale,Jared Horner,69,483000821,13,13,4,50.5426
+38th,Robinson,Nesha Shamsuddin,68,458006221,10,2,18,50.0537
+39th,Berkeley Prep,Maya Ghandi,67,405003622,12,11,7,49.5647
+40th,Gaither High School,Brandon See,67,426004921,10,3,17,49.5647
+41st,Bloomingdale,Travis Brimner,67,483000421,11,7,12,49.5647
+42nd,Robinson,Neha Shamsuddin,66,458006122,10,4,16,49.0757
+43rd,Tampa Bay Tech,Kimani Smith,65,461001821,10,5,15,48.5868
+44th,Robinson,Meng Fei Shen,65,458005921,11,9,10,48.5868
+45th,Cape Coral High School,Miles Crockett,65,418002921,10,5,15,48.5868
+46th,Williams Middle,Meghana Bhimreddy,64,468100521,10,6,14,48.0978
+47th,Bloomingdale,Tristan Phillips,64,483001121,10,6,14,48.0978
+48th,St Stephen's Episcopal,LILY LU,63,489003021,12,15,3,47.6088
+49th,Gainesville High School,Ashley Petty,63,268014422,9,3,18,47.6088
+50th,Robinson,Rachel Goldstein,61,458006422,11,13,6,46.6309
+51st,Hillsborough,Enzo Cabrera,60,428060221,11,14,5,46.1420
+52nd,Williams Middle,Shawn Simon,60,468100421,9,6,15,46.1420
+53rd,Spoto High,Alyssa Schultz,60,472001321,12,18,0,46.1420
+54th,Cape Coral High School,Jake Maranzatto,59,418003121,10,11,9,45.6530
+55th,Middleton,Francis Roan,58,468002321,8,4,18,45.1640
+56th,St Stephen's Episcopal,NUPUR MATHUR,58,489001221,8,4,18,45.1640
+57th,St Stephen's Episcopal,HANNAH SAGE,58,489003321,10,12,8,45.1640
+58th,St Stephen's Episcopal,MICHELLE YAN,56,489001322,10,14,6,44.1861
+59th,Gaither High School,Madie Dallas,56,426003221,8,6,16,44.1861
+60th,Middleton,Vontero Duncan,55,468000621,8,7,15,43.6971
+61st,Gainesville High School,David Nazef,55,268007720,7,3,20,43.6971
+62nd,Gainesville High School,Colin Guy,54,268014120,6,0,24,43.2082
+63rd,Bloomingdale,Matthew Neidig,54,483000621,9,12,9,43.2082
+64th,Williams Middle,Annabel Aguiar,54,468100121,8,8,14,43.2082
+65th,Berkeley Prep,Hillary McLauchlin,54,405007320,10,16,4,43.2082
+66th,Gainesville High School,Emily Watts,54,268013320,8,8,14,43.2082
+67th,Gainesville High School,Jay Leshan,53,268007822,10,17,3,42.7192
+68th,St Stephen's Episcopal,TIFFANY CHINWUBA,52,489001422,7,6,17,42.2302
+69th,Spoto High,Agustin Martinez,51,472001421,8,11,11,41.7413
+70th,Cape Coral High School,JeanPaul Mathew,50,418003221,6,4,20,41.2523
+71st,Robinson,Chau Nguyen,50,458005821,7,8,15,41.2523
+72nd,Gaither High School,Landon Beard,48,426004322,5,2,23,40.2744
+73rd,Gaither High School,Gabby Dallas,48,426001621,6,6,18,40.2744
+74th,Gainesville High School,Halie Grantham,47,268012222,5,3,22,39.7854
+75th,H. B. Plant,Cole Wilsey,47,427069321,5,3,22,39.7854
+76th,St Stephen's Episcopal,LARISSA LEIVA,46,489001522,6,8,16,39.2965
+77th,Tampa Bay Tech,Rachel Hendel,40,461001621,4,6,20,36.3627
+78th,Canterbury School of FL,Christopher Burg,40,464000521,8,22,0,36.3627
+79th,H. B. Plant,Henry Jetmundsen,39,427069421,5,11,14,35.8737
+80th,H. B. Plant,Magdalena Shafee,35,427069221,5,15,10,33.9178
+81st,Wharton,Adriana Kroeze,27,485002321,1,7,22,30.0061
+82nd,Cape Coral High School,David McMahan,27,418002721,2,11,17,30.0061

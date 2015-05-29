@@ -1,0 +1,77 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,MARIYA TONEVA,111,7954138,28,1,1,72.6857
+2nd,Eastside,Michael Cho,110,2804130,28,2,0,72.3777
+3rd,Buchholz,JOHN LU,106,7954135,27,2,1,71.1458
+4th,Buchholz,JAMES TAN,106,7954137,27,2,1,71.1458
+5th,Buchholz,WENDA YE,101,7954140,26,3,1,69.6058
+6th,Buchholz,TESSA YELTON,97,2954341,25,3,2,68.3739
+7th,Buchholz,Lucy Zhong,97,2954143,25,3,2,68.3739
+8th,Buchholz,seong sub yoon,95,2954142,25,5,0,67.7579
+9th,Buchholz,KYLE CARLISLE,92,2954330,24,4,2,66.8340
+10th,Buchholz,Sungho Lee,87,2954134,23,5,2,65.2940
+11th,Spruce Creek,DAVID WEINBERG,87,2674150,23,5,2,65.2940
+12th,Buchholz,DANIEL STEFFEE,86,2954136,23,6,1,64.9860
+13th,Eastside,Alex Choi,85,2804131,23,7,0,64.6780
+14th,Eastside,Shirley Ai,80,2804129,22,8,0,63.1381
+15th,Buchholz,JASON WANG,76,2954339,21,8,1,61.9062
+16th,Eastside,Joon Kim,68,7804144,19,8,3,59.4423
+17th,Stanton College Prep,vignesh  vudatha,64,2964160,17,4,9,58.2103
+18th,Spruce Creek,STEVEN FOX,59,2674336,16,5,9,56.6704
+19th,Eastside,Jimmy Xin,57,2804152,17,11,2,56.0544
+20th,Spruce Creek,MATTHEW KINDY,55,7674140,17,13,0,55.4384
+21st,Spruce Creek,ANGELA ZHAO,53,2674152,15,7,8,54.8224
+22nd,Eastside,Annie Ding,51,7804134,14,5,11,54.2065
+23rd,Spruce Creek,JOSEPH ELSAKR,42,7674135,12,6,12,51.4346
+24th,Stanton College Prep,janaki  perera,42,7964165,11,2,17,51.4346
+25th,Spruce Creek,Joseph Liu,40,7674142,12,8,10,50.8186
+26th,Stanton College Prep,yooyeon  jung,38,2964350,10,2,18,50.2026
+27th,Spruce Creek,FRANK LUCIANO,37,2674143,12,11,7,49.8946
+28th,Stanton College Prep,tina  ng,34,2964355,9,2,19,48.9707
+29th,Eastside,Hayley Cox,33,2804333,10,7,13,48.6627
+30th,Bolles,Douglas Meadow,33,2524114,11,11,8,48.6627
+31st,Stanton College Prep,jisoo  kim,32,2964152,10,8,12,48.3547
+32nd,Stanton College Prep,paulo  bautista,32,2964346,10,8,12,48.3547
+33rd,Stanton College Prep,nick  jiang,32,7964166,12,16,2,48.3547
+34th,Spruce Creek,Kelly Woodfine,31,2674351,9,5,16,48.0467
+35th,Fleming Island High,Mandy Wu,29,2204115,9,7,14,47.4307
+36th,Spruce Creek,MICHAEL TINGLEY,28,2674147,9,8,13,47.1227
+37th,Spruce Creek,EVAN STONER,27,2674346,8,5,17,46.8148
+38th,Flagler-Palm Coast,DMYTRO BOYCHEV,26,2214139,8,6,16,46.5068
+39th,Bolles,Jun Suk Lee,26,2524110,9,10,11,46.5068
+40th,Stanton College Prep,jessica  yeung,25,2964170,8,7,15,46.1988
+41st,Spruce Creek,James Hu,25,7674137,9,11,10,46.1988
+42nd,Fleming Island High,Alex Kriehn,24,2204108,7,4,19,45.8908
+43rd,Ridgeview High School,Jessica Fears,23,2984102,7,5,18,45.5828
+44th,Eastside,Janice Hu,22,7804140,9,14,7,45.2748
+45th,Spruce Creek,Kristi Miller,21,2674379,8,11,11,44.9668
+46th,Stanton College Prep,amandeep  singh,21,2964158,7,7,16,44.9668
+47th,Stanton College Prep,ashish  heda,21,7964149,7,7,16,44.9668
+48th,Spruce Creek,Melissa Palmer,19,2674345,6,5,19,44.3509
+49th,Stanton College Prep,cheryl  mccane,19,7964154,6,5,19,44.3509
+50th,Paxon School,JOSEPH LIPAT,19,2504102,9,17,4,44.3509
+51st,Fleming Island High,Alex Wegznek,18,2204114,7,10,13,44.0429
+52nd,Spruce Creek,Jeremy Outinen,18,2674344,7,10,13,44.0429
+53rd,Spruce Creek,Kristin Vanest,17,2674380,5,3,22,43.7349
+54th,Bolles,Eric Yeary,15,2524118,9,21,0,43.1189
+55th,Spruce Creek,SOPHIE TRAUTSCHOLD,15,2674349,5,5,20,43.1189
+56th,Bolles,Zibran Sarwar,13,7524117,5,7,18,42.5029
+57th,Flagler-Palm Coast,VICTORIA EMERSON,13,2214132,4,3,23,42.5029
+58th,Ridgeview High School,Andrew Clements,12,2984101,4,4,22,42.1949
+59th,Bolles,Andra Riegler,10,7524116,8,22,0,41.5790
+60th,Flagler-Palm Coast,SARAH HANRAHAN,10,7214111,5,10,15,41.5790
+61st,Ridgeview High School, ,10,2984163,4,6,20,41.5790
+62nd,Spruce Creek,Travis LaHue,9,2674341,4,7,19,41.2710
+63rd,Ridgeview High School,Chris Burmeister,9,2984100,6,15,9,41.2710
+64th,Eastside,Heather Law,9,7804145,5,11,14,41.2710
+65th,Flagler-Palm Coast,ALEXANDRIA SWEET,7,2214127,3,5,22,40.6550
+66th,Flagler-Palm Coast,NICOLE RUGGIERO,6,2214117,4,10,16,40.3470
+67th,Bolles,Sung Su Kim,5,7524108,7,23,0,40.0390
+68th,Paxon School,ASHLYN WHITLOCK,5,2504104,5,15,10,40.0390
+69th,Stanton College Prep,ousama  aboushaar,4,2964345,3,8,19,39.7310
+70th,Paxon School,ALYSSA WHITLOCK,4,2504103,5,16,9,39.7310
+71st,Flagler-Palm Coast,ASHLEY BARRETT,3,7214129,2,5,23,39.4231
+72nd,Flagler-Palm Coast,AMANDA CALDERON,3,7214125,2,5,23,39.4231
+73rd,Flagler-Palm Coast,STEPHANIE LEHMAN,2,2214326,4,14,12,39.1151
+74th,Bolles,Jun Seo Lee,1,2524109,4,15,11,38.8071
+75th,Paxon School,SYDNEY JOHNS,0,2504101,2,8,20,38.4991
+76th,Flagler-Palm Coast, ,-4,7214134,2,12,16,37.2671

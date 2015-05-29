@@ -1,0 +1,70 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Theo Diamandis,141,405000240,28,1,1,67.3035
+2nd,Western,Nicolas Pena,140,573001040,28,2,0,67.0060
+3rd,Lawton Chiles High School,Jessie Chi,136,181003240,27,2,1,65.8159
+4th,Buchholz,David Hurst,131,295000240,26,3,1,64.3283
+5th,Buchholz,Soomin Cho,130,295003240,25,0,5,64.0308
+6th,Buchholz,Nicholas Klugman,129,295000740,25,1,4,63.7333
+7th,Vero Beach,Evan MacKay,128,372003040,25,2,3,63.4358
+8th,Fort Myers,Jacob Hambor,127,423003240,25,3,2,63.1382
+9th,Seminole (Seminole),ANTHONY CHEN,127,341007040,25,3,2,63.1382
+10th,Buchholz,Vincent Mei,127,295004440,25,3,2,63.1382
+11th,King,John Qin,124,435010440,24,2,4,62.2457
+12th,Rickards High School,Jeewoo Kang,122,140001840,24,4,2,61.6506
+13th,Buchholz,Kevin Noh,121,295005740,24,5,1,61.3531
+14th,American Heritage (Plantation),Dajon Thomas,121,506001840,24,5,1,61.3531
+15th,Cypress Bay,Caterina Golner,120,588002340,23,2,5,61.0556
+16th,Stoneman Douglas,RANDY ELHASSANI,117,532001940,23,5,2,60.1631
+17th,Miami Springs,ORLANDO LANEY,110,582002240,21,4,5,58.0804
+18th,King,Sathvik Palakurty,109,435010140,21,5,4,57.7829
+19th,Shorecrest Prep,Jackson Willis,107,451005440,21,7,2,57.1879
+20th,Lawton Chiles High School,Nick Dietrich,106,181003440,20,4,6,56.8904
+21st,Rickards High School,Abhinav Harish,105,140001140,21,9,0,56.5928
+22nd,Eastside,Jessica Lee,105,280002840,20,5,5,56.5928
+23rd,Community Sch Naples,John Kim,101,562001640,18,1,11,55.4028
+24th,American Heritage (Plantation),Matthew Soree,101,506000040,20,9,1,55.4028
+25th,Seminole (Seminole),SHAWN HAMMERLING,100,341000040,20,10,0,55.1052
+26th,Vero Beach,Matthew McCoy,100,372003140,20,10,0,55.1052
+27th,Eastside,Lucas Zhou,94,280006540,17,4,9,53.3201
+28th,American Heritage - Boca/Delray,Ty Wotherspoon,93,526003540,16,1,13,53.0226
+29th,Oak Hall,GERARDO MOLINA,93,249000440,17,5,8,53.0226
+30th,Community Sch Naples,Kara Bressler,86,562001540,16,8,6,50.9400
+31st,Middleton,Marcelino Mederos,85,468002840,15,5,10,50.6425
+32nd,King,Isha Bhutada,80,435005240,14,6,10,49.1549
+33rd,Deerfield Beach,Heeral Patel,80,577002240,16,14,0,49.1549
+34th,Palm Harbor Univ,Ben Sultan,80,413008940,14,6,10,49.1549
+35th,Cape Coral High School,Blaise Garfall,79,418003440,13,3,14,48.8574
+36th,Miami Palmetto,William Yang,79,541008640,13,3,14,48.8574
+37th,Fort Myers,Nick Gomez,75,423001040,13,7,10,47.6673
+38th,Eastside,Sarah Lulu,74,280003640,12,4,14,47.3698
+39th,Ransom Everglades,Sarah Murray,72,519000240,11,2,17,46.7747
+40th,Lincoln,Lisanne vanEngelen,70,109002640,11,4,15,46.1797
+41st,Wharton,JARED BELL,68,485003340,12,10,8,45.5847
+42nd,H. B. Plant,Alex Supkay,67,427040640,10,3,17,45.2871
+43rd,Coral Glades,Chevanese Spence,66,528004640,9,0,21,44.9896
+44th,American Heritage - Boca/Delray,Dylan Cahill,66,526001840,10,4,16,44.9896
+45th,Naples,Robert Resha,64,545000640,9,2,19,44.3946
+46th,Saint Edward's School,ZHENYU LI,63,374030240,9,3,18,44.0971
+47th,Naples,Natalia Nunez,63,545002540,9,3,18,44.0971
+48th,Ferguson,ALEJANDRO PENARREDONDA,63,507010540,10,7,13,44.0971
+49th,Saint Edward's School,COLTON WARREN,62,374030840,9,4,17,43.7995
+50th,Berkeley Prep,Hayden Johnson,60,405000540,10,10,10,43.2045
+51st,Vero Beach,Samantha Howard,60,372002740,8,2,20,43.2045
+52nd,Seminole (Seminole),JESSICA FANG,59,341003940,9,7,14,42.9070
+53rd,Naples,Katie Sanderson,57,545000840,7,1,22,42.3120
+54th,Naples,Damian Lauder,55,545002340,7,3,20,41.7169
+55th,Flagler Palm Coast High School,Barret Manfre,53,221003640,7,5,18,41.1219
+56th,Naples,Andre Chu,49,545000140,7,9,14,39.9318
+57th,Flagler Palm Coast High School,Autumn Sanson,48,221001640,5,2,23,39.6343
+58th,Miami Springs,DANIELA ZAPATA,48,582002340,5,2,23,39.6343
+59th,Coral Glades,Amrita Singh,44,528004540,4,2,24,38.4442
+60th,Naples,Samantha Regala,43,545002640,7,15,8,38.1467
+61st,Naples,Hunter Ness,43,545002440,5,7,18,38.1467
+62nd,Community Sch Naples,John Cheffy,42,562002540,8,20,2,37.8492
+63rd,Ronald Reagan H. S.,Graciela Martinez,41,527003840,3,1,26,37.5517
+64th,Coral Glades,Jaimee Katz,40,528002740,4,6,20,37.2541
+65th,Community Sch Naples,Harrison Kryvicky,40,562002440,4,6,20,37.2541
+66th,Flagler Palm Coast High School,Ashli Phillips,34,221002940,2,4,24,35.4690
+67th,Palm Beach Gardens,Joseph Kim,34,373000341,3,8,19,35.4690
+68th,Flagler Palm Coast High School,Anna Skudarnova,33,221002740,2,5,23,35.1715
+69th,Flagler Palm Coast High School,Lauren Umpenhour,26,221003440,1,8,21,33.0889

@@ -1,0 +1,35 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Pratik Sachdeva,110,140000261,28,2,0,67.5581
+2nd,Buchholz,Hansol Kang,100,295004060,26,4,0,63.8130
+3rd,Buchholz,Kirsten Soucek,98,295005861,25,2,3,63.0640
+4th,Rickards High School,Lester Nandati,96,140001561,25,4,1,62.3149
+5th,Buchholz,Cayley Robinson,93,295004660,24,3,3,61.1914
+6th,Lincoln,Christopher Weeden,92,109091661,24,4,2,60.8169
+7th,Rickards High School,Jason Waldman,90,140002361,24,6,0,60.0678
+8th,Buchholz,Jackson Looney,85,295004360,23,7,0,58.1953
+9th,Stanton College Preparatory School,Jessica Yeung,82,296000561,22,6,2,57.0717
+10th,Stanton College Preparatory School,Mayank Gupta,80,296004461,22,8,0,56.3227
+11th,Buchholz,Ming Cao,78,295003961,21,6,3,55.5737
+12th,Buchholz,Justin rafanan,75,295001562,20,5,5,54.4501
+13th,Lawton Chiles High School,Amanda Langston,73,181000861,20,7,3,53.7011
+14th,Lawton Chiles High School,Miranda Andrews,69,181000161,19,7,4,52.2030
+15th,Buchholz,Grace Kim,69,295004161,19,7,4,52.2030
+16th,Stanton College Preparatory School,Rebekah Kitto,68,296007261,19,8,3,51.8285
+17th,Buchholz,Shuyun Xue,67,295006161,19,9,2,51.4540
+18th,Lincoln,Sarah Rudder,61,109020561,17,7,6,49.2069
+19th,Maclay,India Watkins,59,172003061,17,9,4,48.4579
+20th,Lincoln,Jane Xiao,56,109071561,16,8,6,47.3343
+21st,Rickards High School,Preston Turnage,56,140003661,15,4,11,47.3343
+22nd,Lawton Chiles High School,Eun Lee,56,181001061,16,8,6,47.3343
+23rd,Stanton College Preparatory School,Paulo Bautista,55,296004351,17,13,0,46.9598
+24th,Maclay,Marco Cognetta,53,172001161,15,7,8,46.2108
+25th,Lawton Chiles High School,Ivan Vargas,52,181004962,15,8,7,45.8363
+26th,Lawton Chiles High School,Kelsey McWilliams,51,181004261,15,9,6,45.4618
+27th,Paxon School,SWETHA MOHAN,37,250000961,11,7,12,40.2186
+28th,Gainesville High School,Alan Tsai,37,268001661,12,11,7,40.2186
+29th,Eastside,Diana Petrukhina,35,280004661,13,17,0,39.4695
+30th,Lawton Chiles High School,Elizabeth Lee,33,181000962,9,3,18,38.7205
+31st,Eastside,Susan Phan,29,280004861,11,15,4,37.2224
+32nd,Navarre,MADISON HOWARD,27,180006160,8,5,17,36.4734
+33rd,Rocky Bayou Christian School,Su Ho Im,15,192011861,5,5,20,31.9792
+34th,Rocky Bayou Christian School,Emily Wilson,9,192005261,4,7,19,29.7321

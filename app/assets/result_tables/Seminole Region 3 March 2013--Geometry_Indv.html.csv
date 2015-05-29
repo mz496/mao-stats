@@ -1,0 +1,79 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Sanford Middle,Sam Li,141,344100221,28,1,1,84.4045
+2nd,Sanford Middle,Raveena Patel,127,344101321,25,3,2,78.3085
+3rd,Sanford Middle,Kevin Zhai,119,344103820,23,3,4,74.8251
+4th,Markham Woods Middle,andrew delgadillo,106,323101921,20,4,6,69.1645
+5th,Sanford Middle,Timothy Vu,100,344103322,18,2,10,66.5519
+6th,Sanford Middle,Sabrina Fan,98,344103721,19,8,3,65.6811
+7th,Sanford Middle,Aaron Zhang,95,344101022,17,3,10,64.3748
+8th,Sanford Middle,Ross Bloom,92,344105220,16,2,12,63.0685
+9th,West Shore,Neill Johnston,89,393006121,15,1,14,61.7622
+10th,Bayside,Floyd Burke,86,303001521,15,4,11,60.4559
+11th,Sanford Middle,Varun Naga,84,344101120,15,6,9,59.5850
+12th,Markham Woods Middle,ian gile,81,323100221,14,5,11,58.2788
+13th,Jackson Heights Middle,JUSTIN WONG,80,304100921,14,6,10,57.8433
+14th,Sanford Middle,Meera Sundar,79,344104121,14,7,9,57.4079
+15th,Markham Woods Middle,brandon spence,78,323100421,14,8,8,56.9725
+16th,Markham Woods Middle,Yakumo Ishigaki,75,323103121,15,15,0,55.6662
+17th,Gifford Middle School,Nikki Bouldin,74,309101321,13,8,9,55.2307
+18th,West Shore,Michael Pickering,74,393004821,12,4,14,55.2307
+19th,Sanford Middle,Joel Zishuk,73,344102220,13,9,8,54.7953
+20th,Jackson Heights Middle,PRANAV SHARMA,72,304100621,11,2,17,54.3599
+21st,Lawton Chiles Middle School,Keejin Yoon,72,329100921,12,6,12,54.3599
+22nd,Jackson Heights Middle,KAREN ZHANG,71,304100421,11,3,16,53.9245
+23rd,Orlando Science Charter  High School,Areeba Tariq,70,348001321,12,8,10,53.4890
+24th,Lawton Chiles Middle School,Kai Juge,68,329101421,11,6,13,52.6182
+25th,Bayside,Wistenly Alphonse,65,303001221,10,5,15,51.3119
+26th,Orlando Science Charter  High School,Tina Dang,65,348001221,10,5,15,51.3119
+27th,Bayside,Melissa Argote,65,303000021,11,9,10,51.3119
+28th,West Shore,Nick Pekmezian,64,393005121,9,2,19,50.8764
+29th,Seminole (Seminole),QIANYI CHEN,64,341015921,10,6,14,50.8764
+30th,Sanford Middle,Tara Nibhanapudy,63,344100522,9,3,18,50.4410
+31st,West Shore,Austin Camps,62,393000122,9,4,17,50.0056
+32nd,Lawton Chiles Middle School,Guerin Frei,61,329100722,9,5,16,49.5702
+33rd,Seminole (Seminole),NIRVA VASSA,60,341000821,9,6,15,49.1347
+34th,Orlando Science Middle Charter School,Dominic Canora,60,348100221,9,6,15,49.1347
+35th,Millennium Middle School,Hannah Prom,60,318102222,10,10,10,49.1347
+36th,Gifford Middle School,Lorena Molina,59,309100421,11,15,4,48.6993
+37th,Bayside,Priscilla Gonzalez,58,303002021,8,4,18,48.2639
+38th,Seminole (Seminole),ESHTEMOH MORGAN,58,341008021,9,8,13,48.2639
+39th,Orlando Science Charter  High School,Evgeny Borovitin,57,348000821,9,9,12,47.8284
+40th,Jackson Heights Middle,JOSEPH CURTIN,56,304100221,8,6,16,47.3930
+41st,Lawton Chiles Middle School,Rajiv Narayanan,55,329101022,7,3,20,46.9576
+42nd,Lawton Chiles Middle School,Timothy Lai,55,329101522,7,3,20,46.9576
+43rd,Millennium Middle School,Katelyn Liston,55,318102521,7,3,20,46.9576
+44th,Sanford Middle,Niyati Shah,54,344102622,7,4,19,46.5221
+45th,Sanford Middle,Pranav Garg,54,344100620,9,12,9,46.5221
+46th,Markham Woods Middle,lauren nash,54,323100022,8,8,14,46.5221
+47th,West Shore,Nicholas Sutton,53,393000021,8,9,13,46.0867
+48th,Sebastian River,Angelica Bodine,53,314003520,7,5,18,46.0867
+49th,Gifford Middle School,Kyle Darrisaw,52,309100722,9,14,7,45.6513
+50th,Seminole (Seminole),AMULYA DHULIPALA,52,341000921,7,6,17,45.6513
+51st,Markham Woods Middle,dexter bell,52,323101822,9,14,7,45.6513
+52nd,Orlando Science Middle Charter School,Anthony Madrazo,51,348100021,8,11,11,45.2159
+53rd,Gifford Middle School,Emily McCain,50,309100921,6,4,20,44.7804
+54th,Millennium Middle School,Sagario Suarez,50,318102022,7,8,15,44.7804
+55th,Seminole (Seminole),SHELBY RESNICK,50,341000322,5,0,25,44.7804
+56th,Orlando Science Charter  High School,Angel Quinones,50,348001021,8,12,10,44.7804
+57th,Lawton Chiles Middle School,Fernando Zapata,50,329101121,7,8,15,44.7804
+58th,Millennium Middle School,Samantha Lim,49,318102321,5,1,24,44.3450
+59th,Millennium Middle School,Sabrina Chowdhury,48,318101521,5,2,23,43.9096
+60th,Gifford Middle School,Coral Morrow,47,309100321,6,7,17,43.4741
+61st,Seminole (Seminole),LIANA VIGOA,46,341000622,6,8,16,43.0387
+62nd,Millennium Middle School,Audrey Perryman,46,318101422,6,8,16,43.0387
+63rd,West Shore,Arick Lim,46,393004722,9,20,1,43.0387
+64th,Bayside,Martha Esparza,43,303001922,4,3,23,41.7324
+65th,Orlando Science Charter  High School,Roy Rodriguez,43,348001622,6,11,13,41.7324
+66th,Gifford Middle School,Jacob Hoekzema,43,309100222,7,15,8,41.7324
+67th,Sanford Middle,Mujahid Jaffer,42,344101620,6,12,12,41.2970
+68th,Millennium Middle School,Kiersten Robertson,41,318101921,8,21,1,40.8616
+69th,Lawton Chiles Middle School,Vincent Zhu,40,329101221,5,10,15,40.4261
+70th,Gifford Middle School,Miguel Vallejo,40,309100622,7,18,5,40.4261
+71st,Lawton Chiles Middle School,Aidan Ryan,39,329101322,4,7,19,39.9907
+72nd,Sanford Middle,Joel Kratt,39,344102120,5,11,14,39.9907
+73rd,Lake Mary,Sahil Bhikha,39,308002021,5,11,14,39.9907
+74th,Millennium Middle School,Caddisy D'entrermont,38,318102122,3,4,23,39.5553
+75th,Orlando Science Middle Charter School,Brandon Grandison,36,348100121,6,18,6,38.6844
+76th,Millennium Middle School,Morgan Wegner,35,318101720,2,3,25,38.2490
+77th,Seminole (Seminole),ALIYYAH DEWJI,34,341015522,1,0,29,37.8135
+78th,Orlando Science Middle Charter School,Caleb Spence,30,348100421,0,0,30,36.0718

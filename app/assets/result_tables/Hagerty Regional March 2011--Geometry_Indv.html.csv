@@ -1,0 +1,70 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Sanford Middle,Kyle Gettig,120,344103321,30,0,0,84.2294
+2nd,Sanford Middle,Sunash Sharma,97,344105421,25,3,2,74.7969
+3rd,Seminole (Seminole),ROBERT BLAINE,85,341005621,23,7,0,69.8755
+4th,Sanford Middle,Neil Shah,85,344102721,23,7,0,69.8755
+5th,Sanford Middle,Justin Raman,76,344104120,20,4,6,66.1845
+6th,St Edward's,DANIEL MULLEN,76,374010921,21,8,1,66.1845
+7th,Sanford Middle,Viraj Shah,69,344104321,19,7,4,63.3138
+8th,Markham Woods Middle,jessica fang,65,323101822,17,3,10,61.6733
+9th,Markham Woods Middle,shawnison hammerling,65,323102021,17,3,10,61.6733
+10th,Jackson Heights Middle,NATHAN ZHANG,65,304100121,18,7,5,61.6733
+11th,Markham Woods Middle,anthony chen,61,323101621,18,11,1,60.0329
+12th,Jackson Heights Middle,RADHIA AZAD,61,304101122,17,7,6,60.0329
+13th,Sanford Middle,Helen Tolley,55,344104522,15,5,10,57.5722
+14th,Sanford Middle,Satya Patel,55,344104022,17,13,0,57.5722
+15th,Sanford Middle,Diptodip Deb,54,344103222,15,6,9,57.1621
+16th,Sanford Middle,Austin Miller,50,344105520,16,14,0,55.5216
+17th,Lawton Chiles Middle School,Robby Burke,48,329100221,13,4,13,54.7014
+18th,Markham Woods Middle,kristopher tolopka,48,323103021,13,4,13,54.7014
+19th,Jackson Heights Middle,MARK VAINSHTEIN,47,304100321,13,5,12,54.2913
+20th,West Shore,Caleb Bryant,47,393001711,13,5,12,54.2913
+21st,Lawton Chiles Middle School,Sam Henken,43,329100521,11,1,18,52.6509
+22nd,Markham Woods Middle,yui takahashi,42,323105822,12,6,12,52.2408
+23rd,Seminole (Seminole),AAISHA SANAULLAH,42,341005221,12,6,12,52.2408
+24th,Seminole (Seminole),ALEX OH,41,341005820,13,11,6,51.8306
+25th,Markham Woods Middle,stephanie yuan,41,323103422,12,7,11,51.8306
+26th,Seminole (Seminole),MICHELLE ZHONG,41,341006321,12,7,11,51.8306
+27th,Jackson Heights Middle,GRACE LI,39,304100421,11,5,14,51.0104
+28th,Sanford Middle,Shivani Mehta,38,344102420,11,6,13,50.6003
+29th,St Edward's,JAD SHALHOUB,34,374011321,10,6,14,48.9599
+30th,West Shore,Emma Kalvan,33,393000621,10,7,13,48.5498
+31st,Sanford Middle,Marcellus Johnson,33,344105920,10,7,13,48.5498
+32nd,Tuskawilla Middle School,Jacob Lunal,32,306105891,12,16,2,48.1396
+33rd,West Shore,Sarah Arends,32,393000921,8,0,22,48.1396
+34th,Tuskawilla Middle School,Brian Rider,32,306105981,9,4,17,48.1396
+35th,Sanford Middle,Raymund Vista,32,344104622,11,12,7,48.1396
+36th,Sanford Middle,Sara Friend,30,344103020,8,2,20,47.3194
+37th,Sanford Middle,Calvin Yeung,30,344106420,10,10,10,47.3194
+38th,Lawton Chiles Middle School,Bridget Adkins,29,329100021,9,7,14,46.9093
+39th,Sanford Middle,Alexander Lowie,29,344103720,10,11,9,46.9093
+40th,Bayside,Kelsey Tousignant,28,303000721,8,4,18,46.4992
+41st,Sanford Middle,Derek Zoock,28,344105220,8,4,18,46.4992
+42nd,West Shore,Shelley Mitchell,27,393000521,9,9,12,46.0891
+43rd,Jackson Heights Middle,LOGAN HUGHES,26,304102122,8,6,16,45.6790
+44th,West Shore,Alex Heuser,25,393000122,8,7,15,45.2689
+45th,Suncoast Comm,Lois Arasim,25,327008521,8,7,15,45.2689
+46th,St Edward's,COLTON WARREN,23,374011621,8,9,13,44.4486
+47th,Jackson Heights Middle,ZACHARY SPIKES,23,304101422,9,13,8,44.4486
+48th,West Shore,Alex Autenreib,23,393001322,7,5,18,44.4486
+49th,Sanford Middle,Nadiya Nawsheen,22,344105720,7,6,17,44.0385
+50th,Sanford Middle,Joshua Tijerino,22,344102920,7,6,17,44.0385
+51st,Lyman High School,Steven Remington,21,351005021,7,7,16,43.6284
+52nd,Jackson Heights Middle,PAVAN KHALSA,20,304100820,8,12,10,43.2183
+53rd,Bayside,Melanie Bailey,20,303000021,6,4,20,43.2183
+54th,West Shore,Eva Johnson,18,393002022,5,2,23,42.3981
+55th,Jackson Heights Middle,PRERNA SHARMA,18,304100221,7,10,13,42.3981
+56th,St Edward's,TRACY NGUYEN,15,374011021,4,1,25,41.1677
+57th,Lawton Chiles Middle School,Evan Diatzikis,15,329100121,6,9,15,41.1677
+58th,Seminole (Seminole),JOHANA PERLAZA,15,341007820,5,5,20,41.1677
+59th,Jackson Heights Middle,PAOLA MENDOZA,15,304100622,5,5,20,41.1677
+60th,Suncoast Comm,Nicole Dan,14,327006721,5,6,19,40.7576
+61st,St Edward's,WESLEY CAMPBELL,13,374010122,4,3,23,40.3475
+62nd,West Shore,Kara Marin,12,393001122,4,4,22,39.9374
+63rd,Lyman High School,Laura Barros,12,351000121,6,12,12,39.9374
+64th,Sanford Middle,Ernest Choi,10,344102520,6,14,10,39.1172
+65th,Sanford Middle,Aminha Ullah,9,344105820,5,11,14,38.7071
+66th,Suncoast Comm,Nathalie Canate,8,327009021,3,4,23,38.2970
+67th,Markham Woods Middle,shanpetriaya Adudu,8,323104121,4,8,18,38.2970
+68th,Sanford Middle,Dalia Ghazall,3,344105020,1,1,28,36.2464
+69th,Sanford Middle,Bobak Manesh,1,344106620,3,11,16,35.4262

@@ -1,0 +1,84 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Andrew Fang,112,295002622,28,0,2,73.7736
+2nd,Buchholz,John Huber,102,295004820,26,2,2,70.3657
+3rd,Eastside,Wenli Zhao,99,280006521,25,1,4,69.3433
+4th,Eastside,Lulu Cao,98,280000321,25,2,3,69.0025
+5th,Buchholz,HyunJee Rhee,98,295003921,25,2,3,69.0025
+6th,Buchholz,Danny Dewitt,97,295003620,25,3,2,68.6617
+7th,Buchholz,Vivian Zhu,93,295002720,24,3,3,67.2985
+8th,Buchholz,Minjia Zhong,89,295003020,23,3,4,65.9353
+9th,Buchholz,Liren Xue,88,295002422,23,4,3,65.5945
+10th,Buchholz,Marie Thomas,87,295006220,23,5,2,65.2537
+11th,Eastside,Hope Pan,87,280004021,23,5,2,65.2537
+12th,Buchholz,Robin Xu,85,295003722,22,3,5,64.5721
+13th,Buchholz,Cindy Xia,84,295002221,22,4,4,64.2313
+14th,Buchholz,Ben Diuguid,83,295002821,22,5,3,63.8905
+15th,Buchholz,Xinyi Wu,82,295001921,22,6,2,63.5497
+16th,Buchholz,Dian Zhang,79,295003320,21,5,4,62.5273
+17th,Buchholz,Sam Harris,76,295004122,21,8,1,61.5050
+18th,Buchholz,tomasz Andraka,73,295002920,20,7,3,60.4826
+19th,James W. Johnson Middle,Robin Zeng,67,215101221,18,5,7,58.4378
+20th,Buchholz,Michael Patlovich,62,295002320,17,6,7,56.7338
+21st,Eastside,Sangwook Lee,58,280002722,17,10,3,55.3706
+22nd,Gainesville High School,Connor Davis,58,268006421,16,6,8,55.3706
+23rd,Stanton College Preparatory School,Jeffrey Hung,57,296004421,16,7,7,55.0298
+24th,Spruce Creek,Oisin Harrington,54,267010721,15,6,9,54.0074
+25th,Eastside,Apara Agarwal,49,280000020,14,7,9,52.3035
+26th,Spruce Creek,Rania Saboungi,47,267011321,14,9,7,51.6219
+27th,James W. Johnson Middle,Mark Kwak,46,215100921,13,6,11,51.2811
+28th,Gainesville High School,Martina Knechel,45,268003622,12,3,15,50.9403
+29th,Lincoln Middle,Ayaz Khan,43,201102721,14,13,3,50.2587
+30th,Gainesville High School,Zach Read,42,268004121,13,10,7,49.9179
+31st,Lincoln Middle,Yong Shan,42,201102522,12,6,12,49.9179
+32nd,Fleming Island High,William Brooks,40,220001522,12,8,10,49.2363
+33rd,Lincoln Middle,Vanna Yang,38,201102621,11,6,13,48.5547
+34th,Buchholz,Will Messina,37,295003120,11,7,12,48.2139
+35th,Spruce Creek,Gary Broyles,37,267010421,11,7,12,48.2139
+36th,Fleming Island High,Michael Tellman,37,220000622,11,7,12,48.2139
+37th,Gainesville High School,Analiese Wagner,37,268005921,11,7,12,48.2139
+38th,Lincoln Middle,Lewis Curl,35,201102321,12,13,5,47.5323
+39th,Gainesville High School,Karen Tecler,33,268006322,10,7,13,46.8507
+40th,Gainesville High School,Sadie DePeter,33,268003022,9,3,18,46.8507
+41st,Gainesville High School,Jon Gardner,33,268000420,9,3,18,46.8507
+42nd,Fleming Island High,Victoria Sales,33,220000921,10,7,13,46.8507
+43rd,Fleming Island High,Christina Venisky,32,220001621,10,8,12,46.5099
+44th,Gainesville High School,Rachel Graham,30,268002921,10,10,10,45.8283
+45th,Oak Hall,WEILIN CEI,29,249002121,8,3,19,45.4875
+46th,Gainesville High School,Laura Davis,29,268002820,10,11,9,45.4875
+47th,Gainesville High School,Zoey Hendrickson,28,268000820,9,8,13,45.1467
+48th,Gainesville High School,Greg Robinson,28,268005820,10,12,8,45.1467
+49th,Gainesville High School,Chaz Chester,28,268002622,9,8,13,45.1467
+50th,Gainesville High School,Cameron Smith,28,268006120,9,8,13,45.1467
+51st,James W. Johnson Middle,Sindee Lee,27,215101021,10,13,7,44.8059
+52nd,Gainesville High School,Taylor Repetto,27,268001720,11,17,2,44.8059
+53rd,Fleming Island High,Max Grandstaff,26,220001221,9,10,11,44.4651
+54th,Lincoln Middle,Beverly Ge,26,201102221,10,14,6,44.4651
+55th,Lincoln Middle,Derek Li,26,201102822,8,6,16,44.4651
+56th,Stanton College Preparatory School,Hame Britto,26,296004522,9,10,11,44.4651
+57th,Fleming Island High,Nick Banwart,24,220000021,9,12,9,43.7835
+58th,Oak Hall,TAYLOR TOMLINSON,24,249002222,7,4,19,43.7835
+59th,Eastside,Timothy Tia,24,280005422,8,8,14,43.7835
+60th,Gainesville High School,Alexis Clay,24,268001620,8,8,14,43.7835
+61st,Spruce Creek,Sean Brueggemann,23,267010321,8,9,13,43.4428
+62nd,Gainesville High School,Delaney Sagul,23,268000920,8,9,13,43.4428
+63rd,Gainesville High School,Chris Branch,22,268002720,8,10,12,43.1020
+64th,Bolles,Aaisha Gulani,21,252003521,8,11,11,42.7612
+65th,Oak Hall,ZACH LOGESON,21,249002021,7,7,16,42.7612
+66th,Oak Hall,CODY BLAIR,21,249002421,7,7,16,42.7612
+67th,Paxon School,Lauren Fox,21,250001221,9,15,6,42.7612
+68th,Stanton College Preparatory School,Anna Tolleson,21,296000121,7,7,16,42.7612
+69th,Gainesville High School,Kelsey Anhalt,21,268001120,7,7,16,42.7612
+70th,Leesburg High School,Steven Oliver,20,287002421,6,4,20,42.4204
+71st,Gainesville High School,Samuel Phillips,20,268000620,10,20,0,42.4204
+72nd,Gainesville High School,Ali Harris,18,268000320,6,6,18,41.7388
+73rd,Gainesville High School,Sofia Eury,17,268003220,6,7,17,41.3980
+74th,James W. Johnson Middle,Arjun Tamrakar,17,215101121,8,15,7,41.3980
+75th,Oak Hall,HANNAH KORAH,13,249012122,5,7,18,40.0348
+76th,Bolles,Erik ArandaMichel,10,252003321,5,10,15,39.0124
+77th,Leesburg High School,Michael Nunes,8,287002121,3,4,23,38.3308
+78th,Gainesville High School,Foster Abolveral,8,268003320,4,8,18,38.3308
+79th,Gainesville High School,Michele Robinson,8,268005720,5,12,13,38.3308
+80th,Leesburg High School,Marah Rhone,6,287002722,3,6,21,37.6492
+81st,Bolles,Patrick Glover,6,252003421,5,14,11,37.6492
+82nd,Leesburg High School,Max Shen,5,287003721,7,23,0,37.3084
+83rd,Leesburg High School,Tyler Brandeburg,-5,287000321,5,25,0,33.9005

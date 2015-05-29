@@ -1,0 +1,136 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Zack Tripp,105,405004431,27,3,0,73.5024
+2nd,Wharton,HYUNCHUL ROH,105,485000231,27,3,0,73.5024
+3rd,Vero Beach,HEATHER FREDRICKSON,98,372009631,25,2,3,71.1270
+4th,Vero Beach,DANIEL BOLING,93,372002431,24,3,3,69.4303
+5th,American Heritage (Plantation),Bradley Snider,92,506006431,24,4,2,69.0910
+6th,Freedom (Tampa),Alex Coleman,91,466000831,23,1,6,68.7516
+7th,American Heritage (Plantation),Joshua Wang,91,506006531,24,5,1,68.7516
+8th,Miami Springs,JOHN MAYO,90,582001631,24,6,0,68.4123
+9th,Palm Harbor Univ,Zhicheng Qiao,90,413016131,24,6,0,68.4123
+10th,St Edward's,ETHAN KLEIN,87,374030831,23,5,2,67.3943
+11th,Berkeley Prep,Bekka DePew,86,405002631,23,6,1,67.0549
+12th,Community Sch Naples,Alex Fogg,86,562003031,23,6,1,67.0549
+13th,Vero Beach,EMILY ASTROM,82,372009331,22,6,2,65.6976
+14th,Cape Coral High School,KEVIN WELLS,81,418000731,22,7,1,65.3582
+15th,American Heritage (Plantation),Thomas Anzalone,80,506000131,21,4,5,65.0189
+16th,King,Shivam Bharadwaj,77,435000331,20,3,7,64.0009
+17th,Vero Beach,SAMI HASHMI,76,372004731,20,4,6,63.6615
+18th,American Heritage (Plantation),Harrison Miller,75,506000731,21,9,0,63.3222
+19th,Miami Springs,HENRY LANEY,75,582001431,21,9,0,63.3222
+20th,King,Hengyi Wu,72,435007531,19,4,7,62.3042
+21st,Naples,Rich Krapf,71,545005731,18,1,11,61.9648
+22nd,H. B. Plant,Walter Ley,69,427034031,18,3,9,61.2862
+23rd,Fort Myers,Indrasena Chilakala,68,423003031,18,4,8,60.9468
+24th,Vero Beach,AMIRA ALKHATIB,66,372001730,17,2,11,60.2681
+25th,Vero Beach,ZOEY NEUDECK,66,372008730,18,6,6,60.2681
+26th,Fort Myers,Alex Garcia,65,423000131,17,3,10,59.9288
+27th,Freedom (Tampa),Kevin Tian,65,466005231,17,3,10,59.9288
+28th,Vero Beach,COLIN MACKAY,62,372006730,16,2,12,58.9108
+29th,Robinson,NHU NGUYEN,59,458000431,15,1,14,57.8928
+30th,Vero Beach,REBECCA SCHEIDT,57,372010830,17,11,2,57.2141
+31st,Palm Harbor Univ,Elizabeth Zeng,57,413020831,16,7,7,57.2141
+32nd,Fort Myers,Michael D'Angelo,56,423002131,15,4,11,56.8748
+33rd,Gaither High School,Jenny Yoder,56,426001831,14,0,16,56.8748
+34th,Naples,Vren Manuel,55,545006131,15,5,10,56.5354
+35th,Miami Springs,PABLO HERNANDEZ,54,582001231,15,6,9,56.1961
+36th,King,Andres Saez,53,435004931,14,3,13,55.8567
+37th,Wharton,EARL BELL,52,485000031,14,4,12,55.5174
+38th,Deerfield Beach,RAQUEL BENSADOUN,52,577004831,14,4,12,55.5174
+39th,Wharton,WILLIAM KOLLURI,52,485002431,15,8,7,55.5174
+40th,Vero Beach,LEO CURY,52,372009430,15,8,7,55.5174
+41st,Middleton,Chris Nevins,50,468002131,14,6,10,54.8387
+42nd,Vero Beach,SAMUEL MCCOY,50,372010430,13,2,15,54.8387
+43rd,Tampa Bay Tech,Fahad Syed,49,461002631,15,11,4,54.4994
+44th,Robinson,RAVI PATEL,46,458000531,12,2,16,53.4814
+45th,Freedom (Tampa),Werther Marciales,45,466003531,12,3,15,53.1420
+46th,Naples,Hector Mora,44,545006230,12,4,14,52.8027
+47th,Miami Springs,VERONICA PADRON,44,582004730,12,4,14,52.8027
+48th,Tampa Bay Tech,Deepal Patal,43,461001931,12,5,13,52.4634
+49th,Palm Harbor Univ,Lillian Cohen,43,413003831,12,5,13,52.4634
+50th,King,Xiaoyi Ren,42,435004131,11,2,17,52.1240
+51st,Palm Harbor Univ,Mark McNeely,42,413013430,11,2,17,52.1240
+52nd,Fort Myers,Cory French,41,423001431,11,3,16,51.7847
+53rd,Miami Springs,GERARDO CARRANZA,38,582000631,11,6,13,50.7667
+54th,Vero Beach,MATTHEW SUSI,37,372010530,11,7,12,50.4273
+55th,Middleton,Zachary Ottenburg,36,468002231,10,4,16,50.0880
+56th,Palm Harbor Univ,Megan Gutter,35,413006930,10,5,15,49.7486
+57th,Canterbury (Lee),Oscar Anderson,35,411003931,10,5,15,49.7486
+58th,Shorecrest Prep,Jared Elinger,34,451001131,10,6,14,49.4093
+59th,Fort Myers,Sammy Wappi,34,423001332,9,2,19,49.4093
+60th,Vero Beach,ANDREW HOLDEN,34,372009730,10,6,14,49.4093
+61st,Naples,Chris French,34,545005531,10,6,14,49.4093
+62nd,St Edward's,JORDAN CANEVARI,32,374030331,10,8,12,48.7306
+63rd,Seacrest High School,Charlotte Newell,32,555701631,10,8,12,48.7306
+64th,Belen Jesuit Prep,Alex Carr,32,535001031,9,4,17,48.7306
+65th,St Edward's,SASHA BENINCASA,31,374030231,9,5,16,48.3913
+66th,Berkeley Prep,Tatianna Padmanabhan,31,405004031,9,5,16,48.3913
+67th,Palm Harbor Univ,Sarah Hou,30,413008230,9,6,15,48.0519
+68th,Tampa Bay Tech,SriHarsha Palakurty,30,461000431,10,10,10,48.0519
+69th,Canterbury (Lee),Savannah Bonnette,30,411003631,9,6,15,48.0519
+70th,H. B. Plant,IRIAN KZ,29,427099931,8,3,19,47.7126
+71st,Naples,Kim Wu,29,545007330,9,7,14,47.7126
+72nd,Naples,Josiah Villarosa,29,545007030,10,11,9,47.7126
+73rd,Belen Jesuit Prep,Jonathan Calles,28,535000931,8,4,18,47.3733
+74th,Freedom (Tampa),Christopher Tolson,28,466005331,8,4,18,47.3733
+75th,Miami Sunset,ROBERT SCOTT,28,544007831,8,4,18,47.3733
+76th,Berkeley Prep,Will Watson,27,405004531,9,9,12,47.0339
+77th,Belen Jesuit Prep,Victor DeZarraga,26,535012231,8,6,16,46.6946
+78th,Shorecrest Prep,Luke Nunnelly,25,451001231,7,3,20,46.3552
+79th,H. B. Plant,Carrie Mayes,25,427034831,7,3,20,46.3552
+80th,Gaither High School,Jacqueline Lawson,24,426000031,9,12,9,46.0159
+81st,Palm Harbor Univ,Hammad Huda,24,413008331,9,12,9,46.0159
+82nd,Vero Beach,TAYLOR NAROZANICK,24,372007830,8,8,14,46.0159
+83rd,Miami Sunset,CHAN LIAN,23,544003631,9,13,8,45.6766
+84th,Gaither High School,Alexander Auto,23,426000331,7,5,18,45.6766
+85th,Palm Harbor Univ,Nora Khatcherian,23,413009930,7,5,18,45.6766
+86th,St Edward's,EMILY SALVADOR,23,374031231,9,13,8,45.6766
+87th,Jefferson,DAVID MANUEL,22,430001131,7,6,17,45.3372
+88th,Vero Beach,REBECCA SCHEIDT,22,372010830,8,10,12,45.3372
+89th,Palm Harbor Univ,Natalie Rumak,22,413017030,8,10,12,45.3372
+90th,Miami Springs,JUAN ALVARADO,20,582005630,6,4,20,44.6586
+91st,Middleton,Brandon Hernandez,20,468000830,7,8,15,44.6586
+92nd,Gaither High School,Rachel Strelser,20,426001431,5,0,25,44.6586
+93rd,Cape Coral High School,KATINA WHITE,19,418000131,6,5,19,44.3192
+94th,Miami Springs,ELIZABETH JIMENEZ,17,582004930,5,3,22,43.6405
+95th,Fort Myers,Trey Dougherty,17,423001730,6,7,17,43.6405
+96th,Tampa Bay Tech,Xavier Smith,16,461001730,5,4,21,43.3012
+97th,Canterbury (Lee),Ryan Foor,15,411001431,5,5,20,42.9619
+98th,Naples,Sarah DeShields,15,545005330,6,9,15,42.9619
+99th,Palm Harbor Univ,Ji Lin,15,413011730,9,21,0,42.9619
+100th,Belen Jesuit Prep,Ander Iruretagoyena,14,535007831,5,6,19,42.6225
+101st,Palm Harbor Univ,Koushik Mantripragada,14,413012830,6,10,14,42.6225
+102nd,Middleton,Daniel Viveiros,14,468001531,6,10,14,42.6225
+103rd,Wharton,ERIK RAKOCZY,13,485002631,5,7,18,42.2832
+104th,Miami Sunset,YINGXIN HE,12,544003731,4,4,22,41.9438
+105th,Tampa Bay Tech,Naureen Syed,10,461002430,4,6,20,41.2652
+106th,Fort Myers,Sara Jackson,9,423002830,3,3,24,40.9258
+107th,Ferguson,MARIA FLOREZ,9,507025131,5,11,14,40.9258
+108th,Palm Harbor Univ,Cameron Frost,8,413005930,4,8,18,40.5865
+109th,Jefferson,SON DANG,8,430001831,5,12,13,40.5865
+110th,Naples,Rodrigo Mora,8,545006331,4,8,18,40.5865
+111th,Miami Springs,GINA QUICK,7,582009230,2,1,27,40.2471
+112th,Cape Coral High School,ANDRE CARDOSO,6,418000331,3,6,21,39.9078
+113th,Palm Harbor Univ,Kevin Neumann,6,413014230,3,6,21,39.9078
+114th,Canterbury (Lee),Derek Wu,5,411001731,3,7,20,39.5685
+115th,Seacrest High School,Dennis MacFarlane,5,555701531,2,3,25,39.5685
+116th,Mariner,Michael Wozny,5,473003131,4,11,15,39.5685
+117th,Mariner,Lissette Ortiz,4,473002330,6,20,4,39.2291
+118th,Tampa Bay Tech,Haseeb Syed,4,461002231,4,12,14,39.2291
+119th,Seacrest High School,Angelia Giannone,3,555704731,3,9,18,38.8898
+120th,Mariner,Monica Amaya,3,473000431,3,9,18,38.8898
+121st,Riverdale, ,3,457000931,5,17,8,38.8898
+122nd,Mariner,Amanda Yoho,2,473003231,3,10,17,38.5504
+123rd,Fort Myers,Thomas Seidler,2,423001830,2,6,22,38.5504
+124th,Tampa Bay Tech,Asia Smith,0,461002330,0,0,30,37.8718
+125th,Riverdale, ,0,457000831,3,12,15,37.8718
+126th,H. B. Plant,Kat Stone,-1,427034731,1,5,24,37.5324
+127th,Mariner,Angela Minich,-2,473002131,2,10,18,37.1931
+128th,Seacrest High School,Katie Burns,-3,555704531,1,7,22,36.8538
+129th,Shorecrest Prep,Nick Nunnelly,-4,451001331,2,12,16,36.5144
+130th,Tampa Bay Tech,Hurara Khan,-5,461002530,1,9,20,36.1751
+131st,Tampa Bay Tech,Arti Patel,-5,461002030,3,17,10,36.1751
+132nd,Riverdale, ,-5,457001031,5,25,0,36.1751
+133rd,Middleton,Rahul Sirigiri,-7,468000931,0,7,23,35.4964
+134th,Miami Springs,GABRIELA BARRIOS,-8,582004230,0,8,22,35.1571
+135th,Riverdale, ,-10,457000831,4,26,0,34.4784

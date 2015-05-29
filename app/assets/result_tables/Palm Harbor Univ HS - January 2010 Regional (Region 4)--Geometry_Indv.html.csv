@@ -1,0 +1,88 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Yunhan Xu,106,405007721,27,2,1,72.9825
+2nd,Freedom (Tampa),Harnjoo Kim,102,466002821,26,2,2,71.1897
+3rd,Berkeley Prep,Corey Salzer,97,405006921,25,3,2,68.9486
+4th,Berkeley Prep,Adam Slakter,91,405007221,24,5,1,66.2593
+5th,Shorecrest Prep,Jerome Jahn,87,451000122,23,5,2,64.4665
+6th,Joseph L Carwise Middle,Emma Freeman,86,135000021,23,6,1,64.0183
+7th,Shorecrest Prep,Lee Waters,84,451000721,22,4,4,63.1218
+8th,Berkeley Prep,Reed Miller,81,405006522,22,7,1,61.7772
+9th,Williams Middle,Kaita Saito,76,468100521,21,8,1,59.5361
+10th,Tampa Bay Tech,Suzzie Harmon,75,461003621,21,9,0,59.0879
+11th,St Stephen's Episcopal,BRIAN GENTRY,75,489000321,21,9,0,59.0879
+12th,Cape Coral High School,KRYSTIAN SICARD,73,418002422,19,3,8,58.1915
+13th,Durant,Jacob Bernier,73,475000021,19,3,8,58.1915
+14th,King,Kishan Shingala,72,435005921,19,4,7,57.7433
+15th,Joseph L Carwise Middle,Matthew Whitlock,72,135001222,20,8,2,57.7433
+16th,Freedom (Tampa),Kevin Kelly,71,466006521,20,9,1,57.2951
+17th,Cape Coral High School,RYAN EARL,71,418002121,19,5,6,57.2951
+18th,Oasis Middle School,John O'Donnell,70,442101121,19,6,5,56.8468
+19th,Middleton,Alejandro Robles,69,468000721,19,7,4,56.3986
+20th,Tampa Bay Tech,Joyce Varghese,68,461003321,18,4,8,55.9504
+21st,Durant,Natalie Raschke,68,475000521,18,4,8,55.9504
+22nd,Lakewood,Jeremy Fredricks,68,434001121,19,8,3,55.9504
+23rd,Shorecrest Prep,Jack Stein,67,451000621,18,5,7,55.5022
+24th,Berkeley Prep,Daniel Rovner,67,405006820,19,9,2,55.5022
+25th,Canterbury (Lee),Courtney Bagans,67,411001821,18,5,7,55.5022
+26th,Berkeley Prep,Francesca Lerner,67,405006322,18,5,7,55.5022
+27th,Cape Coral High School,NICOLE COHEN,66,418002021,17,2,11,55.0540
+28th,Berkeley Prep,Rob Freedy,66,405006022,18,6,6,55.0540
+29th,Shorecrest Prep,ALEX SALTIEL,65,451004621,18,7,5,54.6058
+30th,Freedom (Tampa),Moyosore Adewunmi,64,466006421,18,8,4,54.1576
+31st,Stewart Middle,Sean Vennett,64,413100521,18,8,4,54.1576
+32nd,Berkeley Prep,Adam Wolf,63,405007621,18,9,3,53.7094
+33rd,King,Boya Wang,62,435006921,17,6,7,53.2611
+34th,Wharton,ANTHONY VILLAGARCIA,62,485002221,17,6,7,53.2611
+35th,St Stephen's Episcopal,CONNOR LYNCH,61,489000422,17,7,6,52.8129
+36th,Middleton,Riley MacDonald,60,468000021,17,8,5,52.3647
+37th,Stewart Middle,Ryan LaVoy,60,413100621,18,12,0,52.3647
+38th,Berkeley Prep,Cody Davis,59,405005920,16,5,9,51.9165
+39th,King,Indira Ranaweera,59,435003621,17,9,4,51.9165
+40th,Robinson,DUYEN NGUYEN,58,458001121,16,6,8,51.4683
+41st,St Stephen's Episcopal,HARRIS DUNLAP,58,489000121,17,10,3,51.4683
+42nd,St Stephen's Episcopal,JENNIFER SUNDSTROM,58,489000621,16,6,8,51.4683
+43rd,Fort Myers,JACOB FAGLIARONE,58,423001121,16,6,8,51.4683
+44th,Williams Middle,Mahesh Tummala,58,468100021,17,10,3,51.4683
+45th,Mulrennan Middle School,Jenna Remmert,57,487101821,15,3,12,51.0201
+46th,Cape Coral High School,KELLY KIM,56,418002221,15,4,11,50.5719
+47th,Canterbury (Lee),Connie Dean,55,411001921,15,5,10,50.1236
+48th,Stewart Middle,Alec Goff,55,413100421,17,13,0,50.1236
+49th,St Stephen's Episcopal,SHELBY FAUVEL,55,489000222,16,9,5,50.1236
+50th,Durant,Eric Devine,55,475000121,15,5,10,50.1236
+51st,Wharton,BRYAN HARVEY,55,485001521,15,5,10,50.1236
+52nd,Shorecrest Prep,Austin Settle,54,451000522,16,10,4,49.6754
+53rd,Joseph L Carwise Middle,Rachel Synder,54,135001020,15,6,9,49.6754
+54th,Canterbury (Lee),John Badir,53,411002221,16,11,3,49.2272
+55th,Cape Coral High School,SCARLETT BRADLEY,53,418001921,15,7,8,49.2272
+56th,King,Viraj Patel,52,435003521,15,8,7,48.7790
+57th,Mulrennan Middle School,Karaghen Hudson,50,487101521,14,6,10,47.8826
+58th,Lakewood,Dillon Buffone,50,434001821,15,10,5,47.8826
+59th,Joseph L Carwise Middle,Brandon Hale,50,135001122,14,6,10,47.8826
+60th,Joseph L Carwise Middle,Joeli Roth,49,135000921,14,7,9,47.4344
+61st,Mulrennan Middle School,Ciara Ogden,47,487101721,14,9,7,46.5379
+62nd,Berkeley Prep,Anderson Baldy,46,405005620,14,10,6,46.0897
+63rd,St Petersburg,Amanda Phrasavath,46,497002520,13,6,11,46.0897
+64th,Fort Myers,JORDAN WEIL,45,423004621,13,7,10,45.6415
+65th,Shorecrest Prep,Jeremy Reiskind,45,451000321,13,7,10,45.6415
+66th,Berkeley Prep,Evan Potts,44,405011022,13,8,9,45.1933
+67th,Fort Myers,CHRIS CHRISTOFF,43,423004721,13,9,8,44.7451
+68th,Lakewood,Tatiana Netterfield,39,434001921,12,9,9,42.9522
+69th,Middleton,Austin Morgan,39,468001421,13,13,4,42.9522
+70th,Berkeley Prep,Pranavi Ramireddy,34,405006720,10,6,14,40.7112
+71st,Lakewood,Melissa Phillips,33,434002221,11,11,8,40.2630
+72nd,Canterbury (Lee),Mark Richardson,32,411002621,11,12,7,39.8147
+73rd,Canterbury School of FL,Megan Authement,30,464000621,12,18,0,38.9183
+74th,Joseph L Carwise Middle,Gerasimos Madalvanos,29,135001322,10,11,9,38.4701
+75th,St Stephen's Episcopal,SHREYA PATEL,29,489000521,10,11,9,38.4701
+76th,Freedom (Tampa),Sabrina Linville,27,466003421,8,5,17,37.5737
+77th,Joseph L Carwise Middle,Sameer Alidina,26,135000822,10,14,6,37.1255
+78th,Canterbury School of FL,Tegwyth Alderson/Taber,25,464000421,11,19,0,36.6772
+79th,Cape Coral High School,SNOW WHITE,25,418001822,9,11,10,36.6772
+80th,Cape Coral High School,SIDNEY MATTA,23,418002322,9,13,8,35.7808
+81st,Canterbury School of FL,Katelyn Degnan,23,464000722,9,13,8,35.7808
+82nd,Tampa Bay Tech,Caitlin Edge,20,461003721,10,20,0,34.4362
+83rd,Joseph L Carwise Middle,Morganne Logar,19,135001421,8,13,9,33.9880
+84th,Cape Coral High School,CHRIS APPLEGATE,14,418002522,7,14,9,31.7469
+85th,Canterbury School of FL,Libby Prosser,10,464001821,8,22,0,29.9540
+86th,Tampa Bay Tech,Erica Comer,6,461003821,4,10,16,28.1612
+87th,Canterbury School of FL,Whitney Laurent,5,464000922,7,23,0,27.7130

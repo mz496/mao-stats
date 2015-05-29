@@ -1,0 +1,123 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Jingyi Ye,110,295001130,28,2,0,76.3992
+2nd,Buchholz,David Annable,105,295000130,27,3,0,74.2391
+3rd,Buchholz,Jooheui Son,94,295000830,24,2,4,69.4869
+4th,Lincoln Middle School,Steve Han,94,201002130,24,2,4,69.4869
+5th,Stoneman Douglas,JOANNA FU,93,532015430,24,3,3,69.0549
+6th,Buchholz,Fanchao Zhu,90,295001230,23,2,5,67.7588
+7th,Lincoln Middle School,JuKyung Choi,87,201001930,23,5,2,66.4627
+8th,Lincoln Middle School,Jennifer Li,83,201002430,22,5,3,64.7347
+9th,Berkeley Prep,Nathan Weinbren,81,405003730,21,3,6,63.8706
+10th,Stoneman Douglas,ADAM WESTERDALE,80,532016030,21,4,5,63.4386
+11th,Buchholz,Yuhak Choi,80,295003120,21,4,5,63.4386
+12th,Seminole (Seminole),ANDREW JIN,80,341002030,21,4,5,63.4386
+13th,Lawton Chiles High School,Niral Patel,79,181002130,21,5,4,63.0066
+14th,Lawton Chiles High School,Jason Wu,78,181003430,21,6,3,62.5746
+15th,Buchholz,Huisub Yoon,77,295003620,21,7,2,62.1426
+16th,Seminole (Seminole),DAVID WONG,77,341011530,20,3,7,62.1426
+17th,Vero Beach,JESUS MORENO,75,372005230,20,5,5,61.2785
+18th,Cypress Bay,Alexander  Perdomo,75,588002530,21,9,0,61.2785
+19th,Vero Beach,SHAWN DESAI,75,372003830,21,9,0,61.2785
+20th,Buchholz,Bryce Sperling,74,295000920,19,2,9,60.8465
+21st,King,KEERTHI VENGATESAN,73,435004830,19,3,8,60.4145
+22nd,Buchholz,Paul Park,73,295003320,20,7,3,60.4145
+23rd,Buchholz,Yuxiang Zhang,71,295003720,19,5,6,59.5504
+24th,Vero Beach,ALEX SECHEN,71,372006130,20,9,1,59.5504
+25th,Vero Beach,SAMUEL LAPEYRE,70,372004530,20,10,0,59.1184
+26th,Vero Beach,EVAN MOULDER,70,372000930,20,10,0,59.1184
+27th,Lincoln Middle School,Jimmy Zhang,68,201002330,19,8,3,58.2544
+28th,Fairview Middle,Kavitha Chintam,67,125101320,18,5,7,57.8224
+29th,Fairview Middle,Sathwik Madireddy,65,125100320,17,3,10,56.9583
+30th,H. B. Plant,Brenton D'Adamo,65,427070130,17,3,10,56.9583
+31st,Vero Beach,JUAN VALLEJO,65,372006530,19,11,0,56.9583
+32nd,Cypress Bay,Ricky  Estripeaut,62,588000830,17,6,7,55.6623
+33rd,Community Sch Naples,Smith Santil,62,562000830,17,6,7,55.6623
+34th,King,VEDANT ACHARYA,62,435001330,17,6,7,55.6623
+35th,Fairview Middle,Nidhi Desai,60,125102520,16,4,10,54.7982
+36th,Cypress Bay,Tyler  Maragh,60,588002030,18,12,0,54.7982
+37th,Lawton Chiles High School,Amanda Langston,60,181001430,16,4,10,54.7982
+38th,Cypress Bay,Whitney  Sikes,58,588008630,15,2,13,53.9342
+39th,Seminole (Seminole),RUTH HSU,57,341002730,15,3,12,53.5022
+40th,Rickards High School,Amrit Vastrala,56,140002230,16,8,6,53.0702
+41st,Community Sch Naples,Jamison Tate,56,562001030,17,12,1,53.0702
+42nd,Stoneman Douglas,JOSH MILLER,55,532015830,17,13,0,52.6381
+43rd,Fairview Middle,Bhavana Pottabatula,55,125102920,15,5,10,52.6381
+44th,Miami Springs,ALEX RODRIGUEZ,55,582002130,15,5,10,52.6381
+45th,Community Sch Naples,Dylan Chestnut,55,562000230,16,9,5,52.6381
+46th,Hillsborough,HAYLEY ZYNDORF,55,428021230,15,5,10,52.6381
+47th,Seminole (Seminole),LUKE MORRIS,53,341004730,15,7,8,51.7741
+48th,Cypress Bay,Olivia  Formoso,53,588001230,15,7,8,51.7741
+49th,Vero Beach,EDWARD EDDOWES,52,372009520,14,4,12,51.3421
+50th,Community Sch Naples,Sofia Kyle,52,562005830,15,8,7,51.3421
+51st,Fairview Middle,Sonia Koul,51,125101820,14,5,11,50.9101
+52nd,King,RAVI MEDIKONDA,51,435003820,13,1,16,50.9101
+53rd,Vero Beach,AMIRA ALKHATIB,51,372001720,13,1,16,50.9101
+54th,Lincoln, ,50,109001110,14,6,10,50.4781
+55th,Fairview Middle,Mihir Thakkar,50,125104310,15,10,5,50.4781
+56th,Community Sch Naples,Aly Miller,50,562004420,15,10,5,50.4781
+57th,Charlotte High,Cody Eichelberger,50,003194130,16,14,0,50.4781
+58th,Naples,Katherine Lopera,49,545005930,13,3,14,50.0460
+59th,Miami Springs,NASTHIA VILLAVICENCIO,49,582003130,13,3,14,50.0460
+60th,Vero Beach,ANDREW HOLDEN,48,372009720,12,0,18,49.6140
+61st,Vero Beach,LEO CURY,47,372009420,12,1,17,49.1820
+62nd,Braddock,Shahrukh Bengali,47,538002630,14,9,7,49.1820
+63rd,Seminole (Seminole),CAMILLE MEKWINSKI,46,341010430,12,2,16,48.7500
+64th,Naples,Angellica Martinez,45,545006130,13,7,10,48.3180
+65th,Community Sch Naples,Amir Naser,44,562002220,12,4,14,47.8859
+66th,Lawton Chiles High School,Kelsey McWilliams,44,181001830,13,8,9,47.8859
+67th,Canterbury (Lee),Melissa Miller,43,411001220,12,5,13,47.4539
+68th,Lawton Chiles High School,Amanda Langston,43,181001430,12,5,13,47.4539
+69th,Canterbury (Lee),Neil Singh,43,411002530,12,5,13,47.4539
+70th,Cypress Bay,Pamela  Gutermuth,43,588001620,12,5,13,47.4539
+71st,Fairview Middle,Annie Ma,42,125101520,13,10,7,47.0219
+72nd,Canterbury (Lee),Michael Carracino,42,411003020,12,6,12,47.0219
+73rd,Fairview Middle,Parth Amin,41,125102220,12,7,11,46.5899
+74th,Lawton Chiles High School,Bailey Ruark,41,181002730,13,11,6,46.5899
+75th,Naples,Ariel Chaudhuri,40,545004730,12,8,10,46.1579
+76th,Lawton Chiles High School,Dalton Verhagen,40,181003020,11,4,15,46.1579
+77th,Vero Beach,EMILY ASTROM,40,372009320,11,4,15,46.1579
+78th,Fairview Middle,Steven Cui,40,125103810,14,16,0,46.1579
+79th,Lincoln Park Academy,ALI HAIDER,39,396001820,10,1,19,45.7258
+80th,Freedom,CHRISTOPHER TOLSON,37,466005220,11,7,12,44.8618
+81st,Ferguson,DANIELLE RODON,37,507003930,10,3,17,44.8618
+82nd,Fairview Middle,Kevin Kim,37,125100410,13,15,2,44.8618
+83rd,Hillsborough,MY'LEA COULOMBEQUACH,36,428020730,10,4,16,44.4298
+84th,Riverdale,Alexis Moff,36,457003030,10,4,16,44.4298
+85th,Fairview Middle,Akshita Madala,36,125102720,10,4,16,44.4298
+86th,Charlotte High,Melissa Monroe,35,003187530,10,5,15,43.9978
+87th,Hillsborough,REBECCA TRAN,35,428021130,9,1,20,43.9978
+88th,Vero Beach,CONNOR DAVIDSON,34,372003520,11,10,9,43.5658
+89th,Deerfield Beach,MILANPREET KAUR,33,577001710,9,3,18,43.1337
+90th,Ferguson,DAVID SOTOLONGO,33,507010530,9,3,18,43.1337
+91st,Parkway Middle School,Willjames Philiston,33,527101111,9,3,18,43.1337
+92nd,Lawton Chiles High School,Annie Zheng,33,181003530,10,7,13,43.1337
+93rd,Riverdale,Krystal Jarrett,33,457002630,12,15,3,43.1337
+94th,Seminole (Seminole),ERICA ABINIL,32,341006330,9,4,17,42.7017
+95th,Cobb,Alex Stowers,31,166002510,11,13,6,42.2697
+96th,Deerfield Beach,RAQUEL BENSADOUN,31,577000110,8,1,21,42.2697
+97th,Miami Springs,ASHLEY BRODHEAD,31,582000430,9,5,16,42.2697
+98th,Fairview Middle,David Weng,30,125102810,12,18,0,41.8377
+99th,Canterbury (Lee),Nick Castillo,30,411000520,9,6,15,41.8377
+100th,Riverdale,Caitlyn Furbee,29,457002330,8,3,19,41.4057
+101st,Seminole (Seminole),ANDREA OJEDA,29,341000420,8,3,19,41.4057
+102nd,Community Sch Naples,Kelsey Lipman,28,562005520,10,12,8,40.9736
+103rd,Miami Springs,REBECCA RICHEY,27,582002330,8,5,17,40.5416
+104th,Riverdale,Brittany Storilae,26,457003430,8,6,16,40.1096
+105th,Deerfield Beach,MARIA VALENCIA,25,577004830,8,7,15,39.6776
+106th,Miami Springs,ELISE MESA,25,582007630,7,3,20,39.6776
+107th,Miami Springs,KEVIN UGAZ,24,582002930,7,4,19,39.2456
+108th,Ferguson,ANDRES SCHMOIS,23,507004120,7,5,18,38.8135
+109th,Riverdale,Morgan Brown,23,457000430,9,13,8,38.8135
+110th,Miami Springs,BRIANNA GAGNE,23,582007320,7,5,18,38.8135
+111th,Miami Springs,GINA STONEY,22,582002630,6,2,22,38.3815
+112th,Riverdale,Frank Derogatis,22,457002230,6,2,22,38.3815
+113th,Parkway Middle School,Ragyne Moncriefe,20,527101511,10,20,0,37.5175
+114th,Riverdale,Jessica Hall,17,457002730,6,7,17,36.2214
+115th,Parkway Middle School,Britashia Burns,16,527100410,6,8,16,35.7894
+116th,Parkway Middle School,Jenna Charles,16,527100612,4,0,26,35.7894
+116th,Buchholz,Jingyi Ye,16,295001130,4,0,26,35.7894
+118th,Parkway Middle School,Roneisha Swain,13,527101011,5,7,18,34.4934
+119th,Parkway Middle School,Avachon Pinkey,12,527101311,5,8,17,34.0613
+120th,Parkway Middle School,Kenya Marshall,9,527101411,5,11,14,32.7653
+121st,Lawton Chiles High School,Annie Booth,9,181000530,6,15,9,32.7653
+122nd,Parkway Middle School,Tremaine Johnson,6,527101611,4,10,16,31.4692

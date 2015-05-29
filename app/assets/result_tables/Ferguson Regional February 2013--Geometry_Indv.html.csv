@@ -1,0 +1,123 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Ransom Everglades,John Mistele,145,519000721,29,1,0,79.0956
+2nd,Community Sch Naples,Ivan Wang,137,562001921,27,1,2,76.0428
+3rd,American Heritage (Plantation),Brian Haimes,135,506003621,27,3,0,75.2796
+4th,American Heritage (Plantation),Matthew Robins,130,506004421,26,4,0,73.3716
+5th,Doral Academy Middle,Brian Lu,125,537700921,25,5,0,71.4636
+6th,American Heritage (Plantation),Suganth Kannan,120,506006321,24,6,0,69.5556
+7th,Ransom Everglades,Joon Kim,119,519006621,23,3,4,69.1740
+8th,Parkway Middle School,Yuru Niu,112,527101221,22,6,2,66.5028
+9th,Ransom Everglades,Eric Cai,108,519006721,21,6,3,64.9763
+10th,Ransom Everglades,Timothy O'Brien,104,519000820,20,6,4,63.4499
+11th,Ransom Everglades,Patrick Visan,103,519003521,19,3,8,63.0683
+12th,Falcon Cove Middle School,Shawn Hatchwell,103,541100721,19,3,8,63.0683
+13th,Cypress Bay,Erika Bryant,103,588027221,19,3,8,63.0683
+14th,Falcon Cove Middle School,Angela Liu,101,541101521,19,5,6,62.3051
+15th,Cypress Bay,Christian Marin,101,588030021,19,5,6,62.3051
+16th,Palmetto Ridge,Jose Velez,101,518002321,19,5,6,62.3051
+17th,Falcon Cove Middle School,Snow Kang,101,541101021,19,5,6,62.3051
+18th,Community Sch Naples,Austin Farrugia,98,562003021,18,4,8,61.1603
+19th,Palmetto Middle,Kaylee de Soto,95,512100121,19,11,0,60.0155
+20th,Falcon Cove Middle School,Maxwell Gu,95,541100920,18,7,5,60.0155
+21st,Deerfield Beach,Meghan Ta,93,577006221,17,5,8,59.2523
+22nd,Cypress Bay,Guo Qian,93,588031121,17,5,8,59.2523
+23rd,Falcon Cove Middle School,Jalen Jiang,92,541100821,17,6,7,58.8707
+24th,American Heritage (Plantation),Barath Triumala,89,506004721,17,9,4,57.7259
+25th,Tequesta Trace Middle School,Omar Pulido,89,500102621,17,9,4,57.7259
+26th,Indian Ridge Middle School,Gene Bryan,88,520100221,16,6,8,57.3443
+27th,American Heritage (Plantation),Jake Becker,87,506002920,17,11,2,56.9627
+28th,Mater Lakes Academy,Suselix Ferreira,86,559001221,17,12,1,56.5811
+29th,Miami Palmetto,Sanjoy Kundu,85,541004521,16,9,5,56.1995
+30th,Parkway Middle School,Kofi Blake,85,527101721,15,5,10,56.1995
+31st,Community Sch Naples,Ryan Jaffe,81,562005321,14,5,11,54.6731
+32nd,Deerfield Beach,Richa Parikh,80,577005721,13,2,15,54.2915
+33rd,Community Sch Naples,Dave Duan,79,562004921,15,11,4,53.9099
+34th,Ferguson,SMITA BHATTACHARJEE,79,507005721,13,3,14,53.9099
+35th,Falcon Cove Middle School,Camila Tussie,76,541103220,13,6,11,52.7651
+36th,Tequesta Trace Middle School,Carolina Kerber,76,500102421,14,10,6,52.7651
+37th,Indian Ridge Middle School,Brooke Benedetto,75,520100021,15,15,0,52.3835
+38th,Doral Academy High,Ana Guimaraes,75,537504121,13,7,10,52.3835
+39th,Palmetto Middle,Surya Sekar,74,512101521,12,4,14,52.0019
+40th,Community Sch Naples,Olivia Murgalo,74,562004620,13,8,9,52.0019
+41st,Miami Springs,BRENT CATES,73,582000021,12,5,13,51.6202
+42nd,Deerfield Beach,Kaitlyn Blade,73,577006621,12,5,13,51.6202
+43rd,Ferguson,CHRISTIAN FLORES,73,507001821,13,9,8,51.6202
+44th,Parkway Middle School,Kinord Cinord,71,527101421,13,11,6,50.8570
+45th,Cypress Bay,Bryce Caro,71,588027421,14,15,1,50.8570
+46th,Falcon Cove Middle School,Tyger Lin,70,541101920,12,8,10,50.4754
+47th,Indian Ridge Middle School,Julia Haack,70,520100920,12,8,10,50.4754
+48th,Mater Lakes Academy,Alex Spaeth,70,559004621,10,0,20,50.4754
+49th,Lauderdale Lakes Middle,Angelica Scott,70,535100521,11,4,15,50.4754
+50th,Community Sch Naples,Frank Spinelli,70,562006220,14,16,0,50.4754
+51st,Doral Academy Middle,Felipe Contipelli,68,537701121,12,10,8,49.7122
+52nd,Naples,HsihTing Wu,68,545001221,10,2,18,49.7122
+53rd,Braddock,SABRINA MEDINA,68,538020921,11,6,13,49.7122
+54th,Community Sch Naples,Dylan Curvey,67,562004120,11,7,12,49.3306
+55th,Tequesta Trace Middle School,Hunter Rockley,67,500102721,11,7,12,49.3306
+56th,Cypress Bay,Alissa Kushner,67,588029220,11,7,12,49.3306
+57th,Palmetto Middle,Vasanth Govind,66,512100221,10,4,16,48.9490
+58th,Doral Academy High,Jose Santos,66,537505021,11,8,11,48.9490
+59th,Community Sch Naples,Maria Vernava,65,562003120,11,9,10,48.5674
+60th,Falcon Cove Middle School,Anabel Lin,65,541101820,11,9,10,48.5674
+61st,Doral Academy High,Gabriela Rodriguez-Florido,65,537504821,10,5,15,48.5674
+62nd,Indian Ridge Middle School,Robin Podel,65,520101120,13,17,0,48.5674
+63rd,Doral Academy High,Franco Vera,64,537505121,11,10,9,48.1858
+64th,Coral Glades,Gisell Hernandez,64,528002821,9,2,19,48.1858
+65th,JP Taravella,Niklas Goernitz,64,533000421,11,10,9,48.1858
+66th,Falcon Cove Middle School,Melanie Xia,64,541103620,11,10,9,48.1858
+67th,Deerfield Beach,Cameron Mcvay,62,577004821,9,4,17,47.4226
+68th,Doral Academy Middle,Jesus Nunez,62,537701021,9,4,17,47.4226
+69th,Naples,Emily Black,62,545006321,9,4,17,47.4226
+70th,Naples,Ana Barnett,62,545006221,9,4,17,47.4226
+71st,Community Sch Naples,Janet Guelfi,61,562002320,8,1,21,47.0410
+72nd,Palmetto Middle,Naomi Lam,60,512100421,9,6,15,46.6594
+73rd,Indian Ridge Middle School,Eric Perless,60,520100720,9,6,15,46.6594
+74th,JP Taravella,Gianfranco Villanova,60,533000821,11,14,5,46.6594
+75th,Braddock,KELVIN VALDES,60,538021421,8,2,20,46.6594
+76th,Ferguson,LUISANA CAICEDO,59,507001721,8,3,19,46.2778
+77th,Community Sch Naples,Kristina Cuello,59,562002920,10,11,9,46.2778
+78th,Falcon Cove Middle School,Antares Tobelem,59,541103020,10,11,9,46.2778
+79th,JP Taravella,Lisa Blanket,58,533000121,8,4,18,45.8962
+80th,Community Sch Naples,Ben Yitzhak,58,562004520,8,4,18,45.8962
+81st,Parkway Middle School,Pierre Vilme,58,527101121,9,8,13,45.8962
+82nd,Ferguson,VIVEK TOLANI,58,507016521,8,4,18,45.8962
+83rd,Indian Ridge Middle School,Shruti Chandra,55,520100121,7,3,20,44.7514
+84th,Florida Chrisitan School of Dade,Sydni Liotta,55,524501620,7,3,20,44.7514
+85th,Florida Chrisitan School of Dade,Rafael Paz,55,524502121,7,3,20,44.7514
+86th,Florida Chrisitan School of Dade,Alana Buznego,55,524500421,8,7,15,44.7514
+87th,JP Taravella,Naomi Naganoma,55,533000620,7,3,20,44.7514
+88th,Palmetto Ridge,Camden Grundemen,54,518000221,8,8,14,44.3698
+89th,Florida Chrisitan School of Dade,Eric Echeverriva,54,524501121,8,8,14,44.3698
+90th,Palmetto Ridge,Geraldo Atilles,52,518000121,8,10,12,43.6066
+91st,Lauderdale Lakes Middle,Amber Rampersaud,52,535101221,8,10,12,43.6066
+92nd,Doral Academy High,Desea Bush,52,537501020,7,6,17,43.6066
+93rd,JP Taravella,Kaitlyn Abella,50,533000021,8,12,10,42.8434
+94th,JP Taravella,Trevor Holden,49,533000520,8,13,9,42.4618
+95th,Miami Palmetto,Jean Turban,49,541009921,6,5,19,42.4618
+96th,Florida Chrisitan School of Dade,Alexis Castaneda,48,524500620,6,6,18,42.0802
+97th,Indian Ridge Middle School,Steven Thomas,48,520100520,7,10,13,42.0802
+98th,Westland Hialeah Senior HS,Jessabel Smith,47,504500521,5,3,22,41.6986
+99th,Lauderdale Lakes Middle,Idalys Superville,47,535101121,6,7,17,41.6986
+100th,Lauderdale Lakes Middle,Faith Cartright,46,535104020,5,4,21,41.3170
+101st,Doral Academy Middle,Zuriel Indallal,46,537701221,6,8,16,41.3170
+102nd,Mater Lakes Academy,Jennifer Alvarez,46,559004721,5,4,21,41.3170
+103rd,Miami Springs,THOMAS SHELOW,46,582001821,6,8,16,41.3170
+104th,Indian Ridge Middle School,Joam Mendoza,46,520101020,7,12,11,41.3170
+105th,Coral Glades,Karyn Dasilva,45,528001521,9,21,0,40.9354
+106th,Indian Ridge Middle School,Dylan Davis,45,520100621,5,5,20,40.9354
+107th,JP Taravella,Alysia Treacy,44,533000720,5,6,19,40.5538
+108th,Braddock,ADRIANA VELIZ,44,538021621,6,10,14,40.5538
+109th,Palmetto Ridge,Booker Tamm,42,518002021,4,4,22,39.7906
+110th,Coral Glades,Diana Corchuelo,42,528000821,4,4,22,39.7906
+111th,Florida Chrisitan School of Dade,Jessica Maristany,41,524501820,4,5,21,39.4090
+112th,Florida Chrisitan School of Dade,Daniela Cerboncini,41,524500721,4,5,21,39.4090
+113th,Naples,Daniel Quintero,40,545002821,8,22,0,39.0274
+114th,Indian Ridge Middle School,Evan Garnett,40,520100820,7,18,5,39.0274
+115th,Lauderdale Lakes Middle,Isaiah Thompson,39,535103220,4,7,19,38.6458
+116th,Braddock,STEPHANIE CHANG,37,538000321,3,5,22,37.8825
+117th,Lauderdale Lakes Middle,Kenderia Moore,36,535103320,3,6,21,37.5009
+118th,Coral Glades,Leah Carrodeguas,31,528003421,1,3,26,35.5929
+119th,Coral Springs High School,Sam Keiley,31,515003820,1,3,26,35.5929
+120th,Miami Springs,LESLIE PEREZ,29,582002021,2,9,19,34.8297
+121st,Westland Hialeah Senior HS,Karenthia Wilmore,21,504501821,1,13,16,31.7769
+122nd,Lauderdale Lakes Middle,Asia Augustin,19,535103921,0,11,19,31.0137

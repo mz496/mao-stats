@@ -1,0 +1,77 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Alex Yu,135,140003151,27,3,0,70.3501
+2nd,Lawton Chiles High School,Nicholas Yang,133,181007451,26,1,3,69.7503
+3rd,Buchholz,Davis Foote,129,295001351,25,1,4,68.5507
+4th,Buchholz,Steve Han,129,295001452,25,1,4,68.5507
+5th,Buchholz,josh brownstein,128,295000852,25,2,3,68.2508
+6th,Buchholz,Caleb Summers,127,295002051,25,3,2,67.9509
+7th,Buchholz,Tony Zeng,123,295005151,24,3,3,66.7512
+8th,Rickards High School,Ian Pitts,122,140002151,23,0,7,66.4513
+9th,Buchholz,Matthew Pearson,120,295005352,23,2,5,65.8515
+10th,Lawton Chiles High School,Wayne Zhao,119,181007851,23,3,4,65.5516
+11th,Buchholz,Keshav Vemuri,116,295002151,22,2,6,64.6519
+12th,Lawton Chiles High School,Keven Huang,113,181006051,21,1,8,63.7522
+13th,Buchholz,Stephen Dolbier,106,295004652,20,4,6,61.6529
+14th,Lawton Chiles High School,Jimmy Zhang,105,181007752,19,1,10,61.3530
+15th,Buchholz,Jukyung Choi,103,295001050,19,3,8,60.7532
+16th,Lincoln,Sherman Wilhelm,98,109020151,18,4,8,59.2536
+17th,Buchholz,Jennifer Li,94,295001650,17,4,9,58.0540
+18th,Rickards High School,Ran Ju,92,140004852,17,6,7,57.4542
+19th,Rickards High School,Linda Liu,87,140003051,15,3,12,55.9547
+20th,Lawton Chiles High School,Ginger Yu,84,181007650,15,6,9,55.0550
+21st,Rickards High School,Andrew Chen,81,140005151,15,9,6,54.1553
+22nd,Lawton Chiles High School,Nathan Hoekman,80,181005852,14,6,10,53.8554
+23rd,Lincoln,Jeffrey Zou,79,109002951,14,7,9,53.5554
+24th,Lawton Chiles High School,Kenneth Zhou,78,181007952,13,4,13,53.2555
+25th,Lincoln,Angela Jiang,77,109090651,13,5,12,52.9556
+26th,Lincoln,Grant Dennison,77,109002152,12,1,17,52.9556
+27th,Lawton Chiles High School,Anisha Sinha,76,181006750,13,6,11,52.6557
+28th,Lincoln,Seong HwaMin,76,109003151,13,6,11,52.6557
+29th,Lawton Chiles High School,Nith Sivakanthan,73,181006852,12,5,13,51.7560
+30th,Lincoln,Jasmine Tsai,72,109002552,12,6,12,51.4561
+31st,Lincoln,Billy Brickner,71,109000452,12,7,11,51.1562
+32nd,Buchholz,Stephen SO,68,295005450,10,2,18,50.2565
+33rd,Rocky Bayou Christian School,Audrey Stephens,67,192000752,10,3,17,49.9566
+34th,Rickards High School,Kavitha Chintam,67,140002852,11,7,12,49.9566
+35th,Rickards High School,Kevin Ramirez,66,140003252,10,4,16,49.6567
+36th,Lawton Chiles High School,Allison Huang,63,181005950,9,3,18,48.7570
+37th,Gulf Breeze High,Raleigh Hooks,60,101004251,8,2,20,47.8573
+38th,Lawton Chiles High School,Ally Findley,59,181005450,8,3,19,47.5574
+39th,Lawton Chiles High School,Grace Ying,59,181007550,10,11,9,47.5574
+40th,Lawton Chiles High School,Danny Kim,57,181006251,9,9,12,46.9575
+41st,Gulf Breeze High,Mollie Johnson,55,101004551,7,3,20,46.3577
+42nd,Lawton Chiles High School,Jeongmin Ham,54,181005650,8,8,14,46.0578
+43rd,Rickards High School,Kody Koch,54,140006050,7,4,19,46.0578
+44th,Gulf Breeze High,Matt Craighead,54,101001351,7,4,19,46.0578
+45th,Rocky Bayou Christian School,Timothy Sung,53,192001751,7,5,18,45.7579
+46th,Rutherford High School,Alan Gorchov-Negron,53,174003451,7,5,18,45.7579
+47th,Rutherford High School,Nigel Murrillo,50,174002052,6,4,20,44.8582
+48th,Gulf Breeze High,Trent Kehoe,50,101004651,10,20,0,44.8582
+49th,Gulf Breeze High,Gracie Stewart,49,101008522,6,5,19,44.5583
+50th,Navarre,SKYLER SINGLETON,45,180003951,9,21,0,43.3587
+51st,Rocky Bayou Christian School,Henry Kim,45,192000150,9,21,0,43.3587
+52nd,Rutherford High School,Cara Henry,43,174002251,4,3,23,42.7589
+53rd,Navarre,KIERA FOSTER,42,180000351,4,4,22,42.4590
+54th,Rocky Bayou Christian School,Shiloh Johns,41,192001351,5,9,16,42.1591
+55th,Navarre,AMANDA CARMICHAEL,41,180002951,3,1,26,42.1591
+56th,Rickards High School,Matthew Kang,41,140002950,6,13,11,42.1591
+57th,Rocky Bayou Christian School,Darla Lyon,40,192000352,4,6,20,41.8592
+58th,Lincoln,Ria Shah,40,109002352,4,6,20,41.8592
+59th,Rutherford High School,Mason Taylor,38,174001951,4,8,18,41.2594
+60th,Lincoln,Alex Stowers,38,109042050,3,4,23,41.2594
+61st,Rutherford High School,Dev Nanji,38,174003551,4,8,18,41.2594
+62nd,Navarre,JUSTIN DORLER,38,180000751,3,4,23,41.2594
+63rd,Rocky Bayou Christian School,Laura Herndon,36,192002150,3,6,21,40.6596
+64th,Rocky Bayou Christian School,Kat Koster,36,192001150,2,2,26,40.6596
+65th,Rocky Bayou Christian School,Savannah West,36,192000951,3,6,21,40.6596
+66th,Rutherford High School,Denzel Robinson,35,174002152,3,7,20,40.3596
+67th,Rocky Bayou Christian School,Bess Tyler,33,192001850,1,1,28,39.7598
+68th,Rocky Bayou Christian School,Ashley Lee,32,192000551,1,2,27,39.4599
+69th,Rocky Bayou Christian School,Liz Gadzinski,31,192000452,1,3,26,39.1600
+70th,Rocky Bayou Christian School,Dave Tan,31,192001652,1,3,26,39.1600
+71st,Leon,HARRISON KENT,30,190001151,6,24,0,38.8601
+72nd,Gulf Breeze High,Matt Gubernat,30,101003252,2,8,20,38.8601
+73rd,Rocky Bayou Christian School,Kandace Jolly,27,192003350,0,3,27,37.9604
+74th,Lincoln,Ellie Sell,26,109092050,3,16,11,37.6605
+75th,Leon,CATHERINE KENT,25,190000251,5,25,0,37.3606
+76th,Rocky Bayou Christian School,Mandy Hart,24,192000650,0,6,24,37.0607

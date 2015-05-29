@@ -1,0 +1,72 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Tony Zeng,120,295005121,30,0,0,65.4558
+2nd,Eastside,Genghis Kann,116,280005921,29,0,1,64.3465
+3rd,Buchholz,Steve Han,115,295001421,29,1,0,64.0692
+3rd,Sanford Middle,Kyle Kratt,115,344100921,29,1,0,64.0692
+5th,Buchholz,JiYoung Kim,115,295006321,29,1,0,64.0692
+6th,Fairview Middle,Alex Yu,115,125104921,29,1,0,64.0692
+7th,Sanford Middle,Max Schuman,112,344101421,28,0,2,63.2372
+8th,Fairview Middle,Matthew Kang,110,125109921,28,2,0,62.6826
+9th,Sanford Middle,Ishika Khondaker,107,344100721,27,1,2,61.8506
+10th,Seminole (Seminole),KRISHNAN SETHUMADHAVAN,107,341002521,27,1,2,61.8506
+11th,Seminole (Seminole),ANISH KHANORKAR,107,341016821,27,1,2,61.8506
+12th,Fairview Middle,Pamela Hu,107,125101121,27,1,2,61.8506
+13th,Fairview Middle,Tommy Luo,106,125101621,27,2,1,61.5733
+14th,Buchholz,Kevin Chung,105,295004520,27,3,0,61.2960
+15th,Gainesville High School,Shaquille Walker,101,268001400,26,3,1,60.1867
+16th,Sanford Middle,Andrew Kwon,98,344101021,25,2,3,59.3547
+17th,Fairview Middle,Mihir Thakkar,98,125104322,25,2,3,59.3547
+18th,Buchholz,Jennifer Li,92,295001620,24,4,2,57.6908
+19th,Eastside,Emilie Song,91,280001521,23,1,6,57.4135
+20th,Eastside,Naweed Mohammad,90,280000421,23,2,5,57.1361
+21st,Fairview Middle,Anisha Sinha,89,125106220,23,3,4,56.8588
+22nd,Lincoln Middle,Yuxin Zhang,89,201104721,23,3,4,56.8588
+23rd,Fairview Middle,Kevin Kim,88,125100422,23,4,3,56.5815
+24th,Howard Bishop Middle,Maxwell Curtis,85,208100521,22,3,5,55.7495
+25th,Seminole (Seminole),KHANDOKER AHMED,83,341014821,21,1,8,55.1949
+26th,Fleming Island High,Ben Ford,81,220000121,21,3,6,54.6402
+27th,Buchholz,David Zoellner,80,295002521,21,4,5,54.3629
+28th,Lincoln Middle,Christina Pu,79,201104521,20,1,9,54.0856
+29th,Howard Bishop Middle,Unmil Patel,78,208100821,20,2,8,53.8083
+30th,Eastside,Flora Huang,77,280000720,20,3,7,53.5310
+31st,Sanford Middle,Shaunak Pandya,74,344101122,19,2,9,52.6990
+32nd,Fairview Middle,David Weng,72,125102822,20,8,2,52.1444
+33rd,Sanford Middle,Tamara Zishuk,72,344101722,18,0,12,52.1444
+34th,Lincoln Middle,Lucinda Peng,69,201104621,18,3,9,51.3124
+35th,Howard Bishop Middle,Kim Mueller,68,208100721,17,0,13,51.0351
+36th,Fleming Island High,Paul Johannes,67,220000821,17,1,12,50.7578
+37th,Fairview Middle,Wyndham Hudson,64,125100820,18,8,4,49.9258
+38th,Lincoln Middle,Xingchen Li,62,201104821,16,2,12,49.3711
+39th,Eastside,Sarah Fang,62,280000621,16,2,12,49.3711
+40th,Fairview Middle,Steven Cui,61,125103822,17,7,6,49.0938
+41st,Sanford Middle,Sam Brenner,60,344100422,16,4,10,48.8165
+42nd,Rickards High School,Andrew Wilson,54,140004021,15,6,9,47.1526
+43rd,Howard Bishop Middle,Ethan Ellis,53,208100921,14,3,13,46.8753
+44th,Gainesville High School,Michael Henagan,51,268004621,16,13,1,46.3206
+45th,Gainesville High School,Gil Lapidot,49,268005221,13,3,14,45.7660
+46th,Sanford Middle,Stanley Kiersnowski,47,344100820,13,5,12,45.2113
+47th,Fleming Island High,Paige Watson,47,220001421,12,1,17,45.2113
+48th,Eastside,Srujal Patel,47,280005720,13,5,12,45.2113
+49th,Sanford Middle,Adam Milsom,43,344101920,12,5,13,44.1020
+50th,Fleming Island High,Rachna Patel,43,220002621,12,5,13,44.1020
+51st,Sanford Middle,Chetana Guduru,40,344100522,11,4,15,43.2701
+52nd,Fairview Middle,Ryan Lerch,40,125106320,13,12,5,43.2701
+53rd,Sanford Middle,Joey Heffer,40,344102020,14,16,0,43.2701
+54th,Lincoln,Maren Johnson,37,109090721,10,3,17,42.4381
+55th, , ,36,334101820,10,4,16,42.1608
+56th,Lincoln,Alex Stowers,30,109077721,9,6,15,40.4969
+57th,Gainesville High School,Ben Borgert,29,268000720,9,7,14,40.2195
+58th,Sanford Middle,Kristine Purdy,28,344101220,8,4,18,39.9422
+59th,Gainesville High School,Henry Shugan,27,268004821,11,17,2,39.6649
+60th,Lincoln,Gracie Mitchell,25,109090121,9,11,10,39.1103
+61st,Gainesville High School,Talia Hammer,22,268000922,6,2,22,38.2783
+62nd,Lincoln,Richard Reason,20,109091821,7,8,15,37.7237
+63rd,Sanford Middle,Tahira Tasnim,17,344101620,5,3,22,36.8917
+64th,Lawton Chiles High School,Douglas Baxter,14,181005420,4,2,24,36.0597
+65th,Gainesville High School,Ashley Hickmon,12,268004520,4,4,22,35.5051
+66th,Gainesville High School,Jazmen Hill,12,268005422,5,8,17,35.5051
+67th,Gainesville High School,Mike Leopold,7,268003420,6,17,7,34.1185
+68th,Gainesville High School,Copelan Hartwell,6,268001021,5,14,11,33.8412
+69th,Gainesville High School,Jacob Luke,5,268003520,6,19,5,33.5638
+70th,Gainesville High School,Abby Dasa,4,268004320,3,8,19,33.2865
+71st,Gainesville High School,Lauren Caton,-9,268005522,4,25,1,29.6813

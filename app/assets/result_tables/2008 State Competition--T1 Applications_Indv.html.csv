@@ -1,0 +1,67 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Cypress Bay,Michael Kirsche,110,5880145,28,2,0,69.7577
+2nd,Lincoln,Emilee Stowers,102,1090140,26,2,2,66.9526
+3rd,Rickards,Christopher Kim,101,1400105,26,3,1,66.6020
+4th,Community Sch Naples,Liam Bressler,100,5620113,26,4,0,66.2513
+5th,Palm Harbor Univ,James Tian,100,4130150,26,4,0,66.2513
+6th,Buchholz,Bryan Li,100,2950117,26,4,0,66.2513
+7th,Buchholz,Jackson Looney,97,2950118,25,3,2,65.1994
+8th,Stoneman Douglas,Kurtis Lee,90,5320156,24,6,0,62.7450
+9th,Cypress Bay,Rodrigo Paniza,86,5880120,22,2,6,61.3425
+10th,American Heritage (Plantation),Rishi Neeranjun,84,5060127,22,4,4,60.6412
+11th,Berkeley Prep,Alyson Freedy,83,4050106,21,1,8,60.2906
+12th,Lincoln,Ziyan Song,82,1090137,22,6,2,59.9399
+13th,Seminole (Seminole),Gloria Leung,80,3410196,21,4,5,59.2387
+14th,Lake Mary,Michael Kwa,80,3080127,22,8,0,59.2387
+15th,Lake Mary,Connor Harrington,79,3080122,21,5,4,58.8880
+16th,Rickards,Dhyan Valle,79,1400100,21,5,4,58.8880
+17th,Buchholz,Bob Chen,76,2950102,20,4,6,57.8361
+18th,Lawton Chiles High School,Yige Yao,76,1810159,20,4,6,57.8361
+19th,Community Sch Naples,Jonathon Layton,75,5620119,20,5,5,57.4855
+20th,Lawton Chiles High School,Marshall Jiang,73,1810137,20,7,3,56.7842
+21st,Middleton,Salim Hyder,70,4680101,18,2,10,55.7323
+22nd,Cape Coral,Joe Levesque,70,4180115,18,2,10,55.7323
+23rd,Seminole (Seminole),Ruchi Shukla,68,3410136,18,4,8,55.0311
+24th,Vero Beach,Gabe Jerkins,65,3720107,17,3,10,53.9792
+25th,Buchholz,David Bai,64,2950110,17,4,9,53.6285
+26th,Miami Springs,Aracelis Chamorro,64,5820148,17,4,9,53.6285
+27th,Sickles,Tommy Cooper,63,4790141,16,1,13,53.2779
+28th,Vero Beach,Amy Askren,62,3720116,16,2,12,52.9273
+29th,American Heritage (Plantation),Rohith Reddy,60,5060131,16,4,10,52.2260
+30th,Seminole (Seminole),Dylan Belfield,60,3410104,16,4,10,52.2260
+31st,Berkeley Prep,Lynn Nguyen,59,4050107,16,5,9,51.8754
+32nd,Community Sch Naples,Lucky Hedin,58,5620116,16,6,8,51.5247
+33rd,Coral Glades,Adam Waters,58,5280144,15,2,13,51.5247
+34th,American Heritage (Plantation),Paul Ponmattam,58,5060129,15,2,13,51.5247
+35th,Middleton,Katie Gertz,55,4680112,14,1,15,50.4728
+36th,Cypress Bay,Joshua Trinkler,54,5880124,14,2,14,50.1222
+37th,Community Sch Naples,Mike Mishkin,53,5620121,15,7,8,49.7716
+38th,Lawton Chiles High School,Daniel Struk,48,1810156,13,4,13,48.0184
+39th,JP Taravella,Amanda Scotto,44,5330121,12,4,14,46.6159
+40th,Naples,Brandon Alvarado,42,5450146,12,6,12,45.9146
+41st,American Heritage (Plantation),Dylan Greaves,38,5060125,10,2,18,44.5121
+42nd,Ronald Reagan H. S.,Alejandro Garcia,36,5270101,12,12,6,43.8108
+43rd,St Edward's,Logan Jaffe,35,3740122,9,1,20,43.4602
+44th,American Heritage (Plantation),Rohan Ramnarain,33,5060130,10,7,13,42.7589
+45th,Cypress Bay,Sophie Chen,32,5880105,9,4,17,42.4082
+46th,Coral Glades,Gilbert Feig,32,5280127,9,4,17,42.4082
+47th,Coral Glades,Nicholas Labarbera,32,5280133,10,8,12,42.4082
+48th,Miami Springs,Gabriel Icaza,31,5820164,8,1,21,42.0576
+49th,Freedom,Scott Pollenz,30,4660113,8,2,20,41.7070
+50th,Cape Coral,Taylor Edmonds,30,4180111,8,2,20,41.7070
+51st,Coral Glades,Shira Urim,29,5280143,8,3,19,41.3563
+52nd,Seminole (Seminole),Ope Bukola,26,3410105,7,2,21,40.3044
+53rd,St Edward's,Hunter Kappel,25,3740123,7,3,20,39.9538
+54th,Fort Myers,Ilya Sakharuk,25,4230104,8,7,15,39.9538
+55th,St Edward's,Matt Wein,25,3740130,7,3,20,39.9538
+56th,Ronald Reagan H. S.,Gianfranco Colombi,25,5270100,7,3,20,39.9538
+57th,Cape Coral,Spencer Jones,25,4180114,11,19,0,39.9538
+58th,Coral Glades,Abraham Duplaa,23,5280125,8,9,13,39.2525
+59th,Belen Jesuit Prep,Alejandro Perez,20,5350159,5,0,25,38.2006
+60th,Deerfield Bch,Aaron Mody,19,5770110,5,1,24,37.8500
+61st,Miami Springs,Sunamy Quinones,18,5820179,5,2,23,37.4994
+62nd,Coral Glades,Heather Bell,11,5280121,5,9,16,35.0449
+63rd,Eastside,Thomas Samant,9,2800120,3,3,24,34.3437
+64th,Miami Sunset,Fiama Aguilar,6,5440100,2,2,26,33.2918
+65th,Miami Sunset,Ronny Chong,3,5440108,1,1,28,32.2399
+66th,Miami Sunset,Aura Altamiranda,-5,5440101,0,5,25,29.4348

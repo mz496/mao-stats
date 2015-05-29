@@ -1,0 +1,113 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,North Florida Christian,Seong Jong Ha,100,1821100,26,4,0,77.6050
+2nd,Lincoln Middle,Kevin Huang,90,2011108,23,2,5,73.0368
+3rd,Jackson Heights,OHCHAN KWON,85,3041127,22,3,5,70.7527
+4th,Fairview,LINDA LIU,85,1251109,22,3,5,70.7527
+5th,Tomlin Middle,Parthik Patel,80,1731109,22,8,0,68.4686
+6th,Jackson Heights,KEVIN JONES,80,3041123,21,4,5,68.4686
+7th,Lincoln Middle,David Liu,78,2011311,20,2,8,67.5550
+8th,Westwood Middle,Jingyi Ye,77,2121104,20,3,7,67.0981
+9th,Lincoln Middle,Keshav Vemuri,77,2011118,20,3,7,67.0981
+10th,Jackson Heights,JOY SHEN,75,3041121,20,5,5,66.1845
+11th,Howard Bishop Middle School,Matthew Pearson,73,2081104,20,7,3,65.2709
+12th,Sanford Middle School,Ali-musa Jaffer,71,3441138,18,1,11,64.3572
+13th,Lincoln Middle,Steve Han,71,2011305,19,5,6,64.3572
+14th,Cobb,Angela Jiang,68,1661129,18,4,8,62.9868
+15th,Kanapaha,Mingue Kang,68,2091111,18,4,8,62.9868
+16th,Fairview,KENNETH ZHOU,68,1251117,18,4,8,62.9868
+17th,Fairview,KAVITHA CHINTAM,68,1251313,18,4,8,62.9868
+18th,Fairview,DIEGO HERNANDEZ,66,1251107,17,2,11,62.0731
+19th,Howard Bishop Middle School,Henry Cole,66,2081101,17,2,11,62.0731
+20th,Lincoln Middle,Ly Pham,64,2011315,17,4,9,61.1595
+21st,Cobb,Jasmine Tsai,64,1661156,17,4,9,61.1595
+22nd,Lincoln Middle,Jennifer Li,64,2011310,18,8,4,61.1595
+23rd,Fairview,ANNIE MA,62,1251315,16,2,12,60.2458
+24th,Sanford Middle School,Tyler Coughlin,59,3441121,15,1,14,58.8754
+25th,Sanford Middle School,Safkat Islam,58,3441112,16,6,8,58.4185
+26th,Tomlin Middle,Bijen Patel,55,1731107,14,1,15,57.0481
+27th,Markham Woods Middle,snigdha das,54,1231127,14,2,14,56.5913
+28th,Jackson Heights,BRIAN TRINH,54,3041125,14,2,14,56.5913
+29th,Lincoln Middle,Annalee Perez,53,2011314,15,7,8,56.1344
+30th, , ,52,7011116,15,8,7,55.6776
+31st,Lincoln Middle,Ju-Kyung Choi,52,2011327,14,4,12,55.6776
+32nd,Fairview,BHAVANA POTTABATULA,51,1251329,14,5,11,55.2208
+33rd,Kanapaha,Kelsey Sack,50,2091109,14,6,10,54.7640
+34th, , ,50,7011119,14,6,10,54.7640
+35th,Fairview,ANDREW CHEN,49,1251131,13,3,14,54.3072
+36th,Cobb,Sherman Wilhelm,48,1661358,13,4,13,53.8503
+37th,Jackson Heights,JEET CHAKRAVORTY,48,3041332,13,4,13,53.8503
+38th,Kanapaha,Jungyu Shin,45,2091113,14,11,5,52.4799
+39th,Fairview,SONIA KOUL,45,1251318,12,3,15,52.4799
+40th,Lincoln Middle,James Zhang,44,2011320,12,4,14,52.0231
+41st, , ,44,7081106,12,4,14,52.0231
+42nd,Sanford Middle School,Casimir Kiersnowski,44,3441139,12,4,14,52.0231
+43rd,Sanford Middle School,Ryan Maxon,43,3441329,12,5,13,51.5662
+44th,Westwood Middle,Fanchao Zhu,43,2121103,13,9,8,51.5662
+45th, , ,43,7091112,12,5,13,51.5662
+46th,Fairview,SATHWIK MADIREDDY,42,1251303,12,6,12,51.1094
+47th,Lincoln Middle,Joe Kann,41,2011109,11,3,16,50.6526
+48th,Westwood Middle,Keith Wingert,40,2121101,11,4,15,50.1958
+49th,Sanford Middle School,Yanchunxiao Yin,40,3441310,11,4,15,50.1958
+50th,Sanford Middle School,Shannon Hatcher,40,3441327,11,4,15,50.1958
+51st,Markham Woods Middle,ravi jindal,39,1231333,11,5,14,49.7390
+52nd,Lincoln Middle,Flora Huang,38,2011307,11,6,13,49.2821
+53rd,Cobb,Megan Konyndyk,38,1661332,11,6,13,49.2821
+54th,Markham Woods Middle,louis dipaolo,36,1231344,12,12,6,48.3685
+55th,Fairview,CRAIG LU,36,1251310,11,8,11,48.3685
+56th,Lincoln Middle,Davis Foote,35,2011104,10,5,15,47.9117
+57th,Markham Woods Middle,arley ruskin,35,1231140,12,13,5,47.9117
+58th,Markham Woods Middle,mikaela malanga,35,1231336,12,13,5,47.9117
+59th,Markham Woods Middle,david lee,34,1231304,9,2,19,47.4549
+60th, , ,34,6731112,10,6,14,47.4549
+61st,Sanford Middle School,Elizabeth Sult,34,3441300,9,2,19,47.4549
+62nd,Markham Woods Middle,meagan harwick,33,1231320,9,3,18,46.9980
+63rd,Tomlin Middle,Kyle Griffin,32,1731103,9,4,17,46.5412
+64th, , ,32,7081107,10,8,12,46.5412
+65th, , ,31,7091108,10,9,11,46.0844
+66th,Lincoln Middle,Kelsy Steffee,31,2011317,9,5,16,46.0844
+67th, , ,30,6731100,9,6,15,45.6276
+68th,Kanapaha,Lizzie Watson,30,2091302,9,6,15,45.6276
+69th,Markham Woods Middle,kelsey kratzmeier,30,1231309,12,18,0,45.6276
+70th,Markham Woods Middle,besant nandra,30,1231139,9,6,15,45.6276
+71st,Cobb,Catherine Park,30,1661340,9,6,15,45.6276
+72nd,Sanford Middle School,Annika Jarvinen,29,3441309,8,3,19,45.1708
+73rd,Kanapaha,Devin Butts,28,2091305,9,8,13,44.7139
+74th,Fairview,NIDHI DESAI,28,1251325,10,12,8,44.7139
+75th,Sanford Middle School,Alexander Speros,28,3441308,8,4,18,44.7139
+76th,Westwood Middle,Yiran An,27,2121106,8,5,17,44.2571
+77th,Kanapaha,Jaime Rafanan,25,2091101,7,3,20,43.3435
+78th, , ,25,6731113,7,3,20,43.3435
+79th,Kanapaha,Nicole Outler,25,2091307,8,7,15,43.3435
+80th,Sanford Middle School,Jay Patel,25,3441313,11,19,0,43.3435
+81st,Markham Woods Middle,phong nguyen,24,1231123,7,4,19,42.8867
+82nd,Sanford Middle School,Brendan Rourke,24,3441319,7,4,19,42.8867
+83rd,Belen Jesuit Prep,JONAS EGUSQUIZA,22,5351100,7,6,17,41.9730
+84th,Cobb,Cindy Wang,22,1661157,6,2,22,41.9730
+85th,Howard Bishop Middle School,Ryan Moore,22,2081103,7,6,17,41.9730
+86th, , ,22,7091110,7,6,17,41.9730
+87th,Sanford Middle School,Danniel Swann,21,3441311,7,7,16,41.5162
+88th,Cobb,Anica Sunshine,21,1661151,6,3,21,41.5162
+89th, , ,21,7081100,6,3,21,41.5162
+90th, , ,21,7121105,8,11,11,41.5162
+91st, , ,20,6731110,7,8,15,41.0594
+92nd,Tomlin Middle,Deepal Patel,20,1731108,8,12,10,41.0594
+93rd, , ,19,7081108,6,5,19,40.6026
+94th,Cobb,Charles Teryek,19,1661354,6,5,19,40.6026
+95th,Cobb,Jordan Goble,18,1661322,7,10,13,40.1457
+96th,Sanford Middle School,Nicholas Swann,18,3441322,5,2,23,40.1457
+97th,Sanford Middle School,James Blanchard,16,3441316,6,8,16,39.2321
+98th,Belen Jesuit Prep,PABLO VELASQUEZ,15,5351105,4,1,25,38.7753
+99th, , ,15,7090004,9,21,0,38.7753
+100th,Howard Bishop Middle School,Tabong Kima,15,2081102,6,9,15,38.7753
+101st,Kanapaha,Kat Boyette,14,2091303,5,6,19,38.3184
+102nd,Sanford Middle School,Asher Chou,13,3441328,5,7,18,37.8616
+103rd,Kanapaha,Rebecca Rosenblat,12,2091304,5,8,17,37.4048
+104th,Cobb,Samuel Tew,11,1661355,4,5,21,36.9480
+105th,Sanford Middle School,Naomi Pitter,11,3441325,4,5,21,36.9480
+106th,Markham Woods Middle,nachiket kulkarni,10,1231362,8,22,0,36.4912
+107th,Tomlin Middle,Guillermo Gonzalez,10,1731302,5,10,15,36.4912
+108th,Markham Woods Middle,aviel yashar,9,1231359,4,7,19,36.0343
+109th,Cobb, ,7,1661399,3,5,22,35.1207
+110th,Jackson Heights,NIRVANI KHAN,6,3041319,6,18,6,34.6639
+111th,Belen Jesuit Prep,JEREMY MARTINEZ,2,5351104,3,10,17,32.8366
+112th,Fairview,PARTH AMIN,2,1251322,4,14,12,32.8366

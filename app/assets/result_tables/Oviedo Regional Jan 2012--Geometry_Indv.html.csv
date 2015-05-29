@@ -1,0 +1,107 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Park Academy,Geoffrey Zheng,115,396001221,29,1,0,80.8091
+2nd,Sanford Middle,Aradhya Kasera,111,344101321,28,1,1,79.2452
+3rd,Sanford Middle,Jimmy Qin,96,344100021,25,4,1,73.3807
+4th,Markham Woods Middle,amanda dilmore,93,323103821,24,3,3,72.2078
+5th,Sanford Middle,Jordan Armstrong,91,344106121,24,5,1,71.4258
+6th,Millenium Middle School,Andy Cai,90,318100121,24,6,0,71.0349
+7th,Markham Woods Middle,lisa yang,88,323105621,23,4,3,70.2529
+8th,Spruce Creek,Samuel Swanson,80,267007121,22,8,0,67.1252
+9th,Sanford Middle,Seraphina Choi,78,344100721,20,2,8,66.3432
+10th,Sanford Middle,Silvia Huaman,76,344101920,20,4,6,65.5613
+11th,Markham Woods Middle,naveen krishnan,73,323103921,20,7,3,64.3884
+12th,Sanford Middle,Sara Keatley,72,344100820,19,4,7,63.9974
+13th,Jackson Heights Middle,CAMERON YAP,67,304100721,18,5,7,62.0426
+14th,Sanford Middle,Sydney Good,67,344106322,18,5,7,62.0426
+15th,Sanford Middle,Gabrielle Plympton,64,344100920,17,4,9,60.8697
+16th,Sanford Middle,Bahram Hosseini,62,344102022,17,6,7,60.0877
+17th,Sanford Middle,Nafisa Mostofa,60,344101720,17,8,5,59.3058
+18th,Sanford Middle,Gouthami Gadamsetty,58,344104820,16,6,8,58.5239
+19th,Markham Woods Middle,haley benner,55,323102722,15,5,10,57.3510
+20th,Spruce Creek,David Flasterstein,55,267005521,16,9,5,57.3510
+21st,West Shore,Connor Courtney,53,393001421,16,11,3,56.5690
+22nd,Markham Woods Middle,LangJoe nguyen,51,323104922,15,9,6,55.7871
+23rd,Sanford Middle,Priya Manjaly,49,344101522,14,7,9,55.0051
+24th,Markham Woods Middle,salwa meghjee,49,323104721,14,7,9,55.0051
+25th,Jackson Heights Middle,JONGHYUN LEE,49,304101221,13,3,14,55.0051
+26th,West Shore,Christopher Latta,47,393000722,13,5,12,54.2232
+27th,Spruce Creek,Jordan Truong,46,267007222,14,10,6,53.8322
+28th,Gifford Middle School,Kiki Peters,46,309101321,13,6,11,53.8322
+29th,Sanford Middle,Shachi Pandya,45,344100220,14,11,5,53.4413
+30th,Sanford Middle,Sita Ramaswamy,45,344100620,13,7,10,53.4413
+31st,Spruce Creek,Shreya Singireddy,45,267006220,13,7,10,53.4413
+32nd,Sanford Middle,Amrita Sumal,44,344100122,14,12,4,53.0503
+33rd,St Edward's,GRIFFIN FAIRCHOK,43,374000821,12,5,13,52.6593
+34th,Spruce Creek,Edward Zamborsky,43,267007922,12,5,13,52.6593
+35th,Spruce Creek,Connor Brok,43,267005120,13,9,8,52.6593
+36th,Lawton Chiles Middle School,Dane Cho,43,329100922,12,5,13,52.6593
+37th,Sanford Middle,David Jones,43,344106220,13,9,8,52.6593
+38th,Spruce Creek,Kristy Kim,42,267006722,13,10,7,52.2684
+39th,Millenium Middle School,Marie Juge,42,318100221,11,2,17,52.2684
+40th,West Shore,Micah Howell,41,393001221,11,3,16,51.8774
+41st,Spruce Creek,Vincent Imbimbo,40,267006122,12,8,10,51.4864
+42nd,Lawton Chiles Middle School,Chris Long,40,329100121,12,8,10,51.4864
+43rd,Sanford Middle,Chethani Chitraacharige,40,344103020,13,12,5,51.4864
+44th,Markham Woods Middle,ChiaoWei Cheng,38,323103522,12,10,8,50.7045
+45th,St Edward's,SEAN KENNEY,38,374001121,11,6,13,50.7045
+46th,West Shore,Srimayi Tenali,36,393000921,11,8,11,49.9225
+47th,Bayside,Zach Nichols,35,303000821,9,1,20,49.5316
+48th,Jackson Heights Middle,CHRISTINE COLE,35,304101021,10,5,15,49.5316
+49th,Millenium Middle School,Melissa Anthony,35,318100021,10,5,15,49.5316
+50th,Markham Woods Middle,smita mahajan,34,323104420,11,10,9,49.1406
+51st,Lawton Chiles Middle School,Chanh Nguyen,31,329100022,8,1,21,47.9677
+52nd,Spruce Creek,Sharose Kasim,31,267006321,11,13,6,47.9677
+53rd,Bayside,Jeremiah Carpenter,31,303000121,10,9,11,47.9677
+54th,Gifford Middle School,Mary Garavaglia,30,309101521,8,2,20,47.5767
+55th,St Edward's,RONNIE ISRAEL,30,374001022,8,2,20,47.5767
+56th,Bayside,Matthew Green,30,303000521,9,6,15,47.5767
+57th,Sanford Middle,Jordan Zabrecky,29,344103220,9,7,14,47.1858
+58th,Sanford Middle,Chirag Lodha,29,344101820,10,11,9,47.1858
+59th,Gifford Middle School,Noah Lanier,28,309101722,8,4,18,46.7948
+60th,West Shore,Stephen Latta,28,393000622,9,8,13,46.7948
+61st,St Edward's,JAKE CORVINO,27,374000521,8,5,17,46.4038
+62nd,Lincoln Park Academy,Kaminaga Mali,27,396000221,9,9,12,46.4038
+63rd,Sanford Middle,Elizabeth Bellerson,27,344103120,8,5,17,46.4038
+64th,Lawton Chiles Middle School,Andrew Descheneaux,25,329100221,9,11,10,45.6219
+65th,Gifford Middle School,Josiah Evaristo,24,309100821,8,8,14,45.2309
+66th,Gifford Middle School,Jacob Lamothe,23,309100922,9,13,8,44.8399
+67th,Markham Woods Middle,samah meghjee,22,323104822,7,6,17,44.4490
+68th,Spruce Creek,Michelle He,22,267005920,8,10,12,44.4490
+69th,Gifford Middle School,Johnathan Page,22,309101122,6,2,22,44.4490
+70th,West Shore,Atharva Chopde,22,393000422,7,6,17,44.4490
+71st,Bayside,Andrew Nichols,22,303000721,8,10,12,44.4490
+72nd,Lawton Chiles Middle School,Surya Sankar,22,329101722,10,18,2,44.4490
+73rd,St Edward's,BRYAN BRICKMAN,21,374000222,7,7,16,44.0580
+74th,Lawton Chiles Middle School,Jane Liang,21,329101022,6,3,21,44.0580
+75th,Suncoast Comm,MyAn Le,21,327009021,7,7,16,44.0580
+76th,St Edward's,NICK DUNCAN,19,374000721,6,5,19,43.2761
+77th,Lawton Chiles Middle School,Aadit Vyas,19,329101421,7,9,14,43.2761
+78th,Gifford Middle School,Marcello Duong,18,309101821,6,6,18,42.8851
+79th,West Shore,Kaitlin Inganna,18,393000521,6,6,18,42.8851
+80th,Jackson Heights Middle,LAUREN NELDNER,18,304101722,6,6,18,42.8851
+81st,Lake Mary,Nikolas Kovach,17,308002621,7,11,12,42.4941
+82nd,Sanford Middle,Jonathan Manipadam,17,344104220,6,7,17,42.4941
+83rd,Spruce Creek,Owen Kelly,16,267006521,6,8,16,42.1032
+84th,St Edward's,NICHOLAS ANDREW,15,374000020,5,5,20,41.7122
+85th,Freedom (Orlando),Jonathan Nguyen,15,381002821,9,21,0,41.7122
+86th,Bayside,Leah Sequeira,15,303001022,5,5,20,41.7122
+87th,St Edward's,PEYTON KLEIN,14,374001222,5,6,19,41.3212
+88th,Jackson Heights Middle,KEVIN LI,14,304101422,6,10,14,41.3212
+89th,Lawton Chiles Middle School,Sambath Jayapregasham,14,329101221,8,18,4,41.3212
+90th,Sanford Middle,Michelle An,14,344102920,7,14,9,41.3212
+91st,St Edward's,MARK BRICKMAN,13,374000320,5,7,18,40.9303
+92nd,Sanford Middle,Parth Desai,12,344106020,6,12,12,40.5393
+93rd,West Shore,Austin Smithe,12,393001122,4,4,22,40.5393
+94th,Markham Woods Middle,michael martin,11,323105420,5,9,16,40.1483
+95th,St Edward's,NICHOLAS MAGAL,11,374001322,5,9,16,40.1483
+96th,Millenium Middle School,Jessica Perlaza,9,318100621,6,15,9,39.3664
+97th,Sanford Middle,Siddarth Kumar,9,344101420,3,3,24,39.3664
+98th,Bayside,Peter Laforge,9,303000622,3,3,24,39.3664
+99th,Bayside,Poly Snover,8,303001122,3,4,23,38.9754
+100th,Bayside,Martha Esparza,7,303001932,2,1,27,38.5844
+101st,Jackson Heights Middle,CHRISTOPHER RODRIGUEZ,6,304101321,4,10,16,38.1935
+102nd,St Edward's,JOHNNY SCHWERER,6,374001620,4,10,16,38.1935
+103rd,Suncoast Comm,Alexandra Munoz,5,327006721,2,3,25,37.8025
+104th,St Edward's,BEN WEEKS,4,374001520,2,4,24,37.4115
+105th,Jackson Heights Middle,KIRAN KHALSA,2,304101622,4,14,12,36.6296
+106th,Suncoast Comm,Catherine Katz,-6,327005621,0,6,24,33.5019

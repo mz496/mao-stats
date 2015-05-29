@@ -1,0 +1,98 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Dunbar High School,Christopher Lather,91,477070121,23,1,6,84.7005
+2nd,Riverdale,Luke ChinAFoeng,77,457000221,21,7,2,77.4896
+3rd,Berkeley Prep,Jake Sokol,65,405001821,17,3,10,71.3088
+4th,Berkeley Prep,Ryan Li,64,405002821,17,4,9,70.7937
+5th,Community Sch Naples,Leaf Kalikow,60,562003221,17,8,5,68.7335
+6th,Williams Middle,Shreya Nidadavolu,60,468101221,16,4,10,68.7335
+7th,Community Sch Naples,Matthew Zhao,57,562006421,15,3,12,67.1883
+8th,Berkeley Prep,Samantha Tun,52,405005321,14,4,12,64.6130
+9th,Saint Stephen's Episcopal School,MARYANN PLACHERIL,49,489000821,15,11,4,63.0678
+10th,Middleton,Panith Thiruvenkatasamy,48,468000721,13,4,13,62.5527
+11th,Community Sch Naples,Cici Hu,45,562008122,13,7,10,61.0075
+12th,Tampa Bay Tech,Sabrina Rodriguez,43,461000721,11,1,18,59.9774
+13th,Palmetto Ridge,Lars Nilsen,43,518004221,12,5,13,59.9774
+14th,Williams Middle,Aryan Patidar,42,468101621,12,6,12,59.4623
+15th,Tampa Bay Tech,Arsany Gad,41,461000821,11,3,16,58.9473
+16th,Dunbar High School,Coursean Thomas,41,477070221,11,3,16,58.9473
+17th,Dunbar High School,Israel Rodriguez,39,477070421,11,5,14,57.9171
+18th,Berkeley Prep,Ivan Von Greiff,39,405003920,11,5,14,57.9171
+19th,Dunbar High School,Mitchell Hellmann,39,477070721,11,5,14,57.9171
+20th,Hillsborough,Jakob Nicolasora,39,428070821,11,5,14,57.9171
+21st,Williams Middle,Prerana Panchumarti,39,468101321,11,5,14,57.9171
+22nd,Wharton,Muhammed Kocak,37,485003921,10,3,17,56.8870
+23rd,Berkeley Prep,Jennifer Luo,36,405001721,10,4,16,56.3719
+24th,Wharton,Abrianne Joseph,36,485000121,10,4,16,56.3719
+25th,Williams Middle,Dakshin Rathnavadivel,34,468101822,9,2,19,55.3418
+26th,Middleton,Bryant Wilkins,34,468003221,10,6,14,55.3418
+27th,Stewart Middle,Erin Piacitelli,33,413100521,9,3,18,54.8267
+28th,Saint Stephen's Episcopal School,VANESSA YAN,33,489000921,9,3,18,54.8267
+29th,Stewart Middle,Alyssa Schroeder,32,413100021,10,8,12,54.3117
+30th,Randall Middle School,Ryan Mercado,32,465111222,9,4,17,54.3117
+31st,Fort Myers,Trey Brauch,31,423002121,9,5,16,53.7966
+32nd,Community Sch Naples,Matthew Magardino,31,562006722,8,1,21,53.7966
+33rd,Saint Stephen's Episcopal School,ALEX SIEGAL,29,489000721,9,7,14,52.7665
+34th,Robinson,Madisen Kerr,28,458000721,8,4,18,52.2514
+35th,Dunbar High School,Jared Lovett,27,477070522,9,9,12,51.7364
+36th,Cape Coral High School,Ethan Howe,27,418001521,7,1,22,51.7364
+37th,Community Sch Naples,Alison Xu,26,562006622,10,14,6,51.2213
+38th,Community Sch Naples,Tina You,26,562007221,10,14,6,51.2213
+39th,Berkeley Prep,Brad Batas,25,405004722,10,15,5,50.7062
+40th,Williams Middle,Sakina Johar,25,468100621,9,11,10,50.7062
+41st,Canterbury (Lee),Jay Chandler,25,411004121,7,3,20,50.7062
+42nd,Dunbar High School,Latham Johnson,24,477070622,7,4,19,50.1912
+43rd,Berkeley Prep,Sean Nguyen,23,405001622,7,5,18,49.6761
+44th,Community Sch Naples,Bruce Nakfoor,23,562006921,9,13,8,49.6761
+45th,Hillsborough,Alex Pillai,23,428071721,7,5,18,49.6761
+46th,Naples,Peter Resha,22,545001321,7,6,17,49.1610
+47th,Saint Stephen's Episcopal School,EMMA JONES,22,489004021,6,2,22,49.1610
+48th,Randall Middle School,Alex Bisnath,21,465111321,7,7,16,48.6460
+49th,Dunbar High School,Nathan Chaiprasert,21,477070922,7,7,16,48.6460
+50th,Wharton,Sonu Trivedi,21,485001321,6,3,21,48.6460
+51st,Cape Coral High School,Dannah Dolorfino,21,418001021,6,3,21,48.6460
+52nd,Bishop Verot,Griffin Kupsaw,21,453001221,7,7,16,48.6460
+53rd,Stewart Middle,Brianna Schroeder,19,413100121,5,1,24,47.6158
+54th,Naples,Camille Howard,19,545001521,7,9,14,47.6158
+55th,Stewart Middle,Cassie Parker,18,413101021,5,2,23,47.1008
+56th,Middleton,Anusha Kante,17,468002121,6,7,17,46.5857
+57th,Fort Myers,Caroline Parslow,17,423003721,5,3,22,46.5857
+58th,Randall Middle School,Dhruv Patel,16,465111421,6,8,16,46.0706
+59th,Randall Middle School,Daniel Marks,16,465122321,5,4,21,46.0706
+60th,Robinson,Paulina Narvaez,16,458002321,5,4,21,46.0706
+61st,Community Sch Naples,Brandon Nguyen,16,562003620,6,8,16,46.0706
+62nd,Strawberry Crest,Padma Ganduri,14,498503721,5,6,19,45.0405
+63rd,Saint Stephen's Episcopal School,YUQUING LIU,14,489002322,4,2,24,45.0405
+64th,Randall Middle School,Bobby McAdam,14,465111121,7,14,9,45.0405
+65th,Berkeley Prep,Jessica Cascio,13,405006722,4,3,23,44.5255
+66th,Palmetto Ridge,Garrett Chapman,13,518000021,4,3,23,44.5255
+67th,Riverdale,Jenny Nguyen,12,457000021,4,4,22,44.0104
+68th,Fort Myers,Simon Negin,11,423001921,5,9,16,43.4953
+69th,Fort Myers,Mohit Mathur,11,423006121,4,5,21,43.4953
+70th,Strawberry Crest,Brianna Doane,11,498501821,4,5,21,43.4953
+71st,Williams Middle,Neeti Bhutada,10,468100022,5,10,15,42.9803
+72nd,Canterbury (Lee),Sophia Ahad,10,411004721,8,22,0,42.9803
+73rd,Canterbury (Lee),Tasnim Thakur,10,411004921,5,10,15,42.9803
+74th,Bishop Verot,Ahad Hussain,10,453001121,8,22,0,42.9803
+75th,Mariner,Sherry Kao,10,473000421,5,10,15,42.9803
+76th,Community Sch Naples,Sabrina Cavaseno,9,562002820,3,3,24,42.4652
+77th,Palmetto Ridge,Marcos Atiles,9,518001221,3,3,24,42.4652
+78th,Naples,Isabel Hautmann,9,545008921,4,7,19,42.4652
+79th,Community Sch Naples,Tom Xu,8,562007022,4,8,18,41.9501
+80th,Cape Coral High School,Shanjida Rauf,7,418002321,3,5,22,41.4351
+81st,Saint Stephen's Episcopal School,JACK BERRY,7,489001822,3,5,22,41.4351
+82nd,Labelle High School,Amanda Phipps,5,510001621,2,3,25,40.4049
+83rd,Community Sch Naples,Jonathan Raskauskas,5,562006320,7,23,0,40.4049
+84th,Middleton,Serina Bush,5,468000922,3,7,20,40.4049
+85th,Cape Coral High School,Amanda Garcia,2,418000621,2,6,22,38.8597
+86th,Mariner,Inka Schulz,2,473000721,1,2,27,38.8597
+87th,Berkeley Prep,Andrew Koch,2,405001122,4,14,12,38.8597
+88th,Tampa Bay Tech,Beatriz Garcia,1,461000021,2,7,21,38.3447
+89th,Middleton,Olatayo Bakare,1,468001821,1,3,26,38.3447
+90th,Dunbar High School,Carl Burnside,0,477070822,4,16,10,37.8296
+91st,Community Sch Naples,Sydnie Lenchner,-1,562003520,1,5,24,37.3145
+92nd,Palmetto Ridge,Herbert Alvarado,-1,518003921,0,1,29,37.3145
+92nd,Labelle High School,Jovani Bedolla,-1,510001021,0,1,29,37.3145
+94th,Fort Myers,Tasnia Patwary,-4,423004122,0,4,26,35.7694
+95th,Riverdale,Kiara Veillux,-4,457000321,1,8,21,35.7694
+96th,Tampa Bay Tech,Cassandra Pitcher,-4,461001421,2,12,16,35.7694
+97th,Bishop Verot,Anna Kjoller,-4,453000521,2,12,16,35.7694

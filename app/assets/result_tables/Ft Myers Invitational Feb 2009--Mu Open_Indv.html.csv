@@ -1,0 +1,81 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Lucy Zhong,98,295003050,25,2,3,75.0692
+2nd,Buchholz,Mark Simon,90,295001750,24,6,0,71.7273
+3rd,Buchholz,Jerome Yoon,87,295002850,23,5,2,70.4741
+4th,Ronald Reagan H. S.,Alejandro Garcia,81,527000150,21,3,6,67.9677
+5th,Stoneman Douglas,KIRILL KLIMUK,79,532020750,21,5,4,67.1323
+6th,Buchholz,Mariya Toneva,78,295001950,21,6,3,66.7145
+7th,H. B. Plant,Dylan Tozier,77,427090750,20,3,7,66.2968
+8th,Cypress Bay,Sung-Min   Baek,75,588009450,20,5,5,65.4613
+9th,Lawton Chiles High School,Michael Wei,73,181006850,19,3,8,64.6259
+10th,Stoneman Douglas,ANTHONY FU,70,532020550,19,6,5,63.3727
+11th,Buchholz,Ted Li,68,295002350,19,8,3,62.5372
+12th,Buchholz,Sarah Pang,67,295001650,18,5,7,62.1195
+13th,Stoneman Douglas,ETHAN LI,65,532021050,19,11,0,61.2840
+14th,Cypress Bay,Brandon  Allen,60,588013650,17,8,5,59.1953
+15th,Buchholz,Kevin Fan,60,295001450,17,8,5,59.1953
+16th,Stoneman Douglas,JOHN BOSWELL,57,532020150,16,7,7,57.9421
+17th,Ronald Reagan H. S.,Xavier Garcia,56,527002150,15,4,11,57.5244
+18th,Deerfield Beach,TROY DALY,56,577005750,15,4,11,57.5244
+19th,Cypress Bay,Liana  Braun,56,588014850,16,8,6,57.5244
+20th,Ferguson,EZEQUIEL SCHMOIS,55,507003750,17,13,0,57.1067
+21st,Seminole (Seminole),MICHELLE KWON,53,341002850,14,3,13,56.2712
+22nd,H. B. Plant,Hayden Kelly,52,427090550,14,4,12,55.8535
+23rd,Palm Harbor Univ,DJ Kirby,50,413009350,16,14,0,55.0180
+24th,Buchholz,Jason Wang,47,295002660,13,5,12,53.7648
+25th,Naples,Spencer Jacobs,46,545001550,13,6,11,53.3471
+26th,Freedom,HANNAH FERRALL,46,466002050,13,6,11,53.3471
+27th,Eastside,Jimmy Xin,45,280005250,15,15,0,52.9294
+28th,Community Sch Naples,ROBERT MCELWAINE,44,562003650,12,4,14,52.5116
+29th,Deerfield Beach,DORIAN FERNANDEZ,44,577006250,13,8,9,52.5116
+30th,Cypress Bay,Craig   Sherwood,44,588012550,14,12,4,52.5116
+31st,Canterbury (Lee),Sarah-Marie Hopf,44,411001650,12,4,14,52.5116
+32nd,Berkeley Prep,Elliot Stein,42,405006350,13,10,7,51.6762
+33rd,Deerfield Beach,TINA WANG,42,577010350,11,2,17,51.6762
+34th,Community Sch Naples,JORDAN CHESTNUT,42,562002950,12,6,12,51.6762
+35th,Middleton,Omar Garcia,41,468001050,12,7,11,51.2584
+36th,Lawton Chiles High School,Logan Stafman,40,181006550,12,8,10,50.8407
+37th,Cypress Bay,Anna  Wang,40,588013450,12,8,10,50.8407
+38th,Freedom,JUSTIN SHUMATE,35,466003350,13,17,0,48.7520
+39th,Palm Harbor Univ,Steven Kuba,34,413009650,12,14,4,48.3343
+40th,Ronald Reagan H. S.,Diego Watanabe,33,527000450,9,3,18,47.9166
+41st,Cypress Bay,Saif   Hamideh,33,588016450,9,3,18,47.9166
+42nd,Lawton Chiles High School,Blair Wulterkens,32,181007050,10,8,12,47.4988
+43rd,Community Sch Naples,MATTHEW DERNBACH,30,562003150,9,6,15,46.6634
+44th,Palm Harbor Univ,Aakash Patel,30,413010850,12,18,0,46.6634
+45th,Community Sch Naples,DEMI GREKOS,29,562001550,10,11,9,46.2456
+46th,Eastside,Kimberly Fang,28,280003560,8,4,18,45.8279
+47th,Freedom,RAY XIAO,28,466005450,10,12,8,45.8279
+48th,Lawton Chiles High School,Diana Zheng,27,181007250,7,1,22,45.4102
+49th,Community Sch Naples,NICK LONG,25,562003550,11,19,0,44.5747
+50th,Palm Harbor Univ,Samantha Griffith,25,413007950,9,11,10,44.5747
+51st,Miami Springs,JAIME ALAYON,25,582000050,11,19,0,44.5747
+52nd,Ferguson,JESSICA FERNANDEZ,25,507001950,8,7,15,44.5747
+53rd,Freedom,MATTHEW HEINZEL,24,466004350,7,4,19,44.1570
+54th,Palm Harbor Univ,Bjorn Stange,24,413012150,7,4,19,44.1570
+55th,Deerfield Beach,Colleen Baublitz,24,577005350,7,4,19,44.1570
+56th,Ferguson,NELSON DELCALVO,24,507007150,7,4,19,44.1570
+57th,Eastside,Andy Ganey,23,280000650,7,5,18,43.7392
+58th,Eastside,Flash Gordon,23,280004160,7,5,18,43.7392
+59th,Eastside,Diana Petrukhina,23,280001650,9,13,8,43.7392
+60th,Freedom,NIVEA ZACARKIM,22,466005650,10,18,2,43.3215
+61st,Middleton,Tristan Helmink,21,468001250,6,3,21,42.9038
+62nd,Lawton Chiles High School,Shuyao Zhang,20,181007150,7,8,15,42.4860
+63rd,Seminole (Seminole),SAMANTHA PHAN,19,341004550,8,13,9,42.0683
+64th,Community Sch Naples,KRISTEN KOONCE,17,562003450,5,3,22,41.2328
+65th,Lincoln,DEVIN FRENTZ,17,109013250,6,7,17,41.2328
+66th,Canterbury (Lee),Barkha Shah,16,411002150,5,4,21,40.8151
+67th,Deerfield Beach,MACKENZIE FAY,16,577008950,5,4,21,40.8151
+68th,Naples,Carlos Calixtro,15,545000550,7,13,10,40.3974
+69th,Ronald Reagan H. S.,Francisco Cano,15,527003350,7,13,10,40.3974
+70th,Deerfield Beach,PAULA PLUCHINO,14,577009350,4,2,24,39.9796
+71st,Miami Springs,BRANDON GAGNE,14,582011650,5,6,19,39.9796
+72nd,Lawton Chiles High School,Lacey Booth,13,181003850,4,3,23,39.5619
+73rd,Lawton Chiles High School,Brianna Rosier,12,181006150,5,8,17,39.1442
+74th,Canterbury (Lee),Sean Alexander,11,411001150,3,1,26,38.7264
+75th,Community Sch Naples,Keri Allen,10,562005450,6,14,10,38.3087
+76th,Ronald Reagan H. S.,Pedro Gonzalez,5,527001750,3,7,20,36.2200
+77th,Miami Springs,CHRISTOPHER MACOMBER,5,582004350,7,23,0,36.2200
+78th,Miami Springs,KRISTINE FERNANDEZ,2,582011550,1,2,27,34.9668
+79th,Ferguson,CHRISTINA DIAZ,1,507001550,1,3,26,34.5491
+80th,Deerfield Beach,CASEY DUANJICK,0,577008850,6,24,0,34.1314

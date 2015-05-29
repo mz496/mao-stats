@@ -1,0 +1,153 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Middle,Kevin Huang,99,201100120,25,1,4,85.5328
+2nd,Buchholz,Tony Zeng,91,295005120,24,5,1,81.7390
+3rd,Lincoln Middle,Stephen Dolbier,86,201100020,22,2,6,79.3678
+4th,Buchholz,Jasmine Robinson,82,295000020,21,2,7,77.4709
+5th,Buchholz,Jennifer Li,76,295001620,20,4,6,74.6256
+6th,Buchholz,Zadia Dupee,76,295005630,20,4,6,74.6256
+7th,Buchholz,Kevin Chung,75,295004530,21,9,0,74.1513
+8th,Lawton Chiles High School,Ginger Yu,66,181003830,17,2,11,69.8833
+9th,Rickards High School,Annie Ma,64,140003930,17,4,9,68.9348
+10th,Buchholz,Matthew Pearson,63,295005330,18,9,3,68.4606
+11th,Seminole (Seminole),TATIANA ANTHONY,61,341014930,16,3,11,67.5121
+12th,Rickards High School,Kavitha Chintam,56,140002830,15,4,11,65.1410
+13th,Lincoln Middle,Robin Xu,54,201101230,14,2,14,64.1925
+14th,Vero Beach,SAMI HASHMI,51,372004730,14,5,11,62.7698
+15th,Buchholz,Marie Thomas,51,295006230,14,5,11,62.7698
+16th,Cypress Bay,Ina Liu,49,588000330,13,3,14,61.8214
+17th,Lawton Chiles High School,Elizabeth Wang,49,181003530,13,3,14,61.8214
+18th,Seminole (Seminole),MANSOO KIM,49,341013330,13,3,14,61.8214
+19th,Buchholz,Danny Dewitt,48,295003630,13,4,13,61.3472
+20th,Lawton Chiles High School,Grace Ying,46,181003730,13,6,11,60.3987
+21st,Lincoln Middle,Andrew Fang,46,201101530,13,6,11,60.3987
+22nd,Seminole (Seminole),MICHELLE ZHANG,43,341006230,11,1,18,58.9760
+23rd,Cypress Bay,Andrew Pearl,42,588002330,12,6,12,58.5018
+24th,Seminole (Seminole),ARLEY RUSKIN,42,341002430,12,6,12,58.5018
+25th,King,Rachita Das,41,435000730,11,3,16,58.0276
+26th,Berkeley Prep,Monica Kundra,41,405003330,11,3,16,58.0276
+27th,Seminole (Seminole),ELIZABETH SULT.CASE,41,341002830,11,3,16,58.0276
+28th,Buchholz,John Huber,40,295004830,11,4,15,57.5533
+29th,Deerlake Middle,CECILIA XIE,40,185111320,11,4,15,57.5533
+30th,Fairview Middle,David Weng,40,125102820,14,16,0,57.5533
+31st,Fairview Middle,Mihir Thakkar,38,125104320,12,10,8,56.6049
+32nd,Eastside,Seth Rutman,37,280000230,10,3,17,56.1306
+33rd,Sanford Middle,Sam Brenner,37,344100420,10,3,17,56.1306
+34th,Vero Beach,SAMUEL MCCOY,37,372010430,10,3,17,56.1306
+35th,Sanford Middle,Joey Heffer,35,344102020,13,17,0,55.1822
+36th,Eastside,Lauren vonZabern,33,280000330,9,3,18,54.2337
+37th,Buchholz,Sam Harris,33,295003730,9,3,18,54.2337
+38th,Berkeley Prep,Ajay Kanuri,32,405003230,11,12,7,53.7595
+39th,Berkeley Prep,John Psaltis,32,405004130,11,12,7,53.7595
+40th,Deerlake Middle,JOYCE WANG,32,185113320,9,4,17,53.7595
+41st,Vero Beach,LEO CURY,31,372009430,10,9,11,53.2853
+42nd,Durant,Alyssa Hough,31,475000930,9,5,16,53.2853
+43rd,Sanford Middle,Chetana Guduru,31,344100520,8,1,21,53.2853
+44th,Eastside,Sarah Fang,30,280000620,8,2,20,52.8111
+45th,Gainesville High School,Shelby Altomari,29,268002230,8,3,19,52.3368
+46th,Lincoln Park Academy,CIMONE WATSON,29,396000430,10,11,9,52.3368
+47th,Vero Beach,TAD PALMER,29,372010630,11,15,4,52.3368
+48th,Miami Springs,VERONICA PADRON,29,582004730,8,3,19,52.3368
+49th,Berkeley Prep,Akshay Mathews,29,405003630,8,3,19,52.3368
+50th,Seminole (Seminole),PRAKASH SUNDAR,28,341003530,8,4,18,51.8626
+51st,Buchholz,Will Messina,28,295005030,7,0,23,51.8626
+52nd,Lawton Chiles High School,Jeremy Jones,28,181001630,8,4,18,51.8626
+53rd,Cypress Bay,Sebastian Ortega,28,588000430,8,4,18,51.8626
+54th,Seminole (Seminole),AMANDA HESTON,27,341016430,8,5,17,51.3884
+55th,Eastside,Flora Huang,27,280000720,8,5,17,51.3884
+56th,Seminole (Seminole),SNIGDHA DAS,26,341015730,8,6,16,50.9141
+57th,Berkeley Prep,Tatianna Padmanabhan,26,405004030,7,2,21,50.9141
+58th,Jackson Heights Middle,KATIE TOBIK,25,304101820,8,7,15,50.4399
+59th,Vero Beach,CHRIS DIXON,25,372002620,7,3,20,50.4399
+60th,Sanford Middle,Stanley Kiersnowski,25,344100820,11,19,0,50.4399
+61st,Buchholz,Tomasz Andraka,24,295002630,7,4,19,49.9657
+62nd,Sanford Middle,Aldwin DeGuzman,24,344100320,8,8,14,49.9657
+63rd,Berkeley Prep,Daniel Rovner,24,405006820,8,8,14,49.9657
+64th,Gainesville High School,Brandon Caton,23,268005330,7,5,18,49.4915
+65th,Cypress Bay,Kriti Sarin,23,588002730,7,5,18,49.4915
+66th,American Heritage (Plantation),Wanci Li,23,506006130,9,13,8,49.4915
+67th,Cypress Bay,Carlos Mercado,23,588019630,7,5,18,49.4915
+68th,Vero Beach,ALICIA KNAPPMAN,23,372008120,8,9,13,49.4915
+69th,Eastside,Eliza Steffee,22,280001430,8,10,12,49.0172
+70th,Lawton Chiles High School,BingBing Liu,22,181002430,8,10,12,49.0172
+71st,Lincoln Middle,Yuxin Zhang,22,201104720,7,6,17,49.0172
+72nd,Westwood Middle,aaron cendan,22,212000030,8,10,12,49.0172
+73rd,Fairview Middle,Steven Cui,22,125103820,10,18,2,49.0172
+74th,Fort Myers,Ty Christoff,21,423001530,7,7,16,48.5430
+75th,Eastside,Ginnie Lin,21,280001330,6,3,21,48.5430
+76th,Vero Beach,EMBER COURTNEY,21,372007120,6,3,21,48.5430
+77th,Palm Harbor Univ,Ji Lin,20,413011730,10,20,0,48.0688
+78th,Berkeley Prep,Josh Bobo,20,405002230,7,8,15,48.0688
+79th,Eastside,Srujal Patel,19,280005720,5,1,24,47.5945
+80th,King,Andres Saez,19,435004930,5,1,24,47.5945
+81st,Sanford Middle,Jenny Raman,19,344101320,7,9,14,47.5945
+82nd,Miami Springs,JOSE MALDONADO,17,582002730,5,3,22,46.6461
+83rd,Berkeley Prep,Laura Baran,17,405002130,5,3,22,46.6461
+84th,King,Visruti Sankar,17,435005420,6,7,17,46.6461
+85th,Eastside,Fanning Lin,17,280001230,6,7,17,46.6461
+86th,Miami Springs,KATHERIN RODRIGUEZ,16,582006530,5,4,21,46.1719
+87th,Lawton Chiles High School,Madison Moore,16,181002630,5,4,21,46.1719
+88th,Durant,Tyler Johnson,16,475001030,7,12,11,46.1719
+89th,Fairview Middle,Ryan Lerch,16,125106320,7,12,11,46.1719
+90th,Berkeley Prep,Robert Cui,15,405002530,5,5,20,45.6976
+91st,Lincoln Middle,Xingchen Li,15,201104820,6,9,15,45.6976
+92nd,Vero Beach,SYDNEY KEILER,15,372007920,5,5,20,45.6976
+93rd,Sanford Middle,Shaunak Pandya,15,344101120,5,5,20,45.6976
+94th,Berkeley Prep,Adam Wolf,15,405007620,5,5,20,45.6976
+95th,Gainesville High School,Westin Briant,15,268004160,9,21,0,45.6976
+96th,Lawton Chiles High School,Ally Findley,14,181005330,4,2,24,45.2234
+97th,Gainesville High School,Ashley Hickmon,14,268004520,5,6,19,45.2234
+98th,Berkeley Prep,Alison Avery,14,405002030,5,6,19,45.2234
+99th,Gainesville High School,Chitra Glasheen,14,268003680,7,14,9,45.2234
+100th,Buchholz,Michael Patlovich,14,295005230,5,6,19,45.2234
+101st,Vero Beach,SAM WHITE,13,372009920,5,7,18,44.7492
+102nd,Seminole (Seminole),ANITA NACEA,13,341017430,4,3,23,44.7492
+103rd,Lincoln,Austin Shaeffer,13,109022530,4,3,23,44.7492
+104th,Fort Myers,Trey Dougherty,13,423001730,4,3,23,44.7492
+105th,Vero Beach,WILLIAM WALKER,13,372006020,4,3,23,44.7492
+106th,Gainesville High School, ,13,268008120,4,3,23,44.7492
+107th,Berkeley Prep,Shaun Majumdar,13,405003430,4,3,23,44.7492
+108th,King,Ann Nguyen,12,435003320,7,16,7,44.2749
+109th,Gainesville High School,Briana Freeman,11,268003230,4,5,21,43.8007
+110th,Gainesville High School,Rhenn Handel,11,268004430,4,5,21,43.8007
+111th,Community Sch Naples,Taylor Rembos,11,562004830,6,13,11,43.8007
+112th,Gainesville High School,Henry Shugan,11,268004820,6,13,11,43.8007
+113th,King,Subramanian Lakshminarasimhan,10,435002730,4,6,20,43.3265
+114th,Gainesville High School,Jimmy Ossa,10,268000520,8,22,0,43.3265
+115th,Seminole (Seminole),BRANDI PATIERNO,10,341009920,4,6,20,43.3265
+116th,Sanford Middle,Jay Bulsara,10,344101820,5,10,15,43.3265
+117th,H. B. Plant,Carrie Mayes,9,427034830,3,3,24,42.8523
+118th,Vero Beach,JOE SUTHERLAND,9,372009120,5,11,14,42.8523
+119th,Miami Springs,RYAN BERMUDEZ,9,582005020,4,7,19,42.8523
+120th,Vero Beach,KIMMY ZEREGA,9,372006320,3,3,24,42.8523
+121st,Sanford Middle,Tamara Zishuk,9,344101720,5,11,14,42.8523
+122nd,Lincoln Park Academy,Jeremie JeanPhilippe,8,396000830,5,12,13,42.3780
+123rd,Palm Harbor Univ,Kevin Neumann,8,413014230,3,4,23,42.3780
+124th,Fort Myers,Rhea Patel,8,423001630,3,4,23,42.3780
+125th,Miami Springs,JUAN ALVARADO,8,582005630,3,4,23,42.3780
+126th,Durant,Elena Wannebo,8,475001830,3,4,23,42.3780
+127th,Palm Harbor Univ,Ahmed Noor,7,413014330,2,1,27,41.9038
+128th,Sanford Middle,McKenzie Black,7,344100020,4,9,17,41.9038
+129th,Gainesville High School,Jordyn Connell,6,268002730,5,14,11,41.4296
+130th,Gainesville High School,Copelan Hartwell,6,268001020,4,10,16,41.4296
+131st,Berkeley Prep,Alvin Choy,6,405005820,2,2,26,41.4296
+132nd,Palm Harbor Univ,Melissa Scharf,6,413017230,3,6,21,41.4296
+133rd,Durant,Elna Pazhukayil,5,475001430,7,23,0,40.9553
+134th,H. B. Plant,Abby Andersen,4,427035030,6,20,4,40.4811
+135th,Miami Springs,BRIANNA GAGNE,4,582002530,2,4,24,40.4811
+136th,Sanford Middle,Olivia Carbone,3,344100120,3,9,18,40.0069
+137th,Seminole (Seminole),MORGAN LYONS,3,341017120,2,5,23,40.0069
+138th,Miami Springs,EFRAIN URIBE,2,582005320,2,6,22,39.5327
+139th,Miami Springs,ELIZABETH JIMENEZ,2,582004930,2,6,22,39.5327
+140th,Palm Harbor Univ,Cameron Frost,1,413005930,2,7,21,39.0584
+141st,American Heritage (Plantation),Kiera Parrish,1,506000920,1,3,26,39.0584
+142nd,Gainesville High School,Jazz Weigel,1,268003930,4,15,11,39.0584
+143rd,Miami Springs,JAVIER INDA,-1,582002630,1,5,24,38.1100
+144th,Community Sch Naples,Ria Sanghvi,-2,562004920,5,22,3,37.6357
+145th,Berkeley Prep,Kelvin Choy,-3,405003930,1,7,22,37.1615
+146th,Miami Springs,KEVIN PAZ,-3,582006320,1,7,22,37.1615
+147th,Gainesville High School,Shaquille Walker,-3,268001420,3,15,12,37.1615
+148th,Gainesville High School,Rosemari Malu,-4,268004020,0,4,26,36.6873
+149th,Gainesville High School,Lauren Caton,-5,268005520,5,25,0,36.2131
+150th,Williams Middle,Marayna Martinez,-5,468100220,5,25,0,36.2131
+151st,Sanford Middle,Tahira Tasnim,-5,344101620,3,17,10,36.2131
+152nd,Gainesville High School,Anthony MonahanEstes,-10,268004720,4,26,0,33.8419

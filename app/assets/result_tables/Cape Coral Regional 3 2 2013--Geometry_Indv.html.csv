@@ -1,0 +1,96 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Zachary Diamandis,116,405003521,22,2,6,74.9462
+2nd,Berkeley Prep,Ankit Aggarwal,113,405004621,22,5,3,73.5692
+3rd,Berkeley Prep,Jack Graham,109,405004321,21,5,4,71.7331
+4th,Canterbury (Lee),Elbert Wu,109,411002621,20,1,9,71.7331
+5th,Berkeley Prep,Gabriel Villasana,107,405007420,20,3,7,70.8151
+6th,Berkeley Prep,Nick Diaco,105,405001022,19,1,10,69.8970
+7th,Sickles,John Brown,99,479007921,19,7,4,67.1430
+8th,Fort Myers,Ashhab Thakur,97,423002421,17,1,12,66.2249
+9th,King,Sebastian Ayala,95,435001221,17,3,10,65.3069
+10th,Berkeley Prep,Jarod Guzik,93,405004522,16,1,13,64.3889
+11th,Tampa Bay Tech,Nikhil Nagabandi,89,461000221,16,5,9,62.5528
+12th,Berkeley Prep,Eva Khademi,88,405004221,15,2,13,62.0938
+13th,Wharton,Owen Benefiel,83,485002621,15,7,8,59.7987
+14th,Berkeley Prep,Will Levine,83,405003722,14,3,13,59.7987
+15th,Labelle High School,Paul Luckey,82,510001821,14,4,12,59.3397
+16th,Community Sch Naples,Craig Schwerin,82,562002721,13,0,17,59.3397
+17th,Community Sch Naples,Dave Duan,79,562004921,15,11,4,57.9627
+18th,Berkeley Prep,Lance Esposito,78,405007020,13,4,13,57.5037
+19th,Hillsborough,Sameer Puri,77,428061421,13,5,12,57.0447
+20th,Gaither High School,Brian Tran,76,426001421,12,2,16,56.5856
+21st,Williams Middle,Shawn Simon,75,468100421,15,15,0,56.1266
+22nd,Wharton,Ryan Borum,75,485002721,15,15,0,56.1266
+23rd,St Stephen's Episcopal,NUPUR MATHUR,74,489001221,12,4,14,55.6676
+24th,Dunbar High School,Tyler Millis,73,477060221,12,5,13,55.2086
+25th,Berkeley Prep,Maya Ghandi,72,405003620,12,6,12,54.7496
+26th,Sickles,Ryan Nolan,71,479007221,13,11,6,54.2906
+27th,King,Pranjal Tyagi,70,435003621,10,0,20,53.8316
+28th,Canterbury (Lee),Manny Hernandez,70,411002321,14,16,0,53.8316
+29th,St Stephen's Episcopal,MICHELLE YAN,68,489001322,10,2,18,52.9135
+30th,St Stephen's Episcopal,HANNAH SAGE,68,489003321,12,10,8,52.9135
+31st,Naples,Emily Black,68,545006321,10,2,18,52.9135
+32nd,St Stephen's Episcopal,KYLE KOUGHAN,66,489002921,10,4,16,51.9955
+33rd,Palm Harbor Univ,Andrew An,66,413000021,12,12,6,51.9955
+34th,Wharton,Erica Winfrey,65,485004521,10,5,15,51.5365
+35th,Mariner,Tucker Newport,65,473000021,11,9,10,51.5365
+36th,Palm Harbor Univ,Serena Moseley,65,413003521,9,1,20,51.5365
+37th,Williams Middle,Annabel Aguiar,64,468100121,9,2,19,51.0775
+38th,Seacrest High School,Jamison Huber,64,555703221,10,6,14,51.0775
+39th,King,Jonathan Ptak,64,435003221,9,2,19,51.0775
+40th,Tampa Bay Tech,Caitlyn Hayes,62,461000921,10,8,12,50.1594
+41st,King,Harry Lee,62,435001021,8,0,22,50.1594
+42nd,Sickles,Diego Antolinez,61,479006121,8,1,21,49.7004
+43rd,Fort Myers,Xinyue Liang,60,423002621,9,6,15,49.2414
+44th,Seacrest High School,Julia Basile,60,555702821,9,6,15,49.2414
+45th,Seacrest High School,Blake Burchett,60,555703321,10,10,10,49.2414
+46th,Seacrest High School,Augie Boyd,60,555703521,8,2,20,49.2414
+47th,Berkeley Prep,Regan Dabbs,60,405003320,8,2,20,49.2414
+48th,St Stephen's Episcopal,CURTIS STUMP,58,489002022,8,4,18,48.3234
+49th,Williams Middle,Suman Adari,57,468100021,8,5,17,47.8644
+50th,Labelle High School,Ezequiel Juarez,57,510001721,7,1,22,47.8644
+51st,Berkeley Prep,Sophia Raterman,56,405003420,7,2,21,47.4054
+52nd,St Stephen's Episcopal,NICK RUNDE,56,489002122,9,10,11,47.4054
+53rd,Dunbar High School,Marck Molina,56,477060321,7,2,21,47.4054
+54th,Berkeley Prep,CJ Black,55,405002220,7,3,20,46.9464
+55th,Community Sch Naples,Hurst Clinton,55,562002821,7,3,20,46.9464
+56th,St Stephen's Episcopal,LILY LU,54,489003021,9,12,9,46.4873
+57th,Middleton,Vontero Duncan,53,468000621,8,9,13,46.0283
+58th,Berkeley Prep,Roshan Kedar,53,405007220,8,9,13,46.0283
+59th,Williams Middle,Easwar Prabakaran,52,468100321,7,6,17,45.5693
+60th,Community Sch Naples,Janet Guelfi,52,562002322,8,10,12,45.5693
+61st,Berkeley Prep,Carolyn Tirella,52,405005420,6,2,22,45.5693
+62nd,Fort Myers,Adrian Dougherty,51,423002521,6,3,21,45.1103
+63rd,Naples,Ana Barnett,51,545006221,6,3,21,45.1103
+64th,Palmetto Ridge,Geraldo Atilles,50,518000121,7,8,15,44.6513
+65th,Cape Coral High School,Kirstmary Vite,50,418003121,10,20,0,44.6513
+66th,Middleton,Francis Doan,49,468002321,6,5,19,44.1923
+67th,St Stephen's Episcopal,LARISSA LEIVA,49,489001520,9,17,4,44.1923
+68th,Canterbury (Lee),Curran Paffel,49,411002522,6,5,19,44.1923
+69th,Community Sch Naples,Jacob Buckheit,48,562002622,7,10,13,43.7333
+70th,Berkeley Prep,Stanley Dennison,47,405007520,5,3,22,43.2742
+71st,Gulf Coast,Trevor Reilly,47,575005221,7,11,12,43.2742
+72nd,Fort Myers,Katrina Chew,46,423001522,5,4,21,42.8152
+73rd,Berkeley Prep,Caroline Brown,46,405006020,5,4,21,42.8152
+74th,Fort Myers,Charisma Naik,45,423001121,7,13,10,42.3562
+75th,Berkeley Prep,Amol Dhaliwal,45,405003922,6,9,15,42.3562
+76th,Canterbury (Lee),Natalie Henning,45,411001921,9,21,0,42.3562
+77th,Labelle High School,Emma White,44,510002021,4,2,24,41.8972
+78th,Naples,Samantha Axline,43,545003521,5,7,18,41.4382
+79th,Community Sch Naples,Karen Rogge,43,562005122,5,7,18,41.4382
+80th,St Stephen's Episcopal,TIFFANY CHINWUBA,43,489001422,5,7,18,41.4382
+81st,Berkeley Prep,Annie Phifer,43,405004420,5,7,18,41.4382
+82nd,Canterbury (Lee),Chandler Lane,42,411002422,4,4,22,40.9792
+83rd,Community Sch Naples,Peyton Short,42,562005920,6,12,12,40.9792
+84th,Labelle High School,Breanna Brown,42,510000921,4,4,22,40.9792
+85th,Mariner,Lindsey Nelson,42,473001421,4,4,22,40.9792
+86th,Palmetto Ridge,Camden Grundemen,41,518000221,5,9,16,40.5202
+87th,Canterbury (Lee),Jack ArnHeiter,40,411002221,8,22,0,40.0611
+88th,Labelle High School,Eriverto Figueroa,35,510000120,2,3,25,37.7661
+89th,Cape Coral High School,Jarod Rehmann,35,418002721,2,3,25,37.7661
+90th,Dunbar High School,Orfanel Fajardo,34,477060421,2,4,24,37.3071
+91st,Cape Coral High School,JeanPaul Mathew,33,418003221,2,5,23,36.8480
+92nd,Canterbury (Lee),Randy Richardson,33,411003522,2,5,23,36.8480
+93rd,Palmetto Ridge,Booker Tamm,31,518002021,1,3,26,35.9300
+94th,Seacrest High School,Jacob Hartman,30,555703920,0,0,30,35.4710
+95th,Cape Coral High School,Matt Latorre,29,418002921,0,1,29,35.0120

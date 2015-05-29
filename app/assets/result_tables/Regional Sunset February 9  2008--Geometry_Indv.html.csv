@@ -1,0 +1,101 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Ronald Reagan H. S.,Jee Young-kim,101,5272322,26,3,1,79.7663
+2nd,Cypress Bay,Santiago Vargas,92,5882125,24,4,2,76.0589
+3rd,Stoneman Douglas,Glen Frost,91,5322308,24,5,1,75.6470
+4th,Cypress Bay,Krishna Ajmeri,81,5882100,21,3,6,71.5276
+5th,Stoneman Douglas,Johnson You,79,5322107,21,5,4,70.7038
+6th,Cypress Bay,Lauren Knight,74,5882316,19,2,9,68.6441
+7th,Cypress Bay,Juan Ocampo,73,5882119,19,3,8,68.2322
+8th,Stoneman Douglas,Chloe Schneider,68,5322104,18,4,8,66.1725
+9th,American Heritage (plantation),Blake Mandell,67,5062106,19,9,2,65.7606
+10th,American Heritage (plantation),Beatriz Barros,64,5062101,17,4,9,64.5248
+11th,Stoneman Douglas,Sara Sterling,62,5322105,18,10,2,63.7009
+12th,Miami Palmetto,Juan Mejia,58,5412106,17,10,3,62.0532
+13th,Barbara Goleman,Richard Colina,55,5922107,17,13,0,60.8174
+14th,Miami Springs,Ernesto Sebastian,52,5822134,14,4,12,59.5816
+15th,Cypress Bay,Euiyoung Kwak,50,5882332,14,6,10,58.7577
+16th,Belen Jesuit Prep,Nicholas Gonzalez,50,5352312,13,2,15,58.7577
+17th,American Heritage (plantation),Reina Arakawa,50,5062100,14,6,10,58.7577
+18th,Cypress Bay,Gisela Murroni,48,5882134,13,4,13,57.9338
+19th,Miami Palmetto,Jenie Yeh,47,5412313,14,9,7,57.5219
+20th,Stoneman Douglas,Divya Devabhaktuni,47,5322101,14,9,7,57.5219
+21st,Miami Sunset,Zhengfei Li,46,5442123,13,6,11,57.1100
+22nd,Miami Springs,Alejandro Fernandez,45,5822104,12,3,15,56.6980
+23rd,Barbara Goleman,Michael Mesa,45,5922110,14,11,5,56.6980
+24th,Miami Springs,Alex Rodriguez,45,5822328,12,3,15,56.6980
+25th,Southwest Miami,Andres Casas,45,5552143,14,11,5,56.6980
+26th,American,Aqib Shah,45,5232126,12,3,15,56.6980
+27th,Miami Springs,David Rodriguez,45,5822129,14,11,5,56.6980
+28th,Cypress Bay,Sara Kienzle,44,5882315,13,8,9,56.2861
+29th,Belen Jesuit Prep,Javier Pardo,42,5352124,12,6,12,55.4622
+30th,Cypress Bay,Alexa Ellman,41,5882307,12,7,11,55.0503
+31st,Belen Jesuit Prep,Juan Machado,41,5352118,12,7,11,55.0503
+32nd,Miami Sunset,Taimi Fernandez,40,5442153,11,4,15,54.6384
+33rd,Cypress Bay,C Hristine Kwak,40,5882331,14,16,0,54.6384
+34th,Coral Glades,Matthew Goodison-orr,37,5282103,12,11,7,53.4026
+35th,Miami Country Day H S.,Columbia Clancy,37,5012103,13,15,2,53.4026
+36th,Coral Glades,Peter Mann,35,5282106,9,1,20,52.5787
+37th,Miami Palmetto,Clara Kim,35,5412104,12,13,5,52.5787
+38th,Coral Glades,Courtnet Schatt,35,5282110,11,9,10,52.5787
+39th,Southwest Miami,Maria Martinez,35,5552152,13,17,0,52.5787
+40th,American Heritage (plantation),Michael Fox,33,5062104,10,7,13,51.7548
+41st,Miami Sunset,Seon-woo Lee,33,5442120,11,11,8,51.7548
+42nd,Cypress Bay,Nicolas Kim,33,5882341,9,3,18,51.7548
+43rd,Ferguson,Gabriel Rodriguez,30,5072102,10,10,10,50.5190
+44th,Coral Springs,Susan Lee,28,5152101,9,8,13,49.6952
+45th,Dr Michael Krop,Kevin Castillo,28,5022100,8,4,18,49.6952
+46th,Cypress Bay,Carlos Camargo,28,5882304,9,8,13,49.6952
+47th,Belen Jesuit Prep,Tomas Celaya,28,5352103,8,4,18,49.6952
+48th,Miami Palmetto,Christian Cortes,28,5412301,8,4,18,49.6952
+49th,Miami Palmetto,Beatrice Alvarez,27,5412100,9,9,12,49.2832
+50th,Cypress Bay,Cristina Arias,26,5882302,11,18,1,48.8713
+51st,Southwest Miami,Rebecca Diaz,23,5552145,8,9,13,47.6355
+52nd,Hollywood Hills,Alex Cordero,22,5082151,7,6,17,47.2236
+53rd,Southwest Miami,Hunter Hewitt,22,5552150,7,6,17,47.2236
+54th,Belen Jesuit Prep,Albert Lucas,22,5352317,8,10,12,47.2236
+55th,Jp Taravella,Gabriella Alvarez,22,5332101,10,18,2,47.2236
+56th,Belen Jesuit Prep,Joseph Lindsay,22,5352314,8,10,12,47.2236
+57th,Belen Jesuit Prep,John O'sullivan,21,5352323,7,7,16,46.8116
+58th,Miami Springs,Jessica Trujillo,20,5822141,6,4,20,46.3997
+59th, , ,20,5688819,10,20,0,46.3997
+60th,Miami Springs,Daniel Gaytan,20,5822312,8,12,10,46.3997
+61st,Miami Country Day H S.,Jake Friedmen,20,5012110,8,12,10,46.3997
+62nd,Dr Michael Krop,Lawrence Sanchez,20,5022104,10,20,0,46.3997
+63rd,Belen Jesuit Prep,Christopher Silva,18,5352329,7,10,13,45.5758
+64th,Miami Springs,Marlie Sanchez,17,5822330,6,7,17,45.1639
+65th,Jp Taravella,Emil Hassan,17,5332104,7,11,12,45.1639
+66th,Cardinal Gibbons,Jonathan Martin,16,5162104,6,8,16,44.7520
+67th,Ronald Reagan H. S.,Gianfranco Colombi,16,5272300,5,4,21,44.7520
+68th,Ferguson,Miguel Sotolongo,16,5072103,5,4,21,44.7520
+69th,Miami Palmetto,Lucia Lee,15,5412305,6,9,15,44.3400
+70th,Jp Taravella,Natasha Khan,14,5332105,5,6,19,43.9281
+71st,Belen Jesuit Prep,Stefan De Solo,14,5352306,5,6,19,43.9281
+72nd,American,Eduardo Juarez,13,5232124,7,15,8,43.5162
+73rd,Jp Taravella,Yeji Cho,11,5332103,4,5,21,42.6923
+74th,Miami Springs,Jonathan Enriquez,10,5822302,4,6,20,42.2804
+75th,Belen Jesuit Prep,Roderic Figueroa,10,5352309,5,10,15,42.2804
+76th,Miami Country Day H S.,Ashley Hatcher,10,5012104,7,18,5,42.2804
+77th,Cardinal Gibbons,Matthew Tegge,10,5162106,8,22,0,42.2804
+78th,Belen Jesuit Prep,Christopher Hernandez,7,5352313,4,9,17,41.0446
+79th,Belen Jesuit Prep,Frank Oliva,7,5352321,4,9,17,41.0446
+80th,Hollywood Hills,Andrea Renjifo,6,5082123,6,18,6,40.6326
+81st,Miami Palmetto,Jasmine Tamita-barber,6,5412311,6,18,6,40.6326
+82nd,Cypress Bay,Victor Rubin De Celis,4,5882347,3,8,19,39.8088
+83rd,Miami Springs,Ashley Brodhead,4,5822300,2,4,24,39.8088
+84th,Ferguson,Dilia Olivo,3,5072101,2,5,23,39.3968
+85th,Belen Jesuit Prep,Julian Prieto,3,5352126,4,13,13,39.3968
+86th,Belen Jesuit Prep,Jose Davila,2,5352304,3,10,17,38.9849
+87th,Miami Palmetto,Amir Nili,2,5412107,5,18,7,38.9849
+88th,Miami Sunset,Alberto Guardia,1,5442117,1,3,26,38.5730
+89th,Coral Glades,Zachary Weinfeld,1,5282111,2,7,21,38.5730
+90th,Cardinal Gibbons,Gabriella Ascione,1,5162100,3,11,16,38.5730
+91st,Felix Varela,Raphael Delacruz,0,5312118,1,4,25,38.1610
+92nd,American,Reshma Vattaparambil,0,5232128,6,24,0,38.1610
+93rd,Felix Varela,Giordany Loffredo,0,5312119,3,12,15,38.1610
+94th,Ferguson,Karissa Villa,-2,5072112,1,6,23,37.3372
+95th,Miami Country Day H S.,Natasha Cirisano,-2,5012102,5,22,3,37.3372
+96th,Belen Jesuit Prep,Eduardo Ragolta,-4,5352328,2,12,16,36.5133
+97th,Miami Sunset,Lynett Araujo,-6,5442359,0,6,24,35.6894
+98th,Belen Jesuit Prep,John Portuondo,-7,5352325,3,19,8,35.2775
+99th,Coral Springs,Alison Chen,-10,5152100,1,14,15,34.0417
+100th,Miami Sunset,Claudia Erazo,-12,5442311,0,12,18,33.2178

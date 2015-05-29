@@ -1,0 +1,159 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Oviedo,Gene Katsevich,115,3775163,29,1,0,84.2335
+2nd,Vero Beach,Milt Guy,105,3725154,27,3,0,80.1387
+3rd,Atlantic Community,Brian Williams,96,3575382,25,4,1,76.4533
+4th,St Edwards,Nora Willett,86,3745162,23,6,1,72.3584
+5th,Vero Beach,Kendra Higgins,84,3725355,22,4,4,71.5395
+6th,Suncoast Comm,Giordon Stark,81,3275128,21,3,6,70.3110
+7th,Seminole (Seminole),Chi Zhang,76,3415156,20,4,6,68.2636
+8th,Lake Mary,Chase Hu,76,3085173,21,8,1,68.2636
+9th,Atlantic Community,Yimin Chen,75,3575121,20,5,5,67.8541
+10th,Atlantic Community,Laser Kaplan,73,3575146,20,7,3,67.0351
+11th,Lake Mary,Alison James,72,3085174,19,4,7,66.6256
+12th,Seminole (Seminole),Yicong Yong,72,3415155,19,4,7,66.6256
+13th,Atlantic Community,Marc Hendel,70,3575128,19,6,5,65.8067
+14th,Atlantic Community,Ming-da Qu,70,3575369,18,2,10,65.8067
+15th,Vero Beach,Greg Gilbert,70,3725152,20,10,0,65.8067
+16th,American Heritage - P Bch,Francis Musella,68,3295104,19,8,3,64.9877
+17th,Vero Beach,Chris Obryan,66,3725162,19,10,1,64.1687
+18th,Seminole (Seminole),Faraz Yashar,64,3415154,17,4,9,63.3498
+19th,Suncoast Comm,Mason Bogue,62,3275103,17,6,7,62.5308
+20th,Seminole (Seminole),Rohini Shivamoggi,61,3415148,17,7,6,62.1213
+21st,Seminole (Seminole),Vishal Nagda,60,3415336,18,12,0,61.7118
+22nd,Vero Beach,Max Mccullough,59,8725159,16,5,9,61.3023
+23rd,Seminole (Seminole),Kevin Jen,57,8415125,16,7,7,60.4834
+24th,Suncoast Comm,Jared Carron,56,3275338,15,4,11,60.0739
+25th,Seminole (Seminole),Andrew Hua,55,8415121,16,9,5,59.6644
+26th,Suncoast Comm,Joshua Cordes,53,8275154,16,11,3,58.8454
+27th,Lake Mary,James Nowell,53,8085179,14,3,13,58.8454
+28th,West Shore,Adam Klett,53,3935134,16,11,3,58.8454
+29th,Suncoast Comm,Sean Wang,52,3275168,14,4,12,58.4359
+30th,Atlantic Community,Shelly Jin,52,3575145,15,8,7,58.4359
+31st,Atlantic Community,Mike Qian,51,3575368,14,5,11,58.0264
+32nd,Seminole (Seminole),Rafiya Javed,51,3415323,15,9,6,58.0264
+33rd,Suncoast Comm,Alena Horwitz,50,3275115,15,10,5,57.6170
+34th,Atlantic Community,Jonathan Lai,50,3575349,14,6,10,57.6170
+35th,Seminole (Seminole),Kevin Shia,49,8415147,14,7,9,57.2075
+36th,Atlantic Community,Zhe Ma,49,3575354,13,3,14,57.2075
+37th,Atlantic Community,Amit Mandalia,49,3575355,13,3,14,57.2075
+38th,West Shore,Drew Miller,48,8935136,13,4,13,56.7980
+39th,Atlantic Community,Ethan Miller,48,3575357,14,8,8,56.7980
+40th,Seminole (Seminole),Cory Hutson,47,8415122,13,5,12,56.3885
+41st,Seminole (Seminole),Oluwatunmise Olayinka,47,3415338,13,5,12,56.3885
+42nd,Lake Howell, ,47,3915122,13,5,12,56.3885
+43rd,West Shore,James Fields,46,3935145,13,6,11,55.9790
+44th,Atlantic Community,William Hornbeck,46,3575339,13,6,11,55.9790
+45th,Oviedo,Brad Maier,46,3775165,14,10,6,55.9790
+46th,Cypress Creek High,David Hwang,46,3005100,13,6,11,55.9790
+47th,Atlantic Community,Kunal Rayakar,43,3575370,12,5,13,54.7506
+48th,Lake Mary,Nidhi Hebbar,43,3085172,13,9,8,54.7506
+49th,Lake Mary,David Crabb,42,3085165,12,6,12,54.3411
+50th,Lincoln Park Academy,Everette Tourjee,42,3965105,12,6,12,54.3411
+51st,Cypress Creek High,Jolene Wan,42,3005102,13,10,7,54.3411
+52nd,Suncoast Comm,Mckenna Phillips,41,3275376,13,11,6,53.9316
+53rd,Bayside,Andrew Williams,41,3035149,11,3,16,53.9316
+54th,Atlantic Community,William Wu,41,3575386,11,3,16,53.9316
+55th,Lake Howell, ,39,3915138,11,5,14,53.1126
+56th,Cypress Creek High,Kevin Fuhr,38,3005101,11,6,13,52.7031
+57th,Suncoast Comm,Scott Jagolinzer,38,8275158,11,6,13,52.7031
+58th,Spanish River,Jesse Salomon,37,3735121,11,7,12,52.2936
+59th,Oviedo,Lucy Han,37,3775160,11,7,12,52.2936
+60th,West Shore,Kate Mcentaggert,36,8935135,11,8,11,51.8842
+61st,Atlantic Community,Vivek Iyer,36,3575344,11,8,11,51.8842
+62nd,Cypress Creek High,Ashish Nadan,35,3005107,12,13,5,51.4747
+63rd,Suncoast Comm,Chris Bowen,35,8275147,10,5,15,51.4747
+64th,West Shore,Eric Schmid,34,8935137,10,6,14,51.0652
+65th,Oviedo,Jonathan Cole,34,3775155,10,6,14,51.0652
+66th,West Shore,Megan Hamilton,34,3935133,9,2,19,51.0652
+67th,Suncoast Comm,Michael Curry,34,3275379,10,6,14,51.0652
+68th,Cypress Creek High,Chris Kim,33,8005115,9,3,18,50.6557
+69th,St Edwards,Cody Stone,33,3745160,11,11,8,50.6557
+70th,American Heritage - P Bch,Mateo Echeverry,31,3295105,9,5,16,49.8367
+71st,Suncoast Comm,Hailun Zhu,30,3275337,9,6,15,49.4272
+72nd,Atlantic Community,Dixon Yang,30,3575388,9,6,15,49.4272
+73rd,Lincoln Park Academy,Michael Nandaraj,29,3965107,8,3,19,49.0178
+74th,Lincoln Park Academy,Michael Gabany,29,3965115,8,3,19,49.0178
+75th,Bayside,Rachel Rosolino,28,3035148,8,4,18,48.6083
+76th,Suncoast Comm,Brian Black,28,3275374,9,8,13,48.6083
+77th, ,Brandon Stratt,28,8295113,8,4,18,48.6083
+78th,Suncoast Comm,Tiffany Yip,28,3275333,9,8,13,48.6083
+79th,Cypress Creek High,Nicholas Melendez,27,3005306,10,13,7,48.1988
+80th,Atlantic Community,Spencer Rosario,27,3575371,8,5,17,48.1988
+81st,Seminole (Seminole),Michelle Kwon,27,3415328,8,5,17,48.1988
+82nd,Vero Beach,Ismael Trevino,26,8725147,10,14,6,47.7893
+83rd,Atlantic Community,Mary Law,26,3575350,8,6,16,47.7893
+84th,Vero Beach,Jenna Mccorrison,26,8725158,9,10,11,47.7893
+85th,Cypress Creek High,Aja Eddins,26,3005304,8,6,16,47.7893
+86th,Atlantic Community,Jennifer Hua,25,3575340,9,11,10,47.3798
+87th,Atlantic Community,Linda Wu,25,3575385,8,7,15,47.3798
+88th,Bayside,Calib Casteel,25,8035142,7,3,20,47.3798
+89th,Sebastian River,Fahim Hashmi,25,3145158,11,19,0,47.3798
+90th,Vero Beach,Chris Davidson,24,3725150,9,12,9,46.9703
+91st,St Edwards,Alexandra Grant,23,3745152,8,9,13,46.5608
+92nd,Lake Howell, ,23,3915123,8,9,13,46.5608
+93rd,Lake Mary,Elizabeth Accurso,22,8085163,7,6,17,46.1514
+94th,Suncoast Comm,Marissa Ullman,21,3275330,6,3,21,45.7419
+95th,Atlantic Community,Valerie Polcz,21,3575365,7,7,16,45.7419
+96th,Atlantic Community,Heather Bromfield,21,3575318,6,3,21,45.7419
+97th,St Edwards,Emily Packard,21,3745154,7,7,16,45.7419
+98th,Atlantic Community,Anna Sun,20,3575376,6,4,20,45.3324
+99th,St Edwards,Sally Wilkey,20,8745161,6,4,20,45.3324
+100th,Atlantic Community,Yannik Wiggemans,20,3575381,6,4,20,45.3324
+101st,Oviedo,Sanaz Ghiassi,19,8775159,7,9,14,44.9229
+102nd,Cypress Creek High,Diana Hsieh,19,8005114,6,5,19,44.9229
+103rd,Seminole (Seminole),Te Hoang,19,3416159,9,17,4,44.9229
+104th,Atlantic Community,Jessica Perfetto,19,3575363,6,5,19,44.9229
+105th,Cypress Creek High,Sanchi Lunawat,19,8005118,8,13,9,44.9229
+106th,Lincoln Park Academy,Kyle  Nicholson,18,3965106,7,10,13,44.5134
+107th,Bayside,Gary Jansen,17,3035146,7,11,12,44.1039
+108th,Oviedo,Shannon Sullivan,17,8775169,6,7,17,44.1039
+109th,Suncoast Comm,Kavin Ward,17,3275382,6,7,17,44.1039
+110th,Vero Beach,Jillian Askren,17,8725144,7,11,12,44.1039
+111th,Atlantic Community,Tanvir Ahmed,16,3575316,6,8,16,43.6944
+112th,Cypress Creek High, ,16,3005320,8,16,6,43.6944
+113th,West Shore,Kevin Scott,16,8935144,8,16,6,43.6944
+114th,American Heritage - P Bch,Ukwen Akpoji,15,3295116,5,5,20,43.2850
+115th,Suncoast Comm,Jinhee Byun,15,3275369,6,9,15,43.2850
+116th,West Shore,Richa Vijayvargiya,14,3935138,6,10,14,42.8755
+117th,Atlantic Community,Rucha Kulkarni,13,3575348,4,3,23,42.4660
+118th,Atlantic Community,Alexander Wilson,13,3575383,5,7,18,42.4660
+119th,Seminole (Seminole),Neha Hebbar,13,3416158,8,19,3,42.4660
+120th,Sebastian River,Jeffrey Liguori,12,3145161,5,8,17,42.0565
+121st,Seminole (Seminole), ,11,3415371,5,9,16,41.6470
+122nd,Bayside,Nicole Haywood,11,8035145,3,1,26,41.6470
+123rd, ,Justin Speier,11,8295106,5,9,16,41.6470
+124th,Suncoast Comm,Kari Rappa,10,3275365,4,6,20,41.2375
+125th,Atlantic Community,Michelle Huang,9,3575341,4,7,19,40.8280
+126th,Vero Beach,Rachel Miles,9,3725361,5,11,14,40.8280
+127th,St Edwards,Joline Doedens,9,8745151,6,15,9,40.8280
+128th,Bayside,Cody Monroe,8,3035147,4,8,18,40.4186
+129th,Sebastian River,Rachel Hoch,8,8145159,4,8,18,40.4186
+130th,Vero Beach,Allison Bartolucci,7,8726169,4,9,17,40.0091
+131st,Atlantic Community,Harrison Potak,7,3575366,3,5,22,40.0091
+132nd,Atlantic Community,Olga Mir,7,3575358,5,13,12,40.0091
+133rd,Cypress Creek High,Sheldon Doxilly,6,3005312,5,14,11,39.5996
+134th,Lake Howell, ,5,8915127,3,7,20,39.1901
+135th,Atlantic Community,Lance Gurewitz,5,3576198,6,19,5,39.1901
+136th,Atlantic Community,Danielle Megano,5,3575356,3,7,20,39.1901
+137th,Lake Mary,Jarryd Reed,5,3086116,6,19,5,39.1901
+138th,Suncoast Comm,Bonnie Yip,4,3275332,2,4,24,38.7806
+139th,Sebastian River,Alexis Thomas,4,8145164,3,8,19,38.7806
+140th,Lake Howell, ,4,3915124,5,16,9,38.7806
+141st,Vero Beach,Nick Stock,4,3726167,6,20,4,38.7806
+142nd,Cypress Creek High,Michael Costello,3,3005311,2,5,23,38.3711
+143rd,American Heritage - P Bch,Tyler Kennedy,3,3295114,3,9,18,38.3711
+144th,Lake Mary,Jorge Lanza,3,3086108,6,21,3,38.3711
+145th,Sebastian River,Kelsey Whelan,2,3145165,2,6,22,37.9616
+146th,Suncoast Comm,Taylor Griffith,2,8275155,4,14,12,37.9616
+147th,Seminole (Seminole),Kathryn Cowan,2,3415311,3,10,17,37.9616
+148th,Lake Howell, ,-1,8915126,1,5,24,36.7332
+149th,Vero Beach,Jeremy Wynn,-1,3725366,1,5,24,36.7332
+150th,Atlantic Community,Jordyn Burger,-1,3576196,4,17,9,36.7332
+151st,Cypress Creek High,Can Dulgar,-2,3005313,5,22,3,36.3237
+152nd,Vero Beach,Kristen Rocha,-2,3726164,4,18,8,36.3237
+153rd,Oviedo,Katrina Bermudez,-3,8775153,2,11,17,35.9142
+154th,Jackson Heights, ,-3,3045166,1,7,22,35.9142
+155th,Cypress Creek High,Keehyuk Kim,-3,8005116,1,7,22,35.9142
+156th,Vero Beach,Margaret Brennan,-5,8726146,2,13,15,35.0952
+157th,Seminole (Seminole),Sarah Parker,-8,8416140,1,12,17,33.8668
+158th,Vero Beach,Justin Lamothe,-10,3725357,0,10,20,33.0478

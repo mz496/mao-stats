@@ -1,0 +1,42 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,Justin Chen,116,181000241,29,0,1,71.7282
+2nd,Rickards High School,Jasmine  Zou,103,140001641,26,1,3,67.7306
+3rd,Lawton Chiles High School,Jaewon Shim,101,181001841,26,3,1,67.1155
+4th,Lawton Chiles High School,Kevin Jiang,95,181001041,25,5,0,65.2705
+5th,Lawton Chiles High School,Jason Kang,94,181001141,24,2,4,64.9630
+6th,Lincoln,Pablo Rodriguez,94,109001541,24,2,4,64.9630
+7th,Rickards High School,Kyle  Chen,82,140002141,21,2,7,61.2729
+8th,Lawton Chiles High School,Chamara Gunaratne,82,181000642,21,2,7,61.2729
+9th,Lawton Chiles High School,Tiffany Lee,81,181001242,22,7,1,60.9653
+10th,Lawton Chiles High School,Cayle Gao,70,181000542,18,2,10,57.5827
+11th,Lincoln,Casey Weiner,69,109001941,18,3,9,57.2752
+12th,Rickards High School,Aditya  Hota,67,140001841,18,5,7,56.6602
+13th,Rickards High School,Rida  Darji,55,140001342,14,1,15,52.9701
+14th,Rutherford High School,Joseph Conroy,55,174003441,14,1,15,52.9701
+15th,Rickards High School,Roehl  Reyes,49,140002241,14,7,9,51.1250
+16th,Lawton Chiles High School,Achyuta Iyengar,48,181000842,14,8,8,50.8175
+17th,Rickards High School,Meit  Dave,48,140001542,14,8,8,50.8175
+18th,Lincoln,Quinn Lamar,45,109001341,13,7,10,49.8950
+19th,Lawton Chiles High School,Tulsi Patel,43,181001540,13,9,8,49.2800
+20th,Rickards High School,Shardul  Heda,41,140002042,11,3,16,48.6650
+21st,Lawton Chiles High School,Dongni Jiang,34,181000940,12,14,4,46.5124
+22nd,Rocky Bayou Christian School,Robby Yoo,32,192003741,9,4,17,45.8974
+23rd,Navarre,NYASHA FRANK,32,180005641,8,0,22,45.8974
+24th,Rutherford High School,Aria Delmar,31,174000341,8,1,21,45.5899
+25th,Gulf Breeze High,Alex Slobodian,30,101005540,12,18,0,45.2824
+26th,Navarre,KAYLEE FOWLER,29,180000642,8,3,19,44.9748
+27th,Rutherford High School,Sarah Huerta,27,174003142,7,1,22,44.3598
+28th,Rocky Bayou Christian School,Peter Park,27,192002941,8,5,17,44.3598
+29th,Lincoln,Jeremiah Gu,27,109000241,9,9,12,44.3598
+30th,Rutherford High School,Matt Hunter,25,174002341,9,11,10,43.7448
+31st,Rocky Bayou Christian School,Cleveland Li,23,192001841,9,13,8,43.1298
+32nd,Navarre,PAYTON EVANS,23,180002841,7,5,18,43.1298
+33rd,Navarre,CARLOS MORALES,22,180002942,6,2,22,42.8223
+34th,Navarre,CONNOR PHILLIPS,14,180001442,5,6,19,40.3622
+35th,Navarre,LYDIA KIM,14,180000841,6,10,14,40.3622
+36th,Rutherford High School,Sarah Khan,12,174003241,5,8,17,39.7472
+37th,Navarre,ELIJAH ALFORD,11,180004642,5,9,16,39.4397
+38th,Navarre,REBECCA COLEMAN,8,180004941,4,8,18,38.5171
+39th,Rocky Bayou Christian School,Suzi Sober,3,192003642,1,1,28,36.9796
+40th,Navarre,MATSURIKA PALMER,-1,180001340,0,1,29,35.7496
+41st,Rocky Bayou Christian School,Saleana  Caine,-2,192001641,2,10,18,35.4420

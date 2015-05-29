@@ -1,0 +1,62 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Cypress Bay,Daniel  Richter,69,588002721,18,3,9,83.5711
+2nd,Cypress Bay,Fiorella  Vargas,61,588003621,16,3,11,78.2555
+3rd,Stoneman Douglas,ADAM WEISS,50,532001021,13,2,15,70.9465
+4th,Cypress Bay,Mariano  Sorgente,48,588003021,13,4,13,69.6176
+5th,Miami Springs Middle School,Henry Laney,45,582100021,12,3,15,67.6243
+6th,Indian Ridge Middle,Rohan  Batra,35,999911121,10,5,15,60.9798
+7th,JP Taravella,Michael Scotto,35,533003221,10,5,15,60.9798
+8th,Cypress Bay,Lauren  Blonde,33,588000621,9,3,18,59.6509
+9th,Cypress Bay,Pamela  Gutermuth,33,588001620,10,7,13,59.6509
+10th,American Heritage (Plantation),giulia olsson,31,506000221,9,5,16,58.3220
+11th,Dr Michael Krop,Fabian Bencosme,28,502003721,10,12,8,56.3286
+12th,Dr Michael Krop,Abraham Talmaciu,27,502003521,8,5,17,55.6642
+13th,Hialeah Gardens H S,Gilbert Soles,25,551000321,11,19,0,54.3353
+14th,Tequeta Trace Middle,Andrew Pearl,25,999851821,11,19,0,54.3353
+15th,American Heritage (Plantation),edward spyrides,23,506001221,7,5,18,53.0064
+16th,Belen Jesuit Prep,Daniel Mercado,23,535001821,7,5,18,53.0064
+17th,Miami Springs Middle School,Pablo Hernandez,23,582100121,7,5,18,53.0064
+18th,Dr Michael Krop,Clinton Hobbs,22,502004621,8,10,12,52.3419
+19th,American Heritage (Plantation),yeojin yoon,22,506000321,7,6,17,52.3419
+20th,Miami Palmetto,Jeffrey Lin,22,541004221,7,6,17,52.3419
+21st,American Heritage (Plantation),thomas anzalone,20,506000121,7,8,15,51.0130
+22nd,Coral Glades,Niki Namazi,20,528004621,10,20,0,51.0130
+23rd,Ferguson,ANDRES SCHMOIS,19,507004121,6,5,19,50.3486
+24th,Stoneman Douglas,NATASHA GARCIA,19,532000121,6,5,19,50.3486
+25th,Suncoast Comm,Casey McGillicuddy,18,327004621,5,2,23,49.6841
+26th,JP Taravella,Marja Venskauskaite,18,533004221,5,2,23,49.6841
+27th,Coral Glades,Nadia Shaibaie,18,528006621,9,18,3,49.6841
+28th,Ferguson,Daniela Castro,16,507099421,5,4,21,48.3552
+29th,Miami Palmetto,Jason Schmidt,16,541001421,5,4,21,48.3552
+30th,Stoneman Douglas,COURTNEY FRIEDMAN,16,532000021,6,8,16,48.3552
+31st,Dr Michael Krop,Samuel Akinin,16,502002321,7,12,11,48.3552
+32nd,Miami Palmetto,Kenny Zheng,15,541001121,5,5,20,47.6908
+33rd,Hialeah Gardens H S,Alexandria Segovia,15,551000421,9,21,0,47.6908
+34th,Miami Springs,ELIZABETH JIMENEZ,14,582001621,4,2,24,47.0263
+35th,Southwest Miami,Charles Orta,14,555030721,4,2,24,47.0263
+36th,Southwest Miami,Christian Jimenez,14,555030621,6,10,14,47.0263
+37th,Belen Jesuit Prep,Antonio Ucar,13,535002220,6,11,13,46.3619
+38th,Southwest Miami,Lilien Socorro,13,555030921,5,7,18,46.3619
+39th,Miami Springs,KATHERIN RODRIGUEZ,12,582005721,4,4,22,45.6974
+40th,JP Taravella,Michael Horvath,12,533003621,4,4,22,45.6974
+41st,Belen Jesuit Prep,Jonas Egusquiza,12,535001221,5,8,17,45.6974
+42nd,American Heritage - P. B,Jasmine Mack,11,526003120,6,13,11,45.0330
+43rd,Miami Springs,JAVIER CUSICANQUI,11,582000220,4,5,21,45.0330
+44th,Suncoast Comm,Amy Ngoh,11,327002021,4,5,21,45.0330
+45th,Southwest Miami,Michael Castano,11,555030221,6,13,11,45.0330
+46th,Belen Jesuit Prep,Pablo Velasquez,10,535002321,3,2,25,44.3685
+47th,Hialeah Gardens H S,Daylena Barrios,10,551000621,8,22,0,44.3685
+48th,Belen Jesuit Prep,J.D. Mariategui,10,535001620,7,18,5,44.3685
+49th,Ferguson,Jennifer Kamm,9,507099321,3,3,24,43.7041
+50th,Southwest Miami,Laura Garcia,9,555030420,4,7,19,43.7041
+51st,Pine Crest,Dana Camerik,8,593000420,3,4,23,43.0396
+52nd,Cardinal Gibbons,Yves Orzel,7,516009021,6,17,7,42.3752
+53rd,Belen Jesuit Prep,Jeremy Martinez,6,535001721,3,6,21,41.7107
+54th,Miami Springs Middle School,Stephen Winchester,6,582100321,4,10,16,41.7107
+55th,Coral Glades,Michelle Moreno,6,528004521,3,6,21,41.7107
+56th,Miami Springs Middle School,Lysandra Perez,4,582100220,3,8,19,40.3818
+57th,Miami Springs,BRIANNA GAGNE,3,582007320,3,9,18,39.7174
+58th,Suncoast Comm,Jessica Chui,-2,327002221,0,2,28,36.3951
+59th,Miami Springs,AILEEN DELEON,-3,582000821,2,11,17,35.7307
+60th,Miami Springs,MARIANELYS BARRIOS,-4,582000521,2,12,16,35.0662
+61st,Belen Jesuit Prep,Joseph Isenberg,-6,535001420,3,18,9,33.7373

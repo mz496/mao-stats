@@ -1,0 +1,110 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Fairview Middle,Anvitha Mandapati,150,125100611,30,0,0,67.8576
+2nd,Fairview Middle,Carson Jones,146,125100311,29,0,1,66.6924
+3rd,Fairview Middle,Karthik Macherla,145,125102010,29,1,0,66.4011
+4th,Fairview Middle,Aman Raj,145,125101211,29,1,0,66.4011
+5th,Sanford Middle,Jordan Nguyen,145,344100711,29,1,0,66.4011
+6th,Markham Woods Middle,anirudh vegesana,145,323102410,29,1,0,66.4011
+7th,Fairview Middle,Kiran Mital,145,125102210,29,1,0,66.4011
+8th,Sanford Middle,Zach Ip,145,344100811,29,1,0,66.4011
+9th,American Heritage (Plantation),Andrew Kolandra,142,506008311,28,0,2,65.5272
+10th,Orlando Science Middle Charter School,Lance Jittan,140,348100711,28,2,0,64.9446
+11th,Orlando Science Middle Charter School,Wally Vargas,140,348101111,28,2,0,64.9446
+12th,Montford Middle,Allison Stevens,135,151166711,27,3,0,63.4881
+13th,Sanford Middle,Jonathan Sepulvada,135,344105111,27,3,0,63.4881
+14th,Sanford Middle,Karthik Sreeram,132,344102711,26,2,2,62.6142
+15th,Fairview Middle,Charitha Moparthy,131,125100711,26,3,1,62.3229
+16th,Fairview Middle,Rithik Gavvala,131,125100110,26,3,1,62.3229
+17th,Sanford Middle,Adrian De Guzman,130,344101910,26,4,0,62.0316
+18th,Montford Middle,Kiyeon Park,130,151157911,26,4,0,62.0316
+19th,American Heritage (Plantation),Max Ranis,128,506007411,25,2,3,61.4490
+20th,Fairview Middle,Poornachand Deenadayalan,126,125100010,25,4,1,60.8664
+21st,Markham Woods Middle,Nichole pacha,122,323102111,24,4,2,59.7012
+22nd,Markham Woods Middle,Mathew Miller,122,323102311,24,4,2,59.7012
+23rd,Sanford Middle,Jason Raman,121,344100310,24,5,1,59.4099
+24th,Elizabeth Cobb Middle School,Giovanni Jana,120,166002011,24,6,0,59.1186
+25th,Orlando Science Middle Charter School,Shehruz Khan,120,348100910,24,6,0,59.1186
+26th,Orlando Science Middle Charter School,Thomas Shea,120,348101011,24,6,0,59.1186
+27th,Markham Woods Middle,Shreya srikanth,119,323102811,23,3,4,58.8273
+28th,Montford Middle,Elliot Faris,116,151162611,22,2,6,57.9534
+29th,Orlando Science Middle Charter School,Sydney Cornell,115,348101211,23,7,0,57.6620
+30th,Sanford Middle,Snigdha Nawala,112,344103210,22,6,2,56.7881
+31st,Elizabeth Cobb Middle School,Ziwei Lin,110,166002111,22,8,0,56.2055
+32nd,Falcon Cove Middle School,Eniya Krishnaraj,109,541103910,21,5,4,55.9142
+33rd,Markham Woods Middle,Danielle duarte,109,323102211,20,1,9,55.9142
+34th,American Heritage (Plantation),Nithya Kasaria,107,506006711,21,7,2,55.3316
+35th,Sanford Middle,Jordan Zoock,106,344104410,20,4,6,55.0403
+36th,Parkway Middle School,Jennifer Verdelus,105,527100910,20,5,5,54.7490
+37th,Orlando Science Middle Charter School,Alexandria Bias,105,348101310,21,9,0,54.7490
+38th,Montford Middle,Thomas Blackburn,103,151165010,20,7,3,54.1664
+39th,Lauderdale Lakes Middle,Mohammed Khan,103,535100311,20,7,3,54.1664
+40th,Montford Middle,Sam Cho,102,151162411,20,8,2,53.8751
+41st,Sanford Middle,James Soto,102,344104210,20,8,2,53.8751
+42nd,Sanford Middle,Adrija Das,101,344101410,19,5,6,53.5838
+43rd,Ferguson,VAN THO,100,507014611,19,6,5,53.2925
+44th,Lincoln Park Academy,Haniya Shareef,100,396002511,19,6,5,53.2925
+45th,Markham Woods Middle,Ryan measures,99,323102510,19,7,4,53.0012
+46th,Sanford Middle,Adishi Ranjan,97,344101710,19,9,2,52.4186
+47th,Orlando Science Middle Charter School,Ryan Le,96,348100810,19,10,1,52.1273
+48th,St. Edwards Middle,SANA SHAREEF,92,305000011,17,6,7,50.9621
+49th,Lincoln Park Academy,Mckenzie Channon,91,396002411,17,7,6,50.6708
+50th,Parkway Middle School,Jade Ahneman,88,527100011,15,2,13,49.7969
+51st,Parkway Middle School,Malik Mertus,88,527100410,16,6,8,49.7969
+52nd,American Heritage - Boca/Delray,Brenda Gomes,88,526002111,16,6,8,49.7969
+53rd,Sanford Middle,Amrita Kapat,86,344104610,16,8,6,49.2143
+54th,St. Edwards Middle,HAYLEY FOOTE,86,305000511,15,4,11,49.2143
+55th,Sanford Middle,Matthew Gottfried,86,344103510,16,8,6,49.2143
+56th,Sanford Middle,Jennie Kim,85,344102410,15,5,10,48.9230
+57th,Sanford Middle,Cristalle Choi,83,344103410,16,11,3,48.3404
+58th,Parkway Middle School,Nathaly Siguenza,81,527100710,14,5,11,47.7578
+59th,Parkway Middle School,Quin Nardone,80,527101611,15,10,5,47.4665
+60th,American Heritage (Plantation),Kishan Patel,79,506002211,15,11,4,47.1752
+61st,Montford Middle,Anika Patel,78,151166410,15,12,3,46.8839
+62nd,Markham Woods Middle,Page Dionne,75,323102610,14,11,5,46.0100
+63rd,Parkway Middle School,Zoe Milenkovic,75,527100511,12,3,15,46.0100
+64th,St. Edwards Middle,SPENCER LINDENTHAL,75,305000411,12,3,15,46.0100
+65th,Orlando Science Middle Charter School,Rania Soufny,73,348101510,14,13,3,45.4274
+66th,St. Edwards Middle,MARGARET TAYLOR,72,305000310,11,2,17,45.1361
+67th,Parkway Middle School,Emmy Esquerre,72,527100211,13,10,7,45.1361
+68th,Parkway Middle School,Denzel Simmon,70,527101010,14,16,0,44.5535
+69th,Sanford Middle,Iffat Nawsheen,69,344102810,12,9,9,44.2621
+70th,Elizabeth Cobb Middle School,Melanie Bynum,67,166000611,11,7,12,43.6795
+71st,Parkway Middle School,ToriAnn Hanson,67,527100310,11,7,12,43.6795
+72nd,Parkway Middle School,Marvin Prevalus,67,527100610,11,7,12,43.6795
+73rd,American Heritage - Boca/Delray,Andrew Rubenstein,67,526004911,11,7,12,43.6795
+74th,Lauderdale Lakes Middle,Darylin Smith,66,535102910,11,8,11,43.3882
+75th,St. Edwards Middle,STEPHEN KAISER,66,305000210,11,8,11,43.3882
+76th,Markham Woods Middle,Bhavani Selva,65,323102910,13,17,0,43.0969
+77th,American Heritage - Boca/Delray,Dorrenyta Fenelon,64,526000711,10,6,14,42.8056
+78th,Lauderdale Lakes Middle,Jamie JeanPierre,64,535100610,10,6,14,42.8056
+79th,American Heritage - Boca/Delray,Henery King,63,526001610,10,7,13,42.5143
+80th,Parkway Middle School,Alessandra Cassiano,63,527100110,10,7,13,42.5143
+81st,Sanford Middle,Simran Shah,63,344101510,11,11,8,42.5143
+82nd,Lauderdale Lakes Middle,Kyle Cooper,63,535103111,11,11,8,42.5143
+83rd,Lauderdale Lakes Middle,Tahjon McKinneyCole,63,535100010,10,7,13,42.5143
+84th,Lauderdale Lakes Middle,Nadianicole Bailey,62,535100410,10,8,12,42.2230
+85th,Sanford Middle,Sneha Das,61,344103010,9,5,16,41.9317
+86th,American Heritage - Boca/Delray,Laura Najera,61,526007011,9,5,16,41.9317
+87th,Lauderdale Lakes Middle,Tracey Belizaire,60,535100210,11,14,5,41.6404
+88th,Elizabeth Cobb Middle School,Portland Janus,59,166004110,10,11,9,41.3491
+89th,Ferguson,JOSE SOTOLONGO,58,507015910,10,12,8,41.0578
+90th,Parkway Middle School,Jayanne Forrest,58,527101510,8,4,18,41.0578
+91st,Parkway Middle School,Adrian Francis,58,527100810,10,12,8,41.0578
+92nd,Elizabeth Cobb Middle School,Shane Shively,58,166003311,9,8,13,41.0578
+93rd,Lauderdale Lakes Middle,Malik Lewin,55,535100710,10,15,5,40.1839
+94th,Lauderdale Lakes Middle,Woodlyn Sinois,55,535101311,7,3,20,40.1839
+95th,Elizabeth Cobb Middle School,Jordan Brown,54,166000510,7,4,19,39.8926
+96th,Parkway Middle School,Alexander Williams,54,527101310,8,8,14,39.8926
+97th,Lauderdale Lakes Middle,Paris Solomon,54,535103510,8,8,14,39.8926
+98th,Markham Woods Middle,Ana Vandenbush,54,323103010,8,8,14,39.8926
+99th,Miami Springs,VANESSA GUTIERREZ,53,582001511,7,5,18,39.6013
+100th,St. Edwards Middle,TOMMY NELSON,47,305000611,6,7,17,37.8535
+101st,Lauderdale Lakes Middle,Kandis Taylor,45,535102410,6,9,15,37.2709
+102nd,Lauderdale Lakes Middle,Harrison Smith,44,535101710,5,6,19,36.9796
+103rd,Elizabeth Cobb Middle School,Malori Wallace,43,166003910,4,3,23,36.6883
+104th,Elizabeth Cobb Middle School,Pierce Ryan,38,166003110,5,12,13,35.2318
+105th,Lauderdale Lakes Middle,Janeisa Thomas,38,535102710,5,12,13,35.2318
+106th,Lauderdale Lakes Middle,Ashley Frater,35,535102811,5,15,10,34.3579
+107th,Lauderdale Lakes Middle,Electra Duchemin,34,535102510,4,12,14,34.0666
+108th,Lauderdale Lakes Middle,Monique LaFrance,24,535103010,4,22,4,31.1536
+109th,Lauderdale Lakes Middle,Britany Sinclair,19,535103410,0,11,19,29.6970

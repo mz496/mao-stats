@@ -1,0 +1,64 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Chris Kim,120,140000541,30,0,0,73.9048
+2nd,Rickards High School,Eli Ross,110,140014141,28,2,0,71.1750
+3rd,Lincoln,Ziyan Song,107,109012641,27,1,2,70.3561
+4th,Rickards High School,Pratik Sachdeva,100,140000241,26,4,0,68.4453
+5th,Lincoln,Emilee Stowers,98,109011141,25,2,3,67.8994
+6th,Lawton Chiles High School,Joseph Kim,96,181009341,25,4,1,67.3534
+7th,Lincoln,Preston Donaldson,94,109083241,24,2,4,66.8075
+8th,Lawton Chiles High School,Marshall Jiang,94,181008941,24,2,4,66.8075
+9th,Lawton Chiles High School,James Yan,87,181010541,23,5,2,64.8966
+10th,Lincoln,Yu-Chin Chan,86,109022442,22,2,6,64.6237
+11th,Pensacola,Nathan Gupta,85,115000941,22,3,5,64.3507
+12th,Pensacola,Kay Li,82,115002641,22,6,2,63.5318
+13th,Lincoln,Jennifer Zou,80,109011541,22,8,0,62.9858
+14th,Rickards High School,Eta Atolia,76,140000841,21,8,1,61.8939
+15th,Pensacola,Priya Garg,69,115000841,19,7,4,59.9831
+16th,Lincoln,Christopher Weeden,44,109091642,12,4,14,53.1587
+17th,Rickards High School,Jayshree Balakrishnan,42,140000942,12,6,12,52.6128
+18th,Lawton Chiles High School,Vicky Liao,41,181009442,13,11,6,52.3398
+19th,West Florida H. S.,Geoffery Hart,34,111002041,11,10,9,50.4290
+20th,Lawton Chiles High School,Yige Yao,30,181010641,10,10,10,49.3371
+21st,Lawton Chiles High School,Andy Downing,29,181008242,8,3,19,49.0641
+22nd,Rickards High School,Jason Waldman,29,140002342,9,7,14,49.0641
+23rd,Pensacola,Helie Dharia,28,115000641,9,8,13,48.7911
+24th,Lawton Chiles High School,Daniel Hoekman,27,181008842,8,5,17,48.5181
+25th,Rickards High School,Jarrod Frankenfield,26,140000642,8,6,16,48.2452
+26th,Lincoln,Belle Yu,25,109042242,11,19,0,47.9722
+27th,Choctawhatchee,Ara Walker,25,119001841,8,7,15,47.9722
+28th,Lawton Chiles High School,Erica Kearney,23,181009242,6,1,23,47.4262
+29th,Pensacola,Julie Vu,22,115003642,8,10,12,47.1533
+30th,Rocky Bayou Christian School,Tobi Huebschen,21,192000541,6,3,21,46.8803
+31st,Choctawhatchee,Nick Heapy,21,119002741,7,7,16,46.8803
+32nd,Pensacola,Freddie Rifai,20,115003342,7,8,15,46.6073
+33rd,Rocky Bayou Christian School,So Youn Kim,17,192004441,8,15,7,45.7884
+34th,Navarre,JORDAN ROBERTS,16,180003741,4,0,26,45.5154
+35th,A. C. Mosley,Danielle Kennedy,15,102005641,5,5,20,45.2424
+36th,Lawton Chiles High School,Sarah Dietrich,14,181008140,4,2,24,44.9695
+37th,Lawton Chiles High School,Catherine Liu,13,181009640,5,7,18,44.6965
+38th,Lincoln,Bishoy Ameen,12,109011640,7,16,7,44.4235
+39th,A. C. Mosley,Aharon McLain,12,102002241,3,0,27,44.4235
+40th,Choctawhatchee,Jorge Rogas,12,119002441,6,12,12,44.4235
+41st,Lawton Chiles High School,Amanda Rosier,10,181010240,4,6,20,43.8776
+42nd,Navarre,SUZANNE WILCOX,10,180003841,3,2,25,43.8776
+43rd,Navarre,CODY DRAEVING,8,180002941,3,4,23,43.3316
+44th,Navarre,JASMINE JORDAN,8,180003342,4,8,18,43.3316
+45th,A. C. Mosley,Ashley Ingram,7,102005541,3,5,22,43.0586
+46th,Lawton Chiles High School,Rebecca Atkins,6,181007940,3,6,21,42.7857
+47th,Lincoln,Jenny Luu,6,109025042,3,6,21,42.7857
+48th,West Florida H. S.,Tien Duong,6,111001941,3,6,21,42.7857
+49th,Lawton Chiles High School,Keenan Poll,5,181010040,3,7,20,42.5127
+50th,Choctawhatchee,Brandon Jowers,5,119002641,4,11,15,42.5127
+51st,Rocky Bayou Christian School,Jessica Maney,4,192004641,3,8,19,42.2397
+52nd,Lawton Chiles High School,Lowell Katz,3,181009140,2,5,23,41.9667
+53rd,Navarre,KASHA FAHY,3,180003042,2,5,23,41.9667
+54th,Navarre,MEGAN LATTANZE,2,180003442,1,2,27,41.6938
+55th,Rocky Bayou Christian School,Rebecca Weaver,1,192003742,2,7,21,41.4208
+56th,Navarre,RED DAWN GOMONIT,1,180003240,1,3,26,41.4208
+57th,Rocky Bayou Christian School,James Kaim,0,192012042,1,4,25,41.1478
+58th,Rocky Bayou Christian School,Adrian Hinz,0,192002342,2,8,20,41.1478
+59th,Navarre,ELIZABETH ALGOOD,-3,180002741,1,7,22,40.3289
+60th,Navarre,AMY RIGSBY,-3,180003642,0,3,27,40.3289
+61st,A. C. Mosley,Bea Rodgers,-6,102005941,1,10,19,39.5100
+62nd,Rocky Bayou Christian School,Rachel Lee,-6,192004542,2,14,14,39.5100
+63rd,Rocky Bayou Christian School,Emily Wilson,-6,192005240,2,14,14,39.5100

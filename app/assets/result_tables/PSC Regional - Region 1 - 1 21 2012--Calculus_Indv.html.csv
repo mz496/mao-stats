@@ -1,0 +1,77 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Payal Patel,101,140001951,26,3,1,73.8852
+2nd,Lawton Chiles High School,Chase Belcher,98,181005351,25,2,3,72.8608
+3rd,Rickards High School,Diego Hernandez,96,140001651,25,4,1,72.1779
+4th,Rickards High School,Daniel Kang,96,140004351,25,4,1,72.1779
+5th,Lincoln,Shawn Best,96,109010651,25,4,1,72.1779
+6th,Rickards High School,Andrew Chico,90,140003751,24,6,0,70.1290
+7th,Lawton Chiles High School,Keven Huang,86,181005951,22,2,6,68.7631
+8th,Lawton Chiles High School,Wayne Zhao,84,181008351,22,4,4,68.0802
+9th,Rickards High School,Ian Pitts,80,140002152,21,4,5,66.7143
+10th,Lincoln,Ellie Sell,67,109092051,18,5,7,62.2751
+11th,Rickards High School,Andrew Chen,64,140005152,18,8,4,61.2507
+12th,Lawton Chiles High School,Jimmy Zhang,62,181008251,17,6,7,60.5677
+13th,Gulf Breeze High,Brandon Harper,57,101000551,16,7,7,58.8604
+14th,Lincoln,Billy Brickner,55,109000452,15,5,10,58.1774
+15th,Pensacola,Sophia Liu,54,115002051,14,2,14,57.8359
+16th,West Florida H. S.,Robert Mines,53,111003051,14,3,13,57.4945
+17th,Lincoln,Angela Jiang,50,109090651,15,10,5,56.4700
+18th,Lawton Chiles High School,Amanda Langston,48,181006452,13,4,13,55.7871
+19th,Lawton Chiles High School,Kenneth Zhou,46,181008452,12,2,16,55.1041
+20th,Navarre,MATT ANDRE,46,180000652,13,6,11,55.1041
+21st,Rocky Bayou Christian School,William Hudson,44,192004651,12,4,14,54.4212
+22nd,Lincoln,Kirsten Brown,43,109001452,12,5,13,54.0797
+23rd,Lincoln,Mitchell Schmidt,41,109000651,12,7,11,53.3968
+24th,Milton,Landen Ryder,39,154006151,11,5,14,52.7138
+25th,Pensacola,MaryGrace Reeves,38,115004151,11,6,13,52.3723
+26th,Lincoln,Jasmine Tsai,36,109002552,10,4,16,51.6894
+27th,Lawton Chiles High School,Nitasha Menon,34,181006950,10,6,14,51.0065
+28th,Lincoln,Anica Sunshine,34,109020352,9,2,19,51.0065
+29th,West Florida H. S.,Kathryn Disher,32,111001351,9,4,17,50.3235
+30th,Rutherford High School,Sarah Warkander,30,174001351,9,6,15,49.6406
+31st,Choctawhatchee,Ryan Wood,30,119003851,9,6,15,49.6406
+32nd,Lincoln,John Thyer,29,109002450,9,7,14,49.2991
+33rd,Milton,Kaitlyn Lyle,28,154005451,8,4,18,48.9576
+34th,Lincoln,Michael Heron,28,109090550,8,4,18,48.9576
+35th,Navarre,LAUREN LAUTENSLAGER,27,180001052,9,9,12,48.6161
+36th,Rickards High School,Daniel Kidder,25,140005552,8,7,15,47.9332
+37th,West Florida H. S.,Jeff Grosso,25,111001851,8,7,15,47.9332
+38th,Lawton Chiles High School,Kelsey McWilliams,24,181006850,7,4,19,47.5917
+39th,Pensacola,Rhiana Simon,23,115003851,8,9,13,47.2502
+40th,Choctawhatchee,Malcolm Foley,22,119000251,6,2,22,46.9088
+41st,West Florida H. S.,Joey Clark,21,111000851,7,7,16,46.5673
+42nd,West Florida H. S.,MJ Vihnanek,19,111005152,8,13,9,45.8843
+43rd,Rocky Bayou Christian School,Tim Sung,19,192005651,7,9,14,45.8843
+44th,Lawton Chiles High School,Elizabeth Lee,18,181006552,5,2,23,45.5429
+45th,Lawton Chiles High School,Nith Sivahanthan,18,181007452,7,10,13,45.5429
+46th,West Florida H. S.,Katie Nelson,17,111003152,6,7,17,45.2014
+47th,Milton,Miranda Melvin,16,154005351,7,12,11,44.8599
+48th,Navarre,CONNOR PASSALACQUA,15,180001351,5,5,20,44.5184
+49th,Navarre,JURGEN SPEAR,15,180001551,9,21,0,44.5184
+50th,Gulf Breeze High,Keegan Anderson,14,101000151,5,6,19,44.1770
+51st,Rutherford High School,Ivy Grob,14,174000251,6,10,14,44.1770
+52nd,Navarre,BRIAN NYKANEN,13,180001250,5,7,18,43.8355
+53rd,Navarre,RYANNE MOORE,12,180001152,4,4,22,43.4940
+54th,Choctawhatchee,Casey Evans,11,119000951,8,21,1,43.1525
+55th,Navarre,SARAH TOWNSEND,11,180001750,5,9,16,43.1525
+56th,Rocky Bayou Christian School,Graham Pierce,11,192000150,3,1,26,43.1525
+57th,Choctawhatchee,Dylan Boekenoogen,10,119000152,5,10,15,42.8111
+58th,Navarre,PATRICK SULLIVAN,9,180001652,3,3,24,42.4696
+59th,Choctawhatchee,Ariel Lindner,9,119002051,4,7,19,42.4696
+60th,Rutherford High School,Sara Moreau,9,174000951,5,11,14,42.4696
+61st,Navarre,ALEX WHITESIDE,8,180001851,3,4,23,42.1281
+62nd,Rocky Bayou Christian School,Neely fawaz,7,192001452,3,5,22,41.7866
+63rd,Gulf Breeze High,Josh Lemon,7,101002851,3,5,22,41.7866
+64th,Navarre,KYLE REVETTE,5,180001451,2,3,25,41.1037
+65th,Pensacola,Preeyal Gupta,5,115004851,3,7,20,41.1037
+66th,Rutherford High School,Julian Finlaw,5,174001151,3,7,20,41.1037
+67th,Navarre,JUSTIN DORLER,1,180000750,1,3,26,39.7378
+68th,Milton,Camila Cabral,-1,154001951,3,13,14,39.0548
+69th,Rocky Bayou Christian School,Haein yoo,-1,192005052,0,1,29,39.0548
+70th,Rocky Bayou Christian School,Eizabeth Marshall,-1,192005752,1,5,24,39.0548
+71st,Rocky Bayou Christian School,Josh Turner,-1,192001051,1,5,24,39.0548
+72nd,Rocky Bayou Christian School,Josiah Balthazar,-1,192005151,1,5,24,39.0548
+73rd,West Florida H. S.,Jessie Spears,-1,111004352,4,17,9,39.0548
+74th,Gulf Breeze High,LeAnne Gorris,-3,101002351,0,3,27,38.3719
+75th,Rocky Bayou Christian School,Carolyn Hudson,-4,192005552,0,4,26,38.0304
+76th,West Florida H. S.,Kaitlin Startzel,-7,111004452,1,11,18,37.0060

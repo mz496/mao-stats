@@ -1,0 +1,95 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Palmetto Middle,Kaylee de Soto,105,512100111,27,3,0,77.1743
+2nd,Parkway Middle School,yuru niu,102,527101211,26,2,2,76.0956
+3rd,Doral Academy High,Brian Lu,102,537501310,26,2,2,76.0956
+4th,Falcon Cove Middle School,George Zhu,82,541102811,22,6,2,68.9042
+5th,Ferguson,Christian Flores,80,507001211,21,4,5,68.1851
+6th,Falcon Cove Middle School,Maxwell Gu,77,541100911,21,7,2,67.1064
+7th,Mater Lakes Academy,Sebastian Ruiz,77,559000411,20,3,7,67.1064
+8th,Mater Lakes Academy,XianXian Zhang,74,559001111,20,6,4,66.0276
+9th,Doral Academy High,Tyger Lin,74,537502210,20,6,4,66.0276
+10th,Seacrest Middle School,Blake Burchett,72,555100211,20,8,2,65.3085
+11th,Seacrest Middle School,Robert Lombardo,65,555100610,18,7,5,62.7915
+12th,Ronald Reagan H. S.,Alonso Bernal,63,527000211,18,9,3,62.0724
+13th,Palmetto Middle,Surya Sekar,61,512101511,17,7,6,61.3532
+14th,Seacrest Middle School,Eva Howard,61,555100411,17,7,6,61.3532
+15th,Ferguson,SMITA BHATTACHARJEE,61,507004811,17,7,6,61.3532
+16th,TERRA Environmental Research Institute,Haciel PerezOchoa,60,584501311,17,8,5,60.9937
+17th,Dr Michael Krop,Marcus Pinto,55,502000011,15,5,10,59.1958
+18th,Florida Chrisitan School of Dade (Middle),Alana Buznego,55,524600311,14,1,15,59.1958
+19th,Palmetto Middle,Vasanth Govind,54,512100211,15,6,9,58.8362
+20th,Ronald Reagan H. S.,Irene Wang,50,527002511,15,10,5,57.3980
+21st,American Heritage (Plantation),Nilay Neeranjun,49,506006711,14,7,9,57.0384
+22nd,Falcon Cove Middle School,Jenice An,49,541100011,15,11,4,57.0384
+23rd,Seacrest Middle School,Jamison Huber,48,555100511,14,8,8,56.6788
+24th,Parkway Middle School,sardel charlotin,48,527101611,14,8,8,56.6788
+25th,Seacrest Middle School,Julia Basile,47,555100010,14,9,7,56.3193
+26th,American Heritage - Boca/Delray,Daniel Tartakovsky,44,526006011,14,12,4,55.2405
+27th,Seacrest Middle School,Madison Cilk,42,555100311,13,10,7,54.5214
+28th,Mater Lakes Academy,Garry Archbold,41,559000111,12,7,11,54.1618
+29th,Mater Lakes Academy,Stephanie Perez,40,559004010,11,4,15,53.8023
+30th,Faith Lutheran,Tomas Padron,39,574510311,12,9,9,53.4427
+31st,Parkway Middle School,kofi blake,39,527101711,12,9,9,53.4427
+32nd,American Heritage - Boca/Delray,William Turk,38,526006211,11,6,13,53.0831
+33rd,Mater Lakes Academy,Kimanh Nguyen,37,559004511,11,7,12,52.7236
+34th,Aspira Eugenio Maria De Hostos,Grace Strachan,34,551101911,9,2,19,51.6448
+35th,Dr Michael Krop,Lucy Narducci,33,502002311,9,3,18,51.2853
+36th,Florida Chrisitan School of Dade,Kevin Garcia,32,524502511,10,8,12,50.9257
+37th,American Heritage - Boca/Delray,Jonathan Asher,32,526005311,11,12,7,50.9257
+38th,Doral Academy High,Camilo Dibsi,31,537501510,10,9,11,50.5661
+39th,Palmetto Ridge,Camden Grundemen,31,518000211,10,9,11,50.5661
+40th,Aspira Eugenio Maria De Hostos,Angelica Valdes,30,551102211,8,2,20,50.2066
+41st,Seacrest Middle School,Abbie Olmstead,29,555100710,9,7,14,49.8470
+42nd,Seacrest Middle School,Augie Boyd,29,555100110,9,7,14,49.8470
+43rd,TERRA Environmental Research Institute,Karla Pereragarcia,27,584501411,8,5,17,49.1279
+44th,Faith Lutheran,Carolina Bermudo,25,574510211,8,7,15,48.4087
+45th,Palmetto Middle,Sanjoy Kundu,25,512100010,9,11,10,48.4087
+46th,Florida Chrisitan School of Dade (Middle),Rebecca Abreu,23,524600110,7,5,18,47.6896
+47th,Zelda Glazer  Middle School,Emelie Reyes,23,522601510,7,5,18,47.6896
+48th,Palmetto Ridge,Geraldo Atilles,23,518000111,8,9,13,47.6896
+49th,Aspira Eugenio Maria De Hostos,Sandi Simota,21,551101811,6,3,21,46.9704
+50th,Zelda Glazer  Middle School,Idania Ramos,21,522601610,9,15,6,46.9704
+51st,Aspira Eugenio Maria De Hostos,Herby Drice,20,551100510,6,4,20,46.6109
+52nd,Aspira Eugenio Maria De Hostos,Tyvohn Carter,20,551100410,10,20,0,46.6109
+53rd,American Heritage - Boca/Delray,Mayra Villalobos,19,526007411,7,9,14,46.2513
+54th,Florida Chrisitan School of Dade (Middle),Kristen Gerdts,17,524600811,7,11,12,45.5322
+55th,American Heritage - Boca/Delray,Leah Booher,17,526000310,7,11,12,45.5322
+56th,Aspira Eugenio Maria De Hostos,Melany Mican,17,551101611,7,11,12,45.5322
+57th,Zelda Glazer  Middle School,Rebeca Beguiristain,17,522602211,6,7,17,45.5322
+58th,Florida Chrisitan School of Dade (Middle),Lauren Fuster,17,524600611,6,7,17,45.5322
+59th,Parkway Middle School,tyrie fluellen,16,527101510,7,12,11,45.1726
+60th,Florida Chrisitan School of Dade (Middle),Juliette Garcia,15,524600710,6,9,15,44.8130
+61st,TERRA Environmental Research Institute,Daniela Avila,15,584501611,9,21,0,44.8130
+62nd,Miami Springs,JONATHAN DIOPAEZ,13,582001711,5,7,18,44.0939
+63rd,Dr Michael Krop,Noah Grife,13,502001511,7,15,8,44.0939
+64th,Aspira Eugenio Maria De Hostos,Ricardo Feliz,12,551101010,5,8,17,43.7343
+65th,Aspira Eugenio Maria De Hostos,Raquel Espinoza,12,551100710,5,8,17,43.7343
+66th,Aspira Eugenio Maria De Hostos,Trevon Thomas,12,551102110,8,20,2,43.7343
+67th,Palm Beach Gardens,Arnalyn Dulla,12,373001041,7,16,7,43.7343
+68th,Aspira Eugenio Maria De Hostos,Ricardo Guadamuz,11,551100910,6,13,11,43.3747
+69th,Zelda Glazer  Middle School,Helen Cheng,11,522601210,5,9,16,43.3747
+70th,Faith Lutheran,Sebastian Alderete,11,574510111,6,13,11,43.3747
+71st,Aspira Eugenio Maria De Hostos,Christopher Hayes,10,551102510,5,10,15,43.0152
+72nd,Palmetto Middle,Julian Mayorga,6,512107811,3,6,21,41.5769
+73rd,TERRA Environmental Research Institute,Khalid LakhdarAzzouz,6,584501511,4,10,16,41.5769
+74th,Aspira Eugenio Maria De Hostos,Marvin Maldonado,5,551101410,7,23,0,41.2173
+75th,Aspira Eugenio Maria De Hostos,Liz Mendoza,5,551101510,4,11,15,41.2173
+76th,Aspira Eugenio Maria De Hostos,Cameron Lazier,5,551101310,7,23,0,41.2173
+77th,Braddock,DARNELL CARDENAS,5,538000711,7,23,0,41.2173
+78th,Aspira Eugenio Maria De Hostos,Bayron Andino,4,551100110,6,20,4,40.8577
+79th,Zelda Glazer  Middle School,Jose Paredes,4,522600210,5,16,9,40.8577
+80th,Parkway Middle School,Wallace Dejanae,4,527103311,3,8,19,40.8577
+81st,Aspira Eugenio Maria De Hostos,George Gonzalez,4,551100810,3,8,19,40.8577
+82nd,Palmetto Ridge,Jose Velez,4,518002311,6,20,4,40.8577
+83rd,Florida Chrisitan School of Dade,Cristina Silva,3,524506211,4,13,13,40.4982
+84th,Aspira Eugenio Maria De Hostos,Sharon Fuentes,1,551102410,3,11,16,39.7790
+85th,Parkway Middle School,t'keyhah huckaby,0,527101310,3,12,15,39.4195
+86th,American Heritage - Boca/Delray,Bianca Noguera,0,526005710,3,12,15,39.4195
+87th,Aspira Eugenio Maria De Hostos,Joshua Strachan,-1,551102010,3,13,14,39.0599
+88th,Florida Chrisitan School of Dade (Middle),Jessica Maristany,-5,524600911,4,21,5,37.6216
+89th,Zelda Glazer  Middle School,Emily DeLemos,-5,522601011,5,25,0,37.6216
+90th,Zelda Glazer  Middle School,Myranda Hernandez,-5,522600911,3,17,10,37.6216
+91st,Aspira Eugenio Maria De Hostos,Grissel Armijo,-7,551100210,1,11,18,36.9025
+92nd,American Heritage - Boca/Delray,Mira Sharma,-9,526005910,2,17,11,36.1833
+93rd,Ferguson,Michael DiLiddo,-10,507003411,1,14,15,35.8238
+94th,Zelda Glazer  Middle School,Armando Barnet,-15,522602110,3,27,0,34.0259

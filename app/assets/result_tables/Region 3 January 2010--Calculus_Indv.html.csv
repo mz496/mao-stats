@@ -1,0 +1,100 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Oviedo,Gene Katsevich,115,377001651,29,1,0,74.7056
+2nd,Spruce Creek,David Weinberg,110,267020251,28,2,0,72.9363
+3rd,Vero Beach,FREDERICK OUELLET,107,372002751,27,1,2,71.8748
+4th,Lake Mary,Akshay Save,107,308005751,27,1,2,71.8748
+5th,Hagerty High School,Stephen Davis,99,310001651,25,1,4,69.0439
+6th,Seminole (Seminole),SAYEED TASNIM,98,341000051,25,2,3,68.6901
+7th,St Edward's,ERIC WILLETT,90,374051651,24,6,0,65.8592
+8th,Vero Beach,ASHLEY VILLAR,88,372002351,23,4,3,65.1515
+9th,Seminole (Seminole),ANDREW HUA,88,341002151,23,4,3,65.1515
+10th,Lake Mary,Connor Harrington,88,308004351,23,4,3,65.1515
+11th,Spruce Creek,Matthew Kindy,87,267018051,23,5,2,64.7976
+12th,Vero Beach,HANISHA PATEL,84,372002051,22,4,4,63.7361
+13th,Spruce Creek,Brian LaStarza,80,267018251,21,4,5,62.3206
+14th,St Edward's,JACK WEI,78,374051351,21,6,3,61.6129
+15th,Spruce Creek,Frank Luciano,76,267018451,21,8,1,60.9052
+16th,Seminole (Seminole),NICHOLAS MILLER,75,341017351,20,5,5,60.5514
+17th,Spruce Creek,Megan Reynolds,73,267019452,19,3,8,59.8436
+18th,Seminole (Seminole),LOUIS CAI,70,341007652,20,10,0,58.7821
+19th,Vero Beach,ALEXA MERTENS,67,372000151,18,5,7,57.7205
+20th,Seminole (Seminole),STEVEN WANG,65,341003952,18,7,5,57.0128
+21st,St Edward's,JARRED SPEAR,65,374051151,19,11,0,57.0128
+22nd,Vero Beach,DANA D'HAESELEER,64,372001350,17,4,9,56.6589
+23rd,Hagerty High School,Xiaojun Xu,64,310006551,17,4,9,56.6589
+24th,Seminole (Seminole),AVEEK KAPAT,63,341001951,17,5,8,56.3051
+25th,St Edward's,HESHUANG LIANG,63,374050651,18,9,3,56.3051
+26th,Spruce Creek,James Hu,62,267017752,17,6,7,55.9512
+27th,Hagerty High School,Greg Braciak,61,310000752,17,7,6,55.5974
+28th,Lake Mary,Milan Landaverde,60,308001751,17,8,5,55.2435
+29th,Bayside,Charles Dhennin,60,303032551,16,4,10,55.2435
+30th,Hagerty High School,Patrick McCormack,56,310004351,15,4,11,53.8281
+31st,Seminole (Seminole),ANDREW JIN,55,341002052,16,9,5,53.4742
+32nd,Seminole (Seminole),DYLAN BELFIELD,55,341007252,17,13,0,53.4742
+33rd,Lake Brantley,Rachel McGovern,54,388003251,15,6,9,53.1204
+34th,Spruce Creek,Ryan Marracino,53,267018550,14,3,13,52.7665
+35th,Lake Brantley,Tami Segal,52,388004851,15,8,7,52.4127
+36th,Spruce Creek,Mark Kindy,51,267017952,15,9,6,52.0588
+37th,Spruce Creek,Michael Tingley,51,267019950,15,9,6,52.0588
+38th,Seminole (Seminole),STEWART GRAY,51,341008550,14,5,11,52.0588
+39th,Spruce Creek,Rami Okasha,51,267018650,14,5,11,52.0588
+40th,Hagerty High School,Scott Amrhein,49,310000251,14,7,9,51.3511
+41st,Bayside,Cameron Hare,49,303034550,13,3,14,51.3511
+42nd,Bayside,John Barton,49,303027551,14,7,9,51.3511
+43rd,Spruce Creek,Matthew Pollock,48,267019150,14,8,8,50.9972
+44th,Seminole (Seminole),DAVID WONG,48,341011550,14,8,8,50.9972
+45th,Vero Beach,DEVON MINICH,47,372000050,13,5,12,50.6434
+46th,Spruce Creek,Kristi Miller,47,267021850,14,9,7,50.6434
+47th,Hagerty High School,Lindsay Wainman,46,310006350,13,6,11,50.2895
+48th,Seminole (Seminole),DAKOTA PARK-OZEE,45,341003050,12,3,15,49.9357
+49th,Lake Mary,Camille Carre,45,308007551,13,7,10,49.9357
+50th,Hagerty High School,Chris Torres,45,310006052,13,7,10,49.9357
+51st,Bayside,Josef Willingham,43,303041551,13,9,8,49.2279
+52nd,Hagerty High School,Casey Barker,40,310000650,11,4,15,48.1664
+53rd,Hagerty High School,Timothy Copeland,39,310001352,11,5,14,47.8125
+54th,Hagerty High School,Vu Tran,38,310006150,11,6,13,47.4587
+55th,Hagerty High School,Edward Cha,38,310002250,11,6,13,47.4587
+56th,Spruce Creek,Brandon Tse,36,267020150,11,8,11,46.7510
+57th,Seminole (Seminole),MUHAMMED JAFFER,36,341007950,12,12,6,46.7510
+58th,Spruce Creek,Evan Stoner,35,267019750,9,1,20,46.3971
+59th,Vero Beach,DAVID DANCY,35,372001152,10,5,15,46.3971
+60th,Freedom (Orlando),Matthew Pasciucco,35,381002150,11,9,10,46.3971
+61st,Lyman High School,Jaime Wilson,34,351001051,10,6,14,46.0432
+62nd,Lake Brantley,David Levin,34,388002852,11,10,9,46.0432
+63rd,Lake Mary,Matthew Conway,34,308003552,10,6,14,46.0432
+64th,Vero Beach,ARIA YAGOBI,31,372002252,9,5,16,44.9817
+65th,Vero Beach,DAVID KESTELOOT,30,372000552,9,6,15,44.6278
+66th,Bayside,Cassandra Clark,30,303029552,8,2,20,44.6278
+67th,Bayside,Jake Whitwright,30,303042552,8,2,20,44.6278
+68th,Freedom (Orlando),Adam Cox,29,381001851,9,7,14,44.2740
+69th,Lake Mary,Jeffrey Frye,29,308004052,9,7,14,44.2740
+70th,Hagerty High School,Jacob Croft,26,310001452,9,10,11,43.2124
+71st,Vero Beach,CHRIS BRANDES,25,372001452,7,3,20,42.8585
+72nd,Vero Beach,CHRIS KARMERIS,25,372002850,7,3,20,42.8585
+73rd,Lake Brantley,Eric Gibbs,25,388001152,10,15,5,42.8585
+74th,Freedom (Orlando),Victor Miley,25,381002051,10,15,5,42.8585
+75th,Lake Brantley,Vic Eder,24,388000651,8,8,14,42.5047
+76th,Bayside,Shanna Amster,23,303026552,8,9,13,42.1508
+77th,Lake Mary,Han Kim,23,308006952,9,13,8,42.1508
+78th,Bayside,Rachel Rosolino,22,303037551,7,6,17,41.7970
+79th,Bayside,Jasmine Villaverde,22,303039552,7,6,17,41.7970
+80th,Lincoln Park Academy,JULIA ZHANG,22,396000151,9,14,7,41.7970
+81st,Spruce Creek,Mia Choi,21,267017252,8,11,11,41.4431
+82nd,Lake Brantley,David Halverson,20,388001452,10,20,0,41.0892
+83rd,St Edward's,JOHN FASANO,18,374050152,7,10,13,40.3815
+84th,Lake Mary,Brett Hill,18,308004452,6,6,18,40.3815
+85th,Spruce Creek,Auree Postell,13,267019250,5,7,18,38.6123
+86th,Vero Beach,SHIVA BEARD,13,372010250,6,11,13,38.6123
+87th,Hagerty High School,Chris Galletti,13,310002350,5,7,18,38.6123
+88th,Sebastian River,Tony Spagnolia,11,314003951,4,5,21,37.9045
+89th,Bayside,Kayley Squier,11,303038550,4,5,21,37.9045
+90th,Freedom (Orlando),Cesar Londono,10,381001951,7,18,5,37.5507
+91st,Lake Brantley,Katie Pham,9,388004451,7,19,4,37.1968
+92nd,Oviedo,Julie Leonard,9,377000251,4,7,19,37.1968
+93rd,St Edward's,LAURA NOELKE,8,374050852,3,4,23,36.8430
+94th,Lake Brantley,Joey Ehinger,8,388000752,6,16,8,36.8430
+95th,Freedom (Orlando),Amanda Rampersad,7,381002251,4,9,17,36.4891
+96th,Bayside,Emily Davis,5,303031550,4,11,15,35.7814
+97th,Bayside,Seth Reesh,3,303035550,3,9,18,35.0737
+98th,Bayside,Sam Amatrudi,3,303025550,2,5,23,35.0737
+99th,Hagerty High School,Tyler Parker,1,310005050,2,7,21,34.3660

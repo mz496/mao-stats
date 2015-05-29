@@ -1,0 +1,89 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Payal Patel,105,140001941,27,3,0,73.5373
+2nd,Rickards High School,Diego Hernandez,105,140001641,27,3,0,73.5373
+3rd,Rickards High School,Daniel Kang,105,140004341,27,3,0,73.5373
+4th,Lawton Chiles High School,Chase Belcher,100,181000241,26,4,0,71.9977
+5th,Lincoln,Breshawn Best,99,109010641,25,1,4,71.6898
+6th,Lawton Chiles High School,Joyce Lin,98,181000041,25,2,3,71.3819
+7th,Lincoln,Mitchell Schmidt,90,109000641,24,6,0,68.9187
+8th,Leon,JINCHI LIU,90,190001941,23,2,5,68.9187
+9th,Pensacola,Sami Alsheikh,90,115004441,24,6,0,68.9187
+10th,Pensacola,Young Baek,77,115004642,21,7,2,64.9159
+11th,Lawton Chiles High School,Niral Patel,75,181004541,21,9,0,64.3001
+12th,Lawton Chiles High School,Ken Paterson,74,181004641,19,2,9,63.9922
+13th,Pensacola,Sophia Liu,70,115002040,19,6,5,62.7606
+14th,Pensacola,Noah Bland,70,115001540,20,10,0,62.7606
+15th,Pensacola,Melody Dalton,69,115000541,19,7,4,62.4527
+16th,Rickards High School,Tarun Gupta,65,140000741,19,11,0,61.2210
+17th,Lincoln,Kushan Patel,62,109052441,17,6,7,60.2973
+18th,Lincoln,Danielle Bedard,61,109006941,16,3,11,59.9894
+19th,A. C. Mosley,EMILY HUBER,51,102004541,13,1,16,56.9104
+20th,Choctawhatchee,John Crowell,48,119000841,15,12,3,55.9867
+21st,Pensacola,Kristina Ivanova,47,115001141,13,5,12,55.6788
+22nd,Navarre,TRINH NGUYEN,40,180005042,11,4,15,53.5234
+23rd,Rickards High School,Kenny Soyars,40,140004242,14,16,0,53.5234
+24th,Lincoln,Courtney Simpson,38,109031442,11,6,13,52.9076
+25th,A. C. Mosley,CHRIS BENEDICT,38,102004141,11,6,13,52.9076
+26th,Navarre,ZACH TODD,38,180005942,12,10,8,52.9076
+27th,Pensacola,Phi Tran,36,115004042,13,16,1,52.2918
+28th,Lawton Chiles High School,Morrie Kim,35,181000742,11,9,10,51.9839
+29th,Navarre,WILL POLOSKI,33,180005441,9,3,18,51.3681
+30th,Navarre,BRIAN NYKANEN,31,180005140,9,5,16,50.7523
+31st,A. C. Mosley,AMY LAGUNA,31,102004842,10,9,11,50.7523
+32nd,A. C. Mosley,MAE BOWEN,28,102004241,8,4,18,49.8286
+33rd,Lincoln,Megan Konyndyk,28,109033340,8,4,18,49.8286
+34th,Pensacola,Jemimah Chen,28,115000242,10,12,8,49.8286
+35th,A. C. Mosley,BRIANNA FAGG,24,102004442,8,8,14,48.5969
+36th,Lincoln,Alan Kung,24,109013542,9,12,9,48.5969
+37th,A. C. Mosley,MARISA DOLL,22,102004341,6,2,22,47.9811
+38th,Gulf Breeze High,Liz Carney,20,101000441,7,8,15,47.3653
+39th,Rocky Bayou Christian School,Emily Steele,20,192001641,7,8,15,47.3653
+40th,Pensacola,Jisung Moon,20,115002542,10,20,0,47.3653
+41st,Pensacola,Khang Hoang,20,115002340,10,20,0,47.3653
+42nd,Leon,RACHAEL HOLT,19,190002941,6,5,19,47.0574
+43rd,Rickards High School,Lily Moline,19,140001242,8,13,9,47.0574
+44th,Rocky Bayou Christian School,Jacob Emerick,18,192009441,6,6,18,46.7495
+45th,Port Saint Joe High School,Brianna   Sigman,17,103001441,8,15,7,46.4416
+46th,West Florida H. S.,Kathryn Disher,17,111002042,7,11,12,46.4416
+47th,A. C. Mosley,ALLI KUBIS,17,102004742,6,7,17,46.4416
+48th,Navarre,TREY AGUIRRE,15,180004240,5,5,20,45.8258
+49th,Navarre,ANGELA HAGGARD,15,180004540,4,1,25,45.8258
+50th,Milton,Landen Ryder,14,154006141,5,6,19,45.5179
+51st,Navarre,ALEX WHITESIDE,14,180006042,6,10,14,45.5179
+52nd,West Florida H. S.,Matthew O'Rear,12,111002742,3,0,27,44.9021
+53rd,Lincoln,Adithi Vemuri,12,109011842,3,0,27,44.9021
+54th,Milton,Camila Cabral,11,154001941,6,13,11,44.5942
+55th,Leon,YUSHAN WANG,10,190001741,4,6,20,44.2863
+56th,Port Saint Joe High School,Forest   Halualani,10,103000642,8,22,0,44.2863
+57th,Navarre,KYLE REVETTE,10,180005540,8,22,0,44.2863
+58th,Rocky Bayou Christian School,JinWoo Jang,8,192003242,4,8,18,43.6704
+59th,Lincoln,Randall Gavin,8,109000042,2,0,28,43.6704
+60th,West Florida H. S.,Rocio GomezNova,8,111002241,5,12,13,43.6704
+61st,Rickards High School,Snehitha Kethireddy,8,140004142,5,12,13,43.6704
+62nd,Lawton Chiles High School,Corinne Watts,8,181006142,4,8,18,43.6704
+63rd,West Florida H. S.,Nicole Latourelle,7,111002542,2,1,27,43.3625
+64th,Navarre,ALEXA MENDEZ,7,180004741,2,1,27,43.3625
+65th,Navarre,KAYLA KING,7,180004641,3,5,22,43.3625
+66th,A. C. Mosley,JANET MASSENGALE,7,102004942,4,9,17,43.3625
+67th,Navarre,RYANNE MOORE,6,180004940,4,10,16,43.0546
+68th,West Florida H. S.,Jimmy Clemments,6,111001941,5,14,11,43.0546
+69th,West Florida H. S.,Kaitlyn Latourelle,5,111002441,2,3,25,42.7467
+70th,West Florida H. S.,Crystal Wells,5,111003341,2,3,25,42.7467
+71st,Port Saint Joe High School,Erica  Balogh,5,103001741,7,23,0,42.7467
+72nd,Port Saint Joe High School,Autumn  Yoakum,3,103000242,2,5,23,42.1309
+73rd,Rocky Bayou Christian School,Jonathan Allen,2,192008641,3,10,17,41.8230
+74th,Port Saint Joe High School,Erin  Kennedy,1,103003541,2,7,21,41.5151
+75th,Milton,Anthony Sims,1,154006341,3,11,16,41.5151
+76th,Navarre,SAVANNAH SCHULER,0,180005641,0,0,30,41.2072
+77th,Milton,Brandon Blackmon,0,154000532,5,20,5,41.2072
+78th,Rocky Bayou Christian School,LAURA PATE,0,192010241,2,8,20,41.2072
+79th,Navarre,JURGEN SPEAR,0,180005740,6,24,0,41.2072
+80th,West Florida H. S.,Tariq Perkins,-2,111003040,3,14,13,40.5914
+81st,Rocky Bayou Christian School,Gi Yi Kim,-2,192007342,2,10,18,40.5914
+82nd,Port Saint Joe High School,Adrian   Hubbard,-2,103000042,3,14,13,40.5914
+83rd,Port Saint Joe High School,Rebecca  Furr,-3,103001142,2,11,17,40.2835
+84th,Port Saint Joe High School,Katie  McNeill,-4,103002341,5,24,1,39.9756
+85th,Rocky Bayou Christian School,Kit Sandlin,-5,192006842,5,25,0,39.6677
+86th,West Florida H. S.,Carly VonHaven,-6,111003242,1,10,19,39.3598
+87th,Navarre,CONNOR PASSALACQUA,-15,180005342,3,27,0,36.5886
+88th,West Florida H. S.,Tia PayneKing,-25,111002940,1,29,0,33.5096

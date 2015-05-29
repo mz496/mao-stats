@@ -1,0 +1,74 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,William Dunn,94,181004251,24,2,4,76.2727
+2nd,Lincoln,SPENCER ELLINOR,83,109049651,22,5,3,71.7445
+3rd,Pensacola,Faysal Rifai,80,115001452,22,8,0,70.5095
+4th,Lincoln,Jitesh Kuntawala,76,109061251,20,4,6,68.8629
+5th,Rickards High School,Cheran Wu,72,140003550,19,4,7,67.2163
+6th,Lawton Chiles High School,Brandon Davis,71,181004150,18,1,11,66.8046
+7th,Lincoln,MICHAEL DUCKETT,69,109088851,19,7,4,65.9813
+8th,Navarre,JOEL WILLOUGHBY,65,180006051,17,3,10,64.3347
+9th,Lawton Chiles High School,Jack Findley,63,181004451,17,5,8,63.5113
+10th,Lawton Chiles High School,Jerrod Langston,62,181005151,17,6,7,63.0997
+11th,Pensacola,STEPHEN MCCRORY,58,115002751,15,2,13,61.4531
+12th,Lawton Chiles High School,Michael Wei,58,181006852,15,2,13,61.4531
+13th,Lawton Chiles High School,Gina Shetty,56,181006451,15,4,11,60.6298
+14th,Rocky Bayou Christian School,Sil Lo Jin,50,192005851,14,6,10,58.1598
+15th,Choctawhatchee,Albert Thornton,50,119001551,13,2,15,58.1598
+16th,Choctawhatchee,Ben Piburn,49,119000151,13,3,14,57.7482
+17th,Lincoln,CHIRAG PATEL,49,109030551,13,3,14,57.7482
+18th,Choctawhatchee,Zack Coker,47,119001451,13,5,12,56.9248
+19th,Rickards High School,Esha Atolia,44,140001351,12,4,14,55.6899
+20th,Lawton Chiles High School,Blair Wulterkens,44,181007052,12,4,14,55.6899
+21st,Rickards High School,Suvrat Jain,43,140001751,12,5,13,55.2782
+22nd,Rickards High School,Ellen Fu,42,140002952,12,6,12,54.8666
+23rd,Lawton Chiles High School,Viv Pitter,41,181005750,11,3,16,54.4549
+24th,Rickards High School,Aditi Hota,41,140003151,12,7,11,54.4549
+25th,Navarre,KYLE SNOW,39,180005652,10,1,19,53.6316
+26th,Navarre,TAYLOR WALTON,39,180005851,11,5,14,53.6316
+27th,Lawton Chiles High School,Logan Stafman,38,181006552,11,6,13,53.2199
+28th,Rocky Bayou Christian School,Luke Jolly,36,192005951,9,0,21,52.3966
+29th,Navarre,GUY HILL,35,180005252,9,1,20,51.9850
+30th,A. C. Mosley,Stefan McCarty,34,102007851,9,2,19,51.5733
+31st,A. C. Mosley,Claire Ziewitz,31,102008251,9,5,16,50.3383
+32nd,Choctawhatchee,Brandon Metra,31,119006052,9,5,16,50.3383
+33rd,Navarre,ZAK BOSTON,29,180004351,9,7,14,49.5150
+34th,Lawton Chiles High School,Jinoo Jin,29,181004750,8,3,19,49.5150
+35th,Pensacola,THAO HOANG,27,115001951,9,9,12,48.6917
+36th,A. C. Mosley,Brielle Seaman,26,102008051,7,2,21,48.2801
+37th,Lawton Chiles High School,Daniel Struk,21,181006750,7,7,16,46.2218
+38th,A. C. Mosley,Amelia Knowlton,20,102007751,5,0,25,45.8101
+39th,Lawton Chiles High School,Diana Zheng,20,181007250,5,0,25,45.8101
+40th,Lincoln,Emiko AsiforTuoyo,19,109000252,5,1,24,45.3985
+41st,Lincoln,DEVIN FRENTZ,18,109013252,6,6,18,44.9868
+42nd,Rocky Bayou Christian School,James Kim,18,192003951,7,10,13,44.9868
+43rd,Lawton Chiles High School,Lacey Booth,17,181003852,5,3,22,44.5752
+44th,Rocky Bayou Christian School,Jungmin       Jamie Kim,16,192012351,5,4,21,44.1635
+45th,Lincoln,SUSAN EMERICK,16,109082652,5,4,21,44.1635
+46th,Choctawhatchee,Taylor Thrall,16,119001052,5,4,21,44.1635
+47th,Lawton Chiles High School,Sonal Sathe,16,181006250,6,8,16,44.1635
+48th,Lawton Chiles High School,Ariane Sears,15,181006350,5,5,20,43.7518
+49th,Choctawhatchee,Levy Wiegand,15,119000351,6,9,15,43.7518
+50th,Pensacola,NEHA GARG,15,115001751,9,21,0,43.7518
+51st,Navarre,MEGHAN MCMULLEN,14,180005451,4,2,24,43.3402
+52nd,Navarre,DYLAN DESJARDINS,14,180004750,4,2,24,43.3402
+53rd,Pensacola,JAMI GRIFFIN,13,115001851,8,19,3,42.9285
+54th,Lawton Chiles High School,Shuyao Zhang,13,181007150,4,3,23,42.9285
+55th,Navarre,DEE CHEEVES,12,180004550,4,4,22,42.5169
+56th,Rocky Bayou Christian School,SARAH FRASIER,12,192011552,3,0,27,42.5169
+57th,A. C. Mosley,Jacob Sickerman,12,102008152,4,4,22,42.5169
+58th,Rocky Bayou Christian School,Su Ho Im,10,192011852,4,6,20,41.6936
+59th,Navarre,TYLER BARKER,9,180004050,4,7,19,41.2819
+60th,Rocky Bayou Christian School,JOSH ALLEN,9,192011050,4,7,19,41.2819
+61st,Navarre,LAURA EMEL,8,180004852,3,4,23,40.8703
+62nd,Navarre,KEVIN O'BRIEN,7,180005550,3,5,22,40.4586
+63rd,Navarre,ALLISON HART,6,180005150,3,6,21,40.0469
+64th,Navarre,MARK BEHNKE,6,180004150,3,6,21,40.0469
+65th,Navarre,MICHAEL BOBBITT,5,180004252,2,3,25,39.6353
+66th,Navarre,ASHLEY CAUDILL,5,180004450,2,3,25,39.6353
+67th,Rocky Bayou Christian School,Matthew McDorman,4,192012752,3,8,19,39.2236
+68th,Lawton Chiles High School,Caroline Wright,3,181006950,3,9,18,38.8120
+69th,Choctawhatchee,Tyler Willard,2,119001652,2,6,22,38.4003
+70th,Rocky Bayou Christian School,CHRIS HINSON,2,192005550,3,10,17,38.4003
+71st,Navarre,JORDAN WAITE,0,180005750,3,12,15,37.5770
+72nd,Rocky Bayou Christian School,Laurel NELSON,-3,192012950,0,3,27,36.3420
+73rd,Navarre,SARAH HARMS,-3,180005050,0,3,27,36.3420

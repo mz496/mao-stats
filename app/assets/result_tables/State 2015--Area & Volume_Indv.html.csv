@@ -1,0 +1,64 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),Trevor Birenbaum,101,506005450,26,3,1,71.2342
+2nd,Fort Myers,Joshua Kennedy,95,423000150,24,1,5,69.1819
+3rd,Seminole (Seminole),SAMUEL LI,95,341003650,25,5,0,69.1819
+4th,Gainesville High School,KJ McIver,93,268009450,24,3,3,68.4978
+5th,Buchholz,Josh chipman,93,295006350,24,3,3,68.4978
+6th,King,John Qin,90,435010450,23,2,5,67.4716
+7th,Lawton Chiles High School,Jamie Gao,79,181006350,20,1,9,63.7091
+8th,American Heritage (Plantation),Dajon Thomas,76,506001850,21,8,1,62.6830
+9th,Buchholz,Michael Wong,76,295004050,20,4,6,62.6830
+10th,Cypress Bay,Sebastian Hincapie,75,588009350,20,5,5,62.3409
+11th,American Heritage (Plantation),Kwesi Levy,74,506000550,20,6,4,61.9989
+12th,Suncoast Comm,Ryan Childress,74,327004550,19,2,9,61.9989
+13th,Seminole (Seminole),JUSTIN RAMAN,64,341004950,16,0,14,58.5784
+14th,Spruce Creek,Suraj Singireddy,61,267006050,17,7,6,57.5522
+15th,Ransom Everglades,Eric Cai,60,519006750,16,4,10,57.2102
+16th,Suncoast Comm,Jerry Yang,57,327006850,17,11,2,56.1840
+17th,Rickards High School,Stephen  Barton,55,140003350,16,9,5,55.4999
+18th,Ferguson,NAVIN SINGH,54,507015750,15,6,9,55.1579
+19th,Fort Myers,Kamryn Lewis,52,423000650,14,4,12,54.4738
+20th,Saint Stephen's Episcopal School,ZACK GROMKO,52,489003150,14,4,12,54.4738
+21st,Lincoln,Justin Bartell,50,109001150,13,2,15,53.7897
+22nd,Hagerty High School,Cameron Yap,48,310001050,14,8,8,53.1056
+23rd,Community School of Naples,John Kim,45,562001650,12,3,15,52.0794
+24th,Eastside,Alireza Azari,45,280000250,14,11,5,52.0794
+25th,Hillsborough,Kamil Taneja,41,428062050,11,3,16,50.7112
+26th,Berkeley Prep,Catherine Bai,40,405001950,11,4,15,50.3692
+27th,Lawton Chiles High School,Nick Dietrich,39,181003050,11,5,14,50.0271
+28th,Miami Springs,ALAIN PEREZ,39,582005750,11,5,14,50.0271
+29th,Doral Academy High,Franco Vera,38,537505150,12,10,8,49.6851
+30th,American Heritage - Boca/Delray,Yikai (Fanny) Jin,37,526010150,12,11,7,49.3430
+31st,Seminole (Seminole),NAVEEN KRISHNAN,36,341006450,12,12,6,49.0010
+32nd,Fort Myers,Janar Kahr,35,423000950,13,17,0,48.6590
+33rd,Vero Beach,PATRICIA PORTMANN,33,372003850,11,11,8,47.9749
+34th,Cypress Bay,Longchang Li,32,588011820,8,0,22,47.6328
+35th,University School of NSU,Yunqi Xu,31,563003350,8,1,21,47.2908
+36th,Dunbar High School,Dakota Warren,30,477050350,12,18,0,46.9487
+37th,Cape Coral High School,Anan Quan,28,418000450,8,4,18,46.2646
+38th,American Heritage - Boca/Delray,Alexander Dougherty,28,526008250,8,4,18,46.2646
+39th,Palm Harbor Univ,Ben Sultan,28,413008950,8,4,18,46.2646
+40th,Miami Springs,ANDRES EKANAYAKE,25,582001950,7,3,20,45.2385
+41st,Berkeley Prep,Evan Miller,25,405002650,8,7,15,45.2385
+42nd,Saint Edward's School,GRIFFIN FAIRCHOK,25,374020750,7,3,20,45.2385
+43rd,Saint Edward's School,Howard Bi,23,374000050,6,1,23,44.5544
+44th,Palm Harbor Univ,Chaitanya Guthikonda,22,413001850,9,14,7,44.2123
+45th,Ferguson,TERESA CHEUNG,22,507002250,8,10,12,44.2123
+46th,King,Shashank Mahesh,20,435002850,7,8,15,43.5282
+47th,West Broward High School,Alexander Mink,16,534000350,5,4,21,42.1600
+48th,Palmetto Ridge,Sandra Lovos,13,518000650,4,3,23,41.1339
+49th,Gainesville High School,Christina Oakes,13,268010850,4,3,23,41.1339
+50th,Community School of Naples,Nick Lewis,12,562004950,4,4,22,40.7918
+51st,Ronald Reagan H. S.,Ariana Bueno,11,527000850,3,1,26,40.4498
+52nd,Palmetto Ridge,Esteban Aguilar-Ramirez,11,518001550,3,1,26,40.4498
+53rd,Palm Harbor Univ,Serena Moseley,8,413003560,3,4,23,39.4236
+54th,Vero Beach,CHARLES PASCALE,8,372003550,3,4,23,39.4236
+55th,Suncoast Comm,Zhaoqi Li,7,327010450,7,21,2,39.0816
+56th,Ronald Reagan H. S.,Santiago Suarez,6,527008050,2,2,26,38.7395
+57th,Flagler Palm Coast High School,Jazmine Virzi,6,221004850,4,10,16,38.7395
+58th,Deerfield Beach,Richa Parikh,4,577005750,2,4,24,38.0554
+59th,Berkeley Prep,Saskia Hennecke,4,405005950,3,8,19,38.0554
+60th,Canterbury (Lee),Bohan Sun,3,411001450,3,9,18,37.7134
+61st,Ronald Reagan H. S.,Ashley Flaquer,0,527002450,1,4,25,36.6872
+62nd,Sickles,Daniel Alvarez,-5,479000850,2,13,15,34.9770
+63rd,Miami Sunset,Marc Osborne,-6,544001350,4,22,4,34.6349

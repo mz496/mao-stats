@@ -1,0 +1,81 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Jukyung Choi,116,295001032,29,0,1,66.8955
+2nd,Buchholz,Keshav Vemuri,115,295002131,29,1,0,66.5824
+3rd,Lincoln Middle,Kevin Huang,115,201100121,29,1,0,66.5824
+4th,Buchholz,Caleb Summers,110,295002032,28,2,0,65.0169
+5th,Lawton Chiles High School,Keven Huang,105,181001531,27,3,0,63.4514
+6th,Lawton Chiles High School,Danny Kim,105,181002031,27,3,0,63.4514
+7th,Lawton Chiles High School,Kenneth Zhou,103,181004031,26,1,3,62.8252
+8th,Lincoln Middle,Stephen So,102,201100430,26,2,2,62.5121
+9th,Buchholz,Alex Song,102,295001732,26,2,2,62.5121
+10th,Buchholz,Rina Wu,101,295002332,26,3,1,62.1990
+11th,Buchholz,Zadia Dupee,100,295005630,26,4,0,61.8859
+12th,Seminole (Seminole),ALI.MUSA JAFFER,100,341000331,26,4,0,61.8859
+13th,Lincoln,Angela Jiang,96,109090631,25,4,1,60.6336
+14th,Lincoln Middle,Vincent Mei,96,201100931,25,4,1,60.6336
+15th,Lincoln Middle,Stephen Dolbier,96,201100021,25,4,1,60.6336
+16th,Buchholz,Davis Foote,95,295001331,25,5,0,60.3205
+17th,Buchholz,Jasmine Robinson,95,295000031,25,5,0,60.3205
+18th,Buchholz,Matthew Pearson,95,295005330,25,5,0,60.3205
+19th,Rickards High School,Kavitha Chintam,94,140002831,24,2,4,60.0074
+20th,Buchholz,josh brownstein,91,295000831,24,5,1,59.0681
+21st,Rickards High School,Andrew Chico,91,140003730,24,5,1,59.0681
+22nd,Buchholz,Danny Dewitt,90,295003630,23,2,5,58.7550
+23rd,Lincoln Middle,Hyunjee Rhee,87,201101031,23,5,2,57.8157
+24th,Seminole (Seminole),TYLER COUGHLIN,86,341001731,23,6,1,57.5026
+25th,Rickards High School,Linda Liu,86,140003031,23,6,1,57.5026
+26th,Rickards High School,Ran Ju,85,140004831,23,7,0,57.1895
+27th,Buchholz,Marie Thomas,78,295006230,20,2,8,54.9978
+28th,Rickards High School,Annie Ma,77,140003930,20,3,7,54.6847
+29th,Seminole (Seminole),ARLEY RUSKIN,77,341002431,21,7,2,54.6847
+30th,Seminole (Seminole),MANSOO KIM,77,341013330,20,3,7,54.6847
+31st,Lawton Chiles High School,Elizabeth Wang,77,181003530,20,3,7,54.6847
+32nd,Seminole (Seminole),PRAKASH SUNDAR,76,341003530,20,4,6,54.3716
+33rd,Rickards High School,Sonia Koul,75,140002031,20,5,5,54.0585
+34th,Seminole (Seminole),PHONG NGUYEN,71,341001131,19,5,6,52.8061
+35th,St. Francis Catholic High School,Ryan Herring,70,201000431,19,6,5,52.4930
+36th,Lincoln Middle,Wenli Zhao,70,201100630,19,6,5,52.4930
+37th,Lincoln Middle,Vivian Zhu,68,201100530,18,4,8,51.8668
+38th,Buchholz,John Huber,68,295004830,18,4,8,51.8668
+39th,Lincoln Middle,Andrew Fang,66,201101530,18,6,6,51.2406
+40th,Seminole (Seminole),DANIEL SWANN,65,341000930,19,11,0,50.9275
+41st,Buchholz,Sam Harris,64,295003730,18,8,4,50.6145
+42nd,Lincoln Middle,Minjia Zhong,59,201100230,16,5,9,49.0490
+43rd,Lincoln,Ellie Sell,58,109092031,16,6,8,48.7359
+44th,Seminole (Seminole),SNIGDHA DAS,55,341015730,14,1,15,47.7966
+45th,Gainesville High School,Evan Morris,54,268001531,15,6,9,47.4835
+46th,Lincoln,Sherman Wilhelm,49,109020131,14,7,9,45.9180
+47th,Lawton Chiles High School,Jeremy Jones,45,181001631,12,3,15,44.6656
+48th,Eastside,Michael Kim,44,280000931,12,4,14,44.3525
+49th,Lincoln Middle,Alvaro Valle,43,201100730,13,9,8,44.0394
+50th,Eastside,Bushra Guenoun,42,280000132,11,2,17,43.7263
+51st,Buchholz,Tomasz Andraka,42,295002630,12,6,12,43.7263
+52nd,Eastside,Seth Rutman,42,280000231,11,2,17,43.7263
+53rd,Eastside,Jennifer Le,41,280001131,11,3,16,43.4132
+54th,Seminole (Seminole),FREDERICK HODGIN,41,341016530,12,7,11,43.4132
+55th,Seminole (Seminole),LUCA ROSIGNOLI,39,341005930,12,9,9,42.7870
+56th,Lawton Chiles High School,Ally Findley,39,181005330,11,5,14,42.7870
+57th,Seminole (Seminole),MICHELLE ZHANG,39,341006230,12,9,9,42.7870
+58th,Eastside,Ryan Kim,38,280001030,10,2,18,42.4739
+59th,St. Francis Catholic High School,Kelsey Sack,37,201001231,11,7,12,42.1608
+60th,Eastside,Annalee Perez,35,280000523,10,5,15,41.5346
+61st,Buchholz,Michael Patlovich,35,295005230,10,5,15,41.5346
+62nd,Lincoln Middle,Apara Agarwal,35,201101130,11,9,10,41.5346
+63rd,Eastside,Ginnie Lin,34,280001332,9,2,19,41.2215
+64th,Gainesville High School,Aaron Stainsby,34,268001831,10,6,14,41.2215
+65th,Gainesville High School,Jessica Ely,33,268002431,11,11,8,40.9085
+66th,Seminole (Seminole),AMANDA HESTON,32,341016430,9,4,17,40.5954
+67th,Gainesville High School,David Barbet,31,268002532,9,5,16,40.2823
+68th,Lincoln,Leni Sinke,31,109092130,9,5,16,40.2823
+69th,Buchholz,Will Messina,30,295005030,9,6,15,39.9692
+70th,Eastside,Xinyi Wu,29,280005831,8,3,19,39.6561
+71st,Lincoln,Anica Sunshine,27,109020331,8,5,17,39.0299
+72nd,Eastside,Fanning Lin,27,280001230,8,5,17,39.0299
+73rd,Eastside,Lauren vonZabern,25,280000332,8,7,15,38.4037
+74th,Seminole (Seminole),NICHOLAS SWANN,22,341003830,7,6,17,37.4644
+75th,Gainesville High School,Rhenn Handel,18,268004432,5,2,23,36.2120
+76th,Gainesville High School,Briana Freeman,13,268003231,5,7,18,34.6465
+77th,Gainesville High School,Jazz Weigel,9,268003932,6,15,9,33.3941
+78th,Gainesville High School,Shelby Mars,8,268002132,5,12,13,33.0810
+79th,Lincoln,Doug Roberts,7,109010230,3,5,22,32.7679
+80th,Lincoln,Savannah Pierce,5,109091730,2,3,25,32.1417

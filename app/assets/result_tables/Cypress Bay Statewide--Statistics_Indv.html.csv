@@ -1,0 +1,73 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Jonathan Fang,106,295001861,27,2,1,66.9483
+2nd,American Heritage (Plantation),Jared Shulkin,105,506004661,27,3,0,66.6214
+3rd,Cypress Bay,David Li,101,588009761,26,3,1,65.3138
+4th,Ransom Everglades,Bradley Jackson,101,519001061,26,3,1,65.3138
+5th,American Heritage (Plantation),Aaron Ben-Shalom,100,506003061,26,4,0,64.9870
+6th,Coral Glades,Yagna Patel,100,528003660,26,4,0,64.9870
+7th,Suncoast Comm,Maxwell Willett,96,327006661,25,4,1,63.6794
+8th,Buchholz,Lillian Zhu,92,295000461,24,4,2,62.3718
+9th,American Heritage (Plantation),Ashley Westerfield,92,506005761,24,4,2,62.3718
+10th,Suncoast Comm,Andrew Meyer,91,327005961,24,5,1,62.0449
+11th,American Heritage (Plantation),Ryan Galvankar,91,506003461,24,5,1,62.0449
+12th,Deerfield Beach,Ivan Leonov,90,577002761,24,6,0,61.7181
+13th,American Heritage (Plantation),Matthew Robins,86,506004460,23,6,1,60.4105
+14th,Cypress Bay,Rebecca Norman,82,588007060,22,6,2,59.1029
+15th,Buchholz,Ellen Li,81,295002261,22,7,1,58.7761
+16th,Suncoast Comm,David Summa,81,327010061,22,7,1,58.7761
+17th,Cypress Bay,Loksondo Kung,81,588001760,22,7,1,58.7761
+18th,Cypress Bay,Annika Ramnath,80,588007460,22,8,0,58.4492
+19th,Cypress Bay,Erika Bryant,79,588005461,21,5,4,58.1223
+20th,Buchholz,Michelle Bai,79,295003760,21,5,4,58.1223
+21st,Cypress Bay,Juan Paniza,77,588010361,21,7,2,57.4685
+22nd,Miami Springs,CORY HARRINGTON,75,582001061,21,9,0,56.8147
+23rd,Cypress Bay,John Lundell,74,588011460,20,6,4,56.4878
+24th,Community School of Naples,Jack Melnick,72,562005161,20,8,2,55.8341
+25th,Suncoast Comm,Jeffrey Luo,71,327005861,20,9,1,55.5072
+26th,Deerfield Beach,Dhyey Desai,68,577002061,19,8,3,54.5265
+27th,Deerfield Beach,Reena Boruk,63,577000961,18,9,3,52.8921
+28th,American Heritage (Plantation),Brian Haimes,63,506003660,18,9,3,52.8921
+29th,Ronald Reagan H. S.,Ross Fox,61,527002661,17,7,6,52.2383
+30th,Cypress Bay,Erin Yoo,60,588004560,17,8,5,51.9114
+31st,Cypress Bay,Marcos Martinez,60,588010061,18,12,0,51.9114
+32nd,Ronald Reagan H. S.,Nicolas Navarro,60,527004361,17,8,5,51.9114
+33rd,Ronald Reagan H. S.,Guillermo Caminos,59,527001261,16,5,9,51.5845
+34th,Ronald Reagan H. S.,Kevin Su-Shum,59,527006861,17,9,4,51.5845
+35th,Buchholz,Muzi Wang,56,295005260,16,8,6,50.6038
+36th,American Heritage - Boca/Delray,Moyu Liu,54,526009761,16,10,4,49.9501
+37th,Buchholz,Sanika Subhash,52,295000561,16,12,2,49.2963
+38th,Doral Academy High,Ernesto Diaz,51,537500661,15,9,6,48.9694
+39th,Deerfield Beach,Aakash Anandjiwala,51,577000461,15,9,6,48.9694
+40th,West Broward High School,Michael Velez,50,534000261,15,10,5,48.6425
+41st,American Heritage - Boca/Delray,Angela Lo,48,526001361,14,8,8,47.9887
+42nd,Buchholz,Jenny Baik,47,295005360,13,5,12,47.6618
+43rd,University School of NSU,Rohan Rajan,47,563003461,13,5,12,47.6618
+44th,Vero Beach,KADEN DINIZ,46,372000761,14,10,6,47.3349
+45th,Buchholz,Cameron Cook,44,295001560,14,12,4,46.6812
+46th,American Heritage - Boca/Delray,Joseph (Zhening) Zhang,43,526000461,14,13,3,46.3543
+47th,Stranahan,Clifford Dorilas,41,568001361,12,7,11,45.7005
+48th,Saint Andrew's School,Caleb Winfrey,40,566507561,14,16,0,45.3736
+49th,Western,Michael Benben,37,573001561,12,11,7,44.3929
+50th,West Broward High School,Christy Abraham,37,534002861,12,11,7,44.3929
+51st,Flanagan,John Sarnecki,35,591007461,11,9,10,43.7392
+52nd,Deerfield Beach,Vita Tran,35,577006360,13,17,0,43.7392
+53rd,Community School of Naples,Liam Hollowsky,32,562004761,10,8,12,42.7585
+54th,Doral Academy High,Bismarck Fernandez,32,537502861,10,8,12,42.7585
+55th,University School of NSU,Samuel Goldfarb,32,563003661,9,4,17,42.7585
+56th,Western,Mahima Chander,31,573003461,10,9,11,42.4316
+57th,American Heritage - Boca/Delray,Hao (David) Wen,29,526009861,10,11,9,41.7778
+58th,Stranahan,Shane Richardson,26,568001061,9,10,11,40.7972
+59th,Flanagan,Arielle Lawson,23,591001461,8,9,13,39.8165
+60th,Plantation High School,Hayden Seager,21,500501160,9,15,6,39.1627
+61st,University School of NSU,Yunqi Xu,21,563003361,9,15,6,39.1627
+62nd,Plantation High School,Daniel Mazzo,20,500500860,10,20,0,38.8358
+63rd,Stranahan,Ashton Frazier,19,568002661,7,9,14,38.5089
+64th,Monarch High,Morgan Nixon,14,565501261,7,14,9,36.8745
+65th,Miami Springs,AMY ACOSTA,13,582006561,6,11,13,36.5476
+66th,Ferguson,ANABEL GONZALEZ,13,507007561,4,3,23,36.5476
+67th,Stranahan,Nickalos Wise,12,568000061,4,4,22,36.2207
+68th,Miami Springs,TIFFANY QUINN,11,582002661,6,13,11,35.8938
+69th,New World School of the Arts,Sandra Taylor,6,517004160,2,2,26,34.2594
+70th,University School of NSU,Blake Maier,5,563000661,7,23,0,33.9325
+71st,Vero Beach,REBECCA HOLDEN,-1,372003361,4,17,9,31.9712
+72nd,Monarch High,Enzo Stanga,-10,565501361,4,26,0,29.0292

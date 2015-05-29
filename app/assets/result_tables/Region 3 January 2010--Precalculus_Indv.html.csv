@@ -1,0 +1,88 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),PETER LI,120,341000641,30,0,0,80.7369
+2nd,Seminole (Seminole),JESSICA CHEN,101,341000141,26,3,1,73.1728
+3rd,Lake Mary,Preeti Sarangarajan,97,308002441,25,3,2,71.5804
+4th,Vero Beach,VISHAL PATEL,95,372005441,25,5,0,70.7841
+5th,Oviedo,Neel Patel,90,377001041,24,6,0,68.7936
+6th,St Edward's,RYAN SLATER,86,374041341,23,6,1,67.2011
+7th,Seminole (Seminole),KHONDAKER SADMAN,79,341006142,21,5,4,64.4144
+8th,Vero Beach,JESUS MORENO,79,372005241,20,1,9,64.4144
+9th,Vero Beach,GRACE ATHERTON,69,372003142,18,3,9,60.4333
+10th,Lake Mary,Serena Martin,68,308001942,19,8,3,60.0351
+11th,Vero Beach,KAREN MONUSZKO,67,372005142,18,5,7,59.6370
+12th,Seminole (Seminole),NAUMAN JAVED,67,341002641,19,9,2,59.6370
+13th,Vero Beach,NICOLE GAGNON,65,372004241,18,7,5,58.8408
+14th,St Edward's,DARIAN HADJIABADI,65,374040341,18,7,5,58.8408
+15th,Seminole (Seminole),NEIL NAGDA,64,341005540,18,8,4,58.4427
+16th,St Edward's,RHETT REISMAN,63,374041241,17,5,8,58.0446
+17th,Spruce Creek,Aashish Lalani,60,267014941,16,4,10,56.8503
+18th,Seminole (Seminole),LUKE MORRIS,60,341004740,18,12,0,56.8503
+19th,Seminole (Seminole),RUTH HSU,60,341002742,16,4,10,56.8503
+20th,Vero Beach,DYLAN FLINCHUM,60,372004041,18,12,0,56.8503
+21st,Seminole (Seminole),HANNAH MIYANJI,59,341002341,17,9,4,56.4521
+22nd,Hagerty High School,Megan Amend,58,310000042,16,6,8,56.0540
+23rd,Spruce Creek,Kevin Warren,57,267016642,16,7,7,55.6559
+24th,Lake Mary,Andy Marty,57,308002041,15,3,12,55.6559
+25th,Spruce Creek,Emmet Harrington,57,267014542,15,3,12,55.6559
+26th,Spruce Creek,Eric Rose,56,267015841,15,4,11,55.2578
+27th,West Shore,Varun Bansal,56,393001941,15,4,11,55.2578
+28th,Spruce Creek,Michael Mankbadi,55,267015141,15,5,10,54.8597
+29th,St Edward's,CORY QUINLAN,54,374041142,15,6,9,54.4616
+30th,Sebastian River,Gregg Spagnolia,54,314001742,15,6,9,54.4616
+31st,Vero Beach,LUCI BRAJON,53,372011042,14,3,13,54.0635
+32nd,Lake Mary,DangKhoa Nguyen,52,308002141,14,4,12,53.6654
+33rd,West Shore,Kristina Colmenares,50,393004342,15,10,5,52.8691
+34th,Hagerty High School,Sohani Kasireddy,49,310003340,13,3,14,52.4710
+35th,Spruce Creek,Nicole Negedly,49,267015642,13,3,14,52.4710
+36th,Lake Mary,Nicholas Bagley,47,308001142,13,5,12,51.6748
+37th,Spruce Creek,Mitchell Artin,47,267013840,13,5,12,51.6748
+38th,West Shore,Calvin Montgomery,45,393004141,13,7,10,50.8786
+39th,Lake Mary,Benjamin DeStefano,45,308001441,12,3,15,50.8786
+40th,Sebastian River,Fischer Gabbert,45,314000842,13,7,10,50.8786
+41st,Oviedo,A.J. Rathnakhrishnan,45,377001341,12,3,15,50.8786
+42nd,West Shore,Ben Heuser,44,393004041,13,8,9,50.4805
+43rd,Bayside,Robert Judin,43,303048442,13,9,8,50.0824
+44th,Hagerty High School,Gianni Tucciarone,41,310006241,12,7,11,49.2861
+45th,Spruce Creek,Renusha Indralingam,40,267014742,11,4,15,48.8880
+46th,Sebastian River,Gabrielle Hinton,38,314001041,11,6,13,48.0918
+47th,Hagerty High School,Paul Jaskowski,37,310002841,10,3,17,47.6937
+48th,Vero Beach,PATRICK MORGAN,36,372011242,12,12,6,47.2956
+49th,Spruce Creek,Fernando Cunha,35,267014041,10,5,15,46.8975
+50th,Hagerty High School,Jeremy Nuwayhid,35,310004841,10,5,15,46.8975
+51st,Lake Mary,Hemaghini Das,34,308001342,12,14,4,46.4994
+52nd,West Shore,Jerrin Luke,34,393000741,10,6,14,46.4994
+53rd,Seminole (Seminole),AMANDA BAKER,32,341001240,10,8,12,45.7031
+54th,Hagerty High School,Vanessa Markgraf,32,310004242,10,8,12,45.7031
+55th,Bayside,Lea Harp,32,303047442,9,4,17,45.7031
+56th,Bayside,David Moralsa,32,303049441,11,12,7,45.7031
+57th,Spruce Creek,Alan Wong,31,267016840,8,1,21,45.3050
+58th,Lake Brantley,Steven Sharifi,30,388004940,12,18,0,44.9069
+59th,Sebastian River,Matt Colbert,29,314002241,9,7,14,44.5088
+60th,Hagerty High School,Bethany Projahn,28,310005140,9,8,13,44.1107
+61st,St Edward's,STACEY OSWALD,28,374040941,10,12,8,44.1107
+62nd,Sebastian River,Kaitlyn Folkening,27,314001641,9,9,12,43.7126
+63rd,Hagerty High School,Cody McMahon,26,310004442,7,2,21,43.3145
+64th,Spruce Creek,Zachary Ruckert,26,267015940,9,10,11,43.3145
+65th,Freedom (Orlando),Isabella Gong,25,381000741,8,7,15,42.9164
+66th,West Shore,Nick Nafzger,24,393004442,8,8,14,42.5183
+67th,Seminole (Seminole),CATHERINE PHAN,24,341002242,9,12,9,42.5183
+68th,Lake Mary,Connor Accurso,23,308000942,6,1,23,42.1201
+69th,Bayside,Chang Wu,22,303005142,9,14,7,41.7220
+70th,Hagerty High School,Ben Kutz,21,310003541,6,3,21,41.3239
+71st,St Edward's,WONGJOE TJIN,20,374041442,10,20,0,40.9258
+72nd,Bayside,Kevin Pelzar,18,303051441,9,18,3,40.1296
+73rd,Lake Mary,Jordan Werthman,17,308002740,6,7,17,39.7315
+74th,Bayside,Damian Hall,17,303046442,6,7,17,39.7315
+75th,Lyman High School,Mitchell Burgunder,16,351000341,6,8,16,39.3334
+76th,Sebastian River,Romina Gotzman,16,314001842,6,8,16,39.3334
+77th,Freedom (Orlando),Estella Gong,15,381000641,5,5,20,38.9353
+78th,Bayside,Charity Amatrudi,12,303044441,4,4,22,37.7409
+79th,West Shore,Christina Baylen,12,393004542,5,8,17,37.7409
+80th,Sebastian River,Sarah Eden,10,314001341,3,2,25,36.9447
+81st,Hagerty High School,Amy Nguyen,10,310004640,3,2,25,36.9447
+82nd,Bayside,Zack Campbell,10,303045441,8,22,0,36.9447
+83rd,Seminole (Seminole),LEANNE DUMENY,9,341006442,4,7,19,36.5466
+84th,St Edward's,NICK HAMMERLE,8,374040442,5,12,13,36.1485
+85th,West Shore,Kevin Slagoski,8,393004242,7,20,3,36.1485
+86th,Hagerty High School,Elaine Lam,6,310003642,3,6,21,35.3523
+87th,Seminole (Seminole),ASHNI KADAKIA,5,341009140,3,7,20,34.9541

@@ -1,0 +1,147 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Zachary Diamandis,101,405003541,26,3,1,78.7397
+2nd,Tampa Bay Tech,Nikhil Nagabandi,98,461000240,25,2,3,77.3509
+3rd,Berkeley Prep,Gabe Villasana,97,405003342,25,3,2,76.8880
+4th,Dunbar High School,Tyler Millis,93,477060441,24,3,3,75.0362
+5th,Berkeley Prep,Ankit Aggarwal,93,405004641,24,3,3,75.0362
+6th,Berkeley Prep,Will Levine,91,405003741,24,5,1,74.1104
+7th,Berkeley Prep,Jack Graham,86,405004341,23,6,1,71.7957
+8th,Hillsborough,Gaurav Rao,85,428070141,22,3,5,71.3328
+9th,Palm Harbor Univ,Jakub Pepas,82,413010241,21,2,7,69.9440
+10th,Saint Stephen's Episcopal School,MICHELLE YAN,75,489001341,20,5,5,66.7035
+11th,Cape Coral High School,Ray Huang,74,418002941,19,2,9,66.2406
+12th,Berkeley Prep,Austi Critchfield,69,405001342,18,3,9,63.9259
+13th,Hillsborough,Jakob Nicolasora,66,428070841,17,2,11,62.5371
+14th,Fort Myers,Nicholas Longobardi,66,423000841,17,2,11,62.5371
+15th,King,Aren Saini,65,435000541,17,3,10,62.0742
+16th,King,Suman Adari,65,435000041,17,3,10,62.0742
+17th,Berkeley Prep,Jarod Guzik,63,405004442,17,5,8,61.1484
+18th,H. B. Plant,Keith Kasper,62,427040241,16,2,12,60.6854
+19th,Palm Harbor Univ,Shane Lobo,61,413006241,18,11,1,60.2225
+20th,Berkeley Prep,Alan Armero,60,405000240,16,4,10,59.7596
+21st,Palm Harbor Univ,Brian Price,60,413007242,18,12,0,59.7596
+22nd,Sickles,Song Tianxiang,59,479000741,17,9,4,59.2966
+23rd,Middleton,Anusha Kante,57,468002141,15,3,12,58.3708
+24th,Palm Harbor Univ,Michael Lee,56,413007041,17,12,1,57.9078
+25th,Hillsborough,Riley Garrison,55,428062641,15,5,10,57.4449
+26th,Saint Stephen's Episcopal School,KEVIN DING,55,489005241,14,1,15,57.4449
+27th,Berkeley Prep,Katie Freedy,55,405002042,15,5,10,57.4449
+28th,Sickles,Jozef Sinclair,55,479007340,17,13,0,57.4449
+29th,Palm Harbor Univ,Louis Alvares,54,413000142,14,2,14,56.9820
+30th,Berkeley Prep,Colton Karpman,54,405001640,16,10,4,56.9820
+31st,Saint Stephen's Episcopal School,KYLE KOUGHAN,53,489002942,14,3,13,56.5191
+32nd,King,Crystal Li,53,435004141,15,7,8,56.5191
+33rd,Robinson,Jacob Freedman,53,458001741,14,3,13,56.5191
+34th,Sickles,John Brown,52,479003941,15,8,7,56.0561
+35th,King,Jay Talati,52,435005441,14,4,12,56.0561
+36th,Fort Myers,Trey Brauch,52,423002141,14,4,12,56.0561
+37th,Saint Stephen's Episcopal School,JOE CLASS,51,489005042,13,1,16,55.5932
+38th,Sickles,Ryan Nolan,51,479009141,15,9,6,55.5932
+39th,Freedom (Tampa),Youn Lee,51,466006541,13,1,16,55.5932
+40th,Saint Stephen's Episcopal School,CURTIS STUMP,50,489002042,13,2,15,55.1303
+41st,Wharton,Jonathan Maggio,48,485002441,15,12,3,54.2044
+42nd,Saint Stephen's Episcopal School,JACK LU,48,489003740,13,4,13,54.2044
+43rd,Sickles,Miguel Faria,47,479010140,13,5,12,53.7415
+44th,Robinson,Sean Piontek,47,458008541,12,1,17,53.7415
+45th,Cape Coral High School,Brooke Ciccone,46,418004741,12,2,16,53.2786
+46th,Middleton,Bryant Wilkins,46,468003241,12,2,16,53.2786
+47th,Saint Stephen's Episcopal School,NUPUR MATHUR,46,489001241,12,2,16,53.2786
+48th,Robinson,Esther Cer,46,458001841,13,6,11,53.2786
+49th,Robinson,Lexx Pino,45,458002042,12,3,15,52.8156
+50th,Palm Harbor Univ,Edin Haveric,44,413004041,12,4,14,52.3527
+51st,Lakewood,Nikhil Sharma,44,434001041,13,8,9,52.3527
+52nd,Fort Myers,Aleena Boby,44,423001241,12,4,14,52.3527
+53rd,Middleton,Panith Thiruvenkatasamy,44,468000741,12,4,14,52.3527
+54th,Sickles,River Plunkett,44,479008341,12,4,14,52.3527
+55th,Saint Stephen's Episcopal School,HANNAH SAGE,43,489003341,11,1,18,51.8898
+56th,Sickles,Chad Arnett,43,479001140,14,13,3,51.8898
+57th,Saint Stephen's Episcopal School,ALI SAMMOUR,41,489000440,11,3,16,50.9639
+58th,Shorecrest Prep,Madison Holt,41,451004141,11,3,16,50.9639
+59th,Robinson,Hyeonji Paek,41,458006441,11,3,16,50.9639
+60th,Sickles,Beatriz Zafra,41,479007040,11,3,16,50.9639
+61st,Riverdale,Luke ChinAFoeng,41,457000241,13,11,6,50.9639
+62nd,Saint Stephen's Episcopal School,LILY LU,40,489003040,13,12,5,50.5010
+63rd,Dunbar High School,Bennett Hunter,39,477060241,10,1,19,50.0380
+64th,Cape Coral High School,Qian Ni,38,418000042,11,6,13,49.5751
+65th,Dunbar High School,Alex Lopez,38,477060141,10,2,18,49.5751
+66th,Saint Stephen's Episcopal School,DANNING FENG,38,489002740,11,6,13,49.5751
+67th,Shorecrest Prep,Sage Farley,38,451000941,11,6,13,49.5751
+68th,Wharton,Erica Winfrey,37,485004542,11,7,12,49.1122
+69th,Fort Myers,Jash Patel,36,423001441,11,8,11,48.6493
+70th,Palm Harbor Univ,Grant Konger,36,413005542,12,12,6,48.6493
+71st,Shorecrest Prep,Kalee Burkett,35,451000641,10,5,15,48.1863
+72nd,Middleton,Schroeder Alyssa,35,468004341,10,5,15,48.1863
+73rd,Cape Coral High School,Vivian Garcia,35,418003141,9,1,20,48.1863
+74th,Wharton,Ryan Borum,35,485002742,13,17,0,48.1863
+75th,Land O Lakes High,Anthony Perez,35,480501042,13,17,0,48.1863
+76th,Sickles,Baylee Foster,34,479003540,11,10,9,47.7234
+77th,Wharton,Justin Maxwell,34,485001041,9,2,19,47.7234
+78th,Wharton,April Olson,33,485001141,9,3,18,47.2605
+79th,Wharton,Disney Rattanakongkham,33,485002541,9,3,18,47.2605
+80th,H. B. Plant,Zach Rondeau,32,427040441,10,8,12,46.7975
+81st,Saint Stephen's Episcopal School,CHEYENNE FAUVEL,32,489001640,8,0,22,46.7975
+82nd,Fort Myers,Victor Heller-Martinez,31,423001642,9,5,16,46.3346
+83rd,Sickles,Kyle Taylor,31,479009240,9,5,16,46.3346
+84th,Sickles,Jacob Anliker,31,479001042,9,5,16,46.3346
+85th,Tampa Preparatory High,Aaron Scheiner,30,471000541,12,18,0,45.8717
+86th,Sickles,Mitchell Ortega,30,479006142,9,6,15,45.8717
+87th,Lakewood,Matthew Sala,30,434002841,10,10,10,45.8717
+88th,Hillsborough,Alex Pillai,30,428071741,8,2,20,45.8717
+89th,Robinson,Laura Hill,30,458003342,8,2,20,45.8717
+90th,Brooks-DeBartolo Collegiate High School,Joshua Jaramillo,29,461300141,11,15,4,45.4088
+91st,Middleton,Vonterio Duncan,29,468000642,8,3,19,45.4088
+92nd,H. B. Plant,Simone Burgin,29,427040141,9,7,14,45.4088
+93rd,Cape Coral High School,Christopher Souchik,29,418000141,8,3,19,45.4088
+94th,Canterbury School of FL,Jordan Cox,28,464000241,9,8,13,44.9458
+95th,Sickles,Diego Antolinez,28,479009040,8,4,18,44.9458
+96th,Sickles,Kristin Bach,28,479001340,9,8,13,44.9458
+97th,Fort Myers,Aliya Zuberi,28,423004942,9,8,13,44.9458
+98th,Hillsborough,Sarvika Bommakanti,28,428060142,9,8,13,44.9458
+99th,Sickles,Madelyn Gimenez,27,479004740,7,1,22,44.4829
+100th,Shorecrest Prep,Chase Johns,27,451004341,8,5,17,44.4829
+101st,Saint Stephen's Episcopal School,TIFFANY CHINWUBA,27,489001440,7,1,22,44.4829
+102nd,Saint Stephen's Episcopal School,LARISSA LEIVA,27,489001540,8,5,17,44.4829
+103rd,Wharton,Sonu Trivedi,26,485001342,7,2,21,44.0200
+104th,Chamberlain,Collin Cruz,26,407002741,7,2,21,44.0200
+105th,H. B. Plant,Nicholas Swaich,26,427040641,8,6,16,44.0200
+106th,Robinson,Maggie McKee,26,458001342,8,6,16,44.0200
+107th,Hillsborough,Khushali Mashruwala,26,428061042,8,6,16,44.0200
+108th,Brooks-DeBartolo Collegiate High School,Zachary Newman,25,461300541,11,19,0,43.5570
+109th,Middleton,MecGhee Sabrina,25,468004442,7,3,20,43.5570
+110th,Sickles,Kallie Cook,25,479002640,8,7,15,43.5570
+111th,Robinson,Emily Draper,24,458001042,7,4,19,43.0941
+112th,Land O Lakes High,Zachary Inman,24,480502941,10,16,4,43.0941
+113th,Fort Myers,Adrian Dougherty,23,423002542,7,5,18,42.6312
+114th,Sickles,Lindsey Fillipone,22,479003340,6,2,22,42.1682
+115th,Dunbar High School,Kodi Barry,22,477070540,7,6,17,42.1682
+116th,Fort Myers,Nalani Garcia,22,423001742,7,6,17,42.1682
+117th,Land O Lakes High,Nicholas Roether,21,480501441,10,19,1,41.7053
+118th,Sickles,Kendall Allen,21,479005140,7,7,16,41.7053
+119th,Cape Coral High School,Nikki Frost,20,418004542,5,0,25,41.2424
+120th,Chamberlain,Matthew Black,20,407000341,6,4,20,41.2424
+121st,Chamberlain,Shelby Peterson,20,407000141,6,4,20,41.2424
+122nd,Land O Lakes High,Albert Bortgandel,20,480500351,9,16,5,41.2424
+123rd,Sickles,Sahiti Akinapalli,20,479000240,7,8,15,41.2424
+124th,Lakewood,Kathleen Syron,19,434000441,7,9,14,40.7795
+125th,Sickles,Joseph Webb,19,479008640,6,5,19,40.7795
+126th,Berkeley Prep,Regan Dabbs,19,405000840,6,5,19,40.7795
+127th,Sickles,Negin Ward,18,479008442,6,6,18,40.3165
+128th,Freedom (Tampa),Jiaxin Xu,17,466006341,9,19,2,39.8536
+129th,Saint Stephen's Episcopal School,NEO CHO,17,489000340,5,3,22,39.8536
+130th,Sickles,Kameron Ingraham,16,479009640,5,4,21,39.3907
+131st,Saint Stephen's Episcopal School,XIN HUANG,16,489001942,6,8,16,39.3907
+132nd,Land O Lakes High,Tiger Nguyen,16,480500942,8,16,6,39.3907
+133rd,Clearwater Fundamental Middle,Ricky Nguyen,15,438112840,4,1,25,38.9277
+134th,Land O Lakes High,Zachary Inman,15,480502951,9,21,0,38.9277
+135th,Sickles,Fatou Wane,15,479008240,7,13,10,38.9277
+136th,Fort Myers,Xinyue Liang,14,423004340,5,6,19,38.4648
+137th,Canterbury School of FL,Danielle Scognamiglio,14,464000341,7,14,9,38.4648
+138th,Sickles,Brittany Lemke,13,479004840,6,11,13,38.0019
+139th,Dunbar High School,Thelma Sanchez,12,477060741,6,12,12,37.5390
+140th,Chamberlain,Oscar Ambrocio,12,407002341,4,4,22,37.5390
+141st,Sickles,Tyler Equizi,12,479010042,4,4,22,37.5390
+142nd,Sickles,Jasmin Bajric,12,479001440,6,12,12,37.5390
+143rd,Sickles,Meghan Benson,11,479009940,4,5,21,37.0760
+144th,Shorecrest Prep,Tanner Wall,10,451002142,8,22,0,36.6131
+145th,Sickles,Teysia Edmead,10,479002740,4,6,20,36.6131
+146th,Sickles,Wasana Weerasuriya,-4,479008940,4,20,6,30.1321

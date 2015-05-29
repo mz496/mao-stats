@@ -1,0 +1,72 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,HyunJee Rhee,96,295003941,25,4,1,72.7435
+2nd,Buchholz,Andrew Fang,86,295002642,22,2,6,69.2879
+3rd,Buchholz,tomasz Andraka,84,295002940,22,4,4,68.5968
+4th,Buchholz,Danny Dewitt,80,295003640,21,4,5,67.2146
+5th,Buchholz,John Huber,78,295004841,20,2,8,66.5235
+6th,Buchholz,Ben Diuguid,77,295002842,20,3,7,66.1779
+7th,Buchholz,Andreea Martin,75,295000942,20,5,5,65.4868
+8th,Buchholz,Vivian Zhu,73,295002741,19,3,8,64.7957
+9th,Eastside,Hope Pan,70,280002841,18,2,10,63.7590
+10th,Gainesville High School,Connor Davis,69,268006441,18,3,9,63.4135
+11th,Buchholz,Xinyi Wu,68,295001940,18,4,8,63.0679
+12th,Oak Hall,ALAN LI,67,249003841,18,5,7,62.7224
+13th,Buchholz,Marie Thomas,66,295006241,18,6,6,62.3768
+14th,Buchholz,Minjia Zhong,65,295003040,17,3,10,62.0312
+15th,Eastside,Wenli Zhao,62,280004042,16,2,12,60.9946
+16th,Buchholz,Josh chipman,62,295006342,17,6,7,60.9946
+17th,Buchholz,Stephen SO,60,295005440,16,4,10,60.3034
+18th,Buchholz,Liren Xue,59,295002440,16,5,9,59.9579
+19th,Eastside,Yuxin Zhang,58,280003941,16,6,8,59.6123
+20th,Buchholz,Robin Xu,55,295003740,14,1,15,58.5757
+21st,Buchholz,Cindy Xia,53,295002240,15,7,8,57.8845
+22nd,Eastside,Joe Kann,50,280001441,13,2,15,56.8479
+23rd,Eastside,Christine Pu,39,280003242,10,1,19,53.0467
+24th,Bolles,Phoebe Jin,39,252000641,13,13,4,53.0467
+25th,Gainesville High School,Lucia Murphy,31,268008941,9,5,16,50.2823
+26th,Gainesville High School,Ethan Ellis,30,268010041,9,6,15,49.9367
+27th,Bolles,Candace Fan,30,252000341,9,6,15,49.9367
+28th,Gainesville High School,Tyler Parker,27,268008241,8,5,17,48.9001
+29th,Leesburg High School,Julie Bitsios,25,287000042,11,19,0,48.2089
+30th,Fleming Island High,Daniel Cooksey,23,220002741,6,1,23,47.5178
+31st,Leesburg High School,Leor Tal,22,287001041,7,6,17,47.1723
+32nd,Nease High School,Lauren Hsu,21,290001441,7,7,16,46.8267
+33rd,Eastside,Apara Agarwal,20,280000042,6,4,20,46.4812
+34th,Leesburg High School,Akeem Sankey,20,287001942,10,20,0,46.4812
+35th,Fleming Island High,Ben Ford,20,220002842,6,4,20,46.4812
+36th,Eastside,Ahmad Guenoun,19,280000840,5,1,24,46.1356
+37th,Fleming Island High,Callie Baker,18,220002542,5,2,23,45.7900
+38th,Fleming Island High,Aditya Mahadevan,18,220003641,6,6,18,45.7900
+39th,Fleming Island High,Regan Smith,17,220003142,5,3,22,45.4445
+40th,Oak Hall,TAOTOA REN,17,249003441,5,3,22,45.4445
+41st,Bolles,William Wang,17,252000741,7,11,12,45.4445
+42nd,Flagler Palm Coast,Michael Safarty,17,221020141,5,3,22,45.4445
+43rd,Nease High School,Aamir Hasan,16,290001741,6,8,16,45.0989
+44th,Fleming Island High,Madison Van Dyke,16,220003340,5,4,21,45.0989
+45th,Fleming Island High,Rachna Patel,15,220003040,4,1,25,44.7534
+46th,Leesburg High School,Johnny Trignano,15,287001241,5,5,20,44.7534
+47th,Fleming Island High,Ellen Waidner,14,220003441,4,2,24,44.4078
+48th,Fleming Island High,Victoria Sales,13,220003740,4,3,23,44.0623
+49th,Fleming Island High,Samantha Beland,13,220002640,5,7,18,44.0623
+50th,Flagler Palm Coast,Breanna Gilliland,12,221003041,6,12,12,43.7167
+51st,Leesburg High School,Tyler Brandeburg,9,287000342,4,7,19,42.6800
+52nd,Leesburg High School,Leah Wertz,9,287001341,5,11,14,42.6800
+53rd,Gainesville High School,Kiel Orwig,9,268009642,6,15,9,42.6800
+54th,Stanton College Preparatory School,Kanupriya Gupta,7,296000541,2,1,27,41.9889
+55th,Eastside,Sangwook Lee,7,280002040,2,1,27,41.9889
+56th,Fleming Island High,Michael Tellman,7,220003842,2,1,27,41.9889
+57th,Oak Hall,ZAHARA CHOWDHURY,6,249004041,2,2,26,41.6434
+58th,Nease High School,Dante Castaldo,5,290001541,3,7,20,41.2978
+59th,Stanton College Preparatory School,Alaap Murali,5,296004641,3,7,20,41.2978
+60th,Flagler Palm Coast,Forrest Mason,5,221021041,3,7,20,41.2978
+61st,Fleming Island High,Max Grandstaff,5,220003540,7,23,0,41.2978
+62nd,Bolles,UMinn Woon,1,252000841,3,11,16,39.9156
+63rd,Eastside,Qihan Zhu,0,280005241,0,0,30,39.5700
+63rd,Flagler Palm Coast,Ryan McMeel,0,221001142,0,0,30,39.5700
+65th,Fleming Island High,Christina Veniskey,-1,220003941,1,5,24,39.2245
+66th,Stanton College Preparatory School,Jeffrey Hung,-1,296004441,1,5,24,39.2245
+67th,Flagler Palm Coast,Morgan Bertha,-3,221004742,1,7,22,38.5333
+68th,Oak Hall,BRITTNEY OLINGER,-4,249004541,1,8,21,38.1878
+69th,Leesburg High School,Lindsay Bordenkircher,-6,287000241,2,14,14,37.4967
+70th,Nease High School,Tyler Clowe,-7,290001641,0,7,23,37.1511
+71st,Flagler Palm Coast,Linsey Smith,-7,221020041,0,7,23,37.1511

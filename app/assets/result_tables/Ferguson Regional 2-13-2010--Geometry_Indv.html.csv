@@ -1,0 +1,105 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Belen Jesuit Prep,Sanchit Bhatta,89,535000621,23,3,4,80.7267
+2nd,American Heritage (Plantation),Sameer Kailasa,85,506000321,22,3,5,78.8607
+3rd,Miami Palmetto,Junsung Kim,83,541000721,21,1,8,77.9277
+4th,American Heritage (Plantation),Anna Silina,69,506000521,19,7,4,71.3966
+5th,RANSOM EVERGLADES,Julie Salzinger,60,519000221,16,4,10,67.1980
+6th,Miami Springs,TYLER BOWER,59,582004821,17,9,4,66.7315
+7th,RANSOM EVERGLADES,Diego Aldorando,57,519000421,15,3,12,65.7985
+8th,Cypress Bay,Regan Fuhr,56,588000721,16,8,6,65.3320
+9th,Stoneman Douglas,LULU DING,56,532001721,15,4,11,65.3320
+10th,Deerfield Beach,Joy Patel,56,577000121,15,4,11,65.3320
+11th,Coral Glades,Neville Jos,55,528002121,16,9,5,64.8655
+12th,INDIAN RIDGE MIDDLE,HARSHIT GUPTA,54,999800001,14,2,14,64.3989
+13th,Deerfield Beach,Nicholas Gloria,53,577009721,15,7,8,63.9324
+14th,Cypress Bay,Priscilla Tang,53,588003121,15,7,8,63.9324
+15th,Ferguson,GABRIEL JIMENEZ,49,507010221,14,7,9,62.0664
+16th,Deerfield Beach,Shran Kapoor,44,577009320,12,4,14,59.7339
+17th,Deerfield Beach,Raj Parikh,43,577008521,12,5,13,59.2674
+18th,Deerfield Beach,Kit Herman,43,577009420,12,5,13,59.2674
+19th,Deerfield Beach,Connor Mcvay,42,577008921,12,6,12,58.8009
+20th,Miami Springs,JORGE GONZALEZ,40,582005421,12,8,10,57.8678
+21st,Stoneman Douglas,RACHEL REISS,40,532002621,12,8,10,57.8678
+22nd,Miami Palmetto,Derek Chit,39,541007221,11,5,14,57.4013
+23rd,Cypress Bay,Tristen Yang,39,588003721,13,13,4,57.4013
+24th,Miami Springs,KARINA QUINTANA,39,582002421,12,9,9,57.4013
+25th,American Heritage (Plantation),Maximillian Major,37,506000621,10,3,17,56.4683
+26th,American Heritage - P. B,Andrew Steinberg,37,526002621,10,3,17,56.4683
+27th,Miami Springs Middle School,Alexander Jimenez,36,582101921,10,4,16,56.0018
+28th,Deerfield Beach,William Russotto,36,577007920,10,4,16,56.0018
+29th,Stoneman Douglas,ROLYNN TE,36,532002121,11,8,11,56.0018
+30th,Miami Springs,MADISON KREITNER,35,582004621,11,9,10,55.5353
+31st,RANSOM EVERGLADES,Alexander Danly,32,519000121,9,4,17,54.1358
+32nd,Deerfield Beach,Kevin Ta,30,577007720,9,6,15,53.2028
+33rd,Deerfield Beach,Andres Badel,29,577009920,10,11,9,52.7362
+34th,Stoneman Douglas,KEAN VILLARTA,27,532002321,8,5,17,51.8032
+35th,Cooper City,Daniel Johnson,26,565002621,10,14,6,51.3367
+36th,RANSOM EVERGLADES,Max Grad,26,519002821,8,6,16,51.3367
+37th,Miami Springs,JENNIFER ESCALONA,25,582007920,8,7,15,50.8702
+38th,Westland Hialeah Senior HS,Tony Cardoso,25,504500121,11,19,0,50.8702
+39th,JP Taravella,PERRY CASTILLO,25,533000221,9,11,10,50.8702
+40th,Coral Springs High School,Nelson Ysabel,24,515000421,7,4,19,50.4037
+41st,Arvida Middle School,DANIELLE COOGAN,23,557113121,6,1,23,49.9372
+42nd,American Heritage (Plantation),Maggie Swerdloff,23,506001120,7,5,18,49.9372
+43rd,Miami Springs Middle School,Leandro Coba,22,582102021,7,6,17,49.4707
+44th,Cypress Bay,Andrena Oh,20,588001821,7,8,15,48.5377
+45th,Miami Palmetto,Chris Huffman,20,541003821,7,8,15,48.5377
+46th,Arvida Middle School,TORI BURSTEIN,20,557113021,6,4,20,48.5377
+47th,Westland Hialeah Senior HS,Mathew Vidal,20,504501421,10,20,0,48.5377
+48th,Arvida Middle School,NATALIA FIGUEROA,19,557113320,6,5,19,48.0712
+49th,Ferguson,DAVID SOTOLONGO,19,507010720,6,5,19,48.0712
+50th,Belen Jesuit Prep,Ricardo Martinez,19,535003820,6,5,19,48.0712
+51st,Miami Springs Middle School,Gabriel Hernandez,18,582102121,5,2,23,47.6047
+52nd,Miami Palmetto,Carmen Castelblanco,18,541003521,6,6,18,47.6047
+53rd,Deerfield Beach,Kelly Moya,18,577008720,7,10,13,47.6047
+54th,Arvida Middle School,ASHWIN BHAT,17,557112921,7,11,12,47.1382
+55th,American Heritage (Plantation),Kiera Parrish,17,506000921,5,3,22,47.1382
+56th,JP Taravella,D'VORAN McINTOSH,15,533000521,5,5,20,46.2051
+57th,Coral Glades,Theoderick Besana,15,528000121,5,5,20,46.2051
+58th,Westland Hialeah Senior HS,Ana Crespo,15,504500021,9,21,0,46.2051
+59th,Belen Jesuit Prep,Cristian Jimenez,14,535007920,5,6,19,45.7386
+60th,Miami Springs,RYAN BERMUDEZ,14,582005020,6,10,14,45.7386
+61st,Arvida Middle School,JUAN FERNANDEZ,13,557113220,4,3,23,45.2721
+62nd,Belen Jesuit Prep,Kevin Rodriguez,13,535004520,6,11,13,45.2721
+63rd,Miami Springs,AZALIE DUQUE,13,582007820,5,7,18,45.2721
+64th,West Broward High School,Hannah Forman,13,534006921,5,7,18,45.2721
+65th,Belen Jesuit Prep,Myles Bachrach,13,535002620,4,3,23,45.2721
+66th,Parkway Middle School,shania stephens,12,527101321,5,8,17,44.8056
+67th,Belen Jesuit Prep,Alejandro Romero,12,535004621,5,8,17,44.8056
+68th,SILVER TRAIL MIDDLE,RISHI JAIN,11,999900001,4,5,21,44.3391
+69th,Spanish River High School,Sylvie Hyman,11,594011221,4,5,21,44.3391
+70th,Cooper City,Jacob Molina,11,565002021,5,9,16,44.3391
+71st,Miami Springs,JOSE SUAREZ,11,582008920,4,5,21,44.3391
+72nd,Miami Springs,FERNANDA CHOW,10,582005920,3,2,25,43.8726
+73rd,American High School,Tiffany Pomares,10,523000731,5,10,15,43.8726
+74th,JP Taravella,PAOLA BARRERA,10,533000021,8,22,0,43.8726
+75th,Belen Jesuit Prep,Eric DeCardenas,10,535003121,8,22,0,43.8726
+76th,Western,Kwanyong Lee,10,573011021,6,14,10,43.8726
+77th,Belen Jesuit Prep,Diego Anell,10,535001521,8,22,0,43.8726
+78th,Flanagan,Lauren Mades,10,591002821,8,22,0,43.8726
+79th,Belen Jesuit Prep,Jake Larson,9,535003020,5,11,14,43.4061
+80th,TERRA Environmental Research Institute,Roger Salgado,7,584500721,4,9,17,42.4731
+81st,Cooper City, ,6,565004020,3,6,21,42.0066
+82nd,Ferguson,ANTHONY REYES,5,507010421,7,23,0,41.5401
+83rd,Parkway Middle School,rickell matthews,5,527101721,2,3,25,41.5401
+84th,Miami Springs,MARIANELA PIMIENTA,5,582007320,3,7,20,41.5401
+85th,Arvida Middle School,MARIA RAMIREZ,5,557113420,2,3,25,41.5401
+86th,Coral Springs High School,Sarah Solomon,5,515000321,3,7,20,41.5401
+87th,Miami Springs,JESSICA APONTE,5,582006920,3,7,20,41.5401
+88th,Arvida Middle School,PAULA BARRIOS,4,557112821,4,12,14,41.0736
+89th,Stoneman Douglas,JIA LIANG,4,532001920,3,8,19,41.0736
+90th,Deerfield Beach,Ryan Lacava,4,577009020,4,12,14,41.0736
+91st,Belen Jesuit Prep,Jonathan Lucas,3,535003320,3,9,18,40.6070
+92nd,Miami Springs,TYLER BARNES,3,582009020,2,5,23,40.6070
+93rd,Ferguson,ALEJANDRO BALARI,3,507010021,3,9,18,40.6070
+94th,Miami Springs Middle School,Philip Montano,2,582100821,2,6,22,40.1405
+95th,Parkway Middle School,Berenique Carroll,1,527100301,4,15,11,39.6740
+96th,Coral Springs High School,Alexis Romeo,1,515000221,2,7,21,39.6740
+97th,TERRA Environmental Research Institute,Claudia Eng,1,584501121,3,11,16,39.6740
+98th,West Broward High School,Philipe Cruz,-1,534008021,2,9,19,38.7410
+99th,Spanish River High School,Kirsten Olsen,-2,594011421,3,14,13,38.2745
+100th,Miami Springs,KEVIN PAZ,-3,582006320,3,15,12,37.8080
+101st,Coral Glades,Harpreet Kaur,-3,528002321,1,7,22,37.8080
+102nd,Coral Glades,Lauren Bertino,-4,528000021,2,12,16,37.3415
+103rd,Miami Springs,GINA STONEY,-4,582008420,0,4,26,37.3415
+104th,Ferguson,KATHERINE LEMUS,-13,507010321,0,13,17,33.1429

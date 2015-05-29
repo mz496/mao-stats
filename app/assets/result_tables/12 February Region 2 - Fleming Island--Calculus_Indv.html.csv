@@ -1,0 +1,103 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,John Phillpot,120,295000651,30,0,0,72.2643
+2nd,Buchholz,Bryan Li,115,295004251,29,1,0,70.6011
+3rd,Buchholz,Hansol Kang,115,295004051,29,1,0,70.6011
+4th,Buchholz,Alexander Sappington,110,295004751,28,2,0,68.9378
+5th,Buchholz,Katherine Qiu,105,295004452,27,3,0,67.2746
+6th,Eastside,Jon Claus,105,280000551,27,3,0,67.2746
+7th,Eastside,Tahsis Claus,103,280000651,26,1,3,66.6093
+8th,Eastside,Rupa Bose,102,280000151,26,2,2,66.2767
+9th,Eastside,David Liu,96,280003251,25,4,1,64.2808
+10th,Buchholz,Antony Gillette,93,295000350,24,3,3,63.2829
+11th,Buchholz,Fanchao Zhu,91,295001250,23,1,6,62.6176
+12th,Buchholz,David Bai,91,295003852,24,5,1,62.6176
+13th,Oak Hall,CHAE LIM,91,249012251,24,5,1,62.6176
+14th,Buchholz,Jingyi Ye,89,295001150,23,3,4,61.9523
+15th,Spruce Creek,Michael Mankbadi,88,267017351,23,4,3,61.6197
+16th,Buchholz,Ming Cao,86,295005052,23,6,1,60.9544
+17th,Spruce Creek,Aashish Lalani,86,267017151,22,2,6,60.9544
+18th,Stanton College Preparatory School,Tuongvan Le,85,296002351,22,3,5,60.6218
+19th,Spruce Creek,Emmet Harrington,82,267016852,21,2,7,59.6238
+20th,Buchholz,George Tedder,81,295003550,22,7,1,59.2912
+21st,Gainesville High School,Eli Carter,80,268000251,21,4,5,58.9585
+22nd,Buchholz,David Annable,77,295000150,21,7,2,57.9606
+23rd,Spruce Creek,Brian LaStarza,75,267017251,20,5,5,57.2953
+24th,Stanton College Preparatory School,Michael Cheiken,75,296002651,20,5,5,57.2953
+25th,Gainesville High School,Mark Barbet,74,268000051,19,2,9,56.9627
+26th,Spruce Creek,Eric Rose,72,267018050,19,4,7,56.2974
+27th,Flagler Palm Coast,LARRY TESLER,70,221031951,18,2,10,55.6321
+28th,Bolles,Da Ying,70,252002251,18,2,10,55.6321
+29th,Oak Hall,CHRIS ZHOU,69,249000151,18,3,9,55.2995
+30th,Spruce Creek,Megan Reynolds,68,267017952,18,4,8,54.9668
+31st,Paxon School,Robert Ramirez,68,250020051,19,8,3,54.9668
+32nd,Spruce Creek,Corey Holman,67,267017050,17,1,12,54.6342
+33rd,Spruce Creek,Kevin Warren,67,267018450,18,5,7,54.6342
+34th,Stanton College Preparatory School,Mohan Ravi,67,296003052,18,5,7,54.6342
+35th,Buchholz,Golda Sinyavskaya,65,295005250,17,3,10,53.9689
+36th,Stanton College Preparatory School,Daniel Josol,63,296002452,17,5,8,53.3036
+37th,Flagler Palm Coast,ELIZABETH WANG,62,221033051,17,6,7,52.9710
+38th,Nease High School,Courtney Ligon,60,290000651,16,4,10,52.3057
+39th,Flagler Palm Coast,JONATHAN HAYDAK,60,221031051,18,12,0,52.3057
+40th,Gainesville High School,Beorn Wagner,60,268006552,17,8,5,52.3057
+41st,Bolles,Edgar Aranda-Michel,58,252000152,15,2,13,51.6404
+42nd,Spruce Creek,Rami Okasha,58,267017551,16,6,8,51.6404
+43rd,Buchholz,Justin Rafanan,58,295005750,15,2,13,51.6404
+44th,Buchholz,Haeun Jung,58,295000450,16,6,8,51.6404
+45th,Gainesville High School,Aileen Phillips,56,268006651,15,4,11,50.9751
+46th,Matanzas H. S.,Marielena Dias,55,228000351,14,1,15,50.6425
+47th,Nease High School,Bryce McKenzie,55,290000151,14,1,15,50.6425
+48th,Nease High School,Logan Stern,55,290000251,15,5,10,50.6425
+49th,Eastside,Michael Lewis,54,280002852,15,6,9,50.3098
+50th,Nease High School,Lindsey Mitchell,53,290000352,14,3,13,49.9772
+51st,Gainesville High School,Kristen Dorval,53,268000151,14,3,13,49.9772
+52nd,Bolles,Zhongyuan Ying,53,252001851,15,7,8,49.9772
+53rd,Spruce Creek,Philly Tang,51,267018250,13,1,16,49.3119
+54th,Bolles,KuanLuu Chen,50,252000051,13,2,15,48.9792
+55th,Paxon School,Jay Hakimi,48,250030251,14,8,8,48.3140
+56th,Spruce Creek,Brandon Tse,48,267018350,13,4,13,48.3140
+57th,Bolles,Ryan Smith,46,252000552,13,6,11,47.6487
+58th,Flagler Palm Coast,RYAN MCDERMOTT,45,221031851,13,7,10,47.3160
+59th,Stanton College Preparatory School,Sarah Davis,45,296005161,12,3,15,47.3160
+60th,Oak Hall, ,44,249009151,12,4,14,46.9834
+61st,Bolles,Yiqiu Gao,43,252001452,12,5,13,46.6507
+62nd,Spruce Creek,Fernando Cunha,42,267016750,11,2,17,46.3181
+63rd,Nease High School,Vivian Nguyen,40,290002052,12,8,10,45.6528
+64th,Paxon School,Jason Hong,40,250020452,14,16,0,45.6528
+65th,Bolles,Yiming Hu,40,252002051,11,4,15,45.6528
+66th,Flagler Palm Coast,AMANDA WILSON,39,221033252,11,5,14,45.3202
+67th,Nease High School,Steven Schwartz,39,290001451,11,5,14,45.3202
+68th,Spruce Creek,Matthew Pollock,38,267017752,11,6,13,44.9875
+69th,Gainesville High School,Jesse Gordon,38,268006752,11,6,13,44.9875
+70th,Paxon School,Jandell Sapin,36,250020151,11,8,11,44.3222
+71st,Bolles,Geoffrey McQueen,35,252000352,10,5,15,43.9896
+72nd,Nease High School,Gabriel Padilla,35,290001252,11,9,10,43.9896
+73rd,Flagler Palm Coast,CHARLIE HENG,35,221033652,10,5,15,43.9896
+74th,Leesburg High School,Vanessa Holt,34,287001651,9,2,19,43.6569
+75th,Nease High School,Winnie Shao,33,290001852,11,11,8,43.3243
+76th,Buchholz,Gianmarco Suarez,33,295005852,11,11,8,43.3243
+77th,Spruce Creek,Ryan Marracino,32,267017452,9,4,17,42.9917
+78th,Flagler Palm Coast,AUSTIN BERRY,31,221030750,11,13,6,42.6590
+79th,Matanzas H. S.,GIANNA MASTROSTEFANO,30,228000451,8,2,20,42.3264
+80th,Flagler Palm Coast,KYLE RUSSELL,30,221033352,8,2,20,42.3264
+81st,Oak Hall,MARIA KORAH,28,249007451,8,4,18,41.6611
+82nd,Leesburg High School,Jaclyn Tan,28,287003051,8,4,18,41.6611
+83rd,Stanton College Preparatory School,Jan Jaro,26,296006651,8,6,16,40.9958
+84th,Spruce Creek,Mitchell Artin,26,267016650,7,2,21,40.9958
+85th,Spruce Creek,Harshil Patel,25,267017650,7,3,20,40.6632
+86th,Gainesville High School,Shelby Altomari,24,268002252,7,4,19,40.3305
+87th,Paxon School,SAI POLINENI,24,250002151,8,8,14,40.3305
+88th,Flagler Palm Coast,TRACEY ADAMS,22,221030050,7,6,17,39.6652
+89th,Flagler Palm Coast,KACIE JOHNSTON,18,221030850,6,6,18,38.3347
+90th,Leesburg High School,Mary Sligh,18,287002552,5,2,23,38.3347
+91st,Oak Hall,CAITLIN BEAUCHAMP,18,249001452,5,2,23,38.3347
+92nd,Leesburg High School,StacyAnn Robinson,15,287002252,5,5,20,37.3367
+93rd,Flagler Palm Coast,DAVID PETKOVSEK,15,221030950,5,5,20,37.3367
+94th,Leesburg High School,Jessica Lammers,14,287001051,4,2,24,37.0041
+95th,Leesburg High School,Bryson Cash,14,287000652,4,2,24,37.0041
+96th,Flagler Palm Coast,DANIEL IVANOVSKAYA,11,221032052,5,9,16,36.0062
+97th,Oak Hall,MANNY MARICHAL,10,249011152,3,2,25,35.6735
+98th,Leesburg High School,Jessica Maestas,9,287001751,3,3,24,35.3409
+99th,Matanzas H. S.,Eurika PEN,9,228000651,3,3,24,35.3409
+100th,Leesburg High School,Kari Scovack,6,287003652,2,2,26,34.3429
+101st,Paxon School,Dabrisha Bradley,4,250010452,4,12,14,33.6777
+102nd,Flagler Palm Coast,CHARLES ALBINGER,-20,221030450,2,28,0,25.6942

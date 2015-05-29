@@ -1,0 +1,132 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Parkway Middle School,Yuru Niu,150,527101221,30,0,0,76.4729
+2nd,Doral Academy Middle,Brian Lu,141,537700921,28,1,1,73.5134
+3rd,Ransom Everglades,John Mistele,140,519000721,28,2,0,73.1845
+4th,Falcon Cove Middle School,Jalen Jiang,134,541100821,26,0,4,71.2115
+5th,Ransom Everglades,Eric Cai,134,519006721,26,0,4,71.2115
+6th,American Heritage (Plantation),Brian Haimes,130,506003621,26,4,0,69.8961
+7th,American Heritage (Plantation),Matthew Robins,130,506004421,26,4,0,69.8961
+8th,American Heritage (Plantation),Suganth Kannan,125,506006320,25,5,0,68.2519
+9th,Parkway Middle School,Kofi Blake,124,527101721,24,2,4,67.9231
+10th,Ransom Everglades,Joon Kim,120,519006621,24,6,0,66.6077
+11th,American Heritage (Plantation),Barath Triumala,120,506004721,24,6,0,66.6077
+12th,Falcon Cove Middle School,Angela Liu,119,541101521,23,3,4,66.2789
+13th,Cypress Bay,Christian Marin,118,588030021,23,4,3,65.9500
+14th,Falcon Cove Middle School,Snow Kang,117,541101021,23,5,2,65.6212
+15th,Community Sch Naples,Austin Farrugia,114,562003021,22,4,4,64.6347
+16th,Tequesta Trace Middle School,Omar Pulido,113,500102620,22,5,3,64.3058
+17th,Falcon Cove Middle School,Shawn Hatchwell,109,541100721,20,1,9,62.9905
+18th,Community Sch Naples,Dave Bohao,106,562004921,21,8,1,62.0039
+19th,Gulf Coast,Trevor Reilly,105,575005221,20,5,5,61.6751
+20th,Ferguson,CHRISTIAN FLORES,104,507001821,20,6,4,61.3463
+21st,Seacrest High School,Blake Burchett,101,555703321,19,5,6,60.3597
+22nd,Indian Ridge Middle School,Gene Bryan,99,520100221,18,3,9,59.7021
+23rd,Cypress Bay,Alissa Kushner,95,588029221,17,3,10,58.3867
+24th,Cypress Bay,Guo Qian,95,588031121,18,7,5,58.3867
+25th,Deerfield Beach,Meghan Ta,95,577006221,18,7,5,58.3867
+26th,Falcon Cove Middle School,Tyger Lin,94,541101920,17,4,9,58.0579
+27th,Fort Myers,Ashhab Thakur,93,423002421,18,9,3,57.7290
+28th,Falcon Cove Middle School,Maxwell Gu,92,541100920,18,10,2,57.4002
+29th,Florida Chrisitan School of Dade,Alana Buznego,91,524500421,16,3,11,57.0713
+30th,Falcon Cove Middle School,Antares Tobelem,90,541103020,16,4,10,56.7425
+31st,Community Sch Naples,Hurst Clinton,90,562002821,17,8,5,56.7425
+32nd,Ransom Everglades,Patrick Visan,89,519003520,17,9,4,56.4136
+33rd,Ransom Everglades,Timothy O'Brien,88,519000821,16,6,8,56.0848
+34th,Community Sch Naples,Ryan Jaffe,87,562005320,16,7,7,55.7560
+35th,Naples,HsihTing Wu,86,545001221,15,4,11,55.4271
+36th,Falcon Cove Middle School,Jenice An,86,541100020,16,8,6,55.4271
+37th,American Heritage (Plantation),Justin Yang,86,506008421,16,8,6,55.4271
+38th,Deerfield Beach,Richa Parikh,82,577005721,14,4,12,54.1118
+39th,Seacrest High School,Julia Basile,81,555702821,14,5,11,53.7829
+40th,Tequesta Trace Middle School,Hunter Rockley,80,500102720,13,2,15,53.4541
+41st,Ferguson,SORYAN KUMAR,79,507003321,13,3,14,53.1252
+42nd,Falcon Cove Middle School,Camila Tussie,77,541103220,13,5,12,52.4676
+43rd,American Heritage - Boca/Delray,Noah Schreibman,77,526003821,15,13,2,52.4676
+44th,Doral Academy Middle,Jesus Nunez,76,537701021,12,2,16,52.1387
+45th,Community Sch Naples,Ben Yitzhak,75,562004521,15,15,0,51.8099
+46th,Seacrest High School,Augie Boyd,75,555703521,12,3,15,51.8099
+47th,Cypress Bay,Rona Wang,74,588032720,14,12,4,51.4810
+48th,Community Sch Naples,Kristina Cuello,73,562002920,12,5,13,51.1522
+49th,Ferguson,SMITA BHATTACHARJEE,73,507005721,12,5,13,51.1522
+50th,Saint Andrew’s School,Myles Byrne,73,566504121,12,5,13,51.1522
+51st,Doral Academy High,Jose Santos,73,537505021,12,5,13,51.1522
+52nd,Parkway Middle School,Kinord Cinord,71,527101421,13,11,6,50.4945
+53rd,Fort Myers,Xinyue Liang,71,423002621,12,7,11,50.4945
+54th,Cypress Bay,Rosa Wang,71,588032821,12,7,11,50.4945
+55th,Indian Ridge Middle School,Brooke Benedetto,70,520100021,14,16,0,50.1657
+56th,Seacrest High School,Brian Flynn,69,555703621,12,9,9,49.8368
+57th,JP Taravella,Niklas Goernitz,69,533000420,12,9,9,49.8368
+58th,Falcon Cove Middle School,Emily Wen,69,541102520,11,5,14,49.8368
+59th,Falcon Cove Middle School,Michelle Wu,68,541102620,12,10,8,49.5080
+60th,Florida Chrisitan School of Dade,Eric Echeverriva,67,524501121,13,15,2,49.1792
+61st,Community Sch Naples,Olivia Murgalo,67,562004620,12,11,7,49.1792
+62nd,Labelle High School,Ezequiel Juarez,66,510001721,10,4,16,48.8503
+63rd,Saint Andrew's Middle School,Carson Fregosi,65,566600221,10,5,15,48.5215
+64th,Palmetto Ridge,Camden Grundemen,65,518000221,13,17,0,48.5215
+65th,JP Taravella,Kaitlyn Abella,64,533000020,11,10,9,48.1926
+66th,Falcon Cove Middle School,George Zhu,64,541102820,10,6,14,48.1926
+67th,Fort Myers,Charisma Naik,63,423001121,11,11,8,47.8638
+68th,Community Sch Naples,Maria Vernava,63,562003120,9,3,18,47.8638
+69th,JP Taravella,Chelsea Feuer,61,533000320,10,9,11,47.2061
+70th,Palmetto Ridge,Geraldo Atilles,61,518000121,11,13,6,47.2061
+71st,Doral Academy High,Ana Guimaraes,61,537504121,9,5,16,47.2061
+72nd,Florida Chrisitan School of Dade,Rebeca Abreu,60,524500021,9,6,15,46.8773
+73rd,Labelle High School,Emma White,59,510002021,8,3,19,46.5484
+74th,Western,Kyle Olson,59,573000020,9,7,14,46.5484
+75th,American Heritage (Plantation),Claire Generato,59,506003520,10,11,9,46.5484
+76th,Deerfield Beach,Cameron Mcvay,58,577004821,8,4,18,46.2196
+77th,Saint Andrew’s School,Rylie Torretti,58,566503821,9,8,13,46.2196
+78th,Falcon Cove Middle School,Kyle Cossio,58,541100520,8,4,18,46.2196
+79th,Doral Academy High,Franco Vera,56,537505121,9,10,11,45.5619
+80th,Miami Springs,THOMAS SHELOW,56,582001821,8,6,16,45.5619
+81st,Mater Lakes Academy,Andre Hernandez,55,559001321,10,15,5,45.2331
+82nd,Miami Springs,BRENT CATES,54,582000021,8,8,14,44.9042
+83rd,JP Taravella,Gianfranco Villanova,54,533000821,10,16,4,44.9042
+84th,Gulf Coast,Linnea Dulikravich,53,575004021,9,13,8,44.5754
+85th,Mater Lakes Academy,David Lopez,53,559001121,7,5,18,44.5754
+86th,Falcon Cove Middle School,Justin Chen,52,541104020,8,10,12,44.2465
+87th,Naples,Daniel Quintero,52,545002821,7,6,17,44.2465
+88th,Cape Coral High School,Christopher Souchick,52,418002921,8,10,12,44.2465
+89th,Community Sch Naples,Jacob Buckheit,52,562002620,8,10,12,44.2465
+90th,Coral Glades,Karyn Dasilva,51,528001521,6,3,21,43.9177
+91st,American Heritage - Boca/Delray,Clayton Cole,51,526006021,8,11,11,43.9177
+92nd,Deerfield Beach,Erin Connors,51,577001521,8,11,11,43.9177
+93rd,Westland Hialeah Senior HS,Luis Herran,51,504502921,10,19,1,43.9177
+94th,Seacrest High School,Jacob Hartman,51,555703920,10,19,1,43.9177
+95th,Mater Lakes Academy,Suselix Ferreira,51,559001221,7,7,16,43.9177
+96th,Cape Coral High School,Heather Souchick,50,418002721,10,20,0,43.5889
+97th,Miami Palmetto,Sanjoy Kundu,48,541004521,8,14,8,42.9312
+98th,JP Taravella,Trevor Holden,47,533000510,6,7,17,42.6023
+99th,Parkway Middle School,Pierre Vilme,47,527101121,8,15,7,42.6023
+100th,American Heritage - Boca/Delray,Mira Sharma,46,526005921,6,8,16,42.2735
+101st,Seacrest High School,JT Wilkinson,46,555703420,6,8,16,42.2735
+102nd,JP Taravella,Rachel Delgado,46,533000220,6,8,16,42.2735
+103rd,Coral Glades,Gisell Hernandez,46,528002821,6,8,16,42.2735
+104th,Gulf Coast,Michael Roe,45,575000321,6,9,15,41.9447
+105th,Miami Springs,LESLIE PEREZ,45,582002021,4,1,25,41.9447
+106th,Westland Hialeah Senior HS,Jessabel Smith,43,504500521,5,7,18,41.2870
+107th,Palmetto Ridge,Jose Velez,43,518002321,6,11,13,41.2870
+108th,Cape Coral High School,Jarod Rehmann,42,418003121,4,4,22,40.9581
+109th,Saint Andrew's Middle School,Carson Folk,42,566600321,4,4,22,40.9581
+110th,Florida Chrisitan School of Dade,Daniela Cerboncini,42,524500721,5,8,17,40.9581
+111th,Doral Academy High,Luis Echegoyen,42,537504320,5,8,17,40.9581
+112th,JP Taravella,Savannah Woller,41,533000921,5,9,16,40.6293
+113th,Miami Palmetto,Jean Turban,41,541009921,4,5,21,40.6293
+114th,Naples,Hadassa Rocha,40,545000221,5,10,15,40.3005
+115th,Cape Coral High School,JeanPaul Mathew,40,418003221,8,22,0,40.3005
+116th,Westland Hialeah Senior HS,Eleany Perez,40,504502821,4,6,20,40.3005
+117th,Palmetto Ridge,Booker Tamm,39,518002021,3,3,24,39.9716
+118th,Ferguson,LUISANA CAICEDO,39,507001721,4,7,19,39.9716
+119th,Coral Glades,Andrew DeSousa,36,528001621,3,6,21,38.9851
+120th,Labelle High School,Mario Acevedo,35,510001521,3,7,20,38.6563
+121st,Doral Academy High,David Mizzell,35,537503921,3,7,20,38.6563
+122nd,Labelle High School,Luis Mendez,33,510001920,2,5,23,37.9986
+123rd,Community Sch Naples,Peyton Short,32,562005920,3,10,17,37.6697
+124th,Labelle High School,Emma Cahoon,32,510001621,2,6,22,37.6697
+125th,Miami Springs,WALEED AHMED,32,582002621,5,18,7,37.6697
+126th,Labelle High School,Eriverto Figueroa,31,510000120,1,3,26,37.3409
+127th,Mater Lakes Academy,Keven Perez,29,559001520,1,5,24,36.6832
+128th,Mater Lakes Academy,Camila Scobino,29,559004521,1,5,24,36.6832
+129th,Westland Hialeah Senior HS,Karenthia Wilmore,29,504501821,3,13,14,36.6832
+130th,Naples,Nicholas Ayan,23,545008321,1,11,18,34.7102
+131st,Deerfield Beach,David Marulanda,19,577003520,1,15,14,33.3948

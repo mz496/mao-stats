@@ -1,0 +1,72 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Freedom,Harnjoo Kim,90,466002821,23,2,5,78.8202
+2nd,Berkeley Prep,Adam Slakter,79,405007221,21,5,4,73.5575
+3rd,King,Viraj Patel,78,435003521,20,2,8,73.0791
+4th,Berkeley Prep,Jenn Hobbs,74,405006220,19,2,9,71.1654
+5th,St. Stephen's Episcopal,BRIAN GENTRY,58,489000321,16,6,8,63.5105
+6th,King,Boya Wang,58,435006921,16,6,8,63.5105
+7th,Berkeley Prep,Reed Miller,53,405006521,16,11,3,61.1184
+8th,Berkeley Prep,Rob Freedy,53,405006021,15,7,8,61.1184
+9th,Berkeley Prep,Daniel Rovner,52,405006821,15,8,7,60.6400
+10th,King,Indira Ranaweera,52,435003621,14,4,12,60.6400
+11th,St. Stephen's Episcopal,SHREYA PATEL,51,489000521,14,5,11,60.1615
+12th,Stewart Middle,Brian Neuman,51,413100721,14,5,11,60.1615
+13th,Community School of Naples,Jack Eynon,50,562003921,16,14,0,59.6831
+14th,King,Kishan Shingala,50,435005921,14,6,10,59.6831
+15th,Canterbury (Lee),John Badir,49,411002221,14,7,9,59.2047
+16th,Tampa Bay Tech,Suzzie Harmon,45,461003621,13,7,10,57.2910
+17th,Stewart Middle,Alec Goff,44,413100421,13,8,9,56.8125
+18th,Oasis Middle,John O'Donnell,44,442101121,12,4,14,56.8125
+19th,Canterbury (Lee),Anastasia Snetkova,42,411002021,12,6,12,55.8557
+20th,Berkeley Prep,Adam Wolf,41,405007620,12,7,11,55.3773
+21st,Gaither,Nisha Kishore,40,426001121,14,16,0,54.8988
+22nd,Cape Coral,RYAN EARL,37,418002121,11,7,12,53.4635
+23rd,Stewart Middle,Ryan LaVoy,36,413100621,12,12,6,52.9851
+24th,Tampa Bay Tech,Caitlin Edge,36,461003721,13,16,1,52.9851
+25th,Riverdale, ,35,059102221,13,17,0,52.5067
+26th,Naples,Langdon Lile,35,545008721,10,5,15,52.5067
+27th,Naples,YenTing Wu,33,545009420,12,15,3,51.5498
+28th,Cape Coral,KRYSTIAN SICARD,32,418002421,9,4,17,51.0714
+29th,Tampa Bay Tech,Erica Comer,32,461003821,12,16,2,51.0714
+30th,Berkeley Prep,Anderson Baldy,31,405005620,11,13,6,50.5930
+31st,North Fort Myers,Alyssa Carpinteri,30,433001121,12,18,0,50.1146
+32nd,Cape Coral,NICOLE COHEN,28,418002021,8,4,18,49.1577
+33rd,Community School of Naples,Paige Hebble,27,562004021,10,13,7,48.6793
+34th,Naples,Magali Medina,27,545008821,10,13,7,48.6793
+35th,Cape Coral,KELLY KIM,25,418002221,8,7,15,47.7224
+36th,Canterbury (Lee),Josh Liebowitz,25,411000821,8,7,15,47.7224
+37th,North Fort Myers,Caitlin Lindsay,25,433001321,11,19,0,47.7224
+38th,Naples,Sidney Hanson,25,545008420,11,19,0,47.7224
+39th,Middleton,Riley MacDonald,24,468000021,8,8,14,47.2440
+40th,Community School of Naples,Christian Zimm,24,562005221,10,16,4,47.2440
+41st,Fort Myers,JACOB FAGLIARONE,24,423001121,7,4,19,47.2440
+42nd,Canterbury (Lee),Mark Richardson,24,411002621,7,4,19,47.2440
+43rd,Gaither,Jacqueline Lawson,23,426000021,8,9,13,46.7656
+44th,Gaither,Emily Daboll,22,426000821,7,6,17,46.2871
+45th,Stewart Middle,Sean Vennett,22,413100521,7,6,17,46.2871
+46th,Naples,Alex Floyd,22,545008121,7,6,17,46.2871
+47th,Tampa Bay Tech,Joyce Varghese,21,461003321,10,19,1,45.8087
+48th,Community School of Naples,Jordan Hawkesworth,21,562004521,6,3,21,45.8087
+49th,Bishop Verot,Elizabeth Ardolino,20,453000020,8,12,10,45.3303
+50th,Fort Myers,JORDAN WEIL,18,423004621,7,10,13,44.3734
+51st,Berkeley Prep,Evan Potts,17,405011020,6,7,17,43.8950
+52nd,Naples,Elizabeth Troutman,17,545009321,5,3,22,43.8950
+53rd,Berkeley Prep,Pranavi Ramireddy,15,405006720,6,9,15,42.9381
+54th,Cape Coral,SNOW WHITE,13,418001820,6,11,13,41.9813
+55th,Naples,Andy Morgado,12,545008920,4,4,22,41.5028
+56th,Middleton,Austin Morgan,11,468001421,7,17,6,41.0244
+57th,Riverdale, ,11,059102021,5,9,16,41.0244
+58th,Community School of Naples, ,11,562066520,6,13,11,41.0244
+59th,Riverdale, ,10,059102121,5,10,15,40.5460
+60th,Wharton,ANTHONY VILLAGARCIA,9,485002221,5,11,14,40.0676
+61st,Mariner,Marita Augirre,9,473001521,5,11,14,40.0676
+62nd,Naples,Mohammed Ahsan,9,545007520,7,19,4,40.0676
+63rd,Riverdale, ,9,059101920,6,15,9,40.0676
+64th,Berkeley Prep,Cody Davis,8,405005920,4,8,18,39.5891
+65th,Mariner,Alisa Scribner,7,473002721,4,9,17,39.1107
+66th,Fort Myers,CHRIS CHRISTOFF,7,423004721,4,9,17,39.1107
+67th,Cape Coral,SIDNEY MATTA,4,418002320,3,8,19,37.6754
+68th,Golden Gate,Usbeidy Gutierrez,2,560000421,3,10,17,36.7186
+69th,North Fort Myers,Nicole Duque,0,433001221,6,24,0,35.7617
+70th,North Fort Myers,Miranda Morrow,-1,433001421,3,13,14,35.2833
+71st,Riverdale, ,-5,059102321,0,5,25,33.3696

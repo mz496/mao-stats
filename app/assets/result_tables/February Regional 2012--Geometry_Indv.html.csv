@@ -1,0 +1,87 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Victor Lin,110,295005021,28,2,0,67.4968
+2nd,Buchholz,Jason Ai,110,295004521,28,2,0,67.4968
+3rd,Lincoln Middle,Ben Wu,110,201103921,28,2,0,67.4968
+4th,Buchholz,Timmie Xie,110,295005922,28,2,0,67.4968
+5th,Buchholz,Lisa Lu,110,295005522,28,2,0,67.4968
+6th,Buchholz,David Hurst,105,295000222,27,3,0,65.9075
+7th,Buchholz,Kevin Noh,105,295005721,27,3,0,65.9075
+8th,Buchholz,Vincent Mei,105,295004421,27,3,0,65.9075
+9th,Eastside,Kelly Lampotang,102,280005621,26,2,2,64.9540
+10th,Lincoln Middle,Zhao Li,100,201103821,26,4,0,64.3183
+11th,Buchholz,Reva Ranka,100,295005820,26,4,0,64.3183
+12th,Buchholz,Becky Liao,100,295004722,26,4,0,64.3183
+13th,Spruce Creek,David Flasterstein,95,267005521,25,5,0,62.7290
+14th,Julia Landon Middle,Victoria Ge,92,200100021,24,4,2,61.7754
+15th,Eastside,Reiner Dizon,91,280007321,24,5,1,61.4576
+16th,Spruce Creek,Samuel Swanson,90,267007121,24,6,0,61.1397
+17th,Spruce Creek,Vincent Imbimbo,87,267006121,23,5,2,60.1862
+18th,Gainesville High School,KJ McIver,85,268009421,23,7,0,59.5504
+19th,Buchholz,Albert Zhou,85,295001520,23,7,0,59.5504
+20th,Eastside,Noble Chun,85,280006821,23,7,0,59.5504
+21st,Kanapaha Middle School,Kye Davis,84,209100421,22,4,4,59.2326
+22nd,Gainesville High School,Sean Benton,84,268011921,22,4,4,59.2326
+23rd,Spruce Creek,Edward Zamborsky,84,267007922,22,4,4,59.2326
+24th,Spruce Creek,Shreya Singireddy,75,267006222,20,5,5,56.3719
+25th,Lincoln Middle,Brandon Kim,73,201102221,20,7,3,55.7362
+26th,Lincoln Middle,Sam Cockey,68,201104422,19,8,3,54.1469
+27th,Gainesville High School,Christina Oakes,67,268010821,18,5,7,53.8290
+28th,Julia Landon Middle,JC Boers,67,200100621,19,9,2,53.8290
+29th,James W. Johnson Middle,Evan Qu,65,215100522,18,7,5,53.1933
+30th,Spruce Creek,Shahrose Kasim,62,267006320,18,10,2,52.2398
+31st,Spruce Creek,Jordan Truong,60,267007222,18,12,0,51.6041
+32nd,James W. Johnson Middle,Suhani Jain,59,215100122,17,9,4,51.2862
+33rd,Spruce Creek,Kristy Kim,58,267006722,17,10,3,50.9683
+34th,Kanapaha Middle School,Andrew Brodsky,57,209100321,16,7,7,50.6505
+35th,James W. Johnson Middle,Bhavik Desai,56,215100221,16,8,6,50.3326
+36th,Kanapaha Middle School,Muzi Wang,56,209101921,16,8,6,50.3326
+37th,James W. Johnson Middle,Anish Mirjankar,56,215100321,17,12,1,50.3326
+38th,Kanapaha Middle School,Rhen Davis,55,209100521,15,5,10,50.0148
+39th,Gainesville High School,Danny Oqendo,54,268012121,15,6,9,49.6969
+40th,Spruce Creek,Mike Requeno,53,267006620,15,7,8,49.3791
+41st,Spruce Creek,Connor Brok,53,267005121,16,11,3,49.3791
+42nd,Bolles,Neha Goel,53,252001921,14,3,13,49.3791
+43rd,Lincoln Middle,Andy Zhong,50,201103322,16,14,0,48.4255
+44th,Bolles,Corey Levinson,49,252002121,14,7,9,48.1077
+45th,James W. Johnson Middle,Ravi Patel,49,215100021,15,11,4,48.1077
+46th,Spruce Creek,Michelle He,47,267005920,14,9,7,47.4719
+47th,Lincoln Middle,Delaney Rua,46,201102620,13,6,11,47.1541
+48th,Kanapaha Middle School,Joey Mathews,45,209101322,15,15,0,46.8362
+49th,Nease High School,Adam Domingoes,44,290000221,14,12,4,46.5184
+50th,Spruce Creek,Nicholas Fichera,44,267005420,13,8,9,46.5184
+51st,Julia Landon Middle,Chase Welch,44,200101421,12,4,14,46.5184
+52nd,Fleming Island High,Matthew Knight,44,220001721,13,8,9,46.5184
+53rd,Gainesville High School,Katie White,44,268010722,13,8,9,46.5184
+54th,Lincoln Middle,Elizabeth Kim,43,201102320,13,9,8,46.2005
+55th,Eastside,Amy Tran,41,280005121,14,15,1,45.5648
+56th,Lincoln Middle,Upal Bose,41,201101821,13,11,6,45.5648
+57th,Nease High School,Jason Cochran,41,290000021,13,11,6,45.5648
+58th,Eastside,Eliyah Malik,38,280006022,11,6,13,44.6112
+59th,Eastside,Eric Brigham,38,280004322,11,6,13,44.6112
+60th,James W. Johnson Middle,Rashid Akbari,38,215101022,11,6,13,44.6112
+61st,James W. Johnson Middle,Solana Huang,37,215100422,12,11,7,44.2934
+62nd,Fleming Island High,Kate Bohn,37,220001421,11,7,12,44.2934
+63rd,Nease High School,Ashley Plant,36,290000921,12,12,6,43.9755
+64th,James W. Johnson Middle,Anuj Shah,35,215101121,10,5,15,43.6577
+65th,Fleming Island High,Arpit Patel,35,220002122,11,9,10,43.6577
+66th,Fleming Island High,Jon Dasher,34,220001521,12,14,4,43.3398
+67th,Kanapaha Middle School,Jacob Zumberg,33,209102122,11,11,8,43.0220
+68th,Lincoln Middle,Sonal Thakur,33,201102822,10,7,13,43.0220
+69th,Bolles,Dalton Sweat,30,252003221,12,18,0,42.0684
+70th,Gainesville High School,Sarah Howe,27,268012422,8,5,17,41.1148
+71st,Gainesville High School,Chris Niesen,27,268011422,8,5,17,41.1148
+72nd,Julia Landon Middle,Mandy Harris,26,200100821,11,18,1,40.7970
+73rd,Julia Landon Middle,Grant delaVasselais,26,200101322,9,10,11,40.7970
+74th,Julia Landon Middle,Nihal Kala,23,200100922,8,9,13,39.8434
+75th,Eastside,Priya Dave,21,280004422,6,3,21,39.2077
+76th,Bolles,Rohit Vishen,20,252002321,10,20,0,38.8899
+77th,Oak Hall,ALEC SHARKEY,18,249000321,6,6,18,38.2541
+78th,Eastside,Nichole Stuve,15,280004122,5,5,20,37.3006
+79th,Gainesville High School,Kelly Gordon,15,268011322,7,13,10,37.3006
+80th,Fleming Island High,Daniel Knight,14,220001620,6,10,14,36.9827
+81st,Lincoln Middle,Kara Fender,13,201102022,5,7,18,36.6649
+82nd,Kanapaha Middle School,Conner Phillips,8,209101622,6,16,8,35.0756
+83rd,Kanapaha Middle School,Reilly McDonald,7,209101422,3,5,22,34.7577
+84th,Oak Hall,MAKINSY FITSGERALD,3,249003321,4,13,13,33.4863
+85th,Oak Hall,BROOKE EVANS,-3,249002921,3,15,12,31.5792
+86th,Oak Hall,ZAC MACRACKEN,-6,249000121,3,18,9,30.6256

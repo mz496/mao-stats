@@ -1,0 +1,117 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Deerlake Middle,JESSIE CHI,120,185103611,30,0,0,68.0660
+2nd,Sanford Middle,Kyle Gettig,115,344103311,29,1,0,66.4487
+3rd,Fairview Middle,Jenny Kang,115,125103911,29,1,0,66.4487
+4th,Lincoln Middle,Lisa Lu,115,201102911,29,1,0,66.4487
+5th,Lincoln Middle,Ben Wu,110,201103711,28,2,0,64.8314
+6th,Montford Middle,Shinyoung Lee,110,151126511,28,2,0,64.8314
+7th,Lincoln Middle,Kevin Peng,110,201104212,28,2,0,64.8314
+8th,Fairview Middle,Awnish Choudhary,106,125100210,27,2,1,63.5376
+9th,Lincoln Middle,Jessica Lee,106,201102712,27,2,1,63.5376
+10th,Lincoln Middle,Kevin Noh,106,201103212,27,2,1,63.5376
+11th,Sanford Middle,Helen Tolley,105,344104511,27,3,0,63.2142
+12th,Deerlake Middle,ELLEN YU,105,185102311,27,3,0,63.2142
+13th,Montford Middle,Seunghyun Lee,105,151133910,27,3,0,63.2142
+14th,Lincoln Middle,Reva Ranka,105,201103411,27,3,0,63.2142
+15th,Lincoln Middle,Jason Ai,105,201101611,27,3,0,63.2142
+16th,Fairview Middle,Teja Jakkala,101,125107210,26,3,1,61.9204
+17th,Fairview Middle,Siddarth Kethireddy,100,125100711,26,4,0,61.5969
+18th,Montford Middle,Shiming Deng,100,151122911,26,4,0,61.5969
+19th,Sanford Middle,Reid Ferguson,100,344105610,26,4,0,61.5969
+20th,Deerlake Middle,SUNGSAN KIM,100,185100311,26,4,0,61.5969
+21st,Fairview Middle,Brian Lockwood,100,125100111,26,4,0,61.5969
+22nd,Sanford Middle,Raymund Vista,97,344104610,25,3,2,60.6266
+23rd,Sanford Middle,Kyle Cook,97,344103112,25,3,2,60.6266
+24th,Lincoln Middle,Victor Lin,96,201104412,25,4,1,60.3031
+25th,Williams Middle,Niha Ainpudi,96,468101411,25,4,1,60.3031
+26th,Fairview Middle,Andre Rodriguez,95,125101311,25,5,0,59.9796
+27th,Fairview Middle,Salma ElAzab,93,125107712,24,3,3,59.3327
+28th,Deerlake Middle,DANIEL ZHENG,93,185101511,24,3,3,59.3327
+29th,Sanford Middle,Sunash Sharma,92,344105410,24,4,2,59.0093
+30th,Williams Middle,Sathvik Palakurty,91,468101011,24,5,1,58.6858
+31st,Sanford Middle,Justin Raman,90,344104110,23,2,5,58.3624
+32nd,Sanford Middle,Neil Shah,90,344102711,24,6,0,58.3624
+33rd,Sanford Middle,Viraj Shah,88,344104310,23,4,3,57.7155
+34th,Sanford Middle,Satya Patel,86,344104012,23,6,1,57.0686
+35th,Montford Middle,Annie Watts,84,151132910,22,4,4,56.4217
+36th,Berkeley Prep,Ryan Divers,83,405000811,21,1,8,56.0982
+37th,Sanford Middle,Mahzain Malik,80,344103912,21,4,5,55.1278
+38th,Jackson Heights Middle,NATHAN ZHANG,80,304100111,21,4,5,55.1278
+39th,Mulrennan Middle School,Matt Panepinto,78,487101911,20,2,8,54.4809
+40th,Montford Middle,Stacy Wang,78,151132710,21,6,3,54.4809
+41st,Berkeley Prep,Jessica Forman,77,405000910,20,3,7,54.1575
+42nd,Berkeley Prep,Robert Danco,75,405000611,20,5,5,53.5106
+43rd,Stewart Middle,Alex Harris,75,413100111,20,5,5,53.5106
+44th,Tomlin Middle School,Dhara Patel,75,473100811,21,9,0,53.5106
+45th,Tomlin Middle School,Adrianna Gianino,74,473100411,20,6,4,53.1871
+46th,Montford Middle,Amanda Velez-Cortes,72,151132111,20,8,2,52.5402
+47th,Berkeley Prep,Sarah Cohen,72,405000411,20,8,2,52.5402
+48th,Sanford Middle,Diptodip Deb,70,344103211,19,6,5,51.8933
+49th,Williams Middle,Sumukh Shivakumar,70,468101511,19,6,5,51.8933
+50th,Mulrennan Middle School,Jesse Gerlach,70,487100611,20,10,0,51.8933
+51st,Montford Middle,Doreen Yang,69,151133611,19,7,4,51.5699
+52nd,Berkeley Prep,Lin FuRegnier,65,405001111,18,7,5,50.2761
+53rd,Berkeley Prep,Zac Copper,64,405000510,17,4,9,49.9526
+54th,Tomlin Middle School,William George,62,473100311,18,10,2,49.3057
+55th,Tomlin Middle School,Samir Patel,62,473101012,17,6,7,49.3057
+56th,Stewart Middle,Keon Sahebkar,62,413100311,17,6,7,49.3057
+57th,Tomlin Middle School,Megan Campbell,60,473100012,17,8,5,48.6588
+58th,Berkeley Prep,Aiden Fisher,59,405000110,16,5,9,48.3353
+59th,Tomlin Middle School,Jaynil Patel,59,473100910,17,9,4,48.3353
+60th,Jackson Heights Middle,MARK VAINSHTEIN,58,304100311,16,6,8,48.0119
+61st,Sanford Middle,Shivani Mehta,58,344102410,16,6,8,48.0119
+62nd,Berkeley Prep,Jay Majumdar,58,405001410,16,6,8,48.0119
+63rd,Williams Middle,Sabbir Mirza,58,468101211,15,2,13,48.0119
+64th,Jackson Heights Middle,ZACHARY SPIKES,57,304101410,17,11,2,47.6884
+65th,Tomlin Middle School,Jessica Madera,57,473100511,16,7,7,47.6884
+66th,Stewart Middle,John Houston,57,413100211,16,7,7,47.6884
+67th,Aspira Eugenio Maria De Hostos,Jean Joseph,56,551100512,15,4,11,47.3650
+68th,Sanford Middle,Shane Young,56,344104910,16,8,6,47.3650
+69th,Jackson Heights Middle,PRERNA SHARMA,55,304100211,14,1,15,47.0415
+70th,Aspira Eugenio Maria De Hostos,Cristian Nunez,55,551101910,16,9,5,47.0415
+71st,Tomlin Middle School,Kaitlyn Miller,55,473100612,17,13,0,47.0415
+72nd,Mulrennan Middle School,Jessica Hier,54,487100711,15,6,9,46.7181
+73rd,Stewart Middle,Jessica Rodriquez,53,413101012,14,3,13,46.3946
+74th,Sanford Middle,Sandhya Shankar,53,344104410,16,11,3,46.3946
+75th,Aspira Eugenio Maria De Hostos,Katherine Charles,53,551100411,15,7,8,46.3946
+76th,Berkeley Prep,Sabrina Hennecke,53,405001210,16,11,3,46.3946
+77th,Mulrennan Middle School,Laura DelCastillo,52,487100112,15,8,7,46.0712
+78th,Lincoln Park Academy,Samantha Strong,52,396001511,16,12,2,46.0712
+79th,Stewart Middle,James Garrett,52,413100000,16,12,2,46.0712
+80th,Sanford Middle,Adam Jaffer,50,344103412,15,10,5,45.4243
+81st,Sanford Middle,Priya Amilineni,46,344105010,14,10,6,44.1304
+82nd,Berkeley Prep,Morgan Brazel,45,405000210,13,7,10,43.8070
+83rd,Berkeley Prep,Madeline Quam,45,405001710,14,11,5,43.8070
+84th,Mulrennan Middle School,Taylor Alfonso,45,487100011,14,11,5,43.8070
+85th,Stewart Middle,Jake Graybill,45,413100811,14,11,5,43.8070
+86th,Sanford Middle,Ernest Choi,44,344102510,14,12,4,43.4835
+87th,Berkeley Prep,Max Franzblau,42,405001010,12,6,12,42.8366
+88th,Jackson Heights Middle,AMYGRACE POTHEN,41,304101210,12,7,11,42.5132
+89th,Berkeley Prep,George Peek,41,405010710,12,7,11,42.5132
+90th,Jackson Heights Middle,RADHIA AZAD,40,304101111,13,12,5,42.1897
+91st,Sanford Middle,Joshua Tijerino,40,344102910,12,8,10,42.1897
+92nd,Tomlin Middle School,Jonathan Espinal,40,473100212,14,16,0,42.1897
+93rd,Aspira Eugenio Maria De Hostos,Jessica SaintFleur,39,551101311,11,5,14,41.8663
+94th,Stewart Middle,Christian Alvarado,39,413101112,12,9,9,41.8663
+95th,Berkeley Prep,Thomas Patrick,38,405001610,12,10,8,41.5428
+96th,Aspira Eugenio Maria De Hostos,Silian Lopez,36,551101112,11,8,11,40.8959
+97th,Sanford Middle,Sara Friend,35,344103010,11,9,10,40.5725
+98th,Sanford Middle,Aaron Sanders,34,344104210,11,10,9,40.2490
+99th,Sanford Middle,Swathi Khonduri,33,344102810,11,11,8,39.9255
+100th,Aspira Eugenio Maria De Hostos,Marangelie Velez,31,551101211,10,9,11,39.2786
+101st,Stewart Middle,a,30,413100912,12,18,0,38.9552
+102nd,Aspira Eugenio Maria De Hostos,Loukrisha Louissaint,24,551100710,8,8,14,37.0145
+103rd,Aspira Eugenio Maria De Hostos,Imar Newton,23,551100110,9,13,8,36.6910
+104th,Aspira Eugenio Maria De Hostos,Francis Barahona,23,551100311,7,5,18,36.6910
+105th,Lincoln Park Academy,Violetta Gonzales,23,396001811,9,13,8,36.6910
+106th,Sanford Middle,Nadiya Nawsheen,23,344105710,8,9,13,36.6910
+107th,Aspira Eugenio Maria De Hostos,Yesenia Fernandez,20,551101610,7,8,15,35.7207
+108th,Aspira Eugenio Maria De Hostos,Tia Wilson,19,551100610,7,9,14,35.3972
+109th,Aspira Eugenio Maria De Hostos,Isaiah Collins,17,551100810,5,3,22,34.7503
+110th,Aspira Eugenio Maria De Hostos,Jarlin Alfonseca,17,551101012,6,7,17,34.7503
+111th,Aspira Eugenio Maria De Hostos,Roxan Smith,15,551100210,7,13,10,34.1034
+112th,Aspira Eugenio Maria De Hostos,Jennifer Perez,15,551101512,6,9,15,34.1034
+113th,Sanford Middle,Swara Desai,11,344105110,5,9,16,32.8096
+114th,Aspira Eugenio Maria De Hostos,Demetrio Valverde,11,551101710,5,9,16,32.8096
+115th,Aspira Eugenio Maria De Hostos,Linett Martinez,6,551100010,7,22,1,31.1923
+116th,Aspira Eugenio Maria De Hostos,Nelysa Ventrua,-5,551101810,5,25,0,27.6343

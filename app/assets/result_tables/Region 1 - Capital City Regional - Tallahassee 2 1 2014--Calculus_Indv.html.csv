@@ -1,0 +1,67 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,Jessie Chi,120,181002651,30,0,0,68.1743
+2nd,Lincoln,SeongHwa Min,115,109003151,29,1,0,66.9106
+3rd,Rickards High School,Alex Yu,115,140003151,29,1,0,66.9106
+4th,Lincoln,Billy Brickner,110,109000451,28,2,0,65.6469
+5th,Lincoln,Yuqi Xu,106,109000950,27,2,1,64.6359
+6th,Rocky Bayou Christian School,Shaun Li,105,192002452,27,3,0,64.3832
+7th,Rickards High School,Stephen Barton,105,140000952,27,3,0,64.3832
+8th,Lawton Chiles High School,Nicholas Yang,105,181004251,27,3,0,64.3832
+9th,Lincoln,Justin Bartell,105,109001151,27,3,0,64.3832
+10th,Lincoln,Jeffrey Zou,100,109002951,26,4,0,63.1195
+11th,Lawton Chiles High School,Brian Ahn,95,181002451,25,5,0,61.8558
+12th,Rickards High School,Siddarth Kethireddy,95,140000651,25,5,0,61.8558
+13th,Lawton Chiles High School,Nitharsan Sivakanthan,93,181003652,24,3,3,61.3503
+14th,Lawton Chiles High School,Nick Young,89,181004351,23,3,4,60.3394
+15th,Lawton Chiles High School,Anisha Sinha,87,181003552,23,5,2,59.8339
+16th,Rickards High School,Jeewoo Kang,85,140001851,23,7,0,59.3284
+17th,Navarre,NOA GROOMS,84,180003351,22,4,4,59.0757
+18th,Lawton Chiles High School,Nick Dietrich,82,181003052,22,6,2,58.5702
+19th,Rickards High School,Raymond Reyes,80,140000052,21,4,5,58.0647
+20th,Lawton Chiles High School,Wyatt Schroeder,78,181004852,21,6,3,57.5592
+21st,Rickards High School,Mihir Thakkar,78,140004651,21,6,3,57.5592
+22nd,Rickards High School,Teja Jakkala,70,140001052,19,6,5,55.5373
+23rd,Leon,SEAN DEYO,70,190000551,18,2,10,55.5373
+24th,Rickards High School,Ryan Lerch,70,140001352,20,10,0,55.5373
+25th,Lincoln,Brendan Schneider,64,109000852,17,4,9,54.0209
+26th,Lincoln,Robert Gitau,60,109003352,16,4,10,53.0099
+27th,Rutherford High School,Jessica Adams,59,174001351,17,9,4,52.7572
+28th,Rickards High School,Pamela Hu,59,140002750,16,5,9,52.7572
+29th,Lincoln,Chris Draper,58,109003852,16,6,8,52.5044
+30th,Lawton Chiles High School,Colleen Cui,42,181002750,11,2,17,48.4606
+31st,Rickards High School,Alex Ndekeng,39,140004750,12,9,9,47.7024
+32nd,Rocky Bayou Christian School,James Sung,39,192003151,11,5,14,47.7024
+33rd,Navarre,KIERA FOSTER,38,180003452,11,6,13,47.4496
+34th,Leon,SCOTT WILLITS,34,190000151,9,2,19,46.4387
+35th,Navarre,BENJAMIN JACKSON,34,180002750,11,10,9,46.4387
+36th,Leon,MITCHELL RODENBERRY,32,190000451,9,4,17,45.9332
+37th,Navarre,KATELYN COVINGTON,31,180000951,9,5,16,45.6804
+38th,Rutherford High School,Angela Pham,31,174000151,10,9,11,45.6804
+39th,Leon,CHRISTIAN WONG,31,190000251,8,1,21,45.6804
+40th,Rutherford High School,Maiya Phillips,26,174002151,7,2,21,44.4167
+41st,Rocky Bayou Christian School,Dave Tan,26,192001651,7,2,21,44.4167
+42nd,Navarre,ROMAN SPEAR,26,180004051,8,6,16,44.4167
+43rd,Rutherford High School,Nhung Phan,25,174002751,7,3,20,44.1640
+44th,Navarre,JOHN HASTINGS,23,180004752,7,5,18,43.6585
+45th,Rocky Bayou Christian School,trever knie,21,192001051,7,7,16,43.1531
+46th,Navarre,CASSIE LEWIS,20,180004452,6,4,20,42.9003
+47th,Lincoln,Brendan O'Healaigh,19,109003952,8,13,9,42.6476
+48th,Rocky Bayou Christian School,GeonHo Yoo,18,192002052,5,2,23,42.3948
+49th,Navarre,SKYLER SINGLETON,17,180003951,7,11,12,42.1421
+50th,Rutherford High School,Ivy Grob,15,174001052,4,1,25,41.6366
+51st,Rocky Bayou Christian School,Cameron Esses,15,192002252,5,5,20,41.6366
+52nd,Rickards High School,Grace Hong,10,140004150,4,6,20,40.3729
+53rd,Navarre,CELINA CALMA,8,180000252,3,4,23,39.8674
+54th,Rocky Bayou Christian School,Iris Lee,7,192001750,3,5,22,39.6147
+55th,Rocky Bayou Christian School,Kelly Hanning,7,192001451,4,9,17,39.6147
+56th,Rocky Bayou Christian School,John Zhang,7,192001950,6,17,7,39.6147
+57th,Rutherford High School,Naomi Machala,5,174002652,2,3,25,39.1092
+58th,Lawton Chiles High School,Ismael Syed,5,181003750,2,3,25,39.1092
+59th,Navarre,MELISA MONNO,4,180001150,1,0,29,38.8565
+60th,Navarre,LAURA HARMS,3,180002350,2,5,23,38.6037
+61st,Rutherford High School,kyrah dinham,-1,174011052,0,1,29,37.5928
+62nd,Rocky Bayou Christian School,SoHee Yoo,-2,192001552,2,10,18,37.3400
+63rd,Navarre,HAYDEN HUDSON,-4,180000450,1,8,21,36.8346
+64th,Rocky Bayou Christian School,Connor Lynch,-5,192001250,0,5,25,36.5818
+65th,Navarre,SAVANNAH ADAMS,-5,180002450,0,5,25,36.5818
+66th,Rutherford High School,Naba Zabih,-9,174002552,1,13,16,35.5709

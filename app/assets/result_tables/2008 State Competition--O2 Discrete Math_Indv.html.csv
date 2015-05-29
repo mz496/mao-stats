@@ -1,0 +1,76 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,Gaku Liu,103,1810363,26,1,3,77.0789
+2nd,Buchholz,Louie Wu,100,2950350,26,4,0,76.0553
+3rd,Suncoast Comm,Mason Bogue,98,3270303,25,2,3,75.3728
+4th,Hillsborough,Wendy Hou,90,4280369,23,2,5,72.6431
+5th,Lawton Chiles High School,Carolyn Kim,81,1810360,22,7,1,69.5722
+6th,Rickards,Chenyu Lin,77,1400324,21,7,2,68.2073
+7th,Eastside,Michael Banaszek,76,2800353,21,8,1,67.8661
+8th,American Heritage (Plantation),John Joseph Porter,72,5060313,20,8,2,66.5012
+9th,Hillsborough,Michael Luo,68,4280331,19,8,3,65.1363
+10th,Middleton,Joseph Thuemler,64,4680203,18,8,4,63.7715
+11th,Lincoln,Spencer Ellinor,64,1090380,18,8,4,63.7715
+12th,Cypress Bay,Lisa Gutermuth,60,5880331,16,4,10,62.4066
+13th,Stoneman Douglas,Marcel Nunez,60,5320309,17,8,5,62.4066
+14th,St Edward's,Nora Willett,55,3740362,15,5,10,60.7005
+15th,Atlantic Community,Laser Kaplan,52,3570346,14,4,12,59.6769
+16th,Cypress Bay,Ari Novick,46,5880237,13,6,11,57.6296
+17th,American Heritage (Plantation),David Raps,44,5060314,12,4,14,56.9472
+18th,Lake Mary,Alison James,40,3080374,10,0,20,55.5823
+19th,Seminole (Seminole),Zachary Terrill,37,3410351,11,7,12,54.5586
+20th,Seminole (Seminole),Andrew Hua,37,3410321,12,11,7,54.5586
+21st,Miami Springs,Evan Williams,35,5820356,11,9,10,53.8762
+22nd,Mast Academy,Marcos Lanio,35,5560315,9,1,20,53.8762
+23rd,Palm Harbor Univ,Walter Cornnell,31,4130315,10,9,11,52.5114
+24th,Cypress Bay,Diego Alvarez,30,5880300,8,2,20,52.1701
+25th,Deerfield Bch,Anisa Khan,25,5770331,11,19,0,50.4641
+26th,JP Taravella,Brittany Puzar,24,5330367,7,4,19,50.1228
+27th,Freedom,Ryan Schurr,21,4660317,7,7,16,49.0992
+28th,Fort Myers,Vishan Persaud,19,4230310,6,5,19,48.4168
+29th,Palm Harbor Univ,Harish Chamarthy,17,4130311,6,7,17,47.7343
+30th,Cypress Bay,Yuefeng Xu,16,5880398,9,20,1,47.3931
+31st,H. B. Plant,Jonathan Newkirk,15,4270357,5,5,20,47.0519
+32nd,Navarre,Michael Mobley,15,1800381,9,21,0,47.0519
+33rd,Atlantic Community,Valerie Polcz,14,3570365,4,2,24,46.7107
+34th,Cape Coral,Ashley Cook,14,4180333,4,2,24,46.7107
+35th,Vero Beach,Max Mccullough,13,3720359,6,11,13,46.3695
+36th,Miramar H. S.,Leah Davis,12,5030307,5,8,17,46.0282
+37th,Atlantic Community,Alexander Wilson,12,3570383,5,8,17,46.0282
+38th,H. B. Plant,Jonathan Newkirk,12,4270357,3,0,27,46.0282
+39th,Ronald Reagan H. S.,Santiago Franco,12,5270316,4,4,22,46.0282
+40th,Spruce Creek,Greg Kollmer,12,2670362,7,16,7,46.0282
+41st,Berkeley Prep,John Inacay,11,4050326,5,9,16,45.6870
+42nd,Deerfield Bch,Christina Caruso,10,5770208,8,22,0,45.3458
+43rd,Navarre,Elonzo Carter,10,1800362,8,22,0,45.3458
+44th,Vero Beach,Nick Stock,9,3720367,4,7,19,45.0046
+45th,Coral Glades,Jessica Gottsleben,8,5280130,3,4,23,44.6634
+46th,Oviedo,Mike Girgis,8,3770372,4,8,18,44.6634
+47th,Miami Springs,Brandon Gagne,8,5820212,4,8,18,44.6634
+48th,Mast Academy,Scarlett Barker,7,5560303,3,5,22,44.3222
+49th,Navarre,Jonathan Starr,6,1800387,3,6,21,43.9809
+50th,Deerfield Bch,Steven Brighton,5,5770207,7,23,0,43.6397
+51st,JP Taravella,Ralph Nguyen,5,5330373,7,23,0,43.6397
+52nd,Mast Academy,Andres Donoso,5,5560305,2,3,25,43.6397
+53rd,Naples,Jennifer Cooper,5,5450306,2,3,25,43.6397
+54th,Deerfield Bch,Abdullah Kayyal,5,5770221,7,23,0,43.6397
+55th,Vero Beach,Kristen Rocha,4,3720364,2,4,24,43.2985
+56th,Cypress Bay,Ian Norman,4,5880236,2,4,24,43.2985
+57th,Coral Glades,Rolando Asmat,3,5280351,1,1,28,42.9573
+58th,Mast Academy,Stephanie Villagra,3,5560325,1,1,28,42.9573
+59th,Miami Sunset,Kreetee Dutta,3,5440310,3,9,18,42.9573
+60th,Oviedo,Zach Wiesen,3,3770379,6,21,3,42.9573
+61st,Fort Myers,Rehan Feroz,2,4230315,1,2,27,42.6161
+62nd,Berkeley Prep,Tara Braun,2,4050324,1,2,27,42.6161
+63rd,Community Sch Naples,Brielle Friedman,2,5620255,2,6,22,42.6161
+64th,Mast Academy,Christopher Hendrix,1,5560310,2,7,21,42.2749
+65th,Flanagan,Ivan Trac,0,5910384,1,4,25,41.9337
+66th,Berkeley Prep,Richard Johnson,0,4050216,2,8,20,41.9337
+67th,Lake Mary,Nicole Mills,0,3080377,6,24,0,41.9337
+68th,Ronald Reagan H. S.,Yu-hua Wang,0,5270322,6,24,0,41.9337
+69th,Navarre,Mckayla Spencer,-2,1800386,0,2,28,41.2512
+70th,JP Taravella,Danil Eremeev,-2,5330352,3,14,13,41.2512
+71st,Miramar H. S.,Areej Bukhari,-5,5030345,1,9,20,40.2276
+72nd,Deerfield Bch,Dana Nieuwkerk,-10,5770337,4,26,0,38.5215
+73rd,Seminole (Seminole),Ashley Buchanan,-10,3410300,3,22,5,38.5215
+74th,Ronald Reagan H. S.,Karen Vinluan,-10,5270312,4,26,0,38.5215
+75th,Coral Glades,Prem Seetharaman,-25,5280383,1,29,0,33.4033

@@ -1,0 +1,76 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),PETER LI,85,341000641,23,7,0,84.6491
+2nd,Seminole (Seminole),JESSICA CHEN,68,341000141,19,8,3,75.8436
+3rd,Vero Beach,NICOLE GAGNON,63,372004241,17,5,8,73.2537
+4th,Suncoast Comm,Angela Liang,51,327004341,14,5,11,67.0380
+5th,Vero Beach,VISHAL PATEL,50,372005441,16,14,0,66.5200
+6th,Seminole (Seminole),KHONDAKER SADMAN,49,341006141,14,7,9,66.0020
+7th,Palm Beach Gardens,Mooryol Lee,48,373001841,13,4,13,65.4840
+8th,Sebastian River,Fischer Gabbert,43,314000841,12,5,13,62.8942
+9th,Vero Beach,JESUS MORENO,43,372005242,12,5,13,62.8942
+10th,Suncoast Comm,Logan Dymond,40,327010442,12,8,10,61.3402
+11th,Suncoast Comm,Louis Brion,38,327000641,13,14,3,60.3043
+12th,Suncoast Comm,Yaw Abu,37,327000041,11,7,12,59.7863
+13th,Seminole (Seminole),NAUMAN JAVED,36,341002641,12,12,6,59.2683
+14th,Suncoast Comm,Alvin Zhang,34,327006242,10,6,14,58.2324
+15th,Suncoast Comm,David Gouge,34,327002340,10,6,14,58.2324
+16th,Suncoast Comm,YoungRae Kim,34,327009641,11,10,9,58.2324
+17th,Suncoast Comm,Jerome Taylor,32,327005942,9,4,17,57.1964
+18th,Suncoast Comm,Justin Xiao,31,327006042,9,5,16,56.6784
+19th,West Shore,Varun Bansal,30,393001941,8,2,20,56.1605
+20th,West Shore,David Troner,29,393000242,9,7,14,55.6425
+21st,Vero Beach,GRACE ATHERTON,27,372003141,8,5,17,54.6065
+22nd,Palm Bay High School,Rudy Laprade,25,382010741,7,3,20,53.5706
+23rd,Hagerty High School,Kristen Lichtenthal,22,310004141,6,2,22,52.0167
+24th,West Shore,Rashad Abdulla,22,393005041,7,6,17,52.0167
+25th,Hagerty High School,Amy Nguyen,21,310004642,6,3,21,51.4987
+26th,Hagerty High School,Cody McMahon,21,310004441,6,3,21,51.4987
+27th,St Edward's,RHETT REISMAN,21,374041241,6,3,21,51.4987
+28th,Palm Beach Gardens,Li Rong,20,373001941,6,4,20,50.9807
+29th,Palm Beach Gardens,Patrick Truong,19,373002141,5,1,24,50.4627
+30th,Seminole (Seminole),RUTH HSU,18,341002742,6,6,18,49.9447
+31st,Hagerty High School,Paul Jaskowski,18,310002841,6,6,18,49.9447
+32nd,Vero Beach,KAREN MONUSZKO,18,372005141,6,6,18,49.9447
+33rd,West Shore,Kristina Colmenares,17,393004341,7,11,12,49.4268
+34th,St Edward's,DARIAN HADJIABADI,16,374040341,6,8,16,48.9088
+35th,Vero Beach,LUCI BRAJON,16,372011042,5,4,21,48.9088
+36th,St Edward's,PAUL COLELLA,14,374040241,6,10,14,47.8728
+37th,Suncoast Comm,Tyler Suh,14,327005540,5,6,19,47.8728
+38th,Sebastian River,Kaitlyn Folkening,14,314001641,5,6,19,47.8728
+39th,Sebastian River,Gregg Spagnolia,13,314001741,5,7,18,47.3549
+40th,Suncoast Comm,Ryan Zimmerman,13,327002540,5,7,18,47.3549
+41st,Vero Beach,GRACE THOMAS,13,372011142,6,11,13,47.3549
+42nd,St Edward's,RYAN SLATER,12,374041341,6,12,12,46.8369
+43rd,Sebastian River,Gabrielle Hinton,12,314001041,4,4,22,46.8369
+44th,Suncoast Comm,Teerapad Jindachomthong,10,327003640,4,6,20,45.8009
+45th,Suncoast Comm,Jacob Beer,10,327010040,8,22,0,45.8009
+46th,Hagerty High School,Sohani Kasireddy,9,310003342,3,3,24,45.2830
+47th,Hagerty High School,Gianni Tucciarone,9,310006241,4,7,19,45.2830
+48th,Suncoast Comm,Passakorn Inthanil,8,327002740,2,0,28,44.7650
+49th,Sebastian River,Romina Gotzman,7,314001842,3,5,22,44.2470
+50th,Bayside,Kevin Pelzar,7,303051442,3,5,22,44.2470
+51st,St Edward's,EVA LAUER,6,374040740,3,6,21,43.7290
+52nd,West Shore,Danielle Miller,6,393005141,3,6,21,43.7290
+53rd,Palm Beach Gardens,Mengchen Chen,6,373001641,3,6,21,43.7290
+54th,St Edward's,CORY QUINLAN,5,374041142,3,7,20,43.2111
+55th,St Edward's,STACEY OSWALD,5,374040942,7,23,0,43.2111
+56th,Bayside,Damian Hall,5,303046441,4,11,15,43.2111
+57th,St Edward's,LINH NGUYEN,5,374040842,3,7,20,43.2111
+58th,St Edward's,DIVYA KORLIPARA,4,374040640,4,12,14,42.6931
+59th,Bayside,Charity Amatrudi,4,303044442,3,8,19,42.6931
+60th,Bayside,Zack Campbell,3,303045442,1,1,28,42.1751
+61st,Suncoast Comm,Carson Morris,3,327005240,2,5,23,42.1751
+62nd,Suncoast Comm,Jason Hoffman,3,327009740,3,9,18,42.1751
+63rd,Bayside,Robert Judin,2,303048441,3,10,17,41.6571
+64th,Bayside,Lea Harp,1,303047441,2,7,21,41.1392
+65th,St Edward's,ALEC WYNNE,-1,374041542,1,5,24,40.1032
+66th,Sebastian River,Sarah Eden,-1,314001342,2,9,19,40.1032
+67th,Suncoast Comm,Trevor May,-1,327014440,2,9,19,40.1032
+68th,St Edward's,COLLIER PROTOR,-2,374041040,1,6,23,39.5852
+69th,West Shore,Jerrin Luke,-2,393000742,3,14,13,39.5852
+70th,West Shore,Jacob Redito,-2,393001142,2,10,18,39.5852
+71st,Bayside,Torri Shoenfeld,-5,303052442,0,5,25,38.0313
+72nd,Seminole (Seminole),CATHERINE PHAN,-6,341002242,1,10,19,37.5133
+73rd,Suncoast Comm,Prince Ahmed,-6,327000340,2,14,14,37.5133
+74th,Bayside,Mackenzie Newell,-6,303050441,1,10,19,37.5133
+75th,West Shore,Christina Baylen,-9,393004542,3,21,6,35.9594

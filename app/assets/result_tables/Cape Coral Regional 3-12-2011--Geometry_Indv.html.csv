@@ -1,0 +1,73 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Berkeley Prep,Theo Diamandis,87,405000721,23,5,2,83.8328
+2nd,Tampa Bay Tech,Thao Nguyen,63,461000621,17,5,8,70.1828
+3rd,Community Sch Naples,Cianan RodenCorrent,62,562007721,17,6,7,69.6140
+4th,King,ANURAG BADDAM,55,435004521,15,5,10,65.6327
+5th,Berkeley Prep,George Peek,52,405010722,15,8,7,63.9265
+6th,Williams Middle,Sathvik Palakurty,49,468101021,15,11,4,62.2202
+7th,Community Sch Naples,Pierce Gleeson,49,562006821,14,7,9,62.2202
+8th,St Stephen's Episcopal,TIAG BHAMBER,48,489000621,13,4,13,61.6515
+9th,Naples,Ian Chaplin,48,545000021,13,4,13,61.6515
+10th,King,SHREYA CHIDARALA,47,435001121,14,9,7,61.0827
+11th,Community Sch Naples,Ben Klausner,47,562007121,13,5,12,61.0827
+12th,Williams Middle,Sumukh Shivakumar,45,468101521,13,7,10,59.9452
+13th,Fort Myers,Trey Dougherty,40,423001721,11,4,15,57.1015
+14th,Fort Myers,Ben Perkins,40,423001921,11,4,15,57.1015
+15th,Durant,Eduardo Areingdale,40,475004221,14,16,0,57.1015
+16th,Berkeley Prep,Jay Majumdar,38,405001421,11,6,13,55.9640
+17th,Naples,Anda Klavina,37,545000321,11,7,12,55.3952
+18th,Fort Myers,Thomas Seidler,37,423001821,11,7,12,55.3952
+19th,King,ROHITH NALLANDIGAL,35,435005722,10,5,15,54.2577
+20th,Durant,Brent Hovan,35,475002021,13,17,0,54.2577
+21st,St Stephen's Episcopal,DEVIN MCSWEENEY,35,489001921,9,1,20,54.2577
+22nd,Canterbury (Lee),Derek Wu,35,411001721,10,5,15,54.2577
+23rd,Gaither High School,Sahar Takshi,35,426004021,11,9,10,54.2577
+24th,Community Sch Naples,Zita Prutos,34,562008021,10,6,14,53.6890
+25th,Berkeley Prep,Hayden Johnson,34,405005821,10,6,14,53.6890
+26th,Tampa Bay Tech,Isabel Martinez,33,461001521,10,7,13,53.1202
+27th,Riverdale,Seth Locker,33,457022021,11,11,8,53.1202
+28th,Williams Middle,Niha Ainpudi,32,468101421,9,4,17,52.5515
+29th,Cape Coral High School,Blaise Garfall,32,418003421,9,4,17,52.5515
+30th,King,SEUNGJOO KIM,31,435008321,10,9,11,51.9827
+31st,Berkeley Prep,Morgan Brazel,31,405001022,9,5,16,51.9827
+32nd,Berkeley Prep,Lin Regnier,31,405001121,11,13,6,51.9827
+33rd,Williams Middle,Isha Bhutada,30,468100321,9,6,15,51.4140
+34th,Cape Coral High School,Joyce Contreras,28,418003821,9,8,13,50.2765
+35th,Canterbury (Lee),Savannah Bonnette,28,411003621,9,8,13,50.2765
+36th,King,PRIYA SHUKLA,27,435003422,8,5,17,49.7077
+37th,North Port,Alina Bogdanets,27,481000221,10,13,7,49.7077
+38th,Community Sch Naples,Donald Ecklund,26,562008120,8,6,16,49.1390
+39th,Shorecrest Prep,Molly Gilroy,25,451004921,9,11,10,48.5702
+40th,St Stephen's Episcopal,LAURA DEMAIO,25,489000021,7,3,20,48.5702
+41st,Community Sch Naples,Jake Hedin,25,562006020,9,11,10,48.5702
+42nd,King,HANSOL RA,24,435000821,10,16,4,48.0015
+43rd,Fort Myers,Pearl Shih,22,423000521,8,10,12,46.8640
+44th,Shorecrest Prep,Jacob Alexander,21,451004521,8,11,11,46.2952
+45th,Riverdale,Mark Coleman,20,457022221,10,20,0,45.7265
+46th,Bishop Verot,Alex Goldsmith,20,453001821,10,20,0,45.7265
+47th,Naples,Andre Chu,19,545000121,7,9,14,45.1577
+48th,Tampa Bay Tech,Alex Rodriguez,18,461002821,8,14,8,44.5890
+49th,Gaither High School,Rachel Yoder,18,426003421,5,2,23,44.5890
+50th,Cape Coral High School,Kendall Cory,18,418003622,7,10,13,44.5890
+51st,Cape Coral High School,Erika Velasco,18,418001021,6,6,18,44.5890
+52nd,Bishop Verot,Delia Brennan,18,453002321,8,14,8,44.5890
+53rd,North Port,Alina Masmichuck,17,481000321,6,7,17,44.0202
+54th,Middleton,Xena Quick,16,468001621,7,12,11,43.4515
+55th,North Port,Tatiana Andrashko,16,481000121,5,4,21,43.4515
+56th,King,SOHINI LAHIRI,14,435008522,6,10,14,42.3140
+57th,Tampa Bay Tech,Ariel Varela,13,461003121,6,11,13,41.7452
+58th,Community Sch Naples,Anthony Vernava,12,562008220,5,8,17,41.1765
+59th,Fort Myers,Emily Thorp,12,423000820,6,12,12,41.1765
+60th,North Port,Alina Timshina,11,481000421,3,1,26,40.6077
+61st,Cape Coral High School,Kimberly Nguyen,11,418002622,7,17,6,40.6077
+62nd,Cape Coral High School,Damien Heizer,11,418004021,5,9,16,40.6077
+63rd,Mariner,Alexandra Perun,11,473000721,7,17,6,40.6077
+64th,Bishop Verot,Halley DeLeeuw,10,453002121,6,14,10,40.0390
+65th,Canterbury (Lee),Ryan Foor,10,411001421,8,22,0,40.0390
+66th,Naples,Robert Resha,7,545000621,5,13,12,38.3327
+67th,Naples,Brent Markovich,4,545000422,2,4,24,36.6265
+68th,Naples,Katie Sanderson,2,545000822,1,2,27,35.4890
+69th,Cape Coral High School,Yailin Castro,2,418003722,4,14,12,35.4890
+70th,Middleton,Paola Vargas,-1,468000821,2,9,19,33.7827
+71st,Middleton,Omanah McCrae,-1,468000121,2,9,19,33.7827
+72nd,Bishop Verot,Holly Branthoover,-3,453002411,1,7,22,32.6452

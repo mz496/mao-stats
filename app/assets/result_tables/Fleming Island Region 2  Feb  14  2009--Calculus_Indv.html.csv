@@ -1,0 +1,83 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Tony Wu,88,295002152,23,4,3,75.8133
+2nd,Eastside,Michael Banaszek,87,280005351,23,5,2,75.3626
+3rd,Buchholz,Louie Wu,85,295002052,23,7,0,74.4611
+4th,Buchholz,Jerome Yoon,78,295002851,20,2,8,71.3059
+5th,Buchholz,James Tan,74,295001852,20,6,4,69.5029
+6th,Buchholz,Mark Simon,73,295001752,20,7,3,69.0522
+7th,Buchholz,Lucy Zhong,66,295003050,17,2,11,65.8970
+8th,Eastside,Alex Choi,59,280003151,17,9,4,62.7418
+9th,Buchholz,Youjin Jang,57,295002250,15,3,12,61.8403
+10th,Stanton College Preparatory School,Vignesh Vudatha,56,296004051,15,4,11,61.3895
+11th,Buchholz,Ted Li,56,295002351,15,4,11,61.3895
+12th,Eastside,Joon Kim,55,280004451,15,5,10,60.9388
+13th,Buchholz,Sarah Pang,54,295001651,15,6,9,60.4880
+14th,Eastside,Varsha Ramnarine,54,280002252,15,6,9,60.4880
+15th,Paxon School,JIHO LEE,53,250000651,14,3,13,60.0373
+16th,Stanton College Preparatory School,Rebekah Kitto,51,296007251,14,5,11,59.1358
+17th,Oak Hall,JONATHAN WANG,49,249003351,13,3,14,58.2343
+18th,Eastside,Jimmy Xin,48,280005252,13,4,13,57.7836
+19th,Buchholz,Wenda Ye,48,295002750,14,8,8,57.7836
+20th,Oak Hall,BENJAMIN VANGELDER,47,249003450,12,1,17,57.3328
+21st,Eastside,Jenny Xiang,44,280007352,13,8,9,55.9806
+22nd,Stanton College Preparatory School,Hae-Sun La,42,296003851,11,2,17,55.0791
+23rd,Stanton College Preparatory School,JiSoo Kim,39,296003752,11,5,14,53.7269
+24th,Oak Hall,HANNAH GAVIN,38,249006750,10,2,18,53.2761
+25th,Paxon School,GARRETT CARTER,38,250000451,10,2,18,53.2761
+26th,Eastside,Shirley Ai,37,280002951,11,7,12,52.8254
+27th,Buchholz,Kevin Fan,37,295001451,12,11,7,52.8254
+28th,Paxon School, ,36,250000052,10,4,16,52.3747
+29th,Flagler-Palm Coast,BRETT MASTERS,36,221030051,10,4,16,52.3747
+30th,Stanton College Preparatory School,Mayank Gupta,36,296004452,10,4,16,52.3747
+31st,Bolles,GwanJae Cho,35,252002151,13,17,0,51.9239
+32nd,Stanton College Preparatory School,Janaki Perera,34,296000850,9,2,19,51.4732
+33rd,Eastside,Mahina Wang,33,280009652,11,11,8,51.0224
+34th,Oak Hall,RUSSELL SPOTNITZ,30,249004451,9,6,15,49.6702
+35th,Oak Hall,TAO CHEN,30,249007252,9,6,15,49.6702
+36th,Stanton College Preparatory School,Paulo Bautista,28,296004352,9,8,13,48.7687
+37th,Bolles,Daniel Leichus,28,252001351,9,8,13,48.7687
+38th,Bolles,SeungYoon Lee,27,252002251,7,1,22,48.3180
+39th,Stanton College Preparatory School,Nick Jiang,27,296000950,8,5,17,48.3180
+40th,Fleming Island High,Jennifer Nedrich,26,220001751,7,2,21,47.8672
+41st,Eastside,Athena PattersonOrazem,25,280004350,9,11,10,47.4165
+42nd,Eastside,Diana Petrukhina,25,280001650,10,15,5,47.4165
+43rd,Flagler-Palm Coast,SARAH HANRAHAN,24,221060152,6,0,24,46.9657
+44th,Leesburg High School,TRISHA DETORRES,24,287000651,8,8,14,46.9657
+45th,Oak Hall,PETROS SVORONOS,24,249005451,8,8,14,46.9657
+46th,Flagler-Palm Coast,ANTHONY DEAUGUSTINO,23,221021150,6,1,23,46.5150
+47th,Paxon School,PATRICK MARTIN,23,250000850,7,5,18,46.5150
+48th,Flagler-Palm Coast,ASHLIE KINNAMAN,22,221070051,6,2,22,46.0642
+49th,Paxon School,WIN SUEN,22,250001351,8,10,12,46.0642
+50th,Orange Park,Carolyn Mercer,21,292000051,7,7,16,45.6135
+51st,Stanton College Preparatory School,Stephanie Brown,20,296001052,6,4,20,45.1627
+52nd,Flagler-Palm Coast,DEVIN JOHNSON,19,221020151,7,9,14,44.7120
+53rd,Paxon School,SWETHA MOHAN,18,250000950,5,2,23,44.2613
+54th,Paxon School,MANEL BRITTO,18,250000352,5,2,23,44.2613
+55th,Paxon School,JOSEPH LIPAT,18,250000752,6,6,18,44.2613
+56th,Fleming Island High,Abbi Lambert,17,220000951,5,3,22,43.8105
+57th,Leesburg High School,CORNELIA DEAN,17,287001051,7,11,12,43.8105
+58th,Fleming Island High,Mandy Wu,17,220001551,5,3,22,43.8105
+59th,Paxon School,SIRISHA THAMBULURU,17,250001552,5,3,22,43.8105
+60th,Bolles,Zibran Sarwar,17,252001852,8,15,7,43.8105
+61st,Oak Hall,JOSE MOLINA,16,249002352,5,4,21,43.3598
+62nd,Leesburg High School,UMBAR SATTAR,15,287001451,7,13,10,42.9090
+63rd,Flagler-Palm Coast,MAXIM SKUDARNOV,14,221031152,5,6,19,42.4583
+64th,Stanton College Preparatory School,Jessica Yeung,14,296000550,6,10,14,42.4583
+65th,Flagler-Palm Coast,VADIM BELINSKIY,14,221040152,7,14,9,42.4583
+66th,Flagler-Palm Coast,JARON LOWE,13,221010151,4,3,23,42.0075
+67th,Fleming Island High,Alex Kriehn,11,220000851,5,9,16,41.1061
+68th,Oak Hall,CHRISTINA PERRY,10,249003952,5,10,15,40.6553
+69th,Bolles,Stefan Paul,10,252001751,8,22,0,40.6553
+70th,Eastside,Em Garrett,10,280000950,4,6,20,40.6553
+71st,Eastside,Chin Chin Hao,10,280003950,3,2,25,40.6553
+72nd,Flagler-Palm Coast,GARETT JOHNSTON,10,221090152,4,6,20,40.6553
+73rd,Oak Hall,GABRIELA MARICHAL,9,249003752,5,11,14,40.2046
+74th,Flagler-Palm Coast,ALEXANDRIA SWEET,7,221050050,2,1,27,39.3031
+75th,Leesburg High School,KERRY-ANN GAYLE,7,287001152,4,9,17,39.3031
+76th,Flagler-Palm Coast,KAREN GRANT,6,221030150,3,6,21,38.8523
+77th,Leesburg High School,CARTER SLIGH,5,287001351,2,3,25,38.4016
+78th,Eastside,Jenny Huang,4,280004250,4,12,14,37.9508
+79th,Stanton College Preparatory School,Tina Ng,4,296000150,2,4,24,37.9508
+80th,Paxon School,RUTH YABUT,4,250001650,4,12,14,37.9508
+81st,Orange Park,Meredith Becker,3,292000151,3,9,18,37.5001
+82nd,Eastside,Susan Phan,-6,280001750,3,18,9,33.4434

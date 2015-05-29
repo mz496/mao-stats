@@ -1,0 +1,93 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Deerlake Middle,JUSTIN CHEN,87,185103810,23,5,2,69.2202
+2nd,Sanford Middle,Aaron Zhang,87,344101010,23,5,2,69.2202
+3rd,Fairview Middle,Aditya Hota,86,125102310,22,2,6,68.7753
+4th,Sanford Middle,Rohan Gupta,82,344100410,22,6,2,66.9959
+5th,American Heritage (Plantation),Suganth Kannan,81,506006310,22,7,1,66.5511
+6th,Deerlake Middle,TIFFANY LEE,80,185111210,22,8,0,66.1062
+7th,Fairview Middle,Kyle Chen,80,125100410,21,4,5,66.1062
+8th,Fairview Middle,Roehl Reyes,78,125101410,20,2,8,65.2166
+9th,Sanford Middle,Tara Nibhanapudy,77,344100510,20,3,7,64.7717
+10th,Deerlake Middle,CHARMARA GUNARATNE,75,185107610,19,1,10,63.8820
+11th,Deerlake Middle,KEVIN JIANG,75,185109710,21,9,0,63.8820
+12th,Deerlake Middle,CAYLE GAO,74,185106510,19,2,9,63.4372
+13th,Fairview Middle,Jasmine Zou,70,125103010,20,10,0,61.6578
+14th,Fairview Middle,Shardul Heda,69,125106710,18,3,9,61.2130
+15th,Sanford Middle,Varun Naga,69,344101110,18,3,9,61.2130
+16th,Deerlake Middle,MICHELLE YAGAMI,67,185109110,19,9,2,60.3233
+17th,Sanford Middle,Joel Zishuk,65,344102210,18,7,5,59.4336
+18th,Fairview Middle,Rida Darji,65,125101110,18,7,5,59.4336
+19th,Sanford Middle,Timothy Vu,64,344103310,17,4,9,58.9887
+20th,Fairview Middle,Tulsi Patel,63,125106310,18,9,3,58.5439
+21st,Sanford Middle,Nikhil Patel,63,344102310,17,5,8,58.5439
+22nd,Sanford Middle,Sabrina Fan,62,344103710,16,2,12,58.0991
+23rd,Sanford Middle,Niyati Shah,62,344102610,16,2,12,58.0991
+24th,Gifford Middle School,Jacob Hoekzema,62,309100210,16,2,12,58.0991
+25th,Sanford Middle,Meera Sundar,61,344104110,16,3,11,57.6542
+26th,Deerlake Middle,VIVIAN ZHOU,60,185116810,16,4,10,57.2094
+27th,Fairview Middle,Sitara Mysore,59,125103310,17,9,4,56.7645
+28th,Parkway Middle School,yuru niu,56,527101211,15,4,11,55.4300
+29th,Sanford Middle,Dhruv Dadhania,55,344103910,14,1,15,54.9852
+30th,Fairview Middle,Michelle Waldman,53,125107310,15,7,8,54.0955
+31st,Lincoln Park Academy,Bradley Gilrame,53,396000110,14,3,13,54.0955
+32nd,Sanford Middle,Akshay Prasad,52,344102410,15,8,7,53.6506
+33rd,Gifford Middle School,Kyle Darrisaw,51,309100710,15,9,6,53.2058
+34th,St. Edwards Middle,KISHORE CHUNDI,51,305000310,13,1,16,53.2058
+35th,Deerlake Middle,MARY KILCOYNE,50,185110610,14,6,10,52.7609
+36th,Sanford Middle,Ian Miller,49,344103410,14,7,9,52.3161
+37th,Parkway Middle School,tempress cox,49,527100511,14,7,9,52.3161
+38th,Sanford Middle,Ishan Dhillon,48,344101210,15,12,3,51.8712
+39th,St. Edwards Middle,JOSH HURWITZ,47,305000610,12,1,17,51.4264
+40th,Sanford Middle,Ross Bloom,45,344105212,13,7,10,50.5367
+41st,Sanford Middle,Nahian Arfin,43,344102710,11,1,18,49.6470
+42nd,Parkway Middle School,rachel pittman,43,527101011,11,1,18,49.6470
+43rd,St. Edwards Middle,RYAN TERPSTRA,43,305001110,12,5,13,49.6470
+44th,Gifford Middle School,Ryan Neidz,43,309100510,12,5,13,49.6470
+45th,Sanford Middle,Joel Kratt,42,344102110,13,10,7,49.2022
+46th,Gifford Middle School,Miguel Vallejo,42,309100610,12,6,12,49.2022
+47th,Parkway Middle School,sardel charlotin,42,527101611,12,6,12,49.2022
+48th,Gifford Middle School,Barbora Hlachcova,40,309100110,13,12,5,48.3125
+49th,Miami Springs, ,38,582076710,12,10,8,47.4228
+50th,Gifford Middle School,MaryKate Hiller,38,309100010,11,6,13,47.4228
+51st,Deerlake Middle,ANNIE TONG,37,185116110,10,3,17,46.9780
+52nd,Parkway Middle School,elasnie aleme,37,527101911,10,3,17,46.9780
+53rd,Sanford Middle,Mujahid Jaffer,37,344104410,11,7,12,46.9780
+54th,Miami Springs, ,37,582077510,12,11,7,46.9780
+55th,Miami Springs, ,36,582077410,11,8,11,46.5331
+56th,St. Edwards Middle,MASON HEIM,35,305000510,9,1,20,46.0883
+57th,Parkway Middle School, ,35,527102411,10,5,15,46.0883
+58th,Miami Springs, ,34,582077610,10,6,14,45.6434
+59th,St. Edwards Middle,FAHAD AHMED,34,305000110,9,2,19,45.6434
+60th,Miami Sunset,VERONICA CANIDO,34,544005510,10,6,14,45.6434
+61st,Sanford Middle,Nirva Vassa,33,344102510,10,7,13,45.1986
+62nd,Deerlake Middle,ADA DING,32,185104910,9,4,17,44.7537
+63rd,Sanford Middle,Arige Shaukat,30,344104610,9,6,15,43.8641
+64th,Miami Springs, ,27,582077710,9,9,12,42.5295
+65th,Miami Springs, ,27,582076210,8,5,17,42.5295
+66th,Parkway Middle School,jennifer papayoute,26,527101111,8,6,16,42.0847
+67th,Parkway Middle School,t'keyhah huckaby,26,527101311,9,10,11,42.0847
+68th,St. Edwards Middle,TOMMY HAMMOND,25,305001410,7,3,20,41.6398
+69th,Parkway Middle School,jahmema pierre,25,527100011,7,3,20,41.6398
+70th,Parkway Middle School,tempress cox,25,527100511,9,11,10,41.6398
+71st,Miami Springs, ,25,582076410,8,7,15,41.6398
+72nd,Miami Springs, ,25,582077010,11,19,0,41.6398
+73rd,Parkway Middle School,jerome taylor,25,527100411,9,11,10,41.6398
+74th,Sanford Middle,Shreya Ramnath,25,344103610,8,7,15,41.6398
+75th,Parkway Middle School,elasnie aleme,24,527101911,7,4,19,41.1950
+76th,Miami Springs, ,24,582077210,10,16,4,41.1950
+77th,Miami Sunset,SHERELY DEMENDOZA,23,544006010,8,9,13,40.7502
+78th,Miami Sunset,RAFAEL PIMENTEL,21,544009110,6,3,21,39.8605
+79th,St. Edwards Middle,ISHAN GANDI,21,305000410,7,7,16,39.8605
+80th,Miami Springs, ,21,582076510,8,11,11,39.8605
+81st,Miami Springs, ,20,582076810,10,20,0,39.4156
+82nd,Sanford Middle,Jonathan Sepulvada,19,344105110,8,13,9,38.9708
+83rd,Parkway Middle School,antonia johnson,19,527100711,9,17,4,38.9708
+84th,Miami Springs, ,19,582076110,8,13,9,38.9708
+85th,Miami Springs, ,17,582076310,9,19,2,38.0811
+86th,Parkway Middle School,denzel samuels,16,527100111,6,8,16,37.6362
+87th,Sanford Middle,Hadi Mohammed,15,344102810,9,21,0,37.1914
+88th,Miami Springs, ,15,582077110,9,21,0,37.1914
+89th,Miami Springs, ,13,582076610,5,7,18,36.3017
+90th,Miami Springs, ,7,582076910,7,21,2,33.6327
+91st,Parkway Middle School,tyrie fluellen,4,527101511,4,12,14,32.2981
+92nd,Miami Springs, ,3,582077310,4,13,13,31.8533

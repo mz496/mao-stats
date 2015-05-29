@@ -1,0 +1,66 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Bartram Trail High,Zachary Kirsche,111,224000151,28,1,1,74.8812
+2nd,Eastside,Jon Claus,105,280000351,27,3,0,72.9256
+3rd,Buchholz,Steve Han,98,295001452,25,2,3,70.6441
+4th,Buchholz,Tony Zeng,94,295005152,24,2,4,69.3403
+5th,Buchholz,Caleb Summers,88,295002051,23,4,3,67.3847
+6th,Buchholz,Stephen Dolbier,86,295004651,22,2,6,66.7329
+7th,Buchholz,Kevin Huang,86,295004951,22,2,6,66.7329
+8th,Buchholz,Jasmine Robinson,85,295000052,22,3,5,66.4069
+9th,Buchholz,Fanchao Zhu,74,295001250,19,2,9,62.8217
+10th,Buchholz,Antony Gillette,70,295000352,19,6,5,61.5179
+11th,Buchholz,josh brownstein,68,295000851,18,4,8,60.8661
+12th,Eastside,David Liu,65,280002351,18,7,5,59.8883
+13th,Buchholz,Alex Song,60,295001750,16,4,10,58.2586
+14th,Stanton College Preparatory School,Michael Cheiken,57,296002651,15,3,12,57.2808
+15th,Nease High School,Carson Ridenhour,56,290002852,15,4,11,56.9549
+16th,Fleming Island High,Nicholas de Leon,53,220000551,14,3,13,55.9771
+17th,Buchholz,Matthew Pearson,52,295005350,14,4,12,55.6512
+18th,Nease High School,Logan Stern,48,290001951,13,4,13,54.3474
+19th,Eastside,Maxwell Curtis,48,280000650,13,4,13,54.3474
+20th,Nease High School,Bryce McKenzie,47,290002352,13,5,12,54.0215
+21st,Buchholz,David Zoellner,46,295002550,12,2,16,53.6956
+22nd,Buchholz,Jingyi Ye,42,295001150,12,6,12,52.3918
+23rd,Flagler Palm Coast,Jennifer Cheung,41,221030151,11,3,16,52.0659
+24th,Eastside,Narayan Kulkarni,40,280001851,12,8,10,51.7400
+25th,Fleming Island High,Andrew Kriehn,40,220000751,12,8,10,51.7400
+26th,Nease High School,Jacob Belcher,38,290002451,11,6,13,51.0881
+27th,Eastside,Michael Kim,34,280001652,9,2,19,49.7844
+28th,Buchholz,Haeun Jung,32,295000450,9,4,17,49.1325
+29th,Nease High School,Lindsey Mitchell,32,290002651,9,4,17,49.1325
+30th,Nease High School,Vivian Nguyen,32,290002751,9,4,17,49.1325
+31st,Fleming Island High,Molly Merritt,30,220000851,8,2,20,48.4807
+32nd,Oak Hall,BRANDA WU,27,249000051,8,5,17,47.5029
+33rd,Bartram Trail High,Chad Saunders,25,224000351,7,3,20,46.8510
+34th,Eastside,Bushra Guenoun,22,280000952,8,10,12,45.8732
+35th,Gainesville High School,David Barbet,22,268002551,7,6,17,45.8732
+36th,Fleming Island High,Becky Perron,21,220001052,6,3,21,45.5473
+37th,Gainesville High School,Aaron Stainsby,20,268004451,7,8,15,45.2213
+38th,Bartram Trail High,Eric Terrell,20,224000251,6,4,20,45.2213
+39th,Gainesville High School,Kristen Dorval,18,268000151,5,2,23,44.5695
+40th,Bartram Trail High,Mitchell Zhang,18,224000051,6,6,18,44.5695
+41st,Flagler Palm Coast,Allison Mercer,17,221030350,5,3,22,44.2435
+42nd,Nease High School,Tony Yin,17,290003350,6,7,17,44.2435
+43rd,Oak Hall,JESSY ZHAI,15,249005651,5,5,20,43.5917
+44th,Stanton College Preparatory School,Gagan Gupta,15,296005251,5,5,20,43.5917
+45th,Nease High School,Matt Short,15,290003050,5,5,20,43.5917
+46th,Bolles,Doug Trippe,15,252002551,4,1,25,43.5917
+47th,Bolles,JiHyok Woo,15,252003151,7,13,10,43.5917
+48th,Leesburg High School,Graham Sligh,15,287001751,9,21,0,43.5917
+49th,Fleming Island High,Tye Rochner,15,220001152,5,5,20,43.5917
+50th,Flagler Palm Coast,Joseph Bowes,14,221000152,4,2,24,43.2657
+51st,Flagler Palm Coast,Michael Nguyen,14,221030651,4,2,24,43.2657
+52nd,Nease High School,Aarathi Devi,12,290003252,4,4,22,42.6139
+53rd,Flagler Palm Coast,Kacie Johnston,10,221030851,3,2,25,41.9620
+54th,Nease High School,Preston Sluder,8,290002252,3,4,23,41.3101
+55th,Nease High School,Michelle Wartenberg,7,290003450,4,9,17,40.9842
+56th,Flagler Palm Coast,Mary Vasilevsky,6,221040352,2,2,26,40.6583
+57th,Gainesville High School,Briana Freeman,5,268006951,2,3,25,40.3323
+58th,Flagler Palm Coast,Boyd Fulmer,5,221040052,2,3,25,40.3323
+59th,Flagler Palm Coast,Jayce Singletary,5,221001750,7,23,0,40.3323
+60th,Leesburg High School,Margaret Phethean,3,287002851,2,5,23,39.6805
+61st,Flagler Palm Coast,Allyson Smith,3,221001851,3,9,18,39.6805
+62nd,Fleming Island High,Wren Flesher,1,220000651,1,3,26,39.0286
+63rd,Stanton College Preparatory School,Michael Romaine,-1,296000951,4,17,9,38.3768
+64th,Flagler Palm Coast,John Poeng,-14,221040652,1,18,11,34.1396
+65th,Leesburg High School,James Hamlin,-15,287000851,3,27,0,33.8137

@@ -1,0 +1,86 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Eli Ross,110,140014161,28,2,0,68.9966
+2nd,Buchholz,John Lu,101,295002461,26,3,1,66.1017
+3rd,Palm Harbor Univ,Cody Jordan,100,413008961,26,4,0,65.7801
+4th,Palm Harbor Univ,Chris Assoian,100,413006761,26,4,0,65.7801
+5th,Eastside,Belgo Ding,93,280003461,24,3,3,63.5285
+6th,Rickards High School,Patrick Lu,90,140000361,24,6,0,62.5635
+7th,Lincoln,Brenan Flint,89,109080861,23,3,4,62.2419
+8th,Eastside,Yuno Hu,88,280000161,23,4,3,61.9202
+9th,Freedom,NGHIA TRAN,87,466001461,23,5,2,61.5985
+10th,Hagerty High School,Greg Braciak,87,310002261,23,5,2,61.5985
+11th,Deerfield Beach,ISABEL LOPEZ,87,577009161,23,5,2,61.5985
+12th,Buchholz,Youngin Yun,86,295002961,23,6,1,61.2769
+13th,Deerfield Beach,JAGJIT SINGH,86,577009860,23,6,1,61.2769
+14th,Seminole (Seminole),DYLAN BELFIELD,85,341007261,23,7,0,60.9552
+15th,Freedom,THOMAS DOMBROWSKI,85,466000161,22,3,5,60.9552
+16th,Buchholz,Lucy Zhong,84,295003061,22,4,4,60.6336
+17th,Lawton Chiles High School,Kejing Jiang,84,181004661,22,4,4,60.6336
+18th,Lawton Chiles High School,Ryan Pace,80,181005661,22,8,0,59.3469
+19th,Palm Harbor Univ,Jessica Goodman,80,413007862,21,4,5,59.3469
+20th,Stoneman Douglas,MADU NAGARAJ,79,532021361,21,5,4,59.0253
+21st,Deerfield Beach,Abbey Bethel,78,577008661,20,2,8,58.7036
+22nd,Hagerty High School,Jacob Croft,77,310004061,20,3,7,58.3820
+23rd,Deerfield Beach,JAVAUGHN LAWRENCE,77,577009061,21,7,2,58.3820
+24th,Buchholz,Wenda Ye,76,295002761,20,4,6,58.0603
+25th,Lincoln,Elaine Lee,75,109013361,20,5,5,57.7387
+26th,Seminole (Seminole),THOMAS ZHANG,75,341004261,21,9,0,57.7387
+27th,Palm Harbor Univ,Kelley VanCleve,73,413012861,20,7,3,57.0954
+28th,Deerfield Beach,MAURICIO VILLA,70,577010260,19,6,5,56.1304
+29th,Rickards High School,Dhyan Valle,70,140000061,20,10,0,56.1304
+30th,Eastside,Gaby Ghita,69,280002361,19,7,4,55.8087
+31st,Lawton Chiles High School,Andrew Young,69,181010761,19,7,4,55.8087
+32nd,Buchholz,Elliott Myers,65,295005560,18,7,5,54.5221
+33rd,Miami Springs,EVAN WILLIAMS,63,582010261,18,9,3,53.8788
+34th,Deerfield Beach,KRISH SIGLER,63,577009661,18,9,3,53.8788
+35th,Seminole (Seminole),ALAKH GULATI,63,341012161,18,9,3,53.8788
+36th,Buchholz,Austin Good,61,295005260,17,7,6,53.2355
+37th,Seminole (Seminole),LORI NEVIN,61,341005760,17,7,6,53.2355
+38th,Oviedo,Charles Huhyn,61,377002561,18,11,1,53.2355
+39th,Lawton Chiles High School,Parker Downing,59,181008361,17,9,4,52.5922
+40th,Palm Harbor Univ,Ravi Haksar,58,413008262,17,10,3,52.2705
+41st,Palm Harbor Univ,Sankar Kannusamy,55,413009161,16,9,5,51.3055
+42nd,Buchholz,Maddie Upthegrove,52,295006060,16,12,2,50.3406
+43rd,Hagerty High School,Rebecca Leeper,51,310003762,14,5,11,50.0189
+44th,Seminole (Seminole),RUCHI SHUKLA,51,341003661,15,9,6,50.0189
+45th,Eastside,Pho Cho,51,280003061,16,13,1,50.0189
+46th,Hagerty High School,Heather Burke,49,310001262,15,11,4,49.3756
+47th,Miami Springs,TONI CANONICO,43,582011261,12,5,13,47.4457
+48th,Lawton Chiles High School,Brianna Rosier,41,181006162,13,11,6,46.8024
+49th,Palm Harbor Univ,Jeremy Sparks,40,413012062,12,8,10,46.4807
+50th,Lawton Chiles High School,John Fox,39,181008562,11,5,14,46.1590
+51st,Hagerty High School,Timothy Copeland,39,310001361,13,13,4,46.1590
+52nd,H. B. Plant,John Brannan,39,427022261,13,13,4,46.1590
+53rd,Lawton Chiles High School,Janna Browning,38,181008062,11,6,13,45.8374
+54th,Stoneman Douglas,KITMAN CHAN,38,532020361,11,6,13,45.8374
+55th,Deerfield Beach,ABDULLAH KHALID,37,577014360,11,7,12,45.5157
+56th,Fleming Island High,Alex Wegznek,36,220001461,11,8,11,45.1941
+57th,Deerfield Beach,CASEY DUANJICK,35,577008860,11,9,10,44.8724
+58th,Freedom,LANA NGUYEN,35,466001361,10,5,15,44.8724
+59th,Lawton Chiles High School,Katan Rahangdale,35,181010162,13,17,0,44.8724
+60th,Deerfield Beach,SYDNEY SMITH,34,577009960,11,10,9,44.5508
+61st,Hagerty High School,Stephen Davis,29,310002462,10,11,9,42.9425
+62nd,Fleming Island High,Cindy Wade,27,220001861,8,5,17,42.2992
+63rd,Stoneman Douglas,JOHN BRADLEY,27,532020261,11,17,2,42.2992
+64th,Miami Springs,NATALIE MARTINEZ,24,582012161,8,8,14,41.3342
+65th,American High School,Nathalia Perez,23,523002261,8,9,13,41.0125
+66th,Palm Harbor Univ,Brian Wall,23,413013162,9,13,8,41.0125
+67th,Deerfield Beach,PAULA PLUCHINO,22,577009360,7,6,17,40.6909
+68th,Hagerty High School,Tyler Kirk,22,310003861,8,10,12,40.6909
+69th,Seminole (Seminole),RIZAALI MANJI,22,341007160,8,10,12,40.6909
+70th,Lake Mary,Neil Lewis,22,308005061,8,10,12,40.6909
+71st,Freedom,JACLYN KRAMER,18,466000961,7,10,13,39.4043
+72nd,Miami Springs,TYLER THOMAS,17,582013461,6,7,17,39.0826
+73rd,Ferguson,KARINA SOMOHANO,16,507008561,7,12,11,38.7610
+74th,Lawton Chiles High School,Sam Bennett,15,181010960,9,21,0,38.4393
+75th,Ferguson,HAYDEE DELCALVO,13,507007060,4,3,23,37.7960
+76th,Hillsborough,Keely Orselli,11,428008661,5,9,16,37.1527
+77th,American High School,Abel Aybar,10,523000061,4,6,20,36.8310
+78th,Miami Springs,ANDREW GONZALEZ,10,582001860,4,6,20,36.8310
+79th,Ferguson,RICARDO DEARMAS,9,507004961,6,15,9,36.5094
+80th,Braddock,Claudia Vega,7,538000561,3,5,22,35.8661
+81st,American High School,Stephanie Irisarri,5,523002961,7,23,0,35.2227
+82nd,American High School,Bernadette Guerra,2,523002361,4,14,12,34.2578
+83rd,Miami Springs,ANDREW MEYERS,-6,582007460,4,22,4,31.6845
+84th,Ferguson,BRENDA ROJAS,-10,507008261,1,14,15,30.3979
+85th,Ferguson,TAAHA MENDHA,-10,507000061,4,26,0,30.3979

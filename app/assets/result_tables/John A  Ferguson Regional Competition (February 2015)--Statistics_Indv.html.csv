@@ -1,0 +1,106 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),Matthew Robins,115,506004461,29,1,0,69.5215
+2nd,Cypress Bay,Juan Paniza,111,588010361,28,1,1,68.3482
+3rd,American Heritage (Plantation),Jared Shulkin,111,506004661,28,1,1,68.3482
+4th,American Heritage (Plantation),Ashley Westerfield,110,506005760,28,2,0,68.0548
+5th,Miami Palmetto,William Yang,103,541046861,26,1,3,66.0016
+6th,Deerfield Beach,Aakash Anandjiwala,102,577000460,26,2,2,65.7082
+7th,American Heritage (Plantation),Aaron Ben-Shalom,102,506003061,26,2,2,65.7082
+8th,Cypress Bay,David Li,100,588009761,26,4,0,65.1216
+9th,Ransom Everglades,Bradley Jackson,99,519001061,25,1,4,64.8283
+10th,Cypress Bay,Emily Chen,98,588005660,25,2,3,64.5349
+11th,Deerfield Beach,Ivan Leonov,97,577002761,25,3,2,64.2416
+12th,American Heritage (Plantation),Ryan Galvankar,96,506003461,25,4,1,63.9483
+13th,Cypress Bay,Alissa Kushner,96,588006760,25,4,1,63.9483
+14th,Coral Glades,Yagna Patel,96,528003661,25,4,1,63.9483
+15th,Miami Palmetto,Jaewon Moon,94,541057360,24,2,4,63.3616
+16th,Cypress Bay,Deepti Singam,94,588007760,24,2,4,63.3616
+17th,Cypress Bay,Loksondo Kung,92,588001760,24,4,2,62.7750
+18th,Miami Palmetto,Bo You,90,541056061,23,2,5,62.1883
+19th,Cypress Bay,Erin Yoo,89,588004560,23,3,4,61.8950
+20th,Miami Palmetto,Sanjoy Kundu,88,541084560,23,4,3,61.6017
+21st,American Heritage (Plantation),Barath Tirumala,85,506004760,23,7,0,60.7217
+22nd,Deerfield Beach,Reena Boruk,85,577000961,22,3,5,60.7217
+23rd,Deerfield Beach,Dhyey Desai,83,577002061,22,5,3,60.1351
+24th,American Heritage (Plantation),Sehyun (Sam) Moon,82,506003960,22,6,2,59.8417
+25th,Miami Palmetto,James Wang,80,541036061,21,4,5,59.2551
+26th,American Heritage (Plantation),Jared Lassner,79,506002560,21,5,4,58.9618
+27th,Miami Springs,CORY HARRINGTON,78,582001061,21,6,3,58.6684
+28th,Cypress Bay,Erika Bryant,77,588005461,21,7,2,58.3751
+29th,Doral Academy High,Kiran Brahmatewari,75,537505561,21,9,0,57.7885
+30th,Cypress Bay,Bryce Caro,75,588005560,20,5,5,57.7885
+31st,Cypress Bay,Marcos Martinez,75,588010061,21,9,0,57.7885
+32nd,Cypress Bay,John Lundell,73,588011460,19,3,8,57.2018
+33rd,American Heritage (Plantation),Brian Haimes,72,506003660,20,8,2,56.9085
+34th,Cypress Bay,Christian Marin,66,588006960,17,2,11,55.1485
+35th,Miami Palmetto,Claire Zuo,66,541058961,18,6,6,55.1485
+36th,Ronald Reagan H. S.,Guillermo Caminos,65,527001261,18,7,5,54.8552
+37th,Ronald Reagan H. S.,Pablo Beltran,63,527000461,16,1,13,54.2686
+38th,Deerfield Beach,Erin Connors,62,577001561,16,2,12,53.9752
+39th,Ronald Reagan H. S.,Nicolas Navarro,62,527004361,18,10,2,53.9752
+40th,Flanagan,John Sarnecki,59,591007461,17,9,4,53.0953
+41st,Ronald Reagan H. S.,Kevin Su-Shum,57,527006861,16,7,7,52.5086
+42nd,University School of NSU,Yunqi Xu,56,563003361,16,8,6,52.2153
+43rd,Deerfield Beach,Christian Ubillus,54,577004460,14,2,14,51.6286
+44th,Coral Reef,Andres Zambrano,51,587005261,14,5,11,50.7487
+45th,Ronald Reagan H. S.,Ross Fox,51,527002660,14,5,11,50.7487
+46th,Lely High School,Yanet Gomez,51,581000161,14,5,11,50.7487
+47th,Miami Palmetto,Rosalie Luo,49,541086760,13,3,14,50.1620
+48th,Miami Palmetto,Jeffrey Li,46,541061060,13,6,11,49.2821
+49th,Flanagan,Meha Agrawal,46,591003861,12,2,16,49.2821
+50th,Ransom Everglades,Dickson Lee,46,519004061,13,6,11,49.2821
+51st,University School of NSU,Rohan Rajan,46,563003461,12,2,16,49.2821
+52nd,Ronald Reagan H. S.,Elizabeth Baptiste,42,527000260,11,2,17,48.1088
+53rd,Flanagan,Ivy Li,42,591004161,12,6,12,48.1088
+54th,Deerfield Beach,Janel Weatherly,41,577002360,12,7,11,47.8154
+55th,Lely High School,Kevin Lopez,41,581001761,12,7,11,47.8154
+56th,Ronald Reagan H. S.,Carela Mendez,39,527004160,11,5,14,47.2288
+57th,Doral Academy High,Bismarck Fernandez,38,537502861,11,6,13,46.9355
+58th,JP Taravella,Niklas Goernitz,36,533000461,11,8,11,46.3488
+59th,Doral Academy High,Ernesto Diaz,36,537500661,11,8,11,46.3488
+60th,JP Taravella,Sameeha Hassan,34,533001661,9,2,19,45.7622
+61st,Gulf Coast,Zena Hamilton,33,575004361,10,7,13,45.4688
+62nd,Westland Hialeah Senior HS, ,32,504505961,11,12,7,45.1755
+63rd,Miami Palmetto,Kevin Zheng,29,541042660,8,3,19,44.2955
+64th,Miami Palmetto,Yancheng Cai,28,541069660,8,4,18,44.0022
+65th,Ferguson,ANNIA BALCAZAR,27,507004761,8,5,17,43.7089
+66th,Naples,Erin Sadowski,26,545000761,11,18,1,43.4156
+67th,Ferguson,ANABEL GONZALEZ,23,507007561,6,1,23,42.5356
+68th,Gulf Coast,Braiden Howell,23,575001661,9,13,8,42.5356
+69th,University School of NSU,Samuel Goldfarb,22,563003661,8,10,12,42.2423
+70th,Coral Reef,Ghardie Mathelier,22,587008161,7,6,17,42.2423
+71st,Ronald Reagan H. S.,Rafael Espinoza,21,527002260,7,7,16,41.9489
+72nd,Flanagan,Arielle Lawson,21,591001461,7,7,16,41.9489
+73rd,Ferguson,LILIAN RODICIO,20,507000661,7,8,15,41.6556
+74th,Ronald Reagan H. S.,Carlos Roche,20,527005560,5,0,25,41.6556
+75th,Naples,Camille Howard,20,545001561,8,12,10,41.6556
+76th,Fort Lauderdale,Ethan Kaplan,20,522001061,10,20,0,41.6556
+77th,Miami Palmetto,Xueyu Huang,20,541000660,10,20,0,41.6556
+78th,Ferguson,ETHAN CHOI,19,507000061,6,5,19,41.3623
+79th,TERRA Environmental Research Institute,KELLY NGUYEN,19,584509461,6,5,19,41.3623
+80th,Naples,Rebecca Barton,19,545003361,5,1,24,41.3623
+81st,Ronald Reagan H. S.,Nicolas Marquez,19,527003860,6,5,19,41.3623
+82nd,Miami Palmetto,Darius Gillard,19,541076660,7,9,14,41.3623
+83rd,Ronald Reagan H. S.,Denis Dutka,17,527008260,8,15,7,40.7756
+84th,Miami Palmetto,Achint Lehal,16,541079260,5,4,21,40.4823
+85th,Ronald Reagan H. S.,Miguel Bernal,16,527000660,5,4,21,40.4823
+86th,Gulf Coast,Emily Clark,15,575000461,9,21,0,40.1890
+87th,Ronald Reagan H. S.,Jessica Vilches,15,527006960,5,5,20,40.1890
+88th,Gulf Coast,Jamie Daniels,14,575004461,6,10,14,39.8957
+89th,Ronald Reagan H. S.,Juan Sarceno,13,527006560,6,11,13,39.6023
+90th,JP Taravella,Kiara Kajatt,13,533002061,6,11,13,39.6023
+91st,Coral Glades,Jake Ginsburger,12,528002661,5,8,17,39.3090
+92nd,Lely High School,Anahi Vivar,11,581000661,4,5,21,39.0157
+93rd,Ronald Reagan H. S.,Jose Pinero,11,527004760,5,9,16,39.0157
+94th,Miami Sunset,Hollis Stamatyades,10,544001561,3,2,25,38.7224
+95th,Coral Reef,Johanna Mendoza,10,587002861,3,2,25,38.7224
+96th,Fort Lauderdale,Trevor Burns,10,522004961,4,6,20,38.7224
+97th,Deerfield Beach,Keval Patel,10,577004360,7,18,5,38.7224
+98th,Miami Palmetto,Angela Lin,9,541088360,3,3,24,38.4290
+99th,Miami Springs,KIRSTEN CROOKS,8,582003661,5,12,13,38.1357
+100th,Mater Lakes Academy,Natalie Oliveros,8,559001961,4,8,18,38.1357
+101st,Westland Hialeah Senior HS,Yessenia Garcia,7,504501661,6,17,7,37.8424
+102nd,Westland Hialeah Senior HS,Stephanie Rodriguez,5,504504361,7,23,0,37.2557
+103rd,Ronald Reagan H. S.,Nadia Napolitano,4,527004260,3,8,19,36.9624
+104th,Mater Lakes Academy,Farid Sayim,4,559002161,4,12,14,36.9624
+105th,Mater Lakes Academy,Ashley Ortiz,0,559002061,2,8,20,35.7891

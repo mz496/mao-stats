@@ -1,0 +1,93 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Kevin Huang,146,295004952,29,0,1,76.7030
+2nd,Bartram Trail High,Zachary Kirsche,141,224000151,28,1,1,75.2092
+3rd,Buchholz,Keshav Vemuri,138,295002152,27,0,3,74.3129
+4th,Buchholz,Stephen Dolbier,137,295004651,27,1,2,74.0142
+5th,Buchholz,Tony Zeng,132,295005151,26,2,2,72.5204
+6th,Buchholz,Steve Han,130,295001452,26,4,0,71.9229
+7th,Buchholz,Caleb Summers,120,295002051,24,6,0,68.9353
+8th,Buchholz,Jennifer Li,118,295001650,23,4,3,68.3378
+9th,Buchholz,Matthew Pearson,113,295005350,22,5,3,66.8440
+10th,Buchholz,josh brownstein,113,295000850,21,1,8,66.8440
+11th,Buchholz,Jukyung Choi,113,295001050,22,5,3,66.8440
+12th,Buchholz,Alex Song,112,295001751,21,2,7,66.5453
+13th,Buchholz,Davis Foote,110,295001352,21,4,5,65.9477
+14th,Gainesville High School,Connor Davis,102,268006451,19,4,7,63.5577
+15th,Oak Hall,ALAN LI,93,249000951,17,5,8,60.8689
+16th,Eastside,Seth Rutman,82,280004951,14,4,12,57.5826
+17th,Gainesville High School,Tyler Parker,81,268008252,13,1,16,57.2838
+18th,Eastside,Joseph Kann,79,280002351,13,3,14,56.6863
+19th,Spruce Creek,Oisin Harrington,76,267008351,12,2,16,55.7900
+20th,Spruce Creek,Rumya Raghavan,76,267008751,12,2,16,55.7900
+21st,Buchholz,Stephen SO,71,295005450,11,3,16,54.2962
+22nd,Gainesville High School,Ethan Ellis,69,268010051,10,1,19,53.6987
+23rd,Bolles,Phoebe Jin,69,252000651,13,13,4,53.6987
+24th,Bolles,Candice Fan,66,252000351,10,4,16,52.8025
+25th,Flagler Palm Coast High School,Tyler Jarnagin,65,221002852,13,17,0,52.5037
+26th,Eastside,Michael Kim,64,280002551,10,6,14,52.2050
+27th,Bolles,Cypher Yang,64,252001351,10,6,14,52.2050
+28th,Fleming Island High,Ellen Waidner,63,220003450,9,3,18,51.9062
+29th,Fleming Island High,Nicholas de Leon,60,220000551,8,2,20,51.0099
+30th,Gainesville High School,David Barbet,60,268006651,9,6,15,51.0099
+31st,Spruce Creek,Alex Pettola,58,267008651,8,4,18,50.4124
+32nd,Gainesville High School,Julie Bailes,57,268001552,7,1,22,50.1137
+33rd,Nease High School,Farina Khandadia,56,290000851,8,6,16,49.8149
+34th,Bartram Trail High,Chad Saunders,55,224000351,8,7,15,49.5161
+35th,Leesburg High School,Leah Wertz,55,287001352,11,19,0,49.5161
+36th,Leesburg High School,Akeem Sankey,55,287001951,11,19,0,49.5161
+37th,Gainesville High School,Lucia Murphy,51,268008951,7,7,16,48.3211
+38th,Orange Park High School,Danielle Dewald,50,292000251,6,4,20,48.0224
+39th,Nease High School,Matthew Short,50,290001451,8,12,10,48.0224
+40th,Oak Hall,BRANDA WU,47,249001051,6,7,17,47.1261
+41st,Orange Park High School,Angelo Piner,45,292001252,9,21,0,46.5286
+42nd,Spruce Creek,Preston Rasmussen,45,267008852,5,5,20,46.5286
+43rd,Leesburg High School,Tyler Brandeburg,45,287000352,9,21,0,46.5286
+44th,Nease High School,Andrew Knuppel,45,290001352,5,5,20,46.5286
+45th,Nease High School,Tyler Clowe,45,290000752,5,5,20,46.5286
+46th,Nease High School,Alek Abate,44,290001152,4,2,24,46.2298
+47th,Nease High School,Tony Yin,44,290001651,5,6,19,46.2298
+48th,Flagler Palm Coast High School,Linsey Smith,43,221020051,4,3,23,45.9311
+49th,Spruce Creek,Priya Sathyanarayan,43,267008952,4,3,23,45.9311
+50th,Bolles,William Wang,43,252000752,5,7,18,45.9311
+51st,Fleming Island High,Ben Ford,43,220002951,5,7,18,45.9311
+52nd,Orange Park High School,Emily Buzby,41,292000051,4,5,21,45.3336
+53rd,Fleming Island High,Paige Watson,41,220002150,3,1,26,45.3336
+54th,Flagler Palm Coast High School,Michael Safarty,41,221020151,5,9,16,45.3336
+55th,Bolles,Tom Zhang,40,252001451,4,6,20,45.0348
+56th,Flagler Palm Coast High School,Forrest Mason,40,221021052,5,10,15,45.0348
+57th,Nease High School,Luis Buenaventura,39,290001252,4,7,19,44.7360
+58th,Fleming Island High,Rachna Patel,39,220003052,3,3,24,44.7360
+59th,Flagler Palm Coast High School,Melody Sivri,39,221001850,3,3,24,44.7360
+60th,Fleming Island High,Daniel Cooksey,39,220002751,4,7,19,44.7360
+61st,Nease High School,Aparna Sethumadhavan,38,290001050,4,8,18,44.4373
+62nd,Fleming Island High,Justin Tongol,36,220003252,6,18,6,43.8398
+63rd,Spruce Creek,Michael He,36,267008452,2,2,26,43.8398
+64th,Fleming Island High,Regan Smith,36,220003151,3,6,21,43.8398
+65th,Orange Park High School,Fuhren Tsai,36,292001652,3,6,21,43.8398
+66th,Flagler Palm Coast High School,Daniel Gerhard,35,221020350,4,11,15,43.5410
+67th,Spruce Creek,Rajan Patel,35,267008551,6,19,5,43.5410
+68th,Leesburg High School,Madison Collins,35,287000651,7,23,0,43.5410
+69th,Flagler Palm Coast High School,Carlos Espinoza,34,221000550,3,8,19,43.2423
+70th,Bartram Trail High,Eric Terrell,34,224000251,3,8,19,43.2423
+71st,Flagler Palm Coast High School,Benjamin Jones,33,221040151,2,5,23,42.9435
+72nd,Orange Park High School,Vanessa Honorat,33,292000551,2,5,23,42.9435
+73rd,Orange Park High School,Charlene Xia,33,292000951,4,13,13,42.9435
+74th,Spruce Creek,Doaa ElTemtamy,33,267008252,2,5,23,42.9435
+75th,Flagler Palm Coast High School,Harlen Poeng,33,221000050,3,9,18,42.9435
+76th,Nease High School,Aarathi Devi,32,290001551,3,10,17,42.6447
+77th,Nease High School,Alejandro Ng,31,290000950,2,7,21,42.3460
+78th,Bartram Trail High,Vihasa Govada,30,224000051,2,8,20,42.0472
+79th,Leesburg High School,Tanner Stewart,30,287002652,6,24,0,42.0472
+80th,Flagler Palm Coast High School,Sylvia Lujo,30,221003252,6,24,0,42.0472
+81st,Flagler Palm Coast High School,Colleen Sousa,27,221001452,1,7,22,41.1510
+82nd,Fleming Island High,Evan Amstutz,27,220002452,1,7,22,41.1510
+83rd,Flagler Palm Coast High School,Melissa Boyles,27,221021150,2,11,17,41.1510
+84th,Orange Park High School,Marco DelCastillo,27,292000752,3,15,12,41.1510
+85th,Orange Park High School,James McCann,26,292001752,0,4,26,40.8522
+86th,Flagler Palm Coast High School,Ryan McMeel,25,221001150,5,25,0,40.5535
+87th,Flagler Palm Coast High School,Carly Esposito,25,221000650,1,9,20,40.5535
+88th,Leesburg High School,Julie Bitsios,25,287000051,5,25,0,40.5535
+89th,Fleming Island High,Samantha Beland,24,220002252,1,10,19,40.2547
+90th,Flagler Palm Coast High School,Joseph Bowes,23,221000151,0,7,23,39.9559
+91st,Leesburg High School,Leor Tal,20,287001051,4,26,0,39.0597
+92nd,Leesburg High School,Johnny Trignano,19,287001252,1,15,14,38.7609

@@ -1,0 +1,82 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Williams Middle,Raphael Brosula,83,468100621,21,1,8,73.0597
+2nd,Berkeley Prep,Tony Leche,78,405007521,20,2,8,70.6327
+3rd,Williams Middle,Padma Vasanthakumar,72,468105821,18,0,12,67.7203
+4th,Berkeley Prep,Jalen Li,69,405000422,18,3,9,66.2641
+5th,Fort Myers,Tina Yang,68,423002921,18,4,8,65.7787
+6th,Williams Middle,Anmol Mittal,66,468102721,18,6,6,64.8079
+7th,Dunbar High School,Austin Pickett,66,477080221,17,2,11,64.8079
+8th,Randall Middle School,Will Kirby,65,465100221,17,3,10,64.3224
+9th,Palm Harbor Univ,Jerome David,65,413001921,17,3,10,64.3224
+10th,King,Sruthika Baviriseaty,63,435001121,17,5,8,63.3516
+11th,Robinson,CJ Baab,62,458005921,17,6,7,62.8662
+12th,Wharton,Tim Ford,62,485000321,17,6,7,62.8662
+13th,Berkeley Prep,Sneha Patel,62,405000621,17,6,7,62.8662
+14th,Williams Middle,Roshan Jayaraman,59,468103221,16,5,9,61.4100
+15th,Williams Middle,Saketh Katta,58,468104022,16,6,8,60.9246
+16th,Clearwater Fundamental Middle,Erin Watson,58,438173121,15,2,13,60.9246
+17th,Coleman Middle,Aidan Reilly,56,420500421,16,8,6,59.9538
+18th,Shorecrest Prep,Mariah Vesley,54,451006521,14,2,14,58.9830
+19th,King,Minerva Nong,53,435004021,15,7,8,58.4976
+20th,Williams Middle,Andrew Paul,51,468103122,13,1,16,57.5268
+21st,Berkeley Prep,Andre Armero,50,405008121,14,6,10,57.0414
+22nd,Sickles,John Desmet,49,479007921,14,7,9,56.5560
+23rd,Williams Middle,Isha Harshe,48,468101522,13,4,13,56.0706
+24th,Berkeley Prep,Prashanth Ramireddy,48,405007821,13,4,13,56.0706
+25th,Coleman Middle,Carly Long,46,420500221,12,2,16,55.0997
+26th,Gaither High School,Bing Chen,45,426000221,13,7,10,54.6143
+27th,Hillsborough,Varun Puri,45,428081121,14,11,5,54.6143
+28th,King,Ananya Jain,43,435002321,14,13,3,53.6435
+29th,Coleman Middle,raelyn hoskinson,41,420500021,12,7,11,52.6727
+30th,Seminole (Seminole),SHREYA SRIKANTH,40,341013222,13,12,5,52.1873
+31st,Williams Middle,Manish Bhatta,40,468102520,12,8,10,52.1873
+32nd,Hillsborough,Mica Jadick,38,428080421,10,2,18,51.2165
+33rd,Tampa Bay Tech,Suzanna Cronyn,35,461000321,10,5,15,49.7603
+34th,Hillsborough,Jonathan Strickland,35,428081721,10,5,15,49.7603
+35th,Fort Myers,Martin Smith,34,423002721,11,10,9,49.2749
+36th,Sickles,Lucas Morehouse,33,479003821,9,3,18,48.7895
+37th,Coleman Middle,Kathleen Kaschalk,33,420500622,10,7,13,48.7895
+38th,Coleman Middle,Katie Hurd,32,420500922,10,8,12,48.3041
+39th,Gaither High School,Bryan Nguyen,32,426001021,10,8,12,48.3041
+40th,Clearwater Fundamental Middle,Kyle Romero,31,438124421,8,1,21,47.8187
+41st,King,Megan Zhang,31,435003921,9,5,16,47.8187
+42nd,Randall Middle School,Linnea Helenius,31,465102421,10,9,11,47.8187
+43rd,Randall Middle School,Rachel Rozet,31,465102621,10,9,11,47.8187
+44th,Robinson,Tristan Le,30,458008921,9,6,15,47.3333
+45th,Tampa Bay Tech,Caitlin Romberger,29,461000521,9,7,14,46.8479
+46th,Wharton,Alina Kurji,29,485001221,11,15,4,46.8479
+47th,Williams Middle,Issay Barry,28,468100320,8,4,18,46.3625
+48th,Coleman Middle,Alexandra Stefanovici,28,420500722,9,8,13,46.3625
+49th,Sickles,Sheridan Flood,27,479009721,9,9,12,45.8771
+50th,Berkeley Prep,Jared Zukowski,27,405004922,9,9,12,45.8771
+51st,Freedom (Tampa),Caroline Kee,26,466007021,8,6,16,45.3916
+52nd,Williams Middle,Prakash Vasanthakumar,25,468105920,7,3,20,44.9062
+53rd,Gaither High School,Thanh Tran,25,426000821,8,7,15,44.9062
+54th,Hillsborough,Rushabh Shah,25,428081621,9,11,10,44.9062
+55th,Coleman Middle,Alyssa nagle,25,420500821,8,7,15,44.9062
+56th,Middleton,Khan Nguyen,25,468000121,7,3,20,44.9062
+57th,Clearwater Fundamental Middle,Rana Hanna,24,438150522,7,4,19,44.4208
+58th,Clearwater Fundamental Middle,Kendall Mackin,24,438167221,8,8,14,44.4208
+59th,Tampa Bay Tech,Eman Hasan,22,461000121,6,2,22,43.4500
+60th,Clearwater Fundamental Middle,Colette Kania,21,438142422,6,3,21,42.9646
+61st,Dunbar High School,Magdali Bartolome,21,477080521,6,3,21,42.9646
+62nd,Randall Middle School,Joshua Doberly,20,465102921,7,8,15,42.4792
+63rd,Shorecrest Prep,Elizabeth Hodgson,20,451006421,6,4,20,42.4792
+64th,Williams Middle,Truman Hoang,20,468103522,10,20,0,42.4792
+65th,Dunbar High School,Ezequiel Mejias Melo,19,477080121,6,5,19,41.9938
+66th,Robinson,Winnie Zheng,19,458009221,8,13,9,41.9938
+67th,Tampa Bay Tech,Donovan Doyle,17,461001521,7,11,12,41.0230
+68th,Berkeley Prep,Max St. John,15,405003622,5,5,20,40.0522
+69th,Shorecrest Prep,Ashley Ballestra,15,451006321,5,5,20,40.0522
+70th,Dunbar High School,Tahtiana Rangel,15,477080321,6,9,15,40.0522
+71st,Wharton,Brynna Hernendez,14,485000621,4,2,24,39.5668
+72nd,Clearwater Fundamental Middle,Brent Wilson,13,438165821,5,7,18,39.0814
+73rd,Durant,Giovani Martinez,12,475000721,6,12,12,38.5960
+74th,Randall Middle School,Tak Moral,11,465100320,5,9,16,38.1106
+75th,Clearwater Fundamental Middle,Daniel Reichert,9,438194022,4,7,19,37.1398
+76th,Durant,Esmeralda Sierra,7,475001121,3,5,22,36.1690
+77th,Coleman Middle,Gabrielle Tapley,6,420500322,4,10,16,35.6835
+78th,Clearwater Fundamental Middle,Tina Bhatt,6,438105722,3,6,21,35.6835
+79th,Durant,Kiara Romero,6,475000921,3,6,21,35.6835
+80th,Robinson,Valeria Gamarra,5,458000921,7,23,0,35.1981
+81st,Middleton,Parker Schuler,4,468000821,4,12,14,34.7127

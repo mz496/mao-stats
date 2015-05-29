@@ -1,0 +1,120 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Jackson Heights Middle,TATIANA ANTHONY,55,304102922,15,5,0,79.4287
+2nd,Fairview Middle,Andrew Chico,45,125104420,13,7,0,72.1886
+3rd,Sandford Middle,Lee Berman,45,344102920,13,7,0,72.1886
+4th,Lincoln Middle School,Hope Pan,41,201001610,12,7,1,69.2926
+5th,Sandford Middle,Freddy Hodgin,38,344103120,11,6,3,67.1206
+6th,Buchholz,Bryce Sperling,36,295000920,10,4,6,65.6726
+7th,Buchholz,Mackenzie Sims,35,295000720,10,5,5,64.9486
+8th,Jackson Heights Middle,MITCHELL CALLOWAY,35,304101322,10,5,5,64.9486
+9th,Fairview Middle,Annie Ma,33,125101520,10,7,3,63.5006
+10th,Buchholz,Yuxiang Zhang,33,295003720,9,3,8,63.5006
+11th,Buchholz,Jingyi Ye,32,295001120,9,4,7,62.7766
+12th,Fairview Middle,Kavitha Chintam,31,125101320,9,5,6,62.0526
+13th,Lincoln Middle School,Vivian Zhu,31,201001510,9,5,6,62.0526
+14th,Buchholz,Paul Park,30,295003320,9,6,5,61.3286
+15th,Buchholz,Yuhak Choi,30,295003120,9,6,5,61.3286
+16th,Seminole (Seminole),DAPHNE JACOBS,29,341001020,8,3,9,60.6046
+17th,Markham Woods Middle,Avinash Bhikha,28,323100120,9,8,3,59.8805
+18th,Ferguson,HAYDEE DELCALVO,28,507007060,8,4,8,59.8805
+19th,Fairview Middle,Pamela Hu,27,125101110,9,9,2,59.1565
+20th,Sandford Middle,Prutha Patel,27,344100710,9,9,2,59.1565
+21st,Sandford Middle,Stanley Kiersnowski,26,344100610,9,10,1,58.4325
+22nd,Lincoln,Mariano RiveraRamos,26,109000110,9,10,1,58.4325
+23rd,Seminole (Seminole),LORI NEVIN,25,341005760,9,11,0,57.7085
+24th,Sandford Middle,Saurabh Sudesh,25,344103510,8,7,5,57.7085
+25th,Sandford Middle,Austin Keatley,25,344102520,8,7,5,57.7085
+26th,St. Patrick Interparrish,Ryan Herring,25,230101110,9,11,0,57.7085
+27th,Buchholz,Huisub Yoon,25,295003620,8,7,5,57.7085
+28th,St. Patrick Interparrish,David Barbet,25,230100310,9,11,0,57.7085
+29th,Sandford Middle,Yash Patel,25,344103320,9,11,0,57.7085
+30th,Markham Woods Middle,Dominique Baeta,25,323104410,9,11,0,57.7085
+31st,Seminole (Seminole),RIZAALI MANJI,24,341007160,8,8,4,56.9845
+32nd,Fairview Middle,Sonia Koul,24,125101820,7,4,9,56.9845
+33rd,St. Patrick Interparrish,Jamie Blackband,24,230100412,8,8,4,56.9845
+34th,Markham Woods Middle,Akshita Parupalli,24,323104110,8,8,4,56.9845
+35th,Sandford Middle,Andrew Kwon,23,344100010,8,9,3,56.2605
+36th,Markham Woods Middle,Meagan Harwick,23,323101420,7,5,8,56.2605
+37th,St. Patrick Interparrish,Salvatore Tedder,23,230102310,8,9,3,56.2605
+38th,Sandford Middle,Tamara Zishuk,21,344100310,7,7,6,54.8125
+39th,Lincoln Middle School,Robin Xu,21,201001210,8,11,1,54.8125
+40th,Lincoln Middle School,Ria Someshwar,20,201000910,7,8,5,54.0885
+41st,Fairview Middle,David Weng,20,125102810,8,12,0,54.0885
+42nd,Jackson Heights Middle,AMANDA HESTON,20,304101422,8,12,0,54.0885
+43rd,Fairview Middle,Wyndham Hudson,18,125100810,7,10,3,52.6405
+44th,Lincoln Middle School,Minja Zhong,18,201001410,6,6,8,52.6405
+45th,St. Patrick Interparrish,Cassidy Fulpchick,17,230100810,7,11,2,51.9165
+46th,St. Patrick Interparrish,Julia Nycz,17,230101810,7,11,2,51.9165
+47th,Kanapaha Middle School,Preet Gandhi,16,209100912,6,8,6,51.1925
+48th,St. Patrick Interparrish,Michael Hughes,16,230101310,7,12,1,51.1925
+49th,Fairview Middle,Govind Kallunkal,16,125108710,7,12,1,51.1925
+50th,Sandford Middle,Anjali Cherukuri,15,344102820,7,13,0,50.4685
+51st,Sandford Middle,Kirk Carmichael,15,344101710,7,13,0,50.4685
+52nd,Lincoln Middle School,Alvaro Valle,15,201001110,7,13,0,50.4685
+53rd,Sandford Middle,Dasan Costandi,15,344103020,6,9,5,50.4685
+54th,St. Patrick Interparrish,William Messina,15,230101610,7,13,0,50.4685
+55th,Howard Bishop Middle,Evan Sokol,15,208101620,7,13,0,50.4685
+56th,Fairview Middle,Jeffrey Zou,15,125103010,7,13,0,50.4685
+57th,Lincoln Middle School,Steven Gu,14,201000210,6,10,4,49.7445
+58th,Sandford Middle,Annika Jarvinen,14,344102720,5,6,9,49.7445
+59th,Sandford Middle,William Webster,13,344101510,6,11,3,49.0205
+60th,Sandford Middle,Shaunak Pandya,13,344102010,6,11,3,49.0205
+61st,Howard Bishop Middle,Ryan Moore,13,208101120,5,7,8,49.0205
+62nd,Markham Woods Middle,arvind jegatheesan,13,323107110,6,11,3,49.0205
+63rd,Lincoln Middle School,Lucinda Peng,13,201000710,6,11,3,49.0205
+64th,St. Patrick Interparrish,Tomasz Andraka,13,230100010,6,11,3,49.0205
+65th,Howard Bishop Middle,Ethan Ellis,12,208100410,5,8,7,48.2965
+66th,Howard Bishop Middle,Sarah Carruthers,12,208100110,6,12,2,48.2965
+67th,Howard Bishop Middle,Seth Rutman,12,208101520,5,8,7,48.2965
+68th,Sandford Middle,Aldwin DeGuzman,12,344101410,6,12,2,48.2965
+69th,St. Patrick Interparrish,Michael Patlovich,12,230101910,6,12,2,48.2965
+70th,St. Patrick Interparrish,Miguel Aragon,11,230100111,6,13,1,47.5725
+71st,Howard Bishop Middle,Christopher Berry,11,208100010,4,5,11,47.5725
+72nd,Markham Woods Middle,Sabrina Baeta,11,323104510,5,9,6,47.5725
+73rd,St. Patrick Interparrish,Peter Ariet,11,230100210,6,13,1,47.5725
+74th,Markham Woods Middle,Jack Rothman,11,323102420,6,13,1,47.5725
+75th,St. Patrick Interparrish,Emily Graetz,10,230101010,6,14,0,46.8484
+76th,Seminole (Seminole),STACIE ARECHAVALIA,10,341013620,3,2,15,46.8484
+77th,Jackson Heights Middle,JONATHAN LE,10,304103122,6,14,0,46.8484
+78th,Sandford Middle,Mckenzie Black,10,344104010,5,10,5,46.8484
+79th,Seminole (Seminole),SAYEED TASNIM,9,341000042,3,3,14,46.1244
+80th,Seminole (Seminole),MARIA CASTANO,9,341001820,3,3,14,46.1244
+81st,Seminole (Seminole),RIKHIL AMIN,9,341001520,4,7,9,46.1244
+82nd,Markham Woods Middle,Yumna Ahmad,9,323102610,4,7,9,46.1244
+83rd,Markham Woods Middle,Jack Morrison,8,323103810,4,8,8,45.4004
+84th,Fairview Middle,Steven Cui,7,125103810,5,13,2,44.6764
+85th,Kanapaha Middle School,Wenrui Liu,7,209100112,5,13,2,44.6764
+86th,Sandford Middle,Chetana Guduru,6,344101810,4,10,6,43.9524
+87th,Fairview Middle,Mihir Thakkar,5,125104310,5,15,0,43.2284
+88th,Markham Woods Middle,Kendall Ruskin,5,323106610,5,15,0,43.2284
+89th,Buchholz,Josh Black,5,295000220,5,15,0,43.2284
+90th,Sandford Middle,Morgan Lyon,4,344100510,4,12,4,42.5044
+91st,Sandford Middle,Olivia Carbone,4,344100810,4,12,4,42.5044
+92nd,Lincoln Middle School,Alicia Fan,4,201003110,4,12,4,42.5044
+93rd,Freedom,LAUREN GANDY,3,466004220,4,13,3,41.7804
+94th,Markham Woods Middle,Avery Donohue,3,323102710,4,13,3,41.7804
+95th,Markham Woods Middle,Oliver Goldsmith,3,323104910,4,13,3,41.7804
+96th,Fairview Middle,Nidhi Desai,2,125102520,3,10,7,41.0564
+97th,Sandford Middle,Katherine Kalbach,2,344103920,3,10,7,41.0564
+98th,St. Patrick Interparrish,Kathryn Gagnon,2,230100910,4,14,2,41.0564
+99th,Markham Woods Middle,Madeline Kewley,1,323101820,2,7,11,40.3324
+100th,Markham Woods Middle,Claudia Smedberg,1,323106810,3,11,6,40.3324
+101st,Kanapaha Middle School,Nick Blachly,0,209101212,2,8,10,39.6084
+102nd,Sandford Middle,Kristine Purdy,0,344101610,3,12,5,39.6084
+103rd,Miami Springs,ANDREW MEYERS,0,582007460,4,16,0,39.6084
+104th,Lincoln Middle School,Apara Agarwal,-1,201000010,3,13,4,38.8844
+105th,Markham Woods Middle,kevin hayne,-1,323107510,3,13,4,38.8844
+106th,Markham Woods Middle,Divya Dhulipala,-2,323106110,2,10,8,38.1604
+107th,Kanapaha Middle School,Heather Outler,-2,209101010,3,14,3,38.1604
+108th,Fairview Middle,Parth Amin,-2,125102220,2,10,8,38.1604
+109th,Sandford Middle,Annisha Nazrul,-3,344103220,3,15,2,37.4364
+110th,St. Patrick Interparrish,Hope Stevens,-4,230102210,3,16,1,36.7124
+111th,Kanapaha Middle School,Julia Apostal,-5,209100712,2,13,5,35.9884
+112th,Miami Springs,ANDREW GONZALEZ,-5,582001860,3,17,0,35.9884
+113th,Fairview Middle,ShuanYu Chan,-6,125105210,2,14,4,35.2644
+114th,Sandford Middle,Jennifer Raman,-7,344104310,1,11,8,34.5404
+115th,St. Patrick Interparrish,Ryan Herring,-7,230101110,2,15,3,34.5404
+116th,Sandford Middle,Tahira Tasnim,-7,344101210,2,15,3,34.5404
+117th,St. Patrick Interparrish,Keane Brazda,-7,230100610,2,15,3,34.5404
+118th,Lincoln Middle School,Shaleen Thakur,-15,201001010,1,19,0,28.7483
+119th,Sandford Middle,Ben Sanders,-18,344100110,0,18,2,26.5763

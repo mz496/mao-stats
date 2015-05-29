@@ -1,0 +1,67 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln,Shawn Best,115,109010651,29,1,0,73.2768
+2nd,Rickards High School,Payal Patel,106,140001951,27,2,1,70.1642
+3rd,Lawton Chiles High School,Wayne Zhao,106,181008351,27,2,1,70.1642
+4th,Lawton Chiles High School,Chase Belcher,105,181005351,27,3,0,69.8183
+5th,Lawton Chiles High School,Keven Huang,102,181005951,26,2,2,68.7808
+6th,Rickards High School,Linda Liu,98,140003051,25,2,3,67.3974
+7th,Lincoln,Mitchell Schmidt,96,109000651,25,4,1,66.7057
+8th,Rickards High School,Ian Pitts,88,140002151,23,4,3,63.9388
+9th,Lincoln,Billy Brickner,83,109000451,22,5,3,62.2096
+10th,Lincoln,Ellie Sell,75,109092051,20,5,5,59.4428
+11th,Rutherford High School,Sarah Warkander,73,174001351,19,3,8,58.7511
+12th,A. C. Mosley,Chris Bendict,73,102002151,19,3,8,58.7511
+13th,Rickards High School,Lester Nandati,69,140001551,19,7,4,57.3677
+14th,Lawton Chiles High School,Kenneth Zhou,68,181008451,18,4,8,57.0218
+15th,Lawton Chiles High School,Amanda Langston,65,181006452,18,7,5,55.9843
+16th,Choctawhatchee,Malcolm Foley,63,119000251,17,5,8,55.2926
+17th,Rocky Bayou Christian School,Tim Sung,63,192005651,18,9,3,55.2926
+18th,A. C. Mosley,Marisa Doll,62,102002451,16,2,12,54.9467
+19th,Lawton Chiles High School,Danny Kim,61,181006252,17,7,6,54.6009
+20th,Choctawhatchee,Jared Work,61,119001052,16,3,11,54.6009
+21st,Lawton Chiles High School,Nith Sivahanthan,59,181007452,16,5,9,53.9092
+22nd,Lawton Chiles High School,Bailey Ruark,59,181007250,15,1,14,53.9092
+23rd,Gulf Breeze High,Keegan Anderson,59,101000151,16,5,9,53.9092
+24th,Choctawhatchee,Ryan Wood,57,119003851,15,3,12,53.2175
+25th,Choctawhatchee,Dylan Boekenoogen,56,119000151,15,4,11,52.8716
+26th,Rickards High School,Tarun Gupta,55,140000752,17,13,0,52.5258
+27th,Lawton Chiles High School,Miranda Andrews,54,181005152,15,6,9,52.1799
+28th,A. C. Mosley,Caleb Houghton,53,102002651,14,3,13,51.8341
+29th,Rutherford High School,Sara Moreau,51,174000951,14,5,11,51.1424
+30th,Rutherford High School,Raymond Chen,49,174004051,13,3,14,50.4507
+31st,A. C. Mosley,Eli Eggers,48,102002551,13,4,13,50.1048
+32nd,West Florida H. S.,Jeff Grosso,48,111001851,13,4,13,50.1048
+33rd,Lawton Chiles High School,Eun Lee,47,181006650,15,13,2,49.7590
+34th,Choctawhatchee,Casey Evans,46,119000951,13,6,11,49.4131
+35th,Navarre,LAUREN LAUTENSLAGER,40,180001051,12,8,10,47.3380
+36th,Rickards High School,Kenny Soyars,40,140004252,14,16,0,47.3380
+37th,Navarre,JURGEN SPEAR,40,180001551,14,16,0,47.3380
+38th,Lawton Chiles High School,Elizabeth Lee,38,181006550,10,2,18,46.6463
+39th,Rocky Bayou Christian School,William Hudson,38,192004651,11,6,13,46.6463
+40th,Navarre,BRIAN NYKANEN,36,180001252,10,4,16,45.9546
+41st,Pensacola,Preeyal Gupta,36,115004851,10,4,16,45.9546
+42nd,Rutherford High School,Shannon Hyland,36,174002152,13,16,1,45.9546
+43rd,Navarre,CONNOR PASSALACQUA,35,180001351,10,5,15,45.6087
+44th,Lawton Chiles High School,Morrie Kim,31,181006350,8,1,21,44.2253
+45th,Rocky Bayou Christian School,Josh Turner,29,192001051,8,3,19,43.5336
+46th,Rutherford High School,Edmund Armstrong,27,174003651,8,5,17,42.8419
+47th,Navarre,ALEX WHITESIDE,26,180001852,7,2,21,42.4961
+48th,Navarre,MATT ANDRE,25,180000651,11,19,0,42.1502
+49th,A. C. Mosley,Mae Bowen,24,102002252,7,4,19,41.8044
+50th,Rocky Bayou Christian School,Carolyn Hudson,23,192005552,6,1,23,41.4585
+51st,Rutherford High School,Julian Finlaw,22,174001152,6,2,22,41.1127
+52nd,West Florida H. S.,Jonathon McKeon,22,111002751,6,2,22,41.1127
+53rd,A. C. Mosley,Benjamin Browne,21,102002352,7,7,16,40.7668
+54th,A. C. Mosley,Josh Mayberry,21,102002752,10,19,1,40.7668
+55th,Rocky Bayou Christian School,Eizabeth Marshall,19,192005750,5,1,24,40.0751
+56th,Rocky Bayou Christian School,Wendy Kent,19,192002650,5,1,24,40.0751
+57th,Rocky Bayou Christian School,Graham Pierce,18,192000152,5,2,23,39.7293
+58th,Rocky Bayou Christian School,Neely fawaz,17,192001451,5,3,22,39.3834
+59th,Rocky Bayou Christian School,Haein yoo,17,192005050,5,3,22,39.3834
+60th,Rocky Bayou Christian School,Savannah West,16,192000852,5,4,21,39.0376
+61st,Navarre,RONALD KOLODZIEJCZYK,14,180000952,4,2,24,38.3459
+62nd,Navarre,HOWIE JOHNSON,14,180000852,5,6,19,38.3459
+63rd,Rutherford High School,Han Nguyen,11,174001452,4,5,21,37.3083
+64th,Rocky Bayou Christian School,Jessica Knie,9,192001250,5,11,14,36.6166
+65th,Rocky Bayou Christian School,Josiah Balthazar,8,192005152,3,4,23,36.2708
+66th,Navarre,JARRYD VILLACRUZ,3,180004850,2,5,23,34.5415

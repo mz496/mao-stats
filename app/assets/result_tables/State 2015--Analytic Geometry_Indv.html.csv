@@ -1,0 +1,65 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),Jackson Blitz,115,506007840,29,1,0,68.9865
+2nd,Buchholz,Jason Chen,115,295001740,29,1,0,68.9865
+3rd,Buchholz,David Geering,110,295001340,28,2,0,67.4354
+4th,Berkeley Prep,Zachary Diamandis,105,405003540,27,3,0,65.8843
+5th,Doral Academy High,Mariam Cruz,96,537502340,25,4,1,63.0923
+6th,Hagerty High School,Justin Wong,94,310001540,24,2,4,62.4719
+7th,American Heritage (Plantation),Angela Liu,90,506008340,24,6,0,61.2310
+8th,Seminole (Seminole),RAVEENA PATEL,90,341001340,24,6,0,61.2310
+9th,American Heritage (Plantation),Felipe Shiwa,90,506007940,24,6,0,61.2310
+10th,Ransom Everglades,Guillermo Wenrich,90,519001240,24,6,0,61.2310
+11th,King,Keshav Shah,87,435005140,23,5,2,60.3003
+12th,American Heritage (Plantation),Kishan Patel,86,506002240,23,6,1,59.9901
+13th,Buchholz,Gena Kim,85,295003340,23,7,0,59.6799
+14th,Buchholz,Thor Stead,84,295004140,22,4,4,59.3696
+15th,Palm Harbor Univ,Christopher Eschler,84,413013440,22,4,4,59.3696
+16th,Cypress Bay,Brian Lu,80,588013540,22,8,0,58.1288
+17th,Lawton Chiles High School,Justin Chen,76,181000240,21,8,1,56.8879
+18th,Seminole (Seminole),KEVIN ZHAI,76,341001940,21,8,1,56.8879
+19th,Suncoast Comm,Gary Wu,75,327004940,20,5,5,56.5777
+20th,Suncoast Comm,John Edwards,75,327011640,20,5,5,56.5777
+21st,Hillsborough,Meghana Bhimreddy,73,428070540,19,3,8,55.9572
+22nd,Eastside,Stephanie Lampotang,70,280001840,18,2,10,55.0265
+23rd,Ransom Everglades,Ryan Tie-Shue,70,519003240,19,6,5,55.0265
+24th,Rickards High School,Aditya  Hota,65,140001840,18,7,5,53.4754
+25th,Ferguson,CHRISTIAN FLORES,64,507001840,18,8,4,53.1652
+26th,Doral Academy High,Jose Santos,64,537501740,18,8,4,53.1652
+27th,Community School of Naples,Austin Farrugia,60,562000240,17,8,5,51.9243
+28th,Palmetto Ridge,Lars Nilsen,60,518004240,15,0,15,51.9243
+29th,Gainesville High School,Tessa Brant,59,268002840,15,1,14,51.6141
+30th,Eastside,Bradley Kim,59,280000340,16,5,9,51.6141
+31st,Cypress Bay,Shawn Hatchwell,59,588006240,16,5,9,51.6141
+32nd,Fort Myers,Melwin Varghese,57,423002040,16,7,7,50.9937
+33rd,Gainesville High School,Andrew Knechel,53,268006840,14,3,13,49.7528
+34th,Lawton Chiles High School,Chamara Gunaratne,52,181000640,15,8,7,49.4426
+35th,Rickards High School,Meit  Dave,51,140001540,15,9,6,49.1324
+36th,American Heritage - Boca/Delray,Jiayu (Helen) Huang,49,526006740,14,7,9,48.5119
+37th,Lincoln,Quinn Lamar,49,109001340,14,7,9,48.5119
+38th,Saint Stephen's Episcopal School,MICHELLE YAN,47,489001340,14,9,7,47.8915
+39th,Vero Beach,ALEX POLGE,46,372006840,13,6,11,47.5812
+40th,American Heritage - Boca/Delray,Shengtao (Frank) Lin,44,526005840,12,4,14,46.9608
+41st,Palm Harbor Univ,Edin Haveric,42,413004040,12,6,12,46.3404
+42nd,Sickles,Ryan Nolan,39,479009140,12,9,9,45.4097
+43rd,Lake Mary,Brandon Spence,36,308004840,10,4,16,44.4790
+44th,Doral Academy High,Liliet Sosa,35,537505040,10,5,15,44.1688
+45th,Ransom Everglades,Christina Lindsay,34,519000340,9,2,19,43.8586
+46th,Vero Beach,EMILY MCCAIN,33,372005540,9,3,18,43.5484
+47th,Palm Harbor Univ,Grant Konger,30,413005540,12,18,0,42.6177
+48th,Ransom Everglades,Chloe Namias,28,519000540,7,0,23,41.9973
+49th,Ferguson,SMITA BHATTACHARJEE,28,507005740,7,0,23,41.9973
+50th,Saint Andrew's School,Zirui Wang,28,566505440,8,4,18,41.9973
+51st,Miami Palmetto,Louis Moon,24,541012540,7,4,19,40.7564
+52nd,Canterbury (Lee),Chi Chi Zhangi,22,411004040,7,6,17,40.1359
+53rd,Canterbury (Lee),Jackie Wang,20,411003840,10,20,0,39.5155
+54th,Saint Stephen's Episcopal School,LILY LU,20,489003040,7,8,15,39.5155
+55th,University School of NSU,Riley Barrett,19,563001840,7,9,14,39.2053
+56th,Gulf Coast,Linnea Dulikravich,15,575004040,5,5,20,37.9644
+57th,Stoneman Douglas,BRANDON CHOU,15,532000040,5,5,20,37.9644
+58th,Flagler Palm Coast High School,Nina Jones,6,221003940,2,2,26,35.1724
+59th,Ferguson,EVA CHEUNG,5,507007340,2,3,25,34.8622
+60th,Palmetto Ridge,Garrett Chapman,5,518000030,4,11,15,34.8622
+61st,Deerfield Beach,Brianna Vacciana,4,577008140,1,0,29,34.5520
+62nd,Flagler Palm Coast High School,Kayla Dance,4,221005340,1,0,29,34.5520
+63rd,Miami Sunset,Dustin Castrillo,-1,544001940,0,1,29,33.0009
+64th,Dunbar High School,Marck Molina,-2,477060340,0,2,28,32.6906

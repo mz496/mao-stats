@@ -1,0 +1,70 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Deerfield Beach,Joy Patel,110,577000161,28,2,0,65.7007
+2nd,Buchholz,Jennifer Li,106,295001661,27,2,1,63.9906
+3rd,Deerfield Beach,Nicholas Gloria,106,577009761,27,2,1,63.9906
+4th,Cypress Bay,Yuan Xiu,105,588020461,27,3,0,63.5631
+5th,Deerfield Beach,Andres Badel,103,577009961,26,1,3,62.7080
+6th,Buchholz,Davis Foote,103,295001361,26,1,3,62.7080
+7th,Buchholz,Zadia Dupee,100,295005661,26,4,0,61.4254
+8th,Miami Springs,PABLO HERNANDEZ,100,582001261,26,4,0,61.4254
+9th,Cypress Bay,Jared Trinkler,100,588020261,26,4,0,61.4254
+10th,Buchholz,Jukyung Choi,96,295001061,25,4,1,59.7153
+11th,Lawton Chiles High School,Ginger Yu,96,181008161,25,4,1,59.7153
+12th,Eastside,Emilie Song,96,280003461,25,4,1,59.7153
+13th,Buchholz,Alex Song,96,295001760,25,4,1,59.7153
+14th,American Heritage (Plantation),Joshua Wang,95,506006560,25,5,0,59.2878
+15th,Lawton Chiles High School,Jeremy Jones,95,181006161,25,5,0,59.2878
+16th,Cypress Bay,Joshua Novick,94,588019661,24,2,4,58.8603
+17th,American Heritage (Plantation),Jude Jaraki,93,506001660,24,3,3,58.4328
+18th,Eastside,Seth Rutman,92,280003361,24,4,2,58.0052
+19th,American Heritage (Plantation),Kristy Yeung,92,506002160,24,4,2,58.0052
+20th,American Heritage (Plantation),Thomas Anzalone,91,506000160,24,5,1,57.5777
+21st,Palm Harbor Univ,Lillian Cohen,90,413003860,24,6,0,57.1502
+22nd,Nease High School,Farina Khandadia,89,290001361,23,3,4,56.7227
+23rd,Seminole (Seminole),ANEESH JINDAL,88,341002261,23,4,3,56.2951
+24th,Buchholz,Keshav Vemuri,86,295002160,23,6,1,55.4401
+25th,Tampa Bay Tech,Suzzie Harmon,84,461000561,22,4,4,54.5850
+26th,Palm Harbor Univ,Joanna Dembek,84,413004561,22,4,4,54.5850
+27th,Eastside,Erin Isaza,83,280001261,22,5,3,54.1575
+28th,Palm Harbor Univ,Megan Gutter,78,413006961,21,6,3,52.0199
+29th,Miami Springs,THAIS CORREIA,77,582005961,21,7,2,51.5924
+30th,Miami Springs,KATHERIN RODRIGUEZ,76,582002661,21,8,1,51.1648
+31st,Eastside,Annie Lott,75,280002460,20,5,5,50.7373
+32nd,Cypress Bay,Andrew Pearl,75,588019861,21,9,0,50.7373
+33rd,Miami Springs,REBECCA RICHEY,75,582006461,21,9,0,50.7373
+34th,Buchholz,Matthew Pearson,74,295005360,20,6,4,50.3098
+35th,Eastside,Jennifer Le,74,280001960,20,6,4,50.3098
+36th,Vero Beach,SAMI HASHMI,74,372004761,20,6,4,50.3098
+37th,Cypress Bay,Edward Li,73,588019460,20,7,3,49.8823
+38th,Eastside,Julian Tolentino,72,280003661,20,8,2,49.4548
+39th,Lincoln,Sherman Wilhelm,72,109020161,19,4,7,49.4548
+40th,Nease High School,Andri Kokoshi,72,290001061,20,8,2,49.4548
+41st,Miami Springs,SUSANA SOTO,71,582007162,19,5,6,49.0272
+42nd,Deerfield Beach,Benjy Greffin,70,577009561,20,10,0,48.5997
+43rd,Cypress Bay,Kriti Sarin,70,588019960,20,10,0,48.5997
+44th,Palm Harbor Univ,Ji Lin,66,413011761,19,10,1,46.8896
+45th,Vero Beach,SYDNEY KEILER,66,372007961,18,6,6,46.8896
+46th,Vero Beach,JESSICA RICHARDSON,66,372005661,18,6,6,46.8896
+47th,Deerfield Beach,Brelbi Golam,65,577009660,19,11,0,46.4621
+48th,Rickards High School,Kavitha Chintam,63,140002861,17,5,8,45.6070
+49th,Rickards High School,Nidhi Desai,61,140006361,17,7,6,44.7520
+50th,Palm Harbor Univ,Hammad Huda,59,413008361,17,9,4,43.8969
+51st,Vero Beach,LUKE DISANDRO,58,372002561,16,6,8,43.4694
+52nd,Nease High School,Luis Buenaventura,57,290001161,16,7,7,43.0419
+53rd,Seminole (Seminole),ARLEY RUSKIN,55,341002461,17,13,0,42.1868
+54th,Lawton Chiles High School,Grace Ying,54,181008061,16,10,4,41.7593
+55th,Miami Springs,MARIANELA PIMIENTA,53,582003962,14,3,13,41.3318
+56th,Rickards High School,Ran Ju,51,140004861,16,13,1,40.4767
+57th,Gainesville High School,Conor Hogan,49,268005261,15,11,4,39.6217
+58th,Cypress Bay,Pearltry Suen,49,588020160,14,7,9,39.6217
+59th,Gainesville High School,Evan Morris,49,268001561,14,7,9,39.6217
+60th,Rickards High School,Sonia Koul,48,140002061,14,8,8,39.1942
+61st,Nease High School,Andrew Knuppel,47,290001261,14,9,7,38.7666
+62nd,Lawton Chiles High School,Ally Findley,46,181005561,13,6,11,38.3391
+63rd,Seminole (Seminole),AMANDA HESTON,43,341009261,13,9,8,37.0565
+64th,Eastside,Naweed Mohammad,42,280002660,12,6,12,36.6290
+65th,Palm Harbor Univ,Brian Kaszuba,41,413009660,14,15,1,36.2015
+66th,Eastside,Flora Huang,40,280001060,11,4,15,35.7740
+67th,Palm Harbor Univ,Musaab Yamani,33,413020360,11,11,8,32.7813
+68th,American Heritage (Plantation),Francisco Rivera,25,506006160,11,19,0,29.3611
+69th,Eastside,Rebecca Sugrue,19,280000560,7,9,14,26.7960

@@ -1,0 +1,70 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Zhao Li,96,295000350,25,4,1,73.2870
+2nd,Buchholz,Nicholas Klugman,95,295000750,25,5,0,72.8973
+3rd,Seminole (Seminole),KYLE GETTIG,92,341002850,24,4,2,71.7285
+4th,American Heritage (Plantation),Ryan Broder,90,506003150,24,6,0,70.9492
+5th,American Heritage (Plantation),Francisco Rivera,88,506006150,23,4,3,70.1700
+6th,Community School of Naples,Ivan Wang,75,562002550,21,9,0,65.1049
+7th,Buchholz,Jason Ai,74,295004550,20,6,4,64.7153
+8th,Seminole (Seminole),JIMMY QIN,72,341007450,19,4,7,63.9360
+9th,Vero Beach,MICHAEL GALLAGHER,71,372001850,19,5,6,63.5464
+10th,American Heritage - Boca/Delray,Dong (David) He,70,526010050,19,6,5,63.1568
+11th,Fort Myers,Andrew Suh,66,423000050,19,10,1,61.5983
+12th,Spruce Creek,Sam Swanson,65,267005450,19,11,0,61.2087
+13th,Cypress Bay,Christian Madali,54,588011550,15,6,9,56.9228
+14th,Suncoast Comm,Roman Marcarelli,53,327007350,16,11,3,56.5332
+15th,Hagerty High School,Grant Elliot,52,310006850,15,8,7,56.1436
+16th,King,Daniel Suen,51,435010850,15,9,6,55.7540
+17th,Lawton Chiles High School,Brian Ahn,51,181002450,15,9,6,55.7540
+18th,Cypress Bay,Rodrigo Cuba,50,588008750,14,6,10,55.3644
+19th,Saint Edward's School,DANIEL MULLEN,50,374040850,16,14,0,55.3644
+20th,Hillsborough,Mauricio Rivera-Condori,49,428061650,13,3,14,54.9747
+21st,Miami Springs,NICHOLAS COSTA,47,582004650,13,5,12,54.1955
+22nd,Fort Myers,Vishnu Patel,44,423000250,14,12,4,53.0266
+23rd,University School of NSU,Jacob Ronkin,44,563000350,14,12,4,53.0266
+24th,Fort Myers,Melwin Varghese,43,423002050,13,9,8,52.6370
+25th,University School of NSU,Matthew Mann,43,563000150,13,9,8,52.6370
+26th,Lincoln Park Academy,Geoffrey Zheng,43,396002950,12,5,13,52.6370
+27th,Gainesville High School,Sean Benton,40,268011950,14,16,0,51.4681
+28th,King,Kireet Agrawal,39,435005050,11,5,14,51.0785
+29th,Hagerty High School,Jack Royero,35,310000050,11,9,10,49.5200
+30th,Miami Palmetto,Benjamin Bao,35,541053250,13,17,0,49.5200
+31st,Eastside,Jonathan Jacobs,34,280002150,10,6,14,49.1304
+32nd,Suncoast Comm,Shivang Jadvani,34,327008950,11,10,9,49.1304
+33rd,Lincoln,Brendan Schneider,34,109000850,10,6,14,49.1304
+34th,Ransom Everglades,Timothy O'Brien,33,519000850,10,7,13,48.7408
+35th,Saint Andrew's School,Chenyang Sun,32,566506950,10,8,12,48.3512
+36th,Ferguson,VISHNU TANGUTURI,31,507011450,11,13,6,47.9615
+37th,Berkeley Prep,Nathan Mester,31,405000150,10,9,11,47.9615
+38th,Rickards High School,Siddarth  Kethireddy,29,140003250,10,11,9,47.1823
+39th,American Heritage - Boca/Delray,Alexander Chea,28,526007450,8,4,18,46.7927
+40th,Berkeley Prep,Malvika Menon,28,405011250,8,4,18,46.7927
+41st,Rickards High School,Jeewoo  Kang,28,140002650,9,8,13,46.7927
+42nd,Suncoast Comm,Abhinav Komaravelli,27,327008450,9,9,12,46.4031
+43rd,Flanagan,Calvin Fai,25,591004050,7,3,20,45.6238
+44th,Lawton Chiles High School,Thomas LaJoie,23,181004750,7,5,18,44.8446
+45th,Flagler Palm Coast High School,Barret Manfre,21,221003650,6,3,21,44.0653
+46th,Ronald Reagan H. S.,Andres Mata,20,527003950,6,4,20,43.6757
+47th,Palm Harbor Univ,Jared Duncan,19,413008050,7,9,14,43.2861
+48th,Ronald Reagan H. S.,Brandon Purvis,18,527005050,6,6,18,42.8965
+49th,Ferguson,ADRIANA FLORES,18,507003050,6,6,18,42.8965
+50th,Sickles,Tyler Jensen,18,479001250,6,6,18,42.8965
+51st,Canterbury (Lee),Jack Zheng,17,411001150,9,19,2,42.5068
+52nd,Flagler Palm Coast High School,Chloe Carll,17,221004050,6,7,17,42.5068
+53rd,American Heritage - Boca/Delray,Xinyi (Cindy) Zhang,16,526007650,5,4,21,42.1172
+54th,Wharton,Kimberly Santos,16,485003660,6,8,16,42.1172
+55th,Palm Harbor Univ,Moses Gekhtman,16,413004250,6,8,16,42.1172
+56th,Eastside,Kalp Patel,15,280004350,7,13,10,41.7276
+57th,Palm Harbor Univ,Alexander Rumak,14,413007550,4,2,24,41.3380
+58th,Ronald Reagan H. S.,Luis Fernandez,14,527002350,6,10,14,41.3380
+59th,Naples,Daniel Quintero,12,545002850,5,8,17,40.5587
+60th,Fort Myers,Nishk Patel,10,423005850,4,6,20,39.7795
+61st,Flagler Palm Coast High School,Austin Smith,9,221000650,3,3,24,39.3899
+62nd,Cape Coral High School,Ngan Nguyen,9,418003550,7,19,4,39.3899
+63rd,Doral Academy High,Daniel Herrera,8,537501150,5,12,13,39.0002
+64th,Community School of Naples,Joseph Badra,6,562005350,5,14,11,38.2210
+65th,Lake Mary,Kyle Cook,6,308001450,4,10,16,38.2210
+66th,Miami Sunset,Rebekah Davis,5,544000550,2,3,25,37.8314
+67th,Eastside,Anand Rajan,2,280004750,5,18,7,36.6625
+68th,Deerfield Beach,Pedro Velazquez,0,577008250,6,24,0,35.8833
+69th,Dunbar High School,Dariel Padilla,0,477050450,6,24,0,35.8833

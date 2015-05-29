@@ -1,0 +1,81 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),aaron brookner,120,506002840,30,0,0,67.1698
+1st,Stoneman Douglas,KURTIS LEE,120,532010540,30,0,0,67.1698
+3rd,Seminole (Seminole),SAYEED TASNIM,115,341000040,29,1,0,65.7113
+4th,Buchholz,Hansol Kang,115,295004040,29,1,0,65.7113
+5th,Buchholz,Katherine Qiu,115,295004440,29,1,0,65.7113
+6th,Rickards High School,Chris Kim,115,140000540,29,1,0,65.7113
+7th,Buchholz,Bryan Li,115,295004240,29,1,0,65.7113
+8th,Palm Harbor Univ,Sharon Lo,115,413016340,29,1,0,65.7113
+9th,Lincoln,Ziyan Song,115,109012640,29,1,0,65.7113
+10th,Cypress Bay,Rodrigo  Paniza,115,588007240,29,1,0,65.7113
+11th,Lawton Chiles High School,Marshall Jiang,111,181008940,28,1,1,64.5445
+12th,Seminole (Seminole),STEVEN WANG,106,341003940,27,2,1,63.0861
+13th,Rickards High School,Jason Waldman,102,140002340,26,2,2,61.9193
+14th,Freedom,NGHIA TRAN,101,466001440,26,3,1,61.6276
+15th,Middleton,Salim Hyder,101,468002140,26,3,1,61.6276
+16th,Lawton Chiles High School,James Yan,98,181010540,25,2,3,60.7525
+17th,Cypress Bay,Krishna   Ajmeri,92,588004040,24,4,2,59.0024
+18th,Vero Beach,DANA D'HAESELEER,88,372001340,22,0,8,57.8356
+19th,Vero Beach,HANISHA PATEL,87,372002040,22,1,7,57.5439
+20th,Canterbury (Lee),Carl Nist-Lund,86,411000340,22,2,6,57.2522
+21st,Cape Coral High School,JOE LEVESQUE,80,418002140,21,4,5,55.5021
+22nd,Community Sch Naples,OSMAN AZAMI,79,562001140,21,5,4,55.2104
+23rd,Miami Palmetto,Forrest Voight,79,541002840,20,1,9,55.2104
+24th,Pensacola,Priya Garg,78,115000840,20,2,8,54.9187
+25th,Stoneman Douglas,MICHAEL XIA,77,532011040,20,3,7,54.6270
+26th,Shorecrest Prep,KITAE KIM,76,451004040,20,4,6,54.3353
+27th,Buchholz,Justin Rafanan,76,295004540,19,0,11,54.3353
+28th,Cypress Bay,Joyce   Wang,76,588009040,20,4,6,54.3353
+29th,Miami Palmetto,Clara Kim,76,541000440,20,4,6,54.3353
+30th,Deerfield Beach,NIRAL PATEL,74,577012740,19,2,9,53.7519
+31st,Lake Mary,Anish Patel,73,308005540,19,3,8,53.4602
+32nd,Eastside,Ajit Vakharia,71,280000540,20,9,1,52.8768
+33rd,Ferguson,BRUNO TAMBASCO,70,507005940,18,2,10,52.5851
+34th,Miami Springs,GABRIEL ICAZA,69,582006440,18,3,9,52.2934
+35th,Community Sch Naples,Fuad Naser,68,562002340,18,4,8,52.0017
+36th,Berkeley Prep,Michael Evanoff,65,405004240,17,3,10,51.1267
+37th,Rickards High School,Jarrod Frankenfield,64,140000640,16,0,14,50.8350
+38th,Seminole (Seminole),DAKOTA PARK-OZEE,62,341003040,16,2,12,50.2516
+39th,Stoneman Douglas,MICHELLE AMIT,61,532010040,16,3,11,49.9599
+40th,Coral Glades,Shira Urim,59,528004340,15,1,14,49.3765
+41st,American Heritage (Plantation),paul ponmattam,57,506003640,16,7,7,48.7931
+42nd,Lincoln,Nicole Slagle,56,109021640,14,0,16,48.5014
+43rd,Miami Springs,YESENIA RAMIREZ,56,582012940,14,0,16,48.5014
+44th,St Edward's,MORGAN WILD,52,374041040,14,4,12,47.3347
+45th,Miami Palmetto,Ellora Sarkar,51,541007540,13,1,16,47.0430
+46th,Palm Harbor Univ,Caitlin Beeghly,50,413014240,13,2,15,46.7513
+47th,Bolles,William Pilcher,47,252001240,12,1,17,45.8762
+48th,Coral Glades,Adam Waters,47,528004440,12,1,17,45.8762
+49th,American Heritage (Plantation),anna joykutty,46,506003440,12,2,16,45.5845
+50th,Deerfield Beach,THANH NGUYEN,46,577012440,13,6,11,45.5845
+51st,Deerfield Beach,BEN SARGENT,45,577013140,15,15,0,45.2928
+52nd,Miami Sunset,Fiama Aguilar,45,544000040,12,3,15,45.2928
+53rd,Suncoast Comm,Greg Tobar,43,327012540,11,1,18,44.7094
+54th,Palm Harbor Univ,Hiu Lui,41,413016440,11,3,16,44.1260
+55th,Palm Harbor Univ,Christian Carvajal,41,413014640,11,3,16,44.1260
+56th,Fort Myers,KHUSBU PATEL,40,423000540,11,4,15,43.8343
+57th,Palm Harbor Univ,Katie Cornnell,39,413014940,13,13,4,43.5426
+58th,Naples,Giovanni Forcina,38,545004040,10,2,18,43.2510
+59th,JP Taravella,Kesgav Godha,37,533000240,10,3,17,42.9593
+60th,Palm Harbor Univ,Stefan Musser,35,413017640,9,1,20,42.3759
+61st,Deerfield Beach,KULSOOM VAZIR,35,577014040,10,5,15,42.3759
+62nd,Miami Palmetto,Patrick Arrington,34,541007940,12,14,4,42.0842
+63rd,Suncoast Comm,Maggie Feng,32,327010740,9,4,17,41.5008
+64th,Deerfield Beach,ANA DELCID,30,577011140,8,2,20,40.9174
+65th,Freedom,SCOTT POLLENZ,30,466003140,9,6,15,40.9174
+66th,Deerfield Beach,ASHLEY GILKES,29,577011440,8,3,19,40.6257
+67th,JP Taravella,AMANDA SCOTTO,28,533002140,7,0,23,40.3340
+68th,Coral Glades,Adam Kahn,28,528003140,8,4,18,40.3340
+69th,American Heritage (Plantation),karam alawa,27,506004240,10,13,7,40.0423
+70th,Naples,Alison Chauvette,27,545003540,7,1,22,40.0423
+71st,Deerfield Beach,NEIL SONI,23,577013440,6,1,23,38.8756
+72nd,Ferguson,KEVIN LEMUS,23,507000840,7,5,18,38.8756
+73rd,Ferguson,CHRISTIAN JREIGE,23,507005140,6,1,23,38.8756
+74th,Palm Harbor Univ,Vishesh Choudhry,21,413014840,10,19,1,38.2922
+75th,Lawton Chiles High School,Sarah Dietrich,11,181008140,3,1,26,35.3752
+76th,Miami Palmetto,Megan Amanatides,7,541006440,2,1,27,34.2085
+77th,Miami Springs,ROBERT SCHULTZ,7,582008540,4,9,17,34.2085
+78th,Navarre,RED DAWN GOMONIT,4,180003240,1,0,29,33.3334
+79th,Naples,Claire Gorman,-2,545004140,1,6,23,31.5832
+80th,Ferguson,KARISSA VILLA,-3,507006040,0,3,27,31.2915

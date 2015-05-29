@@ -1,0 +1,91 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,HyunJee Rhee,88,295003941,23,4,3,77.4148
+2nd,Buchholz,Andrew Fang,77,295002641,20,3,7,72.6657
+3rd,Buchholz,Danny Dewitt,73,295003640,20,7,3,70.9388
+4th,Buchholz,Josh chipman,72,295006341,19,4,7,70.5071
+5th,Buchholz,Marie Thomas,66,295006242,17,2,11,67.9167
+6th,Buchholz,Vivian Zhu,65,295002742,17,3,10,67.4850
+7th,Buchholz,Minjia Zhong,63,295003042,17,5,8,66.6215
+8th,Buchholz,Andreea Martin,59,295000941,17,9,4,64.8946
+9th,Buchholz,Stephen SO,58,295005440,16,6,8,64.4629
+10th,Eastside,Hope Pan,57,280002841,16,7,7,64.0312
+11th,Eastside,Yuxin Zhang,55,280003941,16,9,5,63.1677
+12th,Buchholz,Liren Xue,54,295002440,15,6,9,62.7360
+13th,Eastside,Joe Kann,53,280001441,16,11,3,62.3043
+14th,Buchholz,Cindy Xia,52,295002240,15,8,7,61.8725
+15th,Gainesville High School,Connor Davis,51,268006441,14,5,11,61.4408
+16th,Buchholz,tomasz Andraka,50,295002940,15,10,5,61.0091
+17th,Buchholz,John Huber,50,295004842,14,6,10,61.0091
+18th,Bolles,Phoebe Jin,49,252000641,15,11,4,60.5773
+19th,Spruce Creek,Oisin Harrington,49,267011341,14,7,9,60.5773
+20th,Buchholz,Xinyi Wu,48,295001940,13,4,13,60.1456
+21st,Buchholz,Robin Xu,48,295003740,13,4,13,60.1456
+22nd,Bolles,UMinn Woon,45,252000841,13,7,10,58.8504
+23rd,Eastside,Wenli Zhao,44,280004041,13,8,9,58.4187
+24th,Eastside,Lulu Cao,40,280000142,12,8,10,56.6918
+25th,Buchholz,Ben Diuguid,40,295002840,12,8,10,56.6918
+26th,Eastside,Qihan Zhu,40,280005242,12,8,10,56.6918
+27th,Eastside,Apara Agarwal,38,280000042,11,6,13,55.8283
+28th,Spruce Creek,Gary Broyles,33,267010540,9,3,18,53.6697
+29th,Oak Hall,DAVIS CHEN,31,249004140,10,9,11,52.8062
+30th,Eastside,Christine Pu,31,280003240,9,5,16,52.8062
+31st,Eastside,Unmil Patel,31,280002940,10,9,11,52.8062
+32nd,Eastside,Megan Mathew,25,280006140,8,7,15,50.2159
+33rd,Leesburg High School,Brooks James,25,287000942,11,19,0,50.2159
+34th,Gainesville High School,Lucia Murphy,25,268008941,8,7,15,50.2159
+35th,Fleming Island High,Aditya Mahadevan,24,220003641,8,8,14,49.7841
+36th,Oak Hall,SAM MALNIK,24,249002841,8,8,14,49.7841
+37th,Nease High School,Ashley Bushdorf,23,290001841,8,9,13,49.3524
+38th,Leesburg High School,Cody Malloy,22,287001841,8,10,12,48.9207
+39th,Oak Hall,TAOTOA REN,21,249003441,6,3,21,48.4890
+40th,Fleming Island High,Ben Ford,20,220002841,7,8,15,48.0572
+41st,Fleming Island High,Victoria Sales,19,220003742,6,5,19,47.6255
+42nd,Spruce Creek,Preston Rasmussen,19,267012140,7,9,14,47.6255
+43rd,Bolles,Ziqiao Zhou,19,252000241,9,17,4,47.6255
+44th,Bolles,Candace Fan,19,252000341,7,9,14,47.6255
+45th,Spruce Creek,Sean Brueggemann,18,267010742,7,10,13,47.1938
+46th,Nease High School,Lauren Hsu,18,290001441,7,10,13,47.1938
+47th,Nease High School,Aamir Hasan,16,290001741,5,4,21,46.3303
+48th,Leesburg High School,Johnny Trignano,16,287001242,5,4,21,46.3303
+49th,Eastside,Lucinda Peng,16,280003042,6,8,16,46.3303
+50th,Eastside,Sangwook Lee,14,280002040,6,10,14,45.4669
+51st,Spruce Creek,Rania Saboungi,14,267012341,6,10,14,45.4669
+52nd,Leesburg High School,Leah Wertz,13,287001340,6,11,13,45.0351
+53rd,Eastside,Ahmad Guenoun,13,280000840,5,7,18,45.0351
+54th,Bolles,JungWoo Lee,12,252000942,6,12,12,44.6034
+55th,Spruce Creek,Amy Trainer,11,267012841,5,9,16,44.1717
+56th,Spruce Creek,Sarah Bazargan,11,267010341,4,5,21,44.1717
+57th,Flagler Palm Coast,Michael Safarty,11,221020141,4,5,21,44.1717
+58th,Spruce Creek,Sean Bartholomew,10,267010140,4,6,20,43.7399
+59th,Gainesville High School,Jennifer Portell,10,268009342,5,10,15,43.7399
+60th,Spruce Creek,Hyunseo Lee,9,267011642,3,3,24,43.3082
+61st,Leesburg High School,Leor Tal,9,287001041,4,7,19,43.3082
+62nd,Spruce Creek,Michael He,9,267011540,4,7,19,43.3082
+63rd,Gainesville High School,Tyler Parker,8,268008241,5,12,13,42.8765
+64th,Fleming Island High,Rachna Patel,8,220003040,3,4,23,42.8765
+65th,Gainesville High School,Ethan Ellis,7,268010041,4,9,17,42.4448
+66th,Fleming Island High,Daniel Cooksey,7,220002741,3,5,22,42.4448
+67th,Spruce Creek,Benjamin Genereaux,7,267011142,4,9,17,42.4448
+68th,Flagler Palm Coast,Emily Kruithof,7,221000841,4,9,17,42.4448
+69th,Fleming Island High,Regan Smith,7,220003142,3,5,22,42.4448
+70th,Leesburg High School,Catherine Carver,6,287000142,2,2,26,42.0130
+71st,Flagler Palm Coast,Carly Esposito,6,221000641,4,10,16,42.0130
+72nd,Leesburg High School,Lindsay Bordendircher,5,287000241,3,7,20,41.5813
+73rd,Gainesville High School,Taylor Parker,5,268001342,4,11,15,41.5813
+74th,Spruce Creek,Sarah Farmwald,5,267011040,4,11,15,41.5813
+75th,Spruce Creek,Courtney Sparger,4,267012540,3,8,19,41.1496
+76th,Spruce Creek,Priya Sathyanarayan,4,267012442,3,8,19,41.1496
+77th,Stanton College Preparatory School,AhnVihn Doanvo,4,296005041,4,12,14,41.1496
+78th,Nease High School,Tyler Clowe,2,290001641,2,6,22,40.2861
+79th,Leesburg High School,Akeem Sankey,2,287001942,3,10,17,40.2861
+80th,Fleming Island High,Samantha Beland,2,220002642,5,18,7,40.2861
+81st,Flagler Palm Coast,Forrest Mason,2,221021041,3,10,17,40.2861
+82nd,Gainesville High School,Christopher Berry,1,268008042,2,7,21,39.8544
+83rd,Fleming Island High,Max Grandstaff,1,220003542,3,11,16,39.8544
+84th,Fleming Island High,Evan Amstutz,0,220002440,2,8,20,39.4227
+85th,Bolles,Collin Fracke,0,252002942,6,24,0,39.4227
+86th,Leesburg High School,Madison Collins,-3,287000641,1,7,22,38.1275
+87th,Fleming Island High,Callie Baker,-3,220002541,2,11,17,38.1275
+88th,Bolles,Ashanwa Aliogo,-3,252000142,2,11,17,38.1275
+89th,Stanton College Preparatory School,Chanllyca Chau,-5,296004841,2,13,15,37.2640
+90th,Leesburg High School,Leah Harvey,-6,287001540,0,6,24,36.8323

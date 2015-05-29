@@ -1,0 +1,107 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),Vivian Ge,141,506002461,28,1,1,73.6821
+2nd,American Heritage (Plantation),Harshi Gupta,136,506002661,27,2,1,71.7185
+3rd,American Heritage (Plantation),Matthew Zhu,135,506005160,27,3,0,71.3258
+4th,American Heritage (Plantation),Michelle Zhang,131,506004961,26,3,1,69.7549
+5th,Cypress Bay,Karen Pulido,127,588015061,25,3,2,68.1840
+6th,American Heritage (Plantation),Catherine Ma,126,506004561,25,4,1,67.7913
+7th,Miami Springs,STEVEN WINCHESTER,123,582007261,24,3,3,66.6131
+8th,Miami Springs,JAMES EBY,123,582003661,24,3,3,66.6131
+9th,Deerfield Beach,Sameer Pandhare,123,577003961,24,3,3,66.6131
+10th,Cypress Bay,Steve Segall,123,588016661,24,3,3,66.6131
+11th,Cypress Bay,Lokbondo Kung,122,588012261,24,4,2,66.2203
+12th,American Heritage (Plantation),Earl Generato,120,506002560,24,6,0,65.4349
+13th,Cypress Bay,Scott Liu,120,588013161,24,6,0,65.4349
+14th,Miami Springs,VERONICA PADRON,119,582004761,23,3,4,65.0422
+15th,Cypress Bay,Yeh Shiuan Lin,117,588022960,22,1,7,64.2567
+16th,Cypress Bay,Kyle Tubman,105,588018160,20,5,5,59.5440
+17th,Western,Nicolas Pena,105,573001060,21,9,0,59.5440
+18th,Deerfield Beach,Kit Herman,104,577009461,20,6,4,59.1513
+19th,Cypress Bay,Yeh Lin Lin,103,588012860,19,3,8,58.7585
+20th,Flanagan,Bai Ou,101,591002361,19,5,6,57.9731
+21st,Miami Springs,JORGE GONZALEZ,99,582001361,19,7,4,57.1876
+22nd,American Heritage (Plantation),Zoe Zhou,99,506005060,19,7,4,57.1876
+23rd,Miami Palmetto,Eric Cao,98,541006361,18,4,8,56.7949
+24th,American Heritage (Plantation),Kaier Yu,98,506006260,19,8,3,56.7949
+25th,Saint Andrew’s School,Marissa Kay,96,566503261,18,6,6,56.0095
+26th,Stoneman Douglas,SARAH SHERMAN,96,532001561,18,6,6,56.0095
+27th,Cypress Bay,Jessica Tantivit,95,588017760,17,3,10,55.6167
+28th,Western,Ratnavi Shah,94,573001361,17,4,9,55.2240
+29th,Flanagan,Jason Hsu,91,591001661,16,3,11,54.0458
+30th,Cypress Bay,Natalie Richter,90,588015460,16,4,10,53.6531
+31st,Miami Palmetto,Amy Fan,90,541010461,17,8,5,53.6531
+32nd,Deerfield Beach,Ryan Lacava,89,577009061,17,9,4,53.2604
+33rd,Mater Lakes Academy,Luis Angeles,89,559004261,16,5,9,53.2604
+34th,American Heritage - Boca/Delray,Omar Hussein,89,526007161,16,5,9,53.2604
+35th,Flanagan,Sameer Agrawal,88,591000260,16,6,8,52.8676
+36th,Stoneman Douglas,CONNOR PARANDJUK,85,532001261,17,13,0,51.6895
+37th,Coral Gables,Jacob Kirstein,85,513060261,16,9,5,51.6895
+38th,Deerfield Beach,Connor Mcvay,85,577008960,15,5,10,51.6895
+39th,Southwest Miami,Katerina Illescas,85,555009660,17,13,0,51.6895
+40th,Cooper City,Roy Tu,84,565003460,15,6,9,51.2967
+41st,Stoneman Douglas,CAROLINE ATYEO,83,532000361,15,7,8,50.9040
+42nd,Western,Ananya Chandra,82,573000961,15,8,7,50.5113
+43rd,Deerfield Beach,William Russotto,82,577007961,15,8,7,50.5113
+44th,Saint Andrew’s School,Lily Applefield,82,566500261,15,8,7,50.5113
+45th,Braddock,JOSEPH VALLE,80,538041161,15,10,5,49.7258
+46th,Southwest Miami,Emily San Nicolas,80,555010461,16,14,0,49.7258
+47th,Stoneman Douglas,YIYU LI,79,532000261,14,7,9,49.3331
+48th,Coral Springs High School,Lucas Ramos,78,515003361,13,4,13,48.9404
+49th,Coral Gables,Mireille Ferry-Johnson,78,513060161,13,4,13,48.9404
+50th,Miami Palmetto,Victoria Miyazaki,77,541006261,13,5,12,48.5477
+51st,North Miami Beach Senior High School,Justin Vega,76,546002361,13,6,11,48.1549
+52nd,Atlantic Community High School,Julia Gu,76,597005261,12,2,16,48.1549
+53rd,Saint Andrew’s School,Zoe Hernandez,76,566503161,14,10,6,48.1549
+54th,Miramar H. S.,Umer Bakali,76,503090161,13,6,11,48.1549
+55th,Mater Lakes Academy,Garry Archbold,76,559001661,13,6,11,48.1549
+56th,Coral Springs High School,Ana Montalvo,75,515002261,15,15,0,47.7622
+57th,Miami Sunset,De La Cruz  Mariseli,73,544000661,12,5,13,46.9767
+58th,Flanagan,Michelle Sanchez,73,591001060,14,13,3,46.9767
+59th,Coral Springs High School,Jeremy Petuseusky,73,515003161,14,13,3,46.9767
+60th,Miramar H. S.,Lisa Wan,72,503090061,11,2,17,46.5840
+61st,Saint Andrew’s School,Cayla Suthumphong,72,566504761,12,6,12,46.5840
+62nd,Braddock,JUSTIN MIRANDA,72,538060961,12,6,12,46.5840
+63rd,Braddock,SADRA TARGHI,72,538000261,13,10,7,46.5840
+64th,Flanagan,Andersson Sanchez,72,591003360,12,6,12,46.5840
+65th,Flanagan,Sina Nejad,72,591002260,12,6,12,46.5840
+66th,American Heritage - Boca/Delray,Breanne Lindenbaum,71,526000161,11,3,16,46.1913
+67th,Coral Glades,Lauren Bertino,71,528000060,11,3,16,46.1913
+68th,Flanagan,Blake Barta,71,591000061,12,7,11,46.1913
+69th,Southwest Miami,Alexis Gutierrez,70,555000660,14,16,0,45.7986
+70th,Ferguson,KEVIN VAN,69,507017461,11,5,14,45.4058
+71st,Miami Palmetto,Alexandra Gugliuzza,67,541000560,11,7,12,44.6204
+72nd,Braddock,KRISTINA SCHMIDT,65,538000151,11,9,10,43.8349
+73rd,Atlantic Community High School,Alec Li,65,597001361,9,1,20,43.8349
+74th,Atlantic Community High School,Meera Radhakrishnan,65,597002261,10,5,15,43.8349
+75th,West Broward High School,Kevin Gilroy,65,534002360,10,5,15,43.8349
+76th,Flanagan,Margaret Flavell,65,591002960,10,5,15,43.8349
+77th,Flanagan,Zachary Issenberg,65,591003161,13,17,0,43.8349
+78th,American Heritage - Boca/Delray,Anbinh Ho,65,526004861,13,17,0,43.8349
+79th,Southwest Miami,Eileen Perez,65,555000461,13,17,0,43.8349
+80th,Miami Springs,JOSE MALDONADO,64,582002760,10,6,14,43.4422
+81st,Mater Lakes Academy,Disa Rathore,64,559001861,10,6,14,43.4422
+82nd,Miami Palmetto,Vesselin Grantcharov,64,541005660,12,14,4,43.4422
+83rd,North Miami Beach Senior High School,Erick On-Sang,63,546077761,10,7,13,43.0495
+84th,Coral Springs High School,Vinay Harrichan,63,515001961,11,11,8,43.0495
+85th,Deerfield Beach,Kevin Ta,61,577007760,10,9,11,42.2640
+86th,Atlantic Community High School,Jigar Patel,61,597002161,9,5,16,42.2640
+87th,Miami Palmetto,Sen Qiao,60,541001261,9,6,15,41.8713
+88th,JP Taravella,Ilya Evdokimov,60,533005161,9,6,15,41.8713
+89th,West Broward High School,Aymun Ahmed,59,534001850,8,3,19,41.4786
+90th,Braddock,AZELYN ALFONSO,58,538060160,11,16,3,41.0859
+91st,Ronald Reagan H. S.,Yuyan Wang,57,527000850,8,5,17,40.6931
+92nd,American Heritage - Boca/Delray,Jiachen (Jessie) Ji,57,526007861,9,9,12,40.6931
+93rd,Mater Lakes Academy,Laura Garrido,55,559002161,7,3,20,39.9077
+94th,Southwest Miami,Alexandra LoRe,55,555008860,11,19,0,39.9077
+95th,JP Taravella,Liana Moss,54,533005561,7,4,19,39.5149
+96th,West Broward High School,Qaainat Issa,53,534002460,7,5,18,39.1222
+97th,Palm Beach Gardens,Diane Ho,52,373002561,7,6,17,38.7295
+98th,JP Taravella,Jonathon Argov,51,533006961,6,3,21,38.3368
+99th,Southwest Miami,Nathalie Mairena,51,555002461,10,19,1,38.3368
+100th,Jose Marti MAST 6-12 Academy,Wyatt Lavigne,50,551500360,5,0,25,37.9440
+101st,Southwest Miami,Kelsey Diaz,50,555001661,10,20,0,37.9440
+102nd,West Broward High School,Brooke Brown,48,534000030,6,6,18,37.1586
+103rd,Western,Rowanne Ali,45,573000661,8,17,5,35.9804
+104th,Braddock,ANA RODRIGUEZ,45,538061160,9,21,0,35.9804
+105th,West Broward High School,Catherine Kaupp,44,534002560,5,6,19,35.5877
+106th,Southwest Miami,Kassandra Fernandez,35,555008660,7,23,0,32.0531

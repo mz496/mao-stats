@@ -1,0 +1,64 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,Nicholas Yang,110,181003631,28,2,0,77.7055
+2nd,Lawton Chiles High School,Jimmy Zhang,95,181003831,25,5,0,72.3117
+3rd,Rickards High School,Alex Yu,95,140003131,25,5,0,72.3117
+4th,Rickards High School,Tommy Luo,91,140003331,24,5,1,70.8733
+5th,Rickards High School,Pamela Hu,86,140002731,22,2,6,69.0754
+6th,Lawton Chiles High School,Nathan Hoekman,79,181001831,21,5,4,66.5582
+7th,Lawton Chiles High School,Wyatt Schroeder,69,181002932,18,3,9,62.9623
+8th,Lawton Chiles High School,Jason Kenyon,66,181002132,19,10,1,61.8836
+9th,Rickards High School,Ryan Lerch,66,140001332,17,2,11,61.8836
+10th,Rickards High School,Anisha Sinha,65,140004432,18,7,5,61.5240
+11th,Rickards High School,Matthew Kang,62,140002931,18,10,2,60.4452
+12th,Rutherford High School,Jessica Adams,62,174000731,17,6,7,60.4452
+13th,Lawton Chiles High School,Joyce Wang,60,181003231,16,4,10,59.7260
+14th,Lincoln,Joanna Zhao,57,109002831,15,3,12,58.6473
+15th,Lincoln,Jeffrey Zou,54,109002931,14,2,14,57.5685
+16th,Lawton Chiles High School,Cici Xie,52,181003532,14,4,12,56.8493
+17th,Rickards High School,Steven Cui,51,140003532,15,9,6,56.4897
+18th,Holy Comforter Episcopal School,Graham O'Donnell,50,165000130,14,6,10,56.1301
+19th,Maclay,Byn Baek,43,172000430,13,9,8,53.6130
+20th,Lawton Chiles High School,Sophie d'Orchimont,42,181001130,12,6,12,53.2534
+21st,Lawton Chiles High School,Jeffery Chen,38,181000830,10,2,18,51.8151
+22nd,Lincoln,David Weng,37,109002731,12,11,7,51.4555
+23rd,Lawton Chiles High School,Lindsey Ellis,36,181001232,10,4,16,51.0959
+24th,Pensacola,Joel Swindells,29,115002731,9,7,14,48.5788
+25th,Rutherford High School,Michael Pham,28,174001031,8,4,18,48.2192
+26th,Rocky Bayou Christian School,Darla Lyon,27,192000331,7,1,22,47.8596
+27th,Rickards High School,Govind Kallumkal,26,140001430,8,6,16,47.5000
+28th,Gulf Breeze High,YNhu Ngo,26,101004531,7,2,21,47.5000
+29th,Lincoln,Gracie Mitchell,25,109090132,8,7,15,47.1404
+30th,Milton,David Chism,23,154001132,7,5,18,46.4212
+31st,Lincoln,Richard Reason,22,109091830,7,6,17,46.0616
+32nd,Milton,Jenna Miller,22,154003331,8,10,12,46.0616
+33rd,Rickards High School,Mihir Thakkar,22,140004632,10,18,2,46.0616
+34th,Gulf Breeze High,Tristan Dopyera,20,101001631,6,4,20,45.3425
+35th,Lincoln,Ria Shah,19,109002332,6,5,19,44.9829
+36th,Milton,Kevin Hicks,18,154003532,5,2,23,44.6233
+37th,Rutherford High School,Christopher Walters,18,174001131,5,2,23,44.6233
+38th,Lincoln,Maren Johnson,17,109090732,5,3,22,44.2637
+39th,Rutherford High School,Jessie Melvin,17,174001331,5,3,22,44.2637
+40th,Port Saint Joe High School,Mary Bouington,16,103005731,4,0,26,43.9041
+41st,Rutherford High School,Nigel Murillo,16,174000932,6,8,16,43.9041
+42nd,Rocky Bayou Christian School,Amanda Hart,15,192001730,4,1,25,43.5445
+43rd,Rocky Bayou Christian School,Kat Koster,15,192006132,4,1,25,43.5445
+44th,Navarre,SHERRY SANDRI,15,180000331,4,1,25,43.5445
+45th,Port Saint Joe High School,Ian Frost,15,103003731,4,1,25,43.5445
+46th,Lawton Chiles High School,Ismael Syed,14,181003130,6,10,14,43.1849
+47th,Rocky Bayou Christian School,Bess Tyler,14,192002632,6,10,14,43.1849
+48th,Rocky Bayou Christian School,Wanshik Kim,13,192002532,4,3,23,42.8253
+49th,Rocky Bayou Christian School,Ashley Lee,12,192007031,3,0,27,42.4657
+50th,Lincoln,Alex Stowers,12,109042031,5,8,17,42.4657
+51st,Rocky Bayou Christian School,Terrance Ouma,12,192000030,3,0,27,42.4657
+52nd,Rocky Bayou Christian School,Matt Steele,12,192004430,4,4,22,42.4657
+53rd,Milton,Zane Lowe,11,154002731,3,1,26,42.1062
+54th,Rocky Bayou Christian School,Shiloh Johns,9,192001331,4,7,19,41.3870
+55th,Rocky Bayou Christian School,Casey Young,9,192003430,3,3,24,41.3870
+56th,Rocky Bayou Christian School,Caleb Pearson,9,192001632,3,3,24,41.3870
+57th,Rocky Bayou Christian School,Kandace Jolly,9,192000930,7,19,4,41.3870
+58th,Rocky Bayou Christian School,Elizabeth Gadzenski,8,192003331,2,0,28,41.0274
+59th,Rocky Bayou Christian School,Audrey Stevens,8,192004330,2,0,28,41.0274
+60th,Lincoln,Crystal Zhang,8,109003032,3,4,23,41.0274
+61st,Rutherford High School,Dylan Marsh,5,174000832,4,11,15,39.9486
+62nd,Milton,Veronica Archer,-1,154000031,2,9,19,37.7911
+63rd,Port Saint Joe High School,Chatcha Foster,-5,103006531,5,25,0,36.3527

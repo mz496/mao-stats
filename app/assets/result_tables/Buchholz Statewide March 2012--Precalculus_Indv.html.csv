@@ -1,0 +1,155 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,Nicholas Yang,110,181005041,28,2,0,75.9336
+2nd,King,Haoqing Wang,105,435008641,27,3,0,74.1401
+3rd,Rickards High School,Alex Yu,105,140003141,27,3,0,74.1401
+4th,Seminole (Seminole),KYLE GETTIG,101,341002741,26,3,1,72.7053
+5th,Lawton Chiles High School,Jason Kenyon,98,181004041,25,2,3,71.6292
+6th,Cypress Bay,Albert Ho,97,588015541,25,3,2,71.2705
+7th,Buchholz,Andrew Fang,96,295002641,25,4,1,70.9118
+8th,Hillsborough,SAMUEL RUSSELL,90,428041041,24,6,0,68.7596
+9th,American Heritage (Plantation),Kevin Kang,88,506004041,23,4,3,68.0422
+10th,Seminole (Seminole),SAURABH SUDESH,87,341004841,23,5,2,67.6835
+11th,Palm Harbor Univ,Aadith Moorthy,86,413011141,23,6,1,67.3248
+12th,Buchholz,Vivian Zhu,84,295002741,22,4,4,66.6074
+13th,Buchholz,John Huber,82,295004842,21,2,7,65.8900
+14th,Buchholz,HyunJee Rhee,82,295003941,22,6,2,65.8900
+15th,Buchholz,Andreea Martin,79,295000942,21,5,4,64.8139
+16th,Buchholz,Minjia Zhong,76,295003040,20,4,6,63.7378
+17th,Seminole (Seminole),ALEX CHEN,75,341001541,20,5,5,63.3791
+18th,American Heritage (Plantation),Matthew Zhu,74,506005141,20,6,4,63.0204
+19th,American Heritage (Plantation),Adam Wang,74,506004841,20,6,4,63.0204
+20th,Seminole (Seminole),KYLE KRATT,73,341002941,20,7,3,62.6617
+21st,American Heritage (Plantation),Michelle Zhang,73,506004941,19,3,8,62.6617
+22nd,Cypress Bay,Scott Liu,73,588016241,20,7,3,62.6617
+23rd,Buchholz,Xinyi Wu,72,295001940,19,4,7,62.3030
+24th,Buchholz,tomasz Andraka,71,295002940,19,5,6,61.9443
+25th,Eastside,Yuxin Zhang,66,280003941,18,6,6,60.1508
+26th,Buchholz,Danny Dewitt,64,295003641,17,4,9,59.4334
+27th,Buchholz,Ben Diuguid,64,295002840,17,4,9,59.4334
+28th,Buchholz,Liren Xue,64,295002440,17,4,9,59.4334
+29th,Rickards High School,Pamela Hu,62,140002741,17,6,7,58.7160
+30th,Buchholz,Josh chipman,62,295006342,17,6,7,58.7160
+31st,Buchholz,Marie Thomas,61,295006242,17,7,6,58.3573
+32nd,American Heritage (Plantation),Vivian Ge,59,506002340,16,5,9,57.6399
+33rd,American Heritage (Plantation),Catherine Ma,59,506004540,17,9,4,57.6399
+34th,Seminole (Seminole),ALDWIN DEGUZMAN,59,341005042,16,5,9,57.6399
+35th,King,Mahesh Tummala,56,435002641,15,4,11,56.5638
+36th,Deerfield Beach,Lirun Ronen,56,577002541,17,12,1,56.5638
+37th,Seminole (Seminole),ISHIKA KHONDAKER,55,341002142,15,5,10,56.2051
+38th,Cypress Bay,Lokbondo Kung,54,588015841,15,6,9,55.8464
+39th,Palm Harbor Univ,Mohamed Nuh,54,413011541,16,10,4,55.8464
+40th,Lincoln,Jeffrey Zou,54,109002941,15,6,9,55.8464
+41st,Vero Beach,CHRIS DIXON,52,372002641,14,4,12,55.1290
+42nd,Buchholz,Stephen SO,52,295005440,14,4,12,55.1290
+43rd,Eastside,Joe Kann,51,280001441,14,5,11,54.7703
+44th,Buchholz,Cindy Xia,51,295002240,14,5,11,54.7703
+45th,Seminole (Seminole),ANDREW KWON,51,341003042,14,5,11,54.7703
+46th,Palm Harbor Univ,Katie Johnson,51,413008441,14,5,11,54.7703
+47th,Eastside,Wenli Zhao,50,280004041,13,2,15,54.4116
+48th,Gainesville High School,Connor Davis,50,268006441,14,6,10,54.4116
+49th,Rickards High School,Matthew Kang,50,140002941,16,14,0,54.4116
+50th,Miami Springs,ALEXANDER JIMENEZ,49,582005141,13,3,14,54.0529
+51st,King,Kevin Zhou,49,435008741,13,3,14,54.0529
+52nd,Miami Springs,MAX DUNEVITZ,49,582004041,13,3,14,54.0529
+53rd,Nease High School,Ashley Bushdorf,48,290001841,13,4,13,53.6942
+54th,Miami Springs,MICHAEL PEREZ,48,582000341,13,4,13,53.6942
+55th,Vero Beach,TOMMY BEASLEY,48,372000741,13,4,13,53.6942
+56th,Rickards High School,Anisha Sinha,47,140004442,13,5,12,53.3355
+57th,Cypress Bay,Yeh Shiuan Lin,47,588016142,13,5,12,53.3355
+58th,Rickards High School,Mihir Thakkar,47,140004641,15,13,2,53.3355
+59th,Vero Beach,BILLY O'BRYAN,45,372005342,15,15,0,52.6181
+60th,Cypress Bay,Steve Segall,45,588017541,13,7,10,52.6181
+61st,Seminole (Seminole),PEARLY PANDYA,44,341004240,13,8,9,52.2593
+62nd,Deerfield Beach,Bernie Degnan,43,577001141,12,5,13,51.9006
+63rd,Lincoln,Joanna Zhao,42,109002841,12,6,12,51.5419
+64th,Miami Springs,STEVEN WINCHESTER,41,582007241,11,3,16,51.1832
+65th,Rickards High School,Ryan Lerch,41,140001342,12,7,11,51.1832
+66th,Miami Springs,LEONARDO GUTIERREZ,40,582003342,12,8,10,50.8245
+67th,Buchholz,Robin Xu,40,295003740,11,4,15,50.8245
+68th,Vero Beach,ALICIA KNAPPMAN,39,372008142,11,5,14,50.4658
+69th,King,Rohith Nallandigal,37,435005742,11,7,12,49.7484
+70th,Seminole (Seminole),VAANI OHRI,36,341004142,11,8,11,49.3897
+71st,Miami Springs,JAMES EBY,36,582003642,9,0,21,49.3897
+72nd,Lawton Chiles High School,Joyce Wang,35,181004841,10,5,15,49.0310
+73rd,King,Matthew Shaw,34,435006341,10,6,14,48.6723
+74th,Eastside,Qihan Zhu,33,280005241,11,11,8,48.3136
+75th,Deerfield Beach,Olivia Leung,33,577003440,9,3,18,48.3136
+76th,Lawton Chiles High School,Wyatt Schroeder,33,181004442,9,3,18,48.3136
+77th,Vero Beach,CODY HOWARD,33,372007741,12,15,3,48.3136
+78th,Seminole (Seminole),MAHDI KASSAM,32,341008240,11,12,7,47.9549
+79th,Seminole (Seminole),EVAN RAPP,32,341010040,10,8,12,47.9549
+80th,King,Anurag Baddam,31,435004542,10,9,11,47.5962
+81st,King,Jackie Yang,31,435006742,8,1,21,47.5962
+82nd,Hillsborough,KAITA SAITO,31,428041141,10,9,11,47.5962
+83rd,Eastside,Christine Pu,30,280003240,8,2,20,47.2375
+84th,Gaither High School,Ashton Lee,30,426002341,9,6,15,47.2375
+85th,Deerfield Beach,Rayyan Mohammad,29,577003641,9,7,14,46.8788
+86th,Vero Beach,JETT MORROW,28,372001342,9,8,13,46.5201
+87th,Deerfield Beach,Nidhi Patel,27,577003340,8,5,17,46.1614
+88th,Gainesville High School,Ethan Ellis,27,268010041,8,5,17,46.1614
+89th,Buchholz,Eunsun Park,27,295001840,8,5,17,46.1614
+90th,Lawton Chiles High School,Cecilia Xie,26,181004942,7,2,21,45.8027
+91st,Lawton Chiles High School,Nathan Hoekman,25,181003941,8,7,15,45.4440
+92nd,Vero Beach,JASON WRIGHT,25,372002142,7,3,20,45.4440
+93rd,Miami Springs,LUIS BLANCO,23,582000140,6,1,23,44.7266
+94th,King,Linda Lin,23,435007240,6,1,23,44.7266
+95th,Eastside,Apara Agarwal,22,280000040,7,6,17,44.3679
+96th,Palm Harbor Univ,Emma Freeman,22,413007840,8,10,12,44.3679
+97th,Vero Beach,HARSHONNATI JAIN,22,372000941,7,6,17,44.3679
+98th,Lawton Chiles High School,Sophie d'Orchimont,21,181003442,6,3,21,44.0092
+99th,Cypress Bay,Jonas Braun,20,588014542,7,8,15,43.6505
+100th,Cypress Bay,Natalie Richter,20,588017140,6,4,20,43.6505
+101st,Seminole (Seminole),SHAUNAK PANDYA,20,341005340,6,4,20,43.6505
+102nd,Vero Beach,MARK GASPICH,20,372003240,7,8,15,43.6505
+103rd,Gainesville High School,Lucia Murphy,20,268008941,6,4,20,43.6505
+104th,King,Shreya Chidarala,19,435001140,6,5,19,43.2918
+105th,Nease High School,Dante Castaldo,18,290001541,5,2,23,42.9331
+106th,Deerfield Beach,Javier Munoz,18,577001942,5,2,23,42.9331
+107th,Vero Beach,JENNA BEASLEY,18,372000140,5,2,23,42.9331
+108th,Eastside,Lulu Cao,18,280000140,6,6,18,42.9331
+109th,Cypress Bay,Kyle Tubman,18,588018242,6,6,18,42.9331
+110th,Seminole (Seminole),KENDALL RUSKIN,17,341004340,7,11,12,42.5744
+111th,Palm Harbor Univ,Annie Luc,17,413010440,6,7,17,42.5744
+112th,Deerfield Beach,Yash Soni,17,577005640,5,3,22,42.5744
+113th,Deerfield Beach,Amit Saha,17,577000840,5,3,22,42.5744
+114th,Gaither High School,Jonathan Sardja,16,426000241,5,4,21,42.2157
+115th,Nease High School,Lauren Hsu,16,290001441,5,4,21,42.2157
+116th,Lawton Chiles High School,Lindsey Ellis,16,181003740,6,8,16,42.2157
+117th,Palm Harbor Univ,Konrad Pabjan,15,413011841,9,21,0,41.8570
+118th,Miami Springs,KATIA MENDOZA,14,582007442,4,2,24,41.4983
+119th,Gaither High School,Jimmy Cerruto,14,426000641,5,6,19,41.4983
+120th,King,WeiWei Chen,14,435008842,5,6,19,41.4983
+121st,Tampa Bay Tech,Steven Paul,14,461000741,6,10,14,41.4983
+122nd,Palm Harbor Univ,Fan Fei,13,413006040,4,3,23,41.1396
+123rd,Nease High School,Tyler Clowe,12,290001641,4,4,22,40.7809
+124th,Deerfield Beach,Aarsh Trivedi,12,577000041,4,4,22,40.7809
+125th,Deerfield Beach,Sarah Hertz,12,577005042,4,4,22,40.7809
+126th,Cypress Bay,Yeh Lin Lin,11,588016042,3,1,26,40.4222
+127th,Hillsborough,MARAYNA MARTINEZ,11,428040541,5,9,16,40.4222
+128th,Deerfield Beach,Kavelle Gosine,10,577001342,3,2,25,40.0635
+129th,Deerfield Beach,Anika Hakim,10,577003140,3,2,25,40.0635
+130th,King,Tekil Persaud,10,435000140,3,2,25,40.0635
+131st,Deerfield Beach,Neha Khan,10,577003040,3,2,25,40.0635
+132nd,Middleton,Alejandro Robles,10,468003141,5,10,15,40.0635
+133rd,King,Chandran Venkatachalam,9,435001240,3,3,24,39.7048
+134th,Rickards High School,Kody Koch,9,140006042,3,3,24,39.7048
+135th,Miami Springs,GIORDAO ACOSTA,9,582002940,3,3,24,39.7048
+136th,Gaither High School,Kevin Sardja,7,426002041,3,5,22,38.9874
+137th,Lawton Chiles High School,Ismael Syed,7,181004540,3,5,22,38.9874
+138th,Deerfield Beach,Aisha Khan,6,577000342,2,2,26,38.6287
+139th,Miami Springs,JESSICA GARCIA,6,582001140,2,2,26,38.6287
+140th,Vero Beach,Samuel Guy,6,372001140,3,6,21,38.6287
+141st,Lawton Chiles High School,Jeffery Chen,6,181003242,4,10,16,38.6287
+142nd,Deerfield Beach,Samit Sajwani,5,577004040,3,7,20,38.2700
+143rd,Miami Springs,DIANA TOSCA,5,582004542,2,3,25,38.2700
+144th,Deerfield Beach,Areeba Khan,5,577000940,2,3,25,38.2700
+145th,Middleton,Tae won Hwang,5,468003241,7,23,0,38.2700
+146th,Deerfield Beach,MONICA MOYA,4,577001040,1,0,29,37.9113
+147th,Eastside,Sangwook Lee,4,280002040,3,8,19,37.9113
+148th,Miami Springs,LAUREN SMITH,3,582006540,1,1,28,37.5526
+149th,Hillsborough,ANTHONY CRUZ,3,428030541,5,17,8,37.5526
+150th,Lincoln,David Weng,3,109002741,4,13,13,37.5526
+151st,Gainesville High School,Ben Borgert,2,268000741,2,6,22,37.1939
+152nd,Miami Springs,TIFFANY RIVERA,1,582007740,1,3,26,36.8352
+153rd,Rickards High School,Michelle Lamm,0,140006542,1,4,25,36.4765
+154th,Middleton,Marissa Mendez,0,468000541,6,24,0,36.4765

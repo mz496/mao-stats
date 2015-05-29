@@ -1,0 +1,66 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lawton Chiles High School,William Dunn,120,1810212,30,0,0,74.6790
+2nd,Middleton,Michael Rodeman,110,4680205,28,2,0,71.5490
+3rd,H. B. Plant,Dylan Tozier,101,4270246,26,3,1,68.7320
+4th,Buchholz,Mariya Toneva,100,2950230,26,4,0,68.4190
+5th,Vero Beach,Carson Banov,96,3720268,25,4,1,67.1670
+6th,Miami Springs,Tyler Thomas,92,5820264,24,4,2,65.9150
+7th,Stoneman Douglas,Max Rothstein,91,5320211,24,5,1,65.6020
+8th,Seminole (Seminole),Sayeed Tasnim,87,3410100,23,5,2,64.3500
+9th,Berkeley Prep,Julian Gari,84,4050214,22,4,4,63.4110
+10th,Eastside,Shirley Ai,75,2800229,21,9,0,60.5939
+11th,Stoneman Douglas,John Boswell,75,5320201,21,9,0,60.5939
+12th,Lincoln,Jitesh Kuntawala,75,1090260,21,9,0,60.5939
+13th,Rickards,Aditi Hota,72,1400206,20,8,2,59.6549
+14th,Freedom,Alex Landeta,72,4660204,20,8,2,59.6549
+15th,Buchholz,Seong Sub Yoon,71,2950233,20,9,1,59.3419
+16th,Eastside,Jimmy Xin,71,2800252,20,9,1,59.3419
+17th,Berkeley Prep,Alicia Smart,68,4050219,19,8,3,58.4029
+18th,Coral Glades,Minsuk Ban,64,5280254,18,8,4,57.1509
+19th,Seminole (Seminole),Louis Cai,60,3410106,18,12,0,55.8989
+20th,Suncoast Comm,Tucker Elliott,54,3270205,15,6,9,54.0209
+21st,Suncoast Comm,Stephen Horgan,53,3270216,15,7,8,53.7079
+22nd,Cypress Bay,Liana Braun,52,5880206,15,8,7,53.3949
+23rd,American Heritage (Plantation),Mathew Joa,50,5060206,14,6,10,52.7689
+24th,Cypress Bay,Sebastian Vidal,50,5880255,16,14,0,52.7689
+25th,Community Sch Naples,Danny Ross,47,5620240,14,9,7,51.8299
+26th,Palm Harbor Univ,Sankar Kannasamy,45,4130228,15,15,0,51.2039
+27th,Community Sch Naples,Nick Long,44,5620235,12,4,14,50.8909
+28th,Fort Myers,Emil Dolorfino,42,4230201,12,6,12,50.2648
+29th,JP Taravella,Pui Kwong,40,5330237,10,0,20,49.6388
+30th,Seminole (Seminole),Gloria Leung,39,3410196,12,9,9,49.3258
+31st,Eastside,Athena Patterson,39,2800243,13,13,4,49.3258
+32nd,Bolles,Eric Yeary,36,2520218,12,12,6,48.3868
+33rd,Freedom,Katherine Yerkes,35,4660213,10,5,15,48.0738
+34th,Eastside,Kimberly Fang,33,2800235,10,7,13,47.4478
+35th,Suncoast Comm,Daniel Morris,33,3270211,11,11,8,47.4478
+36th,JP Taravella,Bonnie Ng,33,5330240,10,7,13,47.4478
+37th,Berkeley Prep,Whitney Hang,32,4050215,11,12,7,47.1348
+38th,Deerfield Bch,Isabel Lopez,30,5770226,9,6,15,46.5088
+39th,Cape Coral,Chris Eldon,29,4180224,10,11,9,46.1958
+40th,Lawton Chiles High School,Sam Bennett,27,1810205,9,9,12,45.5698
+41st,Cape Coral,Lazaro Padron,26,4180228,9,10,11,45.2568
+42nd,Navarre,Mckenzie Stevens,25,1800250,11,19,0,44.9438
+43rd,Miami Springs,Toni Canonico,24,5820201,7,4,19,44.6308
+44th,Mast Academy,Lina Ramirez,19,5560222,7,9,14,43.0658
+45th,Lawton Chiles High School,Ariane Sears,18,1810239,7,10,13,42.7528
+46th,Durant,Angel Chavez,15,4750206,6,9,15,41.8138
+47th,Cypress Bay,Adam Debreczeni,15,5880214,7,13,10,41.8138
+48th,Sickles,Glenn Millns,15,4790229,8,17,5,41.8138
+49th,Naples,Alex Lopez,15,5450238,9,21,0,41.8138
+50th,Navarre,Jordan Waite,12,1800251,4,4,22,40.8748
+51st,Berkeley Prep,Dylan Appenzeller,12,4050210,5,8,17,40.8748
+52nd,Miami Springs,Yuliana Olivari,11,5820236,4,5,21,40.5618
+53rd,Flagler-Palm Coast,Sarah Hanrahan,9,2210211,3,3,24,39.9358
+54th,Lawton Chiles High School,Blair Wulterkens,8,1810243,3,4,23,39.6228
+55th,Leon,Katheleen Park,8,1900209,4,8,18,39.6228
+56th,Naples,Nick Bailey,5,5450227,7,23,0,38.6838
+57th,Lawton Chiles High School,Caroline Wright,5,1810242,3,7,20,38.6838
+58th,Naples,Eric Burgeson,5,5450229,7,23,0,38.6838
+59th,Spruce Creek,Evan Stoner,4,2670246,1,0,29,38.3708
+60th,Navarre,Ashley Caudill,3,1800243,2,5,23,38.0578
+61st,Miami Sunset,Giovanni Correale,2,5440209,1,2,27,37.7447
+62nd,Navarre,Danielle Lewis,0,1800246,6,24,0,37.1187
+63rd,St Edward's,Horton Li,-1,3740244,2,9,19,36.8057
+64th,Seminole (Seminole),Samantha Howcroft,-2,3410116,3,14,13,36.4927
+65th,Miramar H. S.,Stacey Kennedy,-5,5030219,2,13,15,35.5537

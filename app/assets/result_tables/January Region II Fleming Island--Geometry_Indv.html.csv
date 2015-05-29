@@ -1,0 +1,73 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Spencer Dupee,120,295004820,30,0,0,72.4701
+1st,Buchholz,Kim Nguyen,120,295002921,30,0,0,72.4701
+3rd,Buchholz,Harish Vemuri,115,295002822,29,1,0,70.8343
+4th,Buchholz,Joanna Song,111,295003521,28,1,1,69.5256
+5th,Buchholz,Jake Jeong,105,295003622,27,3,0,67.5626
+6th,Buchholz,Thor Stead,101,295004122,26,3,1,66.2539
+7th,Buchholz,David Geering,98,295001322,25,2,3,65.2724
+8th,Buchholz,Marie Shiau,97,295002521,25,3,2,64.9453
+9th,Gainesville High School,Brad Benton,97,268002721,25,3,2,64.9453
+10th,Buchholz,Gena Kim,96,295003321,25,4,1,64.6181
+11th,James W. Johnson Middle,John Cho,96,215100421,25,4,1,64.6181
+12th,Buchholz,Jason Zhang,88,295003120,23,4,3,62.0007
+13th,Gainesville High School,Ashley Goluoglu,86,268004221,22,2,6,61.3464
+14th,Gainesville High School,Tessa Brant,82,268002821,21,2,7,60.0377
+15th,Gainesville High School,Andrew Knechel,81,268006821,21,3,6,59.7106
+16th,Eastside,Nesta OseiAgyei,75,280002021,19,1,10,57.7475
+17th,Gainesville High School,Stephen Kay,75,268006122,20,5,5,57.7475
+18th,James W. Johnson Middle,Olivia Morello,65,215101421,17,3,10,54.4759
+19th,Eastside,Samuel Claus,64,280000821,17,4,9,54.1487
+20th,Julia Landon Middle,Sarah McWilliams,63,200101421,17,5,8,53.8215
+21st,Gainesville High School,Tiffany Triplett,58,268011520,15,2,13,52.1857
+22nd,Gainesville High School,Emmett Kendall,58,268006522,16,6,8,52.1857
+23rd,Julia Landon Middle,Chisom Ukoha,56,200101221,15,4,11,51.5313
+24th,James W. Johnson Middle,Julian Rubiano,56,215101122,15,4,11,51.5313
+25th,Gainesville High School,Kristen Hubbard,55,268005422,14,1,15,51.2042
+26th,Gainesville High School,Courtney Stanford,55,268010520,16,9,5,51.2042
+27th,Gainesville High School,Kayla Barrera,55,268002422,15,5,10,51.2042
+28th,Gainesville High School,Kian Thomas,55,268010720,17,13,0,51.2042
+29th,James W. Johnson Middle,Ji Jung,54,215100022,15,6,9,50.8770
+30th,Fleming Island High,Nate Anderson,54,220000121,16,10,4,50.8770
+31st,Gainesville High School,Isabelle Thomas,53,268010920,15,7,8,50.5498
+32nd,Fleming Island High,Alexa Clark,52,220000521,14,4,12,50.2227
+33rd,Fleming Island High,Sam Gathercole,50,220000221,16,14,0,49.5683
+34th,James W. Johnson Middle,Vaibhav Desikan,48,215102221,14,8,8,48.9140
+35th,Westwood Middle,Gavin Gamble,48,212000621,13,4,13,48.9140
+36th,Flagler Palm Coast High School,Anna Buss,47,221000421,13,5,12,48.5868
+37th,James W. Johnson Middle,Sumanth Aluri,46,215101521,13,6,11,48.2596
+38th,Flagler Palm Coast High School,Nina Jones,45,221003921,12,3,15,47.9325
+39th,Gainesville High School,Eliot ChalfinSmith,44,268003020,13,8,9,47.6053
+40th,Gainesville High School,Anthony Becker,44,268002520,13,8,9,47.6053
+41st,Gainesville High School,Trent Phillips,42,268008520,12,6,12,46.9510
+42nd,Gainesville High School,Sajani Thomas,40,268011220,12,8,10,46.2966
+43rd,Gainesville High School,Tyler Winkel,40,268000020,11,4,15,46.2966
+44th,Gainesville High School,Ethan Pata,39,268008120,11,5,14,45.9695
+45th,Flagler Palm Coast High School,Anna Walls,36,221000821,10,4,16,44.9880
+46th,Gainesville High School,Alex Meyerson,36,268007220,10,4,16,44.9880
+47th,Gainesville High School,Taylor Wishart,35,268000220,13,17,0,44.6608
+48th,Gainesville High School,Cameron Allen,34,268002220,11,10,9,44.3336
+49th,Flagler Palm Coast High School,Anastasia Zwenger,33,221000122,9,3,18,44.0064
+50th,Oak View Middle,Sera Silvey,31,205101121,9,5,16,43.3521
+51st,Kanapaha Middle School,Ben Salvo,30,209100821,9,6,15,43.0249
+52nd,Lincoln Middle,Promoto Islam,30,201101120,10,10,10,43.0249
+53rd,Gainesville High School,Jackie Chronister,29,268003520,9,7,14,42.6978
+54th,Kanapaha Middle School,Varvara Folimonova,28,209100921,8,4,18,42.3706
+55th,Flagler Palm Coast High School,Ally Erickson,27,221000222,9,9,12,42.0434
+56th,Kanapaha Middle School,Muntaha Sidratul,26,209101321,8,6,16,41.7163
+57th,River City Science Academy,Joseph Lee,25,269010321,11,19,0,41.3891
+58th,Gainesville High School,Geyshli Quintero,25,268008720,11,19,0,41.3891
+59th,River City Science Academy,Alyssa Root,25,269010121,11,19,0,41.3891
+60th,Fort Clarke Middle,Maad AlQuran,24,279100121,9,12,9,41.0619
+61st,River City Science Academy,Clarissa Root,22,269010221,8,10,12,40.4076
+62nd,Kanapaha Middle School,Bailey Quinn,21,209101621,6,3,21,40.0804
+63rd,Julia Landon Middle,Shaan Patel,21,200101321,8,11,11,40.0804
+64th,Oak View Middle,Hayden Davis,20,205100521,10,20,0,39.7533
+65th,Gainesville High School,Austin Petty,20,268008420,6,4,20,39.7533
+66th,James W. Johnson Middle,Rachel Kim,16,215102122,7,12,11,38.4446
+67th,Gainesville High School,Dillon O'Malley,15,268007920,9,21,0,38.1174
+68th,Flagler Palm Coast High School,Kevin Logan,14,221003521,5,6,19,37.7902
+69th,Oak View Middle,Meosha Wagner,11,205100621,7,17,6,36.8087
+70th,Gainesville High School,James Lilkendey,11,268006920,4,5,21,36.8087
+71st,James W. Johnson Middle,Sean Dobson,11,215100322,7,17,6,36.8087
+72nd,Nease High School,Ava Hampton,10,290003331,4,6,20,36.4816

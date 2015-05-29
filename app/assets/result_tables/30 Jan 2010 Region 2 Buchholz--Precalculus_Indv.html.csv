@@ -1,0 +1,66 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,John Phillpot,120,295000641,30,0,0,70.5998
+2nd,Buchholz,George Tedder,110,295003541,28,2,0,67.6915
+3rd,Buchholz,Antony Gillette,101,295000342,26,3,1,65.0740
+4th,Buchholz,Emily Shroads,98,295003441,25,2,3,64.2015
+5th,Buchholz,Fanchao Zhu,95,295001241,24,1,5,63.3291
+6th,Eastside,Jon Claus,94,280001741,24,2,4,63.0382
+7th,Buchholz,Haeun Jung,89,295000440,23,3,4,61.5841
+8th,Buchholz,Jeremy Liu,86,295000542,23,6,1,60.7116
+9th,Buchholz,David Annable,85,295000142,23,7,0,60.4207
+10th,Buchholz,Mackenzie Sims,85,295000740,22,3,5,60.4207
+11th,Stanton College Preparatory School,Tuongvan Le,84,296002341,22,4,4,60.1299
+12th,Buchholz,June Huang,82,295003242,22,6,2,59.5482
+13th,Buchholz,Yuhak Choi,81,295003140,21,3,6,59.2574
+14th,Buchholz,Jingyi Ye,79,295001140,21,5,4,58.6757
+15th,Stanton College Preparatory School,Janice Lee,79,296007142,20,1,9,58.6757
+16th,Buchholz,Bryce Sperling,77,295000940,20,3,7,58.0941
+17th,Buchholz,Josh black,77,295005940,21,7,2,58.0941
+18th,Stanton College Preparatory School,Rupin Singh,77,296003142,21,7,2,58.0941
+19th,Fleming Island High,Molly Merritt,75,220000241,19,1,10,57.5124
+20th,Eastside,Jason Kim,75,280002141,21,9,0,57.5124
+21st,Stanton College Preparatory School,Mohan Ravi,74,296003041,20,6,4,57.2216
+22nd,Eastside,David Liu,72,280002241,20,8,2,56.6399
+23rd,Eastside,Judy Noh,72,280002442,19,4,7,56.6399
+24th,Fleming Island High,Nicolas deLeon,70,220001941,18,2,10,56.0583
+25th,Eastside,Tahsis Claus,69,280001842,19,7,4,55.7674
+26th,Stanton College Preparatory School,Daniel Josol,66,296002442,18,6,6,54.8949
+27th,Stanton College Preparatory School,Nupur Godbole,66,296006142,17,2,11,54.8949
+28th,Bolles,Zhongyuan Ying,64,252001841,18,8,4,54.3133
+29th,Stanton College Preparatory School,Aditya Karhade,63,296006341,17,5,8,54.0224
+30th,Bolles,Yiming Hu,61,252002040,17,7,6,53.4408
+31st,Buchholz,YuXiang Zhang,60,295006040,17,8,5,53.1499
+32nd,Bolles,Geoffrey McQueen,59,252000341,16,5,9,52.8591
+33rd,Buchholz,Paul Park,50,295003340,14,6,10,50.2416
+34th,Eastside,James Zhang,49,280002642,14,7,9,49.9508
+35th,Stanton College Preparatory School,Disha Sharma,48,296005841,13,4,13,49.6600
+36th,Eastside,Safa Kaleem,41,280002041,13,11,6,47.6241
+37th,Eastside,Alec McCaffrey,40,280002342,12,8,10,47.3333
+38th,Gainesville High School,Dagan Martinez,33,268000241,10,7,13,45.2975
+39th,Oak Hall,KYU ROH,31,249001841,12,17,1,44.7158
+40th,Stanton College Preparatory School,Kaylee Bean,29,296003240,9,7,14,44.1341
+41st,Fleming Island High,Shannon Wegznek,28,220000041,9,8,13,43.8433
+42nd,Stanton College Preparatory School,Diane Lieu,28,296005540,8,4,18,43.8433
+43rd,Oak Hall,JEUNGHOON LEE,28,249012041,9,8,13,43.8433
+44th,Oak Hall,MANNY MARICHAL,26,249011141,7,2,21,43.2616
+45th,Oak Hall,MINSOL KIM,25,249000942,11,19,0,42.9708
+46th,Matanzas H. S.,HUNTER FROMM,24,228001741,6,0,24,42.6800
+47th,Fleming Island High,Wren Flesher,24,220001742,7,4,19,42.6800
+48th,Fleming Island High,Laurel Perrine,24,220001041,6,0,24,42.6800
+49th,Stanton College Preparatory School,Shreyas Srinivasan,20,296003340,8,12,10,41.5167
+50th,Fleming Island High,Leslie Morgan,19,220000742,7,9,14,41.2258
+51st,Oak Hall,GIGI TONG,19,249001241,6,5,19,41.2258
+52nd,Oak Hall,ANDREAS DINOPOULOS,14,249001040,7,14,9,39.7717
+53rd,Oak Hall,KRISTI MULDOON,13,249001742,6,11,13,39.4808
+54th,Stanton College Preparatory School,Keyerra Croley,10,296005740,3,2,25,38.6083
+55th,Matanzas H. S.,Jerica Trotter,10,228002341,3,2,25,38.6083
+56th,Flagler Palm Coast,JENNIFER CHEUNG,9,221040141,5,11,14,38.3175
+57th,Oak Hall,LESHIN VARGHESE,8,249001342,7,20,3,38.0267
+58th,Flagler Palm Coast,ALLYSON SMITH,8,221040441,4,8,18,38.0267
+59th,Leesburg High School,MARIA WILLIAMS,2,287003541,6,22,2,36.2817
+60th,Stanton College Preparatory School,Kaitlin Ramirez,2,296003440,2,6,22,36.2817
+61st,Leesburg High School,FELICIA COSTA,1,287001341,3,11,16,35.9909
+62nd,Leesburg High School,SYMONNE SMITH,0,287003441,5,20,5,35.7000
+63rd,Oak Hall,CHRIS CROUSHORE,0,249001542,5,20,5,35.7000
+64th,Gainesville High School,Karen Gomez,-5,268000841,2,13,15,34.2459
+65th,Fleming Island High,Becky Perron,-7,220001142,1,11,18,33.6642

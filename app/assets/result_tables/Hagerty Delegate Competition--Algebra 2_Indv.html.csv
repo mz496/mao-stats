@@ -1,0 +1,99 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Middle,Ellen Li,107,201102931,27,1,2,74.7473
+2nd,Seminole (Seminole),ANTHONY CHEN,103,341007031,26,1,3,73.2376
+3rd,Buchholz,HauLin Wu,103,295004231,26,1,3,73.2376
+4th,Seminole (Seminole),REETI GULATI,94,341006730,24,2,4,69.8409
+5th,King,Daniel Suen,86,435010831,22,2,6,66.8217
+6th,Lincoln Middle,lillian Zhu,86,201100031,22,2,6,66.8217
+7th,American Heritage (Plantation),Lawrence Xu,83,506000931,22,5,3,65.6894
+8th,Buchholz,Soomin Cho,82,295003231,21,2,7,65.3120
+9th,Lincoln Middle,Jonathan Fang,82,201102031,22,6,2,65.3120
+10th,King,Meining Zhang,81,435011131,21,3,6,64.9346
+11th,Lincoln Middle,Beverly Ge,79,201102230,21,5,4,64.1798
+12th,American Heritage (Plantation),Carlos Vazquez,78,506001131,20,2,8,63.8024
+13th,King,Sathvik Palakurty,77,435010131,21,7,2,63.4250
+14th,Buchholz,Nicholas Klugman,76,295000731,20,4,6,63.0476
+15th,Buchholz,Michael Wong,75,295004031,20,5,5,62.6702
+16th,Lincoln Middle,Anand Rajan,74,201101631,20,6,4,62.2928
+17th,Buchholz,Donghyun Yoon,72,295004330,20,8,2,61.5379
+18th,American Heritage (Plantation),Samir Khan,67,506001430,18,5,7,59.6509
+19th,Seminole (Seminole),ADAM JAFFER,66,341005531,18,6,6,59.2735
+20th,American Heritage (Plantation),Dajon Thomas,65,506001830,19,11,0,58.8961
+21st,Seminole (Seminole),NATHAN ZHANG,62,341000530,17,6,7,57.7638
+22nd,Vero Beach,Patricia Portmann,61,372003831,17,7,6,57.3864
+23rd,Eastside,Vanna Yang,60,280006531,16,4,10,57.0090
+24th,American Heritage (Plantation),Trevor Birenbaum,57,506005431,16,7,7,55.8768
+25th,Vero Beach,Evan Mackay,56,372003031,15,4,11,55.4994
+26th,King,Isha Bhutada,56,435005231,15,4,11,55.4994
+27th,Eastside,Jess Smith,56,280005031,15,4,11,55.4994
+28th,Seminole (Seminole),SATYA PATEL,56,341016231,17,12,1,55.4994
+29th,Seminole (Seminole),ROBERT BLAINE,55,341005630,16,9,5,55.1220
+30th,Eastside,Yong Shan,53,280006330,15,7,8,54.3672
+31st,Lincoln,Justin Bartell,53,109001131,14,3,13,54.3672
+32nd,Seminole (Seminole),JUSTIN RAMAN,51,341006930,16,13,1,53.6123
+33rd,Buchholz,Jake Thompson,51,295003330,14,5,11,53.6123
+34th,Vero Beach,Ryan Zerega,50,372004931,14,6,10,53.2349
+35th,Seminole (Seminole),SHAWN HAMMERLING,50,341000030,14,6,10,53.2349
+36th,American Heritage (Plantation),Philip Gaddy,48,506001331,14,8,8,52.4801
+37th,Suncoast Comm,Lois Arasim,48,327007131,12,0,18,52.4801
+38th,Seminole (Seminole),NIKITA PATEL,47,341003230,12,1,17,52.1027
+39th,Eastside,Jonathan Jacobs,47,280004730,13,5,12,52.1027
+40th,Seminole (Seminole),NEIL SHAH,45,341002030,15,15,0,51.3479
+41st,King,Michael Cory,43,435009430,12,5,13,50.5931
+42nd,Deerfield Beach,Heeral Patel,42,577002231,11,2,17,50.2157
+43rd,Vero Beach,Michael Gallagher,41,372001830,11,3,16,49.8383
+44th,Seminole (Seminole),VIRAJ SHAH,41,341005130,13,11,6,49.8383
+45th,Deerfield Beach,Alex Rabaca,40,577001731,11,4,15,49.4608
+46th,Seminole (Seminole),SUNASH SHARMA,40,341007731,12,8,10,49.4608
+47th,Miami Springs,ORLANDO LANEY,39,582002231,10,1,19,49.0834
+48th,Seminole (Seminole),KRISTOPHER TOLOPKA,39,341001630,10,1,19,49.0834
+49th,King,Kireet Agrawal,36,435005030,10,4,16,47.9512
+50th,Lincoln,Lisanne vanEngelen,36,109002631,9,0,21,47.9512
+51st,Miami Springs,ANDRES EKANAYAKE,35,582001931,9,1,20,47.5738
+52nd,Eastside,Shannon Liu,32,280004931,10,8,12,46.4416
+53rd,Suncoast Comm,Maham Karatela,31,327008831,8,1,21,46.0642
+54th,Eastside,Derek Li,31,280005731,9,5,16,46.0642
+55th,Hagerty High School,Alexander Creecy,31,310001431,9,5,16,46.0642
+56th,Vero Beach,David Polge,30,372003730,8,2,20,45.6868
+57th,Eastside,Lucas Zhou,30,280006630,8,2,20,45.6868
+58th,Vero Beach,Megan Clarke,29,372001230,8,3,19,45.3093
+59th,Hagerty High School,Samuel Henken,27,310001531,7,1,22,44.5545
+60th,Hagerty High School,Wyat Brooks,27,310000530,8,5,17,44.5545
+61st,Hagerty High School,Robert Burk,27,310000631,7,1,22,44.5545
+62nd,King,Divyesh Doddapaneni,27,435009530,8,5,17,44.5545
+63rd,Suncoast Comm,Praveen Ashokkumar,26,327007230,7,2,21,44.1771
+64th,Lincoln,Robert Gitau,26,109003330,7,2,21,44.1771
+65th,Eastside,Matt Naranjo,26,280006430,7,2,21,44.1771
+66th,Lincoln,Christopher Draper,26,109001631,8,6,16,44.1771
+67th,Suncoast Comm,Revathi Ravella,25,327010331,7,3,20,43.7997
+68th,Eastside,Andrew Rollins,25,280007030,7,3,20,43.7997
+69th,Eastside,Gloria Kann,25,280004530,10,15,5,43.7997
+70th,Vero Beach,Matthew McCoy,25,372003130,9,11,10,43.7997
+71st,Suncoast Comm,Johnny Huang,23,327008631,6,1,23,43.0449
+72nd,Vero Beach,Lillian Shipley,23,372004030,6,1,23,43.0449
+73rd,Hagerty High School,Tyler Reilly,23,310002231,6,1,23,43.0449
+74th,Vero Beach,Natalie Zatz,22,372004830,6,2,22,42.6675
+75th,Vero Beach,Jeffrey Krasnow,22,372002830,6,2,22,42.6675
+76th,Vero Beach,Ruby Hollinger,21,372002330,6,3,21,42.2901
+77th,Vero Beach,Jonathan Guy,20,372002231,7,8,15,41.9127
+78th,Suncoast Comm,Nathalie Canate,20,327007630,5,0,25,41.9127
+79th,Eastside,Sarah Lulu,20,280005930,6,4,20,41.9127
+80th,Suncoast Comm,Harrison Hanes,20,327008430,6,4,20,41.9127
+81st,Miami Springs,NICHOLAS COSTA,18,582004631,6,6,18,41.1578
+82nd,Hagerty High School,Uyen Pham,16,310002030,7,12,11,40.4030
+83rd,Deerfield Beach,Christian Ubillus,16,577004431,5,4,21,40.4030
+84th,Eastside,Alice Hou,16,280004630,5,4,21,40.4030
+85th,Suncoast Comm,Perry Vo,13,327010530,4,3,23,39.2708
+86th,Eastside,Kate warren,13,280007130,4,3,23,39.2708
+87th,Vero Beach,Taylor Walkup,13,372004630,4,3,23,39.2708
+88th,Lake Mary,Robert Jamison,13,308002231,7,15,8,39.2708
+89th,Suncoast Comm,Phelan Vo,12,327010630,4,4,22,38.8934
+90th,Suncoast Comm,Nicholas Ellisson,12,327008130,5,8,17,38.8934
+91st,Suncoast Comm,Nicole Dan,10,327007930,3,2,25,38.1386
+92nd,Lincoln,Emily Weeden,10,109000931,4,6,20,38.1386
+93rd,Vero Beach,Samantha Howard,10,372002730,3,2,25,38.1386
+94th,Deerfield Beach,Drew Russo,8,577002131,2,0,28,37.3838
+95th,Hagerty High School,Alaine Coffey,7,310001030,4,9,17,37.0063
+96th,Miami Springs,MARIA AGUERO,6,582003130,2,2,26,36.6289
+97th,Suncoast Comm,Van Spina,-1,327010430,2,9,19,33.9871
+98th,Miami Springs,ASHLEY ZULUETA,-2,582000431,0,2,28,33.6097

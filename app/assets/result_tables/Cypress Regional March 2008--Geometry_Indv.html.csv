@@ -1,0 +1,122 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Cypress Bay,SANTIAGO VARGAS,82,5882125,22,6,2,81.3646
+2nd,Cypress Bay,JUAN OCAMPO,76,5882119,20,4,6,78.0390
+3rd,Ronald Reagan H. S.,Jee Young-Kim,70,5272305,19,6,5,74.7133
+4th,Barbara Goleman,MICHAEL MESA,66,5922110,19,10,1,72.4962
+5th,Stoneman Douglas,JOHNSON YOU,65,5322107,17,3,10,71.9420
+6th,Stoneman Douglas,GLEN FROST,59,5322108,17,9,4,68.6163
+7th,Community Sch Naples,Dylan Chestnut,59,5622102,16,5,9,68.6163
+8th,Community Sch Naples,Jamison Tate,57,5622310,16,7,7,67.5078
+9th,Barbara Goleman,MANUEL VICENTE,57,5922106,17,11,2,67.5078
+10th,Cypress Bay,KRISHNA AJMERI,55,5882100,15,5,10,66.3992
+11th,Miami Springs,ALEJANDRO FERNANDEZ,55,5822106,15,5,10,66.3992
+12th,Community Sch Naples,Ricky Gallo,51,5622105,14,5,11,64.1821
+13th,Cypress Bay,CARLOS CAMARGO,51,5882304,14,5,11,64.1821
+14th,Barbara Goleman,RICHARD COLINA,50,5922107,16,14,0,63.6278
+15th,Ferguson,DILIA OLIVO,50,5072301,14,6,10,63.6278
+16th,Community Sch Naples,Angel DeJong,48,5622103,13,4,13,62.5193
+17th,Dr Michael Krop,Kevin Castillo,46,5022100,13,6,11,61.4107
+18th,Belen Jesuit Prep,FERNANDO DE ZAYAS,46,5352107,14,10,6,61.4107
+19th,Cypress Bay,GISELA MURRONI,46,5882134,13,6,11,61.4107
+20th,American Heritage (Plantation),blake mandell,43,5062106,13,9,8,59.7479
+21st,Stoneman Douglas,ADAM WESTERDALE,41,5322306,12,7,11,58.6394
+22nd,Miami Springs,DAVID RODRIGUEZ,41,5822120,13,11,6,58.6394
+23rd,Nova High School,Jacob Gilson,40,5202122,13,12,5,58.0851
+24th,Community Sch Naples,Hale Schwerin,39,5622109,11,5,14,57.5308
+25th,Miami Palmetto,Jasmine Tamita-Barber,39,5412311,12,9,9,57.5308
+26th,Miami Sunset,Seon-Woo Lee,39,5442120,11,5,14,57.5308
+27th,Miami Palmetto,Clara Kim,37,5412104,12,11,7,56.4223
+28th,Coral Glades,Andrea Alvarado,37,5282112,12,11,7,56.4223
+29th,Hollywood Hills,Alex Cordero,36,5082141,10,4,16,55.8680
+30th,Cypress Bay,NICOLAS KIM,36,5882341,11,8,11,55.8680
+31st,Cypress Bay,EUIYOUNG KWAK,35,5882332,10,5,15,55.3137
+32nd,Stoneman Douglas,DIVYA DEVABHAKTUNI,35,5322101,11,9,10,55.3137
+33rd,Coral Springs,SUSAN LEE,35,5152101,10,5,15,55.3137
+34th,Community Sch Naples,Smith Santil,34,5622308,10,6,14,54.7594
+35th,Nova High School,Andy Huang,33,5202120,12,15,3,54.2052
+36th,Belen Jesuit Prep,ANTONIO MALOUF,32,5352119,11,12,7,53.6509
+37th,Ferguson,MIGUEL SOTOLONGO,31,5072103,9,5,16,53.0966
+38th,American Heritage (Plantation),reina arakawa,31,5062100,9,5,16,53.0966
+39th,Belen Jesuit Prep,JAVIER PARDO,31,5352124,9,5,16,53.0966
+40th,Miami Springs,ERNESTO SEBASTIAN,31,5822123,10,9,11,53.0966
+41st,Coral Glades,Peter Mann,30,5282106,9,6,15,52.5423
+42nd,Dr Michael Krop,Joshua Almeida,30,5022101,11,14,5,52.5423
+43rd,Miami Palmetto,Juan Mejia,29,5412106,11,15,4,51.9881
+44th,American Heritage (Plantation),qiushi wen,29,5062111,9,7,14,51.9881
+45th,Seacrest H. S.,John Ginter,28,1572100,8,4,18,51.4338
+46th,Cypress Bay,Victor Rubin de Celis,28,5882347,10,12,8,51.4338
+47th,Cypress Bay,C HRISTINE KWAK,27,5882331,9,9,12,50.8795
+48th,JP Taravella,GABRIELLA ALVAREZ,27,5332101,9,9,12,50.8795
+49th,American Heritage (Plantation),michael fox,26,5062304,8,6,16,50.3252
+50th,Seacrest H. S.,Jenny Wheeler,26,1572105,7,2,21,50.3252
+51st,Belen Jesuit Prep,CARLOS DE CARDENAS,26,5352305,9,10,11,50.3252
+52nd,JP Taravella,YEJI CHO,25,5332103,7,3,20,49.7710
+53rd,Miami Spring Middle,Elda Ibarra,25,1282108,11,19,0,49.7710
+54th,Seacrest H. S.,Jenny Warnken,24,1572104,7,4,19,49.2167
+55th,American,Aqib Shah,24,5232126,8,8,14,49.2167
+56th,Belen Jesuit Prep,JUAN MACHADO,24,5352118,8,8,14,49.2167
+57th,Miami Springs,DANIEL GAYTAN,24,5822310,9,12,9,49.2167
+58th,Miami Sunset,Taimi Fernandez,23,5442153,7,5,18,48.6624
+59th,Flanagan,Andrea Mansur,23,5912103,8,9,13,48.6624
+60th,Miami Palmetto,Christian Cortes,23,5412101,8,9,13,48.6624
+61st,American Heritage (Plantation),beatriz barros,22,5062101,7,6,17,48.1081
+62nd,Miami Springs,MARLIE SANCHEZ,22,5822321,7,6,17,48.1081
+63rd,American Heritage (Plantation),lindsay bouchacourt,22,5062302,7,6,17,48.1081
+64th,Coral Glades,Matt Khouri,22,5282304,7,6,17,48.1081
+65th,Miami Springs,ALEX RODRIGUEZ,22,5822119,8,10,12,48.1081
+66th,Flanagan,Chelsea Santiago,21,5912186,8,11,11,47.5539
+67th,Miami Country Day H S.,Andrea Szerer,21,5012107,8,11,11,47.5539
+68th,Stoneman Douglas,ADAM WESTERDALE,21,5322306,7,7,16,47.5539
+69th,Miami Palmetto,Amir Nili,20,5412307,7,8,15,46.9996
+70th,JP Taravella,NATASHA KHAN,20,5332105,6,4,20,46.9996
+71st,Coral Glades,Courtnet Schatt,20,5282110,8,12,10,46.9996
+72nd,Belen Jesuit Prep,NESTOR BUSTAMANTE,20,5352302,8,12,10,46.9996
+73rd,Dr Michael Krop,Alexandra Feverman,20,5022102,10,20,0,46.9996
+74th,Stoneman Douglas,ERIC EYZAGUIRRE,19,5322302,6,5,19,46.4453
+75th,Miami Palmetto,Beatrice Alvarez,19,5412300,7,9,14,46.4453
+76th,Cypress Bay,SARA KIENZLE,19,5882315,7,9,14,46.4453
+77th,Ferguson,STEVEN TUCKLER,18,5072102,7,10,13,45.8910
+78th,Coral Glades,Albert Scalone,18,5282109,6,6,18,45.8910
+79th,Miami Springs,RANCE REGALADO,18,5822318,6,6,18,45.8910
+80th,Curry Middle School,Lissette Collazo,17,1892312,5,3,22,45.3368
+81st,Community Sch Naples,Gigi Baseman,17,5622301,6,7,17,45.3368
+82nd,Curry Middle School,Santiago Cortes,16,1892113,5,4,21,44.7825
+83rd,Miami Springs,NASTHIA VILLAVICENCIO,16,5822328,5,4,21,44.7825
+84th,Cypress Bay,CRISTINA ARIAS,16,5882302,7,12,11,44.7825
+85th,Ferguson,KARISSA VILLA,15,5072112,4,1,25,44.2282
+86th,Barbara Goleman,FRANKLIN SANDREA,15,5922105,5,5,20,44.2282
+87th,Nova High School,Michelle Pinargote,15,5202123,9,21,0,44.2282
+88th,Belen Jesuit Prep,JOSE NOVOA,15,5352320,5,5,20,44.2282
+89th,Coral Springs,ALISON CHEN,15,5152100,5,5,20,44.2282
+90th,Miami Country Day H S.,Neil Mehta,13,5012100,6,11,13,43.1197
+91st,Miami Palmetto,Yixian  Fan,12,5412315,5,8,17,42.5654
+92nd,Coral Glades,Matthew Goodison-Orr,12,5282303,6,12,12,42.5654
+93rd,Curry Middle School,David Tarafa,11,1892120,5,9,16,42.0111
+94th,Curry Middle School,Nicole Ruiz,11,1892318,7,17,6,42.0111
+95th,Ferguson,VEDA CRUZ,11,5072314,4,5,21,42.0111
+96th,Miami Springs,EMILY DREW,11,5822387,4,5,21,42.0111
+97th,Miami Sunset,Lynett Araujo,10,5442359,3,2,25,41.4568
+98th,Flanagan,Antonio Porter,9,5912106,4,7,19,40.9026
+99th,Hollywood Hills,Alberto Salas,9,5082102,3,3,24,40.9026
+100th,Belen Jesuit Prep,TONY RABASSA,9,5352327,4,7,19,40.9026
+101st,JP Taravella,EMIL HASSAN,8,5332104,5,12,13,40.3483
+102nd,Ferguson,ANTONIO FERNANDEZ,7,5072100,4,9,17,39.7940
+103rd,Flanagan,Natalia Cornejo,7,5912138,4,9,17,39.7940
+104th,Ronald Reagan H. S.,Gianfranco Colombi,7,5272300,4,9,17,39.7940
+105th,Curry Middle School,Claudia Ansorena,6,1892310,3,6,21,39.2397
+106th,Curry Middle School,Priscilla Lopez,6,1892316,4,10,16,39.2397
+107th,Curry Middle School,Evelyn Jaramillo,5,1892114,7,23,0,38.6855
+108th,Curry Middle School,Daniel Osorio,5,1892317,4,11,15,38.6855
+109th,Dr Michael Krop,Lawrence Sanchez,5,5022104,5,15,10,38.6855
+110th,Curry Middle School,Cassandra Blanco,5,1892311,3,7,20,38.6855
+111th,Miami Springs, ,3,5822398,4,13,13,37.5769
+112th,Belen Jesuit Prep,RICHARD BARRIOS,3,5352301,3,9,18,37.5769
+113th,Seacrest H. S.,Larissa Yashko,1,1572106,2,7,21,36.4684
+114th,Miami Springs,ANDREA VIZCAINO,0,5822329,4,16,10,35.9141
+115th,Miami Sunset,Alberto Guardia,-1,5442117,1,5,24,35.3598
+116th,Miami Country Day H S.,Denise Volovitz,-1,5012108,3,13,14,35.3598
+117th,Miami Sunset,Claudia Erazo,-1,5442111,0,1,29,35.3598
+118th,Curry Middle School,Alexandra Lemus,-3,1892115,1,7,22,34.2513
+119th,Miami Springs, ,-3,5822399,1,7,22,34.2513
+120th,Miami Palmetto,Jenie Yeh,-4,5412113,4,20,6,33.6970
+121st,Curry Middle School,Kelsey Drevyn,-5,1892319,4,21,5,33.1427

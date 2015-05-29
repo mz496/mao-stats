@@ -1,0 +1,92 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),REETI GULATI,116,341006731,29,0,1,76.9690
+2nd,Seminole (Seminole),ADAM JAFFER,115,341005531,29,1,0,76.6363
+3rd,Seminole (Seminole),JUSTIN RAMAN,115,341006931,29,1,0,76.6363
+4th,Seminole (Seminole),ANTHONY CHEN,111,341007031,28,1,1,75.3056
+5th,Seminole (Seminole),NEIL SHAH,110,341002032,28,2,0,74.9729
+6th,Seminole (Seminole),SUNASH SHARMA,107,341007732,27,1,2,73.9749
+7th,Seminole (Seminole),VIRAJ SHAH,101,341005130,26,3,1,71.9788
+8th,Seminole (Seminole),ROBERT BLAINE,87,341005632,23,5,2,67.3213
+9th,Seminole (Seminole),JESSICA FANG,86,341003930,22,2,6,66.9886
+10th,Seminole (Seminole),SHAWN HAMMERLING,76,341000032,21,8,1,63.6618
+11th,Seminole (Seminole),DIPTODIP DEB,69,341008630,18,3,9,61.3330
+12th,St Edward's,AKSHA PATEL,66,374011231,17,2,11,60.3350
+13th,Seminole (Seminole),SATYA PATEL,65,341016230,19,11,0,60.0023
+14th,Seminole (Seminole),MARK VAINSHTEIN,61,341009030,16,3,11,58.6716
+15th,Seminole (Seminole),MARCELLUS JOHNSON,60,341005430,15,0,15,58.3389
+16th,Hagerty High School,Alexander Creecy,56,310001431,15,4,11,57.0082
+17th,Hagerty High School,Robert Burke,55,310000631,14,1,15,56.6755
+18th,Seminole (Seminole),STEPHANIE YUAN,52,341006430,14,4,12,55.6775
+19th,Seminole (Seminole),MICHELLE ZHANG,51,341007630,14,5,11,55.3448
+20th,Seminole (Seminole),NATHAN ZHANG,48,341000530,14,8,8,54.3468
+21st,Vero Beach,Jonathan Guy,45,372002231,12,3,15,53.3487
+22nd,Hagerty High School,Samuel Henken,45,310001531,12,3,15,53.3487
+23rd,Seminole (Seminole),RAYMUND VISTA,45,341008730,13,7,10,53.3487
+24th,West Shore,Emma Kalvan,45,393001631,12,3,15,53.3487
+25th,Hagerty High School,Tyler Reilly,43,310002231,12,5,13,52.6834
+26th,St Edward's,TRACY NGUYEN,42,374011031,11,2,17,52.3507
+27th,Vero Beach,Charles Pascale,42,372003531,11,2,17,52.3507
+28th,Vero Beach,Syeda Raza,41,372003932,12,7,11,52.0180
+29th,Seminole (Seminole),KRISTOPHER TOLOPKA,41,341001630,11,3,16,52.0180
+30th,Suncoast Comm,Revathi Ravella,41,327010331,11,3,16,52.0180
+31st,Suncoast Comm,Johnny Huang,41,327008632,11,3,16,52.0180
+32nd,Vero Beach,Matthew McCoy,40,372003131,13,12,5,51.6853
+33rd,Suncoast Comm,Lois Arasim,39,327007131,11,5,14,51.3527
+34th,Suncoast Comm,Maham Karatela,39,327008831,10,1,19,51.3527
+35th,Vero Beach,Megan Clarke,37,372001231,10,3,17,50.6873
+36th,Sebastian River,Kolby Golliher,35,314002431,13,17,0,50.0219
+37th,St Edward's,JAD SHALHOUB,35,374011331,10,5,15,50.0219
+38th,West Shore,Shelley Mitchell,34,393001531,9,2,19,49.6893
+39th,Bayside,Floyd Burke,33,303001531,9,3,18,49.3566
+40th,Freedom (Orlando),Savini Prematilleke,31,381003531,9,5,16,48.6912
+41st,Spruce Creek,Kharina Guruvadoo,30,267005731,8,2,20,48.3585
+42nd,Hagerty High School,Lauren Holladay,30,310002732,9,6,15,48.3585
+43rd,Vero Beach,Samantha Howard,30,372002732,8,2,20,48.3585
+44th,West Shore,Alex Autenrieb,28,393001732,8,4,18,47.6932
+45th,Seminole (Seminole),CALVIN YEUNG,28,341000430,9,8,13,47.6932
+46th,Suncoast Comm,Perry Vo,27,327010532,7,1,22,47.3605
+47th,Bayside,Melanie Bailey,26,303001332,7,2,21,47.0278
+48th,Suncoast Comm,Phelan Vo,26,327010630,8,6,16,47.0278
+49th,Vero Beach,Elizabeth Simons,26,372004232,7,2,21,47.0278
+50th,Suncoast Comm,Otto Legon,24,327005432,7,4,19,46.3625
+51st,Bayside,Wistenly Alphonse,23,303001231,8,9,13,46.0298
+52nd,St Edward's,ZHENYU LI,23,374002632,7,5,18,46.0298
+53rd,Suncoast Comm,Nathalie Canate,22,327007630,6,2,22,45.6971
+54th,West Shore,Sarah Arends,22,393001831,6,2,22,45.6971
+55th,Bayside,Austin Cavenaugh,22,303001632,6,2,22,45.6971
+56th,Spruce Creek,Tommy Kenyon,21,267004131,7,7,16,45.3644
+57th,Hagerty High School,Matthew Medla,21,310001632,7,7,16,45.3644
+58th,Oviedo,Daniel Hernandez,20,377001031,10,20,0,45.0317
+59th,Vero Beach,Taylor Walkup,19,372004632,5,1,24,44.6991
+60th,Hagerty High School,Uyen Pham,19,310002032,6,5,19,44.6991
+61st,Suncoast Comm,Praveen Ashokkumar,16,327007231,6,8,16,43.7010
+62nd,Oviedo,German Salazar,16,377000631,9,20,1,43.7010
+63rd,Lake Mary,Carly Jaze,16,308002331,7,12,11,43.7010
+64th,Seminole (Seminole),NADIYA NAWSHEEN,15,341009630,5,5,20,43.3683
+65th,Freedom (Orlando),Stanley Ta,15,381005031,5,5,20,43.3683
+66th,Bayside,Priscilla Gonzalez,15,303002032,6,9,15,43.3683
+67th,West Shore,Kara Marin,14,393001931,4,2,24,43.0357
+68th,Bayside,Jesus Sanchez,14,303002331,6,10,14,43.0357
+69th,Freedom (Orlando),Sofia Couret,13,381001031,4,3,23,42.7030
+70th,Lake Howell,Mary Tran,13,391020831,8,19,3,42.7030
+71st,Suncoast Comm,Nicholas Ellisson,12,327008132,4,4,22,42.3703
+72nd,Bayside,Jesus Esparza,12,303001830,5,8,17,42.3703
+73rd,Bayside,Alec May,12,303002132,5,8,17,42.3703
+74th,Freedom (Orlando),Jessica Ramos,11,381003731,4,5,21,42.0376
+75th,Spruce Creek,Kristine Wong,11,267004531,3,1,26,42.0376
+76th,St Edward's,ELLA MERRILL,11,374010832,3,1,26,42.0376
+77th,Lake Howell,Kaley Scanlon,11,391020731,4,5,21,42.0376
+78th,Spruce Creek,Sydney Volenec,11,267007732,4,5,21,42.0376
+79th,Suncoast Comm,Nicole Dan,10,327007930,3,2,25,41.7049
+80th,Oviedo,Lloyd Verdeflor,10,377000731,6,14,10,41.7049
+81st,Lake Howell,Kim Huynh,10,391021031,8,22,0,41.7049
+82nd,St Edward's,TIFFANY TEE,9,374011532,3,3,24,41.3723
+83rd,Suncoast Comm,Daniel Gouge,9,327004930,4,7,19,41.3723
+84th,St Edward's,WESLEY CAMPBELL,8,374010131,3,4,23,41.0396
+85th,Spruce Creek,Tala Saboungi,5,267004432,2,3,25,40.0415
+86th,Spruce Creek,Hailey Remigio,5,267004331,3,7,20,40.0415
+87th,Lake Howell,Emily Chichester,4,391020131,3,8,19,39.7089
+88th,Bayside,Patrick Clary,3,303001731,2,5,23,39.3762
+89th,Oviedo,Michael Berner,0,377000931,6,24,0,38.3781
+90th,Spruce Creek,Eun Lim,-5,267006932,0,5,25,36.7147
+91st,Sebastian River,Alex Brocksmith,-15,314000431,3,27,0,33.3880

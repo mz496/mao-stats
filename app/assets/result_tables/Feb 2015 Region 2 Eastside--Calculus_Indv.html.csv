@@ -1,0 +1,104 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Nicholas Klugman,115,295000752,29,1,0,77.5736
+2nd,Eastside,Alireza Azari,115,280000251,29,1,0,77.5736
+3rd,Buchholz,Zhao Li,115,295000352,29,1,0,77.5736
+4th,Buchholz,Ben Wu,101,295000051,26,3,1,72.6171
+5th,Buchholz,Josh chipman,91,295006351,24,5,1,69.0767
+6th,Buchholz,Lisa Lu,90,295005552,23,2,5,68.7227
+7th,Buchholz,Spencer Douglas,87,295002351,23,5,2,67.6606
+8th,Gainesville High School,KJ McIver,85,268009451,22,3,5,66.9525
+9th,Buchholz,Timmy Xie,84,295005950,22,4,4,66.5985
+10th,Buchholz,Jason Ai,82,295004552,22,6,2,65.8904
+11th,Buchholz,Michael Wong,81,295004050,21,3,6,65.5363
+12th,Buchholz,Vincent Mei,79,295004451,21,5,4,64.8283
+13th,Buchholz,Victor Lin,73,295005050,19,3,8,62.7041
+14th,Buchholz,Kevin Noh,69,295005750,19,7,4,61.2879
+15th,Spruce Creek,Sam Swanson,65,267005451,18,7,5,59.8718
+16th,Oak Hall,AMAN KABEER,62,249000151,16,2,12,58.8097
+17th,Buchholz,Soomin Cho,62,295003250,16,2,12,58.8097
+18th,Gainesville High School,Sean Benton,60,268011951,18,12,0,58.1016
+19th,Oak Hall,IRIS SUN,60,249001950,16,4,10,58.1016
+20th,Stanton College Preparatory School,Colleen Weller,60,296005051,18,12,0,58.1016
+21st,Eastside,Jessica Lee,59,280002851,16,5,9,57.7475
+22nd,Eastside,Jess Smith,57,280005151,15,3,12,57.0395
+23rd,Nease High School,Tyler Goldsmith,56,290000351,14,0,16,56.6854
+24th,Stanton College Preparatory School, ,55,296009751,17,13,0,56.3314
+25th,Gainesville High School,Jackson Jost,53,268004451,14,3,13,55.6233
+26th,Eastside,Kevin Peng,52,280004452,14,4,12,55.2693
+27th,Spruce Creek,Suraj Singireddy,51,267006051,14,5,11,54.9153
+28th,Gainesville High School,Joey Schentrup,51,268000651,14,5,11,54.9153
+29th,Eastside,Kalp Patel,49,280004350,15,11,4,54.2072
+30th,Buchholz,Beverly Ge,47,295000650,13,5,12,53.4991
+31st,Nease High School,Justin Andrilenas,46,290000051,12,2,16,53.1451
+32nd,Eastside,Annie Liang,46,280001150,12,2,16,53.1451
+33rd,Eastside,Jonathan Jacobs,46,280002152,13,6,11,53.1451
+34th,Bolles,George Gao,45,252002751,15,15,0,52.7910
+35th,Spruce Creek,Connor Brok,44,267005152,11,0,19,52.4370
+36th,Stanton College Preparatory School,Cory Zhu,42,296003552,14,14,2,51.7289
+37th,Eastside,Anand Rajan,42,280004750,13,10,7,51.7289
+38th,Flagler Palm Coast High School,Dylan Lyden,42,221002351,11,2,17,51.7289
+39th,Bolles,Kunal Kanaparti,41,252001251,11,3,16,51.3749
+40th,Eastside,Kailas Rajan,40,280006751,12,8,10,51.0209
+41st,Stanton College Preparatory School,Suhani Jain,40,296000151,11,4,15,51.0209
+42nd,Nease High School,Daniel Schwartz,39,290000651,11,5,14,50.6668
+43rd,Eastside,Kelly Lampotang,37,280002752,11,7,12,49.9588
+44th,Eastside,Aristotle Grosz,37,280001250,10,3,17,49.9588
+45th,Buchholz,Donghyun Yoon,37,295004350,12,11,7,49.9588
+46th,Bolles,Corey Levinson,37,252002151,11,7,12,49.9588
+47th,Gainesville High School,Stephen Carter,36,268010352,11,8,11,49.6047
+48th,Spruce Creek,Kharina Guruvadoo,36,267005251,10,4,16,49.6047
+49th,Flagler Palm Coast High School,Barret Manfre,34,221003652,9,2,19,48.8966
+50th,Spruce Creek,Katie Wiggins,34,267006652,11,10,9,48.8966
+51st,Eastside,Yong Shan,32,280005050,10,8,12,48.1886
+52nd,Stanton College Preparatory School,Victoria Su,32,296000052,9,4,17,48.1886
+53rd,Stanton College Preparatory School,Carrie Suen,31,296004652,10,9,11,47.8345
+54th,Orange Park High School,Cheyanne Gonzales,30,292002352,10,10,10,47.4805
+55th,Flagler Palm Coast High School,Olivia Pinard,29,221002252,8,3,19,47.1265
+56th,Nease High School,Kacie Carter,29,290000251,9,7,14,47.1265
+57th,Gainesville High School,Victoria Collins,27,268000552,7,1,22,46.4184
+58th,Buchholz,Peter Sun,27,295002450,9,9,12,46.4184
+59th,Eastside,Jiho Lee,26,280000050,8,6,16,46.0644
+60th,Flagler Palm Coast High School,Austin Smith,26,221000651,9,10,11,46.0644
+61st,Spruce Creek,Joshua Pollock,26,267006351,9,10,11,46.0644
+62nd,Gainesville High School,Mary Jo Neill,25,268003950,9,11,10,45.7103
+63rd,Orange Park High School,Eric Denfeld,25,292001152,11,19,0,45.7103
+64th,Stanton College Preparatory School,"",25,296001051,10,15,5,45.7103
+65th,Gainesville High School,Christina Oakes,23,268010852,7,5,18,45.0022
+66th,Spruce Creek,Skylar Stolte,22,267006452,7,6,17,44.6482
+67th,Eastside,Gloria Kann,22,280002250,6,2,22,44.6482
+68th,Leesburg High School,Miguel Fortuno,21,287001451,6,3,21,44.2942
+69th,Flagler Palm Coast High School,Jazmine Virzi,21,221004850,7,7,16,44.2942
+70th,Nease High School,Schyane Fox,21,290001252,7,7,16,44.2942
+71st,Nease High School,Ronak Kundalia,21,290000552,8,11,11,44.2942
+72nd,Gainesville High School,Casey Rapp,20,268003752,5,0,25,43.9401
+73rd,Spruce Creek,Danielly Charshee,18,267006252,5,2,23,43.2321
+74th,Orange Park High School,Joshua Miller,18,292000552,6,6,18,43.2321
+75th,Nease High School,Drashti Brahmbhatt,16,290000152,5,4,21,42.5240
+76th,Leesburg High School,Tucker Smith,15,287002552,9,21,0,42.1700
+77th,Orange Park High School,Kristine Locke,15,292002651,9,21,0,42.1700
+78th,Leesburg High School,Kassidi Sikes,15,287002050,9,21,0,42.1700
+79th,Orange Park High School,Ryan Moore,14,292000251,4,2,24,41.8159
+80th,Oak Hall,KEVIN JOHNS,14,249001751,4,2,24,41.8159
+81st,Flagler Palm Coast High School,Chloe Carll,13,221004051,6,11,13,41.4619
+82nd,Eastside,Chanakya Bhosale,13,280000750,4,3,23,41.4619
+83rd,Eastside,Kyle Rubin,13,280003552,5,7,18,41.4619
+84th,Spruce Creek,Azanta Thakur,13,267006550,8,19,3,41.4619
+85th,Orange Park High School,Jeffthe Fenelon,13,292000651,4,3,23,41.4619
+86th,Oak Hall,ALEC SHARKEY,12,249002251,4,4,22,41.1078
+87th,Leesburg High School,Morgan Rice,12,287001952,4,4,22,41.1078
+88th,Flagler Palm Coast High School,William Gibbs,11,221003052,4,5,21,40.7538
+89th,Leesburg High School,Ruth Wright,10,287001751,8,22,0,40.3998
+90th,Eastside,Alice Hou,9,280001750,3,3,24,40.0457
+91st,Eastside,Sangeun Lee,8,280002950,4,8,18,39.6917
+92nd,Flagler Palm Coast High School,Erin Verdi,8,221004450,3,4,23,39.6917
+93rd,Flagler Palm Coast High School,Zoe Wolfe,8,221005451,3,4,23,39.6917
+94th,Eastside,Carlo Romo,7,280004850,5,13,12,39.3377
+95th,Eastside,Kate Warren,6,280005850,3,6,21,38.9836
+96th,Orange Park High School,Amber McKinney,6,292001552,3,6,21,38.9836
+97th,Leesburg High School,Brooke Rountree,5,287001652,7,23,0,38.6296
+98th,Leesburg High School,Colten Northcott,5,287002250,3,7,20,38.6296
+99th,Orange Park High School,Destiny Hartin,3,292001351,4,13,13,37.9215
+100th,Flagler Palm Coast High School,Anica Haire,0,221000952,1,4,25,36.8594
+101st,Leesburg High School,Ashley Recker,0,287001852,6,24,0,36.8594
+102nd,Leesburg High School,Marcell Gilliam,0,287000751,6,24,0,36.8594
+103rd,Leesburg High School,Colton Wilson,-5,287002151,5,25,0,35.0892

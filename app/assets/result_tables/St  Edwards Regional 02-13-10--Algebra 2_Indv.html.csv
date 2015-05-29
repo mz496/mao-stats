@@ -1,0 +1,110 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),ALI.MUSA JAFFER,110,341000331,28,2,0,77.0241
+2nd,Vero Beach,DANIEL BOLING,101,372002431,26,3,1,73.7107
+3rd,Seminole (Seminole),JOHN LI,87,341005731,23,5,2,68.5565
+4th,Vero Beach,HEATHER FREDRICKSON,85,372009631,22,3,5,67.8202
+5th,Seminole (Seminole),TYLER COUGHLIN,84,341001731,22,4,4,67.4520
+6th,St Edward's,ETHAN KLEIN,84,374030831,22,4,4,67.4520
+7th,Vero Beach,MATTHEW SUSI,83,372010530,21,1,8,67.0839
+8th,Vero Beach,LEO CURY,82,372009432,21,2,7,66.7157
+9th,Vero Beach,SAMI HASHMI,79,372004732,21,5,4,65.6112
+10th,Vero Beach,ZOEY NEUDECK,77,372008731,20,3,7,64.8749
+11th,Hagerty High School,Eric Anschuetz,77,310000331,21,7,2,64.8749
+12th,Vero Beach,TAD PALMER,76,372010632,21,8,1,64.5068
+13th,Vero Beach,SAMUEL MCCOY,75,372010430,19,1,10,64.1386
+14th,Seminole (Seminole),PHONG NGUYEN,74,341001131,19,2,9,63.7704
+15th,Seminole (Seminole),ELIZABETH SULT.CASE,74,341002830,19,2,9,63.7704
+16th,St Edward's,ZHITAO LIU,72,374031531,19,4,7,63.0341
+17th,Vero Beach,EMILY ASTROM,72,372009331,19,4,7,63.0341
+18th,Vero Beach,COLIN MACKAY,70,372006732,18,2,10,62.2978
+19th,Seminole (Seminole),SNIGDHA DAS,70,341015732,18,2,10,62.2978
+20th,Seminole (Seminole),ARLEY RUSKIN,64,341002432,18,8,4,60.0889
+21st,Vero Beach,ANDREW HOLDEN,60,372009730,16,4,10,58.6162
+22nd,Seminole (Seminole),TATIANA ANTHONY,58,341014932,16,6,8,57.8799
+23rd,Vero Beach,EDWARD EDDOWES,58,372009530,16,6,8,57.8799
+24th,Hagerty High School,Dean Edun,58,310001831,15,2,13,57.8799
+25th,Seminole (Seminole),DANIEL SWANN,57,341000930,15,3,12,57.5118
+26th,Hagerty High School,Jeet Chakravorty,53,310001131,15,7,8,56.0391
+27th,Vero Beach,AMIRA ALKHATIB,52,372001730,13,0,17,55.6710
+28th,Bayside,Michael Diotte,52,303009330,14,4,12,55.6710
+29th,Oviedo,Kevin Jones,52,377003631,14,4,12,55.6710
+30th,Seminole (Seminole),FREDERICK HODGIN,51,341016530,14,5,11,55.3028
+31st,Seminole (Seminole),MICHELLE ZHANG,50,341006232,14,6,10,54.9347
+32nd,West Shore,Joseph Katz,49,393004732,13,3,14,54.5665
+33rd,West Shore,Theopeste Kerelos,49,393003531,13,3,14,54.5665
+34th,Seminole (Seminole),MANSOO KIM,48,341013330,13,4,13,54.1983
+35th,Seminole (Seminole),LUCA ROSIGNOLI,47,341005930,13,5,12,53.8302
+36th,Oviedo,Mitchell Calloway,47,377001231,13,5,12,53.8302
+37th,St Edward's,EMILY SALVADOR,46,374031231,13,6,11,53.4620
+38th,Hagerty High School,Chang-Hyun Choi,44,310001231,12,4,14,52.7257
+39th,St Edward's,JORDAN CANEVARI,43,374030332,12,5,13,52.3576
+40th,West Shore,Michelle Chin,42,393003932,12,6,12,51.9894
+41st,West Shore,Ian Chan,41,393001531,11,3,16,51.6212
+42nd,Bayside,Elysse Rantanen,41,303019331,11,3,16,51.6212
+43rd,Vero Beach,TAYLOR NAROZANICK,41,372007830,11,3,16,51.6212
+44th,Lake Howell,Toran Hylton,41,391001131,12,7,11,51.6212
+45th,Suncoast Comm,Michelle Chang,41,327001032,12,7,11,51.6212
+46th,Bayside,Kaylee Clark,40,303007331,10,0,20,51.2531
+47th,Bayside,Lidia Potapova,40,303018332,11,4,15,51.2531
+48th,Vero Beach,REBECCA SCHEIDT,40,372010830,12,8,10,51.2531
+49th,Palm Beach Gardens,Marie Isidort,37,373000831,11,7,12,50.1486
+50th,West Shore,Callie Heuser,37,393001231,10,3,17,50.1486
+51st,West Shore,Krunal Patel,37,393003730,11,7,12,50.1486
+52nd,Vero Beach,TYLER ORCUTT,36,372008830,11,8,11,49.7805
+53rd,West Shore,Aalekhya Tenali,36,393003832,11,8,11,49.7805
+54th,West Shore,Kaylee McCormack,35,393001431,10,5,15,49.4123
+55th,West Shore,Sanju Vardhan,35,393001632,12,13,5,49.4123
+56th,St Edward's,ANMOL PATEL,33,374031032,9,3,18,48.6760
+57th,St Edward's,ABBY MATTERN,33,374030932,9,3,18,48.6760
+58th,Sebastian River,Eugene Wolff,31,314002731,10,9,11,47.9397
+59th,Lincoln Park Academy,CIMONE WATSON,30,396000431,10,10,10,47.5715
+60th,Seminole (Seminole),PRAKASH SUNDAR,29,341003530,9,7,14,47.2034
+61st,Hagerty High School,Paulina Le,28,310003932,9,8,13,46.8352
+62nd,St Edward's,DEE HUMPHREY,28,374030730,10,12,8,46.8352
+63rd,Lincoln Park Academy,Colleen Sanders,28,396000031,9,8,13,46.8352
+64th,Bayside,Justin Pavao,27,303016332,7,1,22,46.4670
+65th,Suncoast Comm,Michael Law,27,327008531,9,9,12,46.4670
+66th,Oviedo,Megan Mullally,24,377000031,8,8,14,45.3626
+67th,Suncoast Comm,Hassan Mohaideen,23,327008931,6,1,23,44.9944
+68th,Suncoast Comm,Michael Ollukaren,23,327009131,8,9,13,44.9944
+69th,St Edward's,LARA DRONDOSKI,23,374030630,8,9,13,44.9944
+70th,Bayside,Janee O'Keefe,22,303015330,6,2,22,44.6262
+71st,St Edward's,SADHANA CHALASANI,22,374030531,6,2,22,44.6262
+72nd,Seminole (Seminole),ANITA NACEA,21,341017430,6,3,21,44.2581
+73rd,Hagerty High School,Devon Britt,21,310000832,6,3,21,44.2581
+74th,Sebastian River,Brooke Evans,20,314000731,8,12,10,43.8899
+75th,Palm Beach Gardens,Vicky Li,20,373001531,8,12,10,43.8899
+76th,Sebastian River,Sidney Golliher,20,314002831,10,20,0,43.8899
+77th,Palm Beach Gardens,Treanna Lawrence,20,373001232,10,20,0,43.8899
+78th,Hagerty High School,Brent Minnis,19,310004532,7,9,14,43.5218
+79th,Bayside,Kelsey Tousignant,17,303022331,5,3,22,42.7855
+80th,Oviedo,Sarha Hernandez,17,377000131,6,7,17,42.7855
+81st,Hagerty High School,Jonathan Le,17,310003832,6,7,17,42.7855
+82nd,Sebastian River,Leslie Brocksmith,15,314000531,8,17,5,42.0491
+83rd,Lake Howell,Corben Hogan,15,391000431,8,17,5,42.0491
+84th,Bayside,William Gordon,14,303001030,5,6,19,41.6810
+85th,Lake Howell,Chris Carey,14,391000331,6,10,14,41.6810
+86th,Lincoln Park Academy,Sebastian Torrente,13,396002031,4,3,23,41.3128
+87th,Palm Beach Gardens,Marcus Isidort,13,373000932,5,7,18,41.3128
+88th,Lincoln Park Academy,Jeremie JeanPhilippe,11,396000832,5,9,16,40.5765
+89th,Lincoln Park Academy,Sabah Pirani,11,396000631,4,5,21,40.5765
+90th,Lake Howell,Ricardo Diaz,11,391001231,7,17,6,40.5765
+91st,Bayside,Michael Allton,9,303004330,4,7,19,39.8402
+92nd,Hagerty High School,Rachel Nowotny,9,310004730,3,3,24,39.8402
+93rd,Palm Beach Gardens,Julie Pinquiere,9,373001331,4,7,19,39.8402
+94th,Palm Beach Gardens,Patricia Dauphin,7,373001432,5,13,12,39.1039
+95th,Bayside,Michael Bonaiuto,6,303005332,2,2,26,38.7357
+96th,Suncoast Comm,Jessica Chui,6,327008332,3,6,21,38.7357
+97th,Bayside,Sean Justice,6,303011331,4,10,16,38.7357
+98th,Suncoast Comm,Daniel Mcleod,5,327008831,3,7,20,38.3676
+99th,Bayside,Robert Borrero,5,303006332,2,3,25,38.3676
+100th,Palm Beach Gardens,Sally Jaimes,5,373001031,3,7,20,38.3676
+101st,Bayside,Robert Rogulski,4,303020330,2,4,24,37.9994
+102nd,Bayside,Joshua Schmidt,1,303021330,1,3,26,36.8949
+103rd,Lake Howell,Denise Montgomery,0,391001032,2,8,20,36.5268
+104th,Suncoast Comm,Christian Gattereau,0,327009432,3,12,15,36.5268
+105th,Lake Howell,Emma Parker,0,391000632,3,12,15,36.5268
+106th,Bayside,Paige Meckley,-1,303014330,1,5,24,36.1586
+107th,Bayside,Nicholas Poloski,-1,303017330,1,5,24,36.1586
+108th,St Edward's,LEYLA TETTAMANTI,-4,374031432,2,12,16,35.0542
+109th,Bayside,Jacob Clary,-7,303008330,1,11,18,33.9497

@@ -1,0 +1,130 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Lisa Lu,120,295005550,30,0,0,72.3248
+1st,Buchholz,Vincent Mei,120,295004450,30,0,0,72.3248
+3rd,American Heritage (Plantation),Francisco Rivera,115,506006150,29,1,0,70.8192
+4th,American Heritage (Plantation),Trevor Birenbaum,115,506005450,29,1,0,70.8192
+5th,Buchholz,Gena Kim,111,295003340,28,1,1,69.6147
+6th,Buchholz,Michael Wong,110,295004050,28,2,0,69.3136
+7th,Buchholz,Jason Ai,110,295004550,28,2,0,69.3136
+8th,Buchholz,Timmy Xie,110,295005950,28,2,0,69.3136
+9th,American Heritage (Plantation),Maxwell Gu,110,506003340,28,2,0,69.3136
+10th,Buchholz,Victor Lin,107,295005050,27,1,2,68.4103
+11th,Buchholz,Beverly Ge,107,295000650,27,1,2,68.4103
+12th,Buchholz,Otto Piramuthu,97,295002140,25,3,2,65.3991
+13th,American Heritage (Plantation),Soryan Kumar,96,506004340,25,4,1,65.0979
+14th,Buchholz,Soomin Cho,96,295003250,25,4,1,65.0979
+15th,Cypress Bay,Shawn Hatchwell,94,588006240,24,2,4,64.4957
+16th,Buchholz,Noah Cook,90,295001640,24,6,0,63.2912
+17th,Buchholz,Spencer Douglas,90,295002350,24,6,0,63.2912
+18th,Buchholz,Reva Ranka,90,295003850,24,6,0,63.2912
+19th,Berkeley Prep,Jack Graham,86,405004340,23,6,1,62.0868
+20th,Buchholz,Thor Stead,86,295004140,23,6,1,62.0868
+21st,Buchholz,Jake Jeong,85,295003640,23,7,0,61.7856
+22nd,Ransom Everglades,Timothy O'Brien,84,519000850,22,4,4,61.4845
+23rd,Cypress Bay,Mingyin Zhu,83,588015640,22,5,3,61.1834
+24th,Lawton Chiles High School,Achyuta Iyengar,82,181000840,22,6,2,60.8823
+25th,American Heritage (Plantation),Kishan Patel,81,506002240,22,7,1,60.5812
+26th,Western,Nicolas Pena,80,573001050,22,8,0,60.2801
+27th,Palm Harbor Univ,Chaitanya Guthikonda,75,413001850,21,9,0,58.7745
+28th,American Heritage (Plantation),Couper Leo,75,506009440,21,9,0,58.7745
+29th,Miami Springs,TIMOTHY MILLS,74,582002450,20,6,4,58.4733
+30th,Lawton Chiles High School,Nick Young,73,181004350,19,3,8,58.1722
+31st,Fort Myers,Punith Chilakala,73,423000450,19,3,8,58.1722
+32nd,Buchholz,Jason Zhang,73,295003141,20,7,3,58.1722
+33rd,Cypress Bay,Kevin Winzey,72,588015440,19,4,7,57.8711
+34th,American Heritage (Plantation),Angela Liu,70,506008340,20,10,0,57.2689
+35th,Buchholz,Bobby Wong,69,295001940,19,7,4,56.9677
+36th,Vero Beach,MATT MCCOY,66,372003150,18,6,6,56.0644
+37th,Fort Myers,Vishnu Patel,65,423000250,19,11,0,55.7633
+38th,Buchholz,Sunny Baik,63,295001440,17,5,8,55.1610
+39th,Gainesville High School,Mary Jo Neill,59,268003950,16,5,9,53.9566
+40th,Lawton Chiles High School,Andrew Dang,59,181002850,16,5,9,53.9566
+41st,Community School of Naples,Bryce Morrow,55,562005950,17,13,0,52.7521
+42nd,Buchholz,Leon Shi,54,295005140,15,6,9,52.4510
+43rd,Palm Harbor Univ,Ben Sultan,54,413008950,14,2,14,52.4510
+44th,Rickards High School,Roehl  Reyes,54,140002240,15,6,9,52.4510
+45th,Lawton Chiles High School,Doreen Yang,53,181004150,14,3,13,52.1498
+46th,American Heritage - Boca/Delray,Jiayu (Helen) Huang,53,526006740,15,7,8,52.1498
+47th,Miami Springs,BRENT CATES,50,582000050,14,6,10,51.2465
+48th,Doral Academy High,Jose Santos,47,537501740,14,9,7,50.3431
+49th,Berkeley Prep,Maya Gandhi,45,405004440,12,3,15,49.7409
+50th,Lawton Chiles High School,Arya Okten,45,181007050,14,11,5,49.7409
+51st,Doral Academy High,Jesus Nunez,44,537501640,13,8,9,49.4398
+52nd,Cypress Bay,Eli Nir,44,588014340,13,8,9,49.4398
+53rd,Palm Harbor Univ,Gabriel Soliman,43,413005750,12,5,13,49.1387
+54th,Fort Myers,Stefan Longobardi,43,423004250,12,5,13,49.1387
+55th,Rickards High School,Shardul  Heda,43,140002040,12,5,13,49.1387
+56th,Orlando Science Charter  High School,Reynardo Jittan,43,348000151,14,13,3,49.1387
+57th,Sickles,Miguel Faria,42,479010140,12,6,12,48.8375
+58th,Cypress Bay,Gianfranco deCastro,42,588012440,13,10,7,48.8375
+59th,Doral Academy High,Ana Guimaraes,42,537501440,12,6,12,48.8375
+60th,Eastside,Kyle Rubin,40,280003552,11,4,15,48.2353
+61st,Lawton Chiles High School,Tiffany Lee,40,181001240,14,16,0,48.2353
+62nd,Vero Beach,MIGUEL VALLEJO,39,372006440,11,5,14,47.9342
+63rd,Sickles,Kyle Taylor,39,479009240,12,9,9,47.9342
+64th,Ferguson,TERESA CHEUNG,38,507002250,11,6,13,47.6331
+65th,Eastside,Ike Gugel,38,280006440,11,6,13,47.6331
+66th,Fort Myers,Maxwell Norleans,38,423004050,10,2,18,47.6331
+67th,Cypress Bay,Adriana Sasso,37,588014840,10,3,17,47.3319
+68th,Palm Harbor Univ,Louis Alvares,37,413000140,11,7,12,47.3319
+69th,Vero Beach,EMILY MCCAIN,36,372005540,11,8,11,47.0308
+70th,Ransom Everglades,Dylan Demello,36,519003940,12,12,6,47.0308
+71st,Eastside,Nesta OseiAgyei,35,280002040,10,5,15,46.7297
+72nd,Berkeley Prep,Katie Freedy,35,405001240,10,5,15,46.7297
+73rd,Palm Harbor Univ,Jackie Leung,35,413008550,9,1,20,46.7297
+74th,Vero Beach,CHLOE SCHLITT,34,372006140,9,2,19,46.4286
+75th,Palm Harbor Univ,Alexander Rumak,34,413007550,9,2,19,46.4286
+76th,American Heritage - Boca/Delray,Jada Campbell,32,526005240,10,8,12,45.8264
+77th,Doral Academy High,Liliet Sosa,31,537505040,9,5,16,45.5252
+78th,Lawton Chiles High School,Stacy Wang,31,181005550,9,5,16,45.5252
+79th,Rickards High School,Wenxin  Song,30,140001440,12,18,0,45.2241
+80th,Fort Myers,Jash Patel,29,423001440,8,3,19,44.9230
+81st,American Heritage - Boca/Delray,Alexander Chea,28,526007450,8,4,18,44.6219
+82nd,Fort Myers,Adrian Dougherty,28,423002540,8,4,18,44.6219
+83rd,Cypress Bay,Spencer Comora,27,588012340,8,5,17,44.3208
+84th,Eastside,Justin Liu,26,280004540,7,2,21,44.0196
+85th,Palm Harbor Univ,Amit Som,26,413012540,11,18,1,44.0196
+86th,Palm Harbor Univ,Sami Soliman,25,413012440,11,19,0,43.7185
+87th,Cypress Bay,Daniel Gonzalez,25,588013040,8,7,15,43.7185
+88th,Robinson,Arianna Krinos,25,458003750,8,7,15,43.7185
+89th,Palm Harbor Univ,Andrew Lo,25,413002750,11,19,0,43.7185
+90th,Ransom Everglades,Christina Lindsay,23,519000340,7,5,18,43.1163
+91st,Lawton Chiles High School,Thomas LaJoie,22,181004750,6,2,22,42.8152
+92nd,Shorecrest Prep,Sidney Broome,21,451000440,6,3,21,42.5141
+93rd,Vero Beach,RYAN NIEDZ,20,372005940,6,4,20,42.2129
+94th,Ferguson,RAMON COLINDRES,20,507001440,6,4,20,42.2129
+95th,Gainesville High School,Casey Rapp,19,268003750,5,1,24,41.9118
+96th,Doral Academy High,Alejandra Querales,19,537503940,6,5,19,41.9118
+97th,Robinson,Joshua Richardson,19,458007350,5,1,24,41.9118
+98th,Vero Beach,KYLE DARRISAW,18,372002540,5,2,23,41.6107
+99th,Ransom Everglades,Chloe Namias,18,519000540,6,6,18,41.6107
+100th,Wharton,Andrew Kondrick,17,485002842,5,3,22,41.3096
+101st,Hillsborough,Phillip Nguyen,17,428050650,6,7,17,41.3096
+102nd,Sickles,Jacob Anliker,17,479001040,5,3,22,41.3096
+103rd,Ransom Everglades,Lauren Simkovic,16,519003340,5,4,21,41.0085
+104th,American Heritage - Boca/Delray,Alexander Dougherty,16,526008250,5,4,21,41.0085
+105th,Ransom Everglades,Allison Siegel,16,519003740,5,4,21,41.0085
+106th,Berkeley Prep,Alec Navori,16,405004840,6,8,16,41.0085
+107th,Palm Harbor Univ,Davit Hovhannisyan,16,413004140,7,12,11,41.0085
+108th,Palm Harbor Univ,Michael Lee,15,413007040,7,13,10,40.7073
+109th,Ferguson,SHIRLY LY,15,507008750,4,1,25,40.7073
+110th,Miami Springs,DAVID PEREZ,15,582001750,4,1,25,40.7073
+111th,Berkeley Prep,Jimmy Goodman,14,405005041,5,6,19,40.4062
+112th,Palm Harbor Univ,Vivek Atit,13,413000640,4,3,23,40.1051
+113th,Ferguson,ANN-KATRIN VALENCIA,13,507010240,4,3,23,40.1051
+114th,Hillsborough,Kathleen Tan,13,428061940,6,11,13,40.1051
+115th,Vero Beach,SHERMEEN RAZA,12,372003950,4,4,22,39.8040
+116th,Buchholz,Peter Sun,10,295002450,4,6,20,39.2017
+117th,Middleton,Sofia Starkey,10,468001142,3,2,25,39.2017
+118th,Ransom Everglades,Tatiana Pereira,9,519002740,3,3,24,38.9006
+119th,Berkeley Prep,Abhi Bukkapatnam,9,405003150,4,7,19,38.9006
+120th,Middleton,Vonterio Duncan,9,468000642,3,3,24,38.9006
+121st,Vero Beach,JEREMY WYLAND,8,372006950,4,8,18,38.5995
+122nd,Fort Myers,Stephen Rice,8,423001150,3,4,23,38.5995
+123rd,Sickles,Diego Antolinez,8,479009040,3,4,23,38.5995
+124th,Ferguson,CARLA SANCHEZ-NOYA,7,507004040,2,1,27,38.2984
+125th,Eastside,Daniel Ha,7,280006540,3,5,22,38.2984
+126th,Vero Beach,CHARLES PASCALE,5,372003550,7,23,0,37.6962
+127th,Ferguson,HELEN CHENG,5,507007040,2,3,25,37.6962
+128th,Palm Harbor Univ,Jensen Lawrence,-5,413008751,2,13,15,34.6850
+129th,Ransom Everglades,Francisco Cabrera,-10,519001640,4,26,0,33.1794

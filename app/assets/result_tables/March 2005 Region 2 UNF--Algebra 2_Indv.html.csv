@@ -1,0 +1,63 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Middle,Andy Wu,90,201100231,23,2,5,78.5455
+2nd,Lincoln Middle,Daniel Zeng,84,201100431,22,4,4,75.8009
+3rd,Lincoln Middle,Madison Kang,74,201101231,19,2,9,71.2266
+4th,Buchholz,Daniel Samraj,74,295000231,20,6,4,71.2266
+5th,Buchholz,Brad Benton,68,295006231,18,4,8,68.4819
+6th,Lincoln Middle,Tej Stead,59,201100531,16,5,9,64.3650
+7th,Buchholz,Gavin Gamble,57,295000931,15,3,12,63.4501
+8th,Buchholz,DJ Hranicky,55,295002031,15,5,10,62.5353
+9th,Nease High School,Gerald Huang,54,290003131,14,2,14,62.0778
+10th,Lincoln Middle,Daniel Chen,46,201100932,13,6,11,58.4183
+11th,Gainesville High School,Eliot Chalfin-Smith,45,268017030,15,15,0,57.9609
+12th,Lincoln Middle,Eric Song,44,201102032,12,4,14,57.5034
+13th,Nease High School,Yu Fei Han,44,290003231,13,8,9,57.5034
+14th,Gainesville High School,Emmett Kendall,42,268006531,12,6,12,56.5886
+15th,Howard Bishop Middle,Jason AshkanaziCarnegie,42,208100631,13,10,7,56.5886
+16th,Nease High School,Jonathan Valyou,40,290003031,11,4,15,55.6737
+17th,Westwood Middle,Sage Bachus,39,212000831,11,5,14,55.2163
+18th,Nease High School,Jonathan Lemos,35,290003731,10,5,15,53.3865
+19th,Eastside,Rena Cohen,33,280006031,10,7,13,52.4716
+20th,Flagler Palm Coast High School,Daniel Weinberger,32,221002831,10,8,12,52.0142
+21st,Gainesville High School,Anousha Peters,30,268014731,9,6,15,51.0993
+22nd,Stanton College Preparatory School,Ji Jung,29,296003131,9,7,14,50.6419
+23rd,Gainesville High School,Ellie Scott,28,268014032,8,4,18,50.1845
+24th,Nease High School,Aneesh Shinkre,28,290003432,7,0,23,50.1845
+25th,Gainesville High School,Jack Broling,28,268017131,9,8,13,50.1845
+26th,Lincoln Middle,Annie Ho,27,201100332,8,5,17,49.7270
+27th,Gainesville High School,Zachary Anderson,25,268014132,8,7,15,48.8121
+28th,Oak Hall,NOAH HARRIS,25,249002031,7,3,20,48.8121
+29th,Gainesville High School,Forrest Collins,25,268001731,8,7,15,48.8121
+30th,Gainesville High School,Rachel Stein,24,268003230,8,8,14,48.3547
+31st,Stanton College Preparatory School,Emily Davey,23,296000931,8,9,13,47.8973
+32nd,Flagler Palm Coast High School,Augusto Deleon III,21,221001231,6,3,21,46.9824
+33rd,Gainesville High School,Anthony Becker,21,268016930,7,7,16,46.9824
+34th,Gainesville High School,Shradha Arun,21,268013930,7,7,16,46.9824
+35th,Eastside,Alan Dai,20,280005231,6,4,20,46.5250
+36th,Oak Hall,GRAHAM HARDCASTLE,20,249004831,6,4,20,46.5250
+37th,Gainesville High School,Tyler McNamee,18,268004630,8,14,8,45.6101
+38th,Gainesville High School,Danielle Ivanov,16,268013832,6,8,16,44.6952
+39th,Buchholz,Minsoo Kim,15,295000630,5,5,20,44.2378
+40th,Nease High School,Katie Dykstra,15,290002932,5,5,20,44.2378
+41st,Gainesville High School,Trey Kay,15,268015832,9,21,0,44.2378
+42nd,Gainesville High School,Ryan Lauzardo,15,268007430,5,5,20,44.2378
+43rd,Nease High School,Ashwin Mahesh,14,290003532,5,6,19,43.7803
+44th,Gainesville High School,Tyler Winkel,12,268000030,4,4,22,42.8655
+45th,Oak Hall,TALIA CARLSON,12,249001831,5,8,17,42.8655
+46th,Oak Hall,MICHAEL FORTNER,12,249001431,4,4,22,42.8655
+47th,Gainesville High School,Tommy Davis,12,268013130,8,20,2,42.8655
+48th,Nease High School,Galal Lasheen,11,290003832,4,5,21,42.4080
+49th,Gainesville High School,Sarina Steffen,11,268005030,4,5,21,42.4080
+50th,Flagler Palm Coast High School,Alexandra Feldman,11,221003331,4,5,21,42.4080
+51st,Orange Park High School,Taylor Coates,11,292003431,5,9,16,42.4080
+52nd,Stanton College Preparatory School,Simin Modak,10,296004931,4,6,20,41.9506
+53rd,Gainesville High School,Reece Ulmer,10,268003330,8,22,0,41.9506
+54th,Orange Park High School,Duane Brooks,10,292003331,8,22,0,41.9506
+55th,Flagler Palm Coast High School,Andrew Secunda,9,221004731,5,11,14,41.4931
+56th,Gainesville High School,Alex Meyerson,9,268007230,3,3,24,41.4931
+57th,Gainesville High School,Beatrice Dain,6,268007130,3,6,21,40.1208
+58th,Gainesville High School,Courtney Stanford,5,268010530,7,23,0,39.6634
+59th,Stanton College Preparatory School,"",4,296002031,5,16,9,39.2060
+60th,Eastside,YeWon Lee,4,280006131,3,8,19,39.2060
+61st,Gainesville High School,Jacob Kolb,-2,268011730,2,10,18,36.4613
+62nd,Gainesville High School,Nico Samarkos,-6,268000230,0,6,24,34.6316

@@ -1,0 +1,75 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Eastside,Alex Choi,110,2800231,28,2,0,72.3650
+2nd,Buchholz,Lucy Zhong,108,2950234,27,0,3,71.6878
+3rd,Buchholz,James Tan,107,2950229,27,1,2,71.3492
+4th,Rickards,Ellen Fu,99,1400209,25,1,4,68.6405
+5th,American Heritage (Plantation),James Peng,97,5060209,25,3,2,67.9633
+6th,Middleton,Salim Hyder,97,4680101,25,3,2,67.9633
+7th,Stoneman Douglas,Anthony Fu,94,5320203,24,2,4,66.9476
+8th,Vero Beach,Robyn Taylor,94,3720280,24,2,4,66.9476
+9th,Buchholz,Kyle Carlisle,89,2950223,23,3,4,65.2547
+10th,Buchholz,Danny Duncanson,86,2950224,22,2,6,64.2389
+11th,Cypress Bay,Grant Ho,85,5880225,22,3,5,63.9003
+12th,Eastside,Annie Ding,80,2800234,21,4,5,62.2074
+13th,Fort Myers,Justin Summerville,78,4230203,20,2,8,61.5302
+14th,Miami Springs,Mayra Reyes,74,5820252,19,2,9,60.1759
+15th,Eastside,Joon Kim,72,2800244,19,4,7,59.4987
+16th,Middleton,Omar Garcia,67,4680201,19,9,2,57.8058
+17th,Lincoln,Chuanmao Wang,65,1090275,19,11,0,57.1286
+18th,Leon,Jason Fisher,65,1900202,18,7,5,57.1286
+19th,Berkeley Prep,Barry Brudny,63,4050213,17,5,8,56.4514
+20th,Vero Beach,Julia Morris,60,3720286,17,8,5,55.4357
+21st,Freedom,Thomas Dombrowski,59,4660201,16,5,9,55.0971
+22nd,Deerfield Bch,Abbey Bethel,57,5770205,15,3,12,54.4199
+23rd,Rickards,Esha Atolia,55,1400213,16,9,5,53.7427
+24th,American Heritage (Plantation),Alex Torres,55,5060211,17,13,0,53.7427
+25th,St Edward's,Jarred Spear,53,3740246,14,3,13,53.0656
+26th,Seminole (Seminole),Ruchi Shukla,52,3410136,15,8,7,52.7270
+27th,H. B. Plant,Max Goplerud,51,4270243,14,5,11,52.3884
+28th,Palm Harbor Univ,Jeremy Sparks,51,4130252,14,5,11,52.3884
+29th,Spruce Creek,Matthew Kindy,50,2670240,16,14,0,52.0498
+30th,Cape Coral,Zohair Zaidi,48,4180230,13,4,13,51.3726
+31st,Palm Harbor Univ,Samantha Griffith,47,4130217,12,1,17,51.0341
+32nd,St Edward's,Joey Cataldo,46,3740242,13,6,11,50.6955
+33rd,Deerfield Bch,Mauricio Villa,41,5770245,11,3,16,49.0025
+34th,Seminole (Seminole),Olga Rocha,41,3410220,11,3,16,49.0025
+35th,Naples,Jeff Marvel,40,5450241,12,8,10,48.6640
+36th,Palm Harbor Univ,Christine Ho,39,4130224,11,5,14,48.3254
+37th,Lake Mary,Alex Friedman,37,3080247,11,7,12,47.6482
+38th,Hillsborough,Sonia Chheda,35,4280294,9,1,20,46.9710
+39th,Deerfield Bch,Paula Pluchino,35,5770235,9,1,20,46.9710
+40th,Hillsborough,Paige Youngman,35,4280291,10,5,15,46.9710
+41st,Suncoast Comm,Anurag Komaravelli,35,3270209,10,5,15,46.9710
+42nd,Community Sch Naples,Gabrielle Montecalvo,35,5620237,10,5,15,46.9710
+43rd,Lawton Chiles High School,Brianna Rosier,33,1810236,12,15,3,46.2939
+44th,Deerfield Bch,Sean Moya,32,5770231,9,4,17,45.9553
+45th,Spruce Creek,Joseph Elsakr,32,2670235,9,4,17,45.9553
+46th,Cape Coral,Mitchell Hoke,30,4180225,9,6,15,45.2781
+47th,Community Sch Naples,Alex Falk,30,5620232,12,18,0,45.2781
+48th,Coral Glades,Jessica Leuchter,29,5280261,8,3,19,44.9395
+49th,American Heritage (Plantation),Carmel Barrau,29,5060200,11,15,4,44.9395
+50th,Rickards,Nishant Patel,25,1400207,7,3,20,43.5852
+51st,Miami Springs,Kristine Fernandez,24,5820210,6,0,24,43.2466
+52nd,Durant,Ariesha Lucas,24,4750216,7,4,19,43.2466
+53rd,Cape Coral,James Sparkman,23,4180229,9,13,8,42.9080
+54th,JP Taravella,Marissa Kaslof,22,5330234,7,6,17,42.5694
+55th,Hillsborough,Gabriel Torres,22,4280206,8,10,12,42.5694
+56th,Miramar H. S.,Deepa Luka,19,5030278,6,5,19,41.5537
+57th,Deerfield Bch,Casey Duanjick,19,5770211,6,5,19,41.5537
+58th,Naples,Agnieszka Freund,18,5450233,7,10,13,41.2151
+59th,Miramar H. S.,Loan Van,18,5030210,7,10,13,41.2151
+60th,Miami Sunset,Gabriel Fernandez,17,5440213,5,3,22,40.8765
+61st,Lawton Chiles High School,Sonal Sathe,16,1810238,7,12,11,40.5379
+62nd,Naples,Carlos Calixtro,16,5450230,9,20,1,40.5379
+63rd,Miami Sunset,Roger Sierra,15,5440240,5,5,20,40.1993
+64th,Seminole (Seminole),Lauren Hundley,15,3410208,4,1,25,40.1993
+65th,Lawton Chiles High School,Diana Zheng,13,1810245,4,3,23,39.5221
+66th,Canterbury (Lee),Sarah-marie Hopf,12,4110216,6,12,12,39.1836
+67th,Ferguson,Cristel Oropesa,12,5070210,5,8,17,39.1836
+68th,Flanagan,Monique Shotande,10,5910220,4,6,20,38.5064
+69th,Canterbury (Lee),Hunter Smith,7,4110217,3,5,22,37.4906
+70th,Miami Sunset,Nathalie Bermudez,5,5440203,3,7,20,36.8135
+71st,Miami Springs,Adelyn Milian,1,5820230,2,7,21,35.4591
+72nd,Seminole (Seminole),Jamie Wilson,1,3410140,1,3,26,35.4591
+73rd,Freedom,Andrew Mortellaro,0,4660207,6,24,0,35.1205
+74th,American Heritage (Plantation),Charles Lu,-4,5060208,5,24,1,33.7662

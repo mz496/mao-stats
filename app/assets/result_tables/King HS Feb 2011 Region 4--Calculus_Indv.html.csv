@@ -1,0 +1,145 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Palm Harbor Univ,Sitharthan Sekar,111,413017651,28,1,1,73.1047
+2nd,Shorecrest Prep,Kitae Kim,111,451002850,28,1,1,73.1047
+3rd,Palm Harbor Univ,James Tian,110,413019051,28,2,0,72.7324
+4th,Hillsborough,GRAHAM JOHNSON,104,428020251,26,0,4,70.4987
+5th,Middleton,Katie Gertz,103,468000251,26,1,3,70.1265
+6th,Palm Harbor Univ,Ambika Anand,101,413000651,26,3,1,69.3819
+7th,St Petersburg,Preet Patel,100,497004451,26,4,0,69.0096
+8th,Robinson,ERIN SELIGSOHN,99,458000751,25,1,4,68.6373
+9th,King,KUN CAO,91,435002151,24,5,1,65.6591
+10th,Berkeley Prep,Adarsh Dave,91,405008552,24,5,1,65.6591
+11th,Freedom (Tampa),Alex Coleman,89,466000851,23,3,4,64.9145
+12th,Freedom (Tampa),Samual Brown,89,466000751,23,3,4,64.9145
+13th,King,KEERTHI VENGATESAN,87,435004851,22,1,7,64.1700
+14th,Fort Myers,Ethan Lynch,87,423099951,23,5,2,64.1700
+15th,Canterbury (Lee),Carl Nist-Lund,85,411000351,22,3,5,63.4254
+16th,Robinson,STEVEN SELIGSOHN,85,458000951,22,3,5,63.4254
+17th,King,TIANXING (LISA) MA,85,435003751,22,3,5,63.4254
+18th,Berkeley Prep,Matt Sheets,84,405009651,22,4,4,63.0531
+19th,Berkeley Prep,Amanda Smart,84,405009952,22,4,4,63.0531
+20th,Robinson,JAMES GIBSON,84,458003152,22,4,4,63.0531
+21st,Berkeley Prep,Nathan Weinbren,83,405010151,22,5,3,62.6808
+22nd,Fort Myers,Nancy Lu,81,423005451,21,3,6,61.9363
+23rd,Palm Harbor Univ,Theodore Cohen,80,413003951,21,4,5,61.5640
+24th,Wharton,BENJAMIN HSU,80,485000151,21,4,5,61.5640
+25th,Gaither High School,Joseph Berringer,79,426001651,20,1,9,61.1917
+26th,Middleton,Mike Goodman,78,468001251,20,2,8,60.8194
+27th,Cape Coral High School,NATESH PERSAUD,75,418001751,21,9,0,59.7026
+28th,Palm Harbor Univ,Raj Patel,75,413015050,21,9,0,59.7026
+29th,Fort Myers,Tim Kim,73,423003251,19,3,8,58.9580
+30th,Wharton,ERICA BRACKMAN,73,485000951,19,3,8,58.9580
+31st,Berkeley Prep,Ginny Willis,71,405002952,19,5,6,58.2135
+32nd,Fort Myers,JunHao Chen,70,423005251,18,2,10,57.8412
+33rd,Berkeley Prep,Brad Tillotson,70,405001750,18,2,10,57.8412
+34th,Berkeley Prep,Caitlin Sills,69,405009851,18,3,9,57.4689
+35th,Jefferson,KURT MUELLER,69,430001751,18,3,9,57.4689
+36th,Tampa Bay Tech,Alfredo Peguero,67,461001351,18,5,7,56.7243
+37th,King,AMY CHENG,67,435002252,17,1,12,56.7243
+38th,Berkeley Prep,Aruni Gunaratne,66,405008751,17,2,11,56.3521
+39th,Cape Coral High School,MAX MCADAMS,63,418003251,16,1,13,55.2352
+40th,Sickles,Nick Yanis,62,479001351,16,2,12,54.8629
+41st,Robinson,KENNON BITTICK,62,458001451,17,6,7,54.8629
+42nd,Fort Myers,Ilya Sakharuk,61,423002352,16,3,11,54.4906
+43rd,Cape Coral High School,KRYSTAL BURTON,61,418000852,16,3,11,54.4906
+44th,Palm Harbor Univ,Jennie Zhang,61,413020952,18,11,1,54.4906
+45th,H. B. Plant,Molly Fendrick,60,427003250,15,0,15,54.1184
+46th,Freedom (Tampa),Elisa Berson,60,466000651,17,8,5,54.1184
+47th,H. B. Plant,Genevieve Shifke,60,427008651,16,4,10,54.1184
+48th,Freedom (Tampa),Kevin Tian,60,466003051,16,4,10,54.1184
+49th,Berkeley Prep,Nadine Zeidan,59,405010352,17,9,4,53.7461
+50th,King,RISHI BOLLU,57,435002051,15,3,12,53.0015
+51st,Robinson,AARON WARWICK,57,458000351,15,3,12,53.0015
+52nd,Middleton,Walter Andrzejewski,55,468001051,15,5,10,52.2570
+53rd,Canterbury (Lee),Robert Learsch,54,411000151,14,2,14,51.8847
+54th,St Stephen's Episcopal,ALEC MORRIS,53,489002252,14,3,13,51.5124
+55th,Canterbury (Lee),Alex Ghanem,52,411000051,15,8,7,51.1401
+56th,Hillsborough,RACHEL VLAHOV,52,428010151,14,4,12,51.1401
+57th,Fort Myers,Blaine Talbut,51,423002452,14,5,11,50.7678
+58th,H. B. Plant,Bradley Sykes,51,427002450,14,5,11,50.7678
+59th,H. B. Plant,Courtney Banker,50,427002251,14,6,10,50.3955
+60th,Canterbury (Lee),Jordan Wingenroth,49,411001351,15,11,4,50.0233
+61st,H. B. Plant,Tarik Ali,49,427003150,14,7,9,50.0233
+62nd,H. B. Plant,Julie Cornett,49,427001150,13,3,14,50.0233
+63rd,H. B. Plant,Travis Britain,49,427003350,13,3,14,50.0233
+64th,Gaither High School,Alex Jacobsen,48,426003951,13,4,13,49.6510
+65th,Berkeley Prep,Derek Schocken,48,405009550,13,4,13,49.6510
+66th,H. B. Plant,CarolMarie Fraley,47,427000050,12,1,17,49.2787
+67th,Cape Coral High School,ISMAEL SAUCEDA,46,418003351,12,2,16,48.9064
+68th,Newsome,Mary Ishola,46,465002051,12,2,16,48.9064
+69th,Berkeley Prep,Kat Weston,46,405010250,13,6,11,48.9064
+70th,Hillsborough,CHERYL CHERIAN,46,428020151,14,10,6,48.9064
+71st,Berkeley Prep,Ethan Camp,45,405008150,13,7,10,48.5341
+72nd,Berkeley Prep,Ashima Madan,44,405002850,12,4,14,48.1619
+73rd,Middleton,Simy DeCotret,44,468001151,12,4,14,48.1619
+74th,H. B. Plant,Sam Glickman,44,427002050,12,4,14,48.1619
+75th,Hillsborough,PARTH PATEL,43,428021752,12,5,13,47.7896
+76th,Freedom (Tampa),Nolan Wilson,43,466003452,11,1,18,47.7896
+77th,Berkeley Prep,Jessica Hahn,43,405008850,12,5,13,47.7896
+78th,H. B. Plant,Zack Scott,43,427002850,12,5,13,47.7896
+79th,H. B. Plant,Jilan Shimberg,42,427001750,11,2,17,47.4173
+80th,H. B. Plant,Amanda Wang,42,427002950,11,2,17,47.4173
+81st,King,ROBERT PENG,41,435004352,13,11,6,47.0450
+82nd,Berkeley Prep,Jake Salzer,41,405009450,12,7,11,47.0450
+83rd,Gaither High School,Farhan Hiya,41,426002751,11,3,16,47.0450
+84th,Gaither High School,Andrew Williams,41,426002351,11,3,16,47.0450
+85th,H. B. Plant,Alex Lopez,40,427001550,11,4,15,46.6727
+86th,Durant,Austen Suqi,40,475003851,11,4,15,46.6727
+87th,Tampa Bay Tech,Naveen Chinthapally,40,461003551,14,16,0,46.6727
+88th,Palm Harbor Univ,Caitlin Beeghly,39,413001052,10,1,19,46.3005
+89th,H. B. Plant,Hayden Greiwe,39,427001950,11,5,14,46.3005
+90th,Gaither High School,Luis Mariusso,39,426005350,11,5,14,46.3005
+91st,Wharton,IVELINA STOYANOVA,39,485001251,11,5,14,46.3005
+92nd,St Petersburg,Arjun Krishnaswami,38,497001751,10,2,18,45.9282
+93rd,H. B. Plant,Michael Schmoll,38,427003550,11,6,13,45.9282
+94th,King,ROBIN RUSSO,37,435004752,10,3,17,45.5559
+95th,H. B. Plant,Laura Hendee,36,427000150,10,4,16,45.1836
+96th,Middleton,Ian Griffin,35,468002452,10,5,15,44.8113
+97th,Palm Harbor Univ,Christian Carvajal,34,413002852,9,2,19,44.4390
+98th,Chamberlain,PETER KIM,34,407008351,9,2,19,44.4390
+99th,Cape Coral High School,DYLAN EDMONDS,33,418002851,10,7,13,44.0668
+100th,Fort Myers,Vivian Wong,33,423005152,9,3,18,44.0668
+101st,H. B. Plant,Austin Terry,33,427002750,10,7,13,44.0668
+102nd,H. B. Plant,Katherine Sisemore,31,427008951,9,5,16,43.3222
+103rd,St Stephen's Episcopal,DANIEL KANOFF,31,489002051,9,5,16,43.3222
+104th,Palm Harbor Univ,Amanda Hobson,31,413008150,8,1,21,43.3222
+105th,Newsome,William Burchfield,31,465000851,10,9,11,43.3222
+106th,Chamberlain,EMILY RODRIGUEZ,30,407007851,8,2,20,42.9499
+107th,H. B. Plant,Luc Loyola,29,427002150,9,7,14,42.5776
+108th,H. B. Plant,Ali Preston,29,427001251,8,3,19,42.5776
+109th,H. B. Plant,Abby Meckley,28,427000250,8,4,18,42.2054
+110th,Sickles,Andy Ortiz,28,479006651,9,8,13,42.2054
+111th,St Stephen's Episcopal,ZINA VERSFELD,28,489002451,8,4,18,42.2054
+112th,Berkeley Prep,Chester Bedell,28,405008050,8,4,18,42.2054
+113th,King,NATASHA BHUYAN,28,435001752,8,4,18,42.2054
+114th,Robinson,JIMMY CHEN,27,458001952,8,5,17,41.8331
+115th,Palm Harbor Univ,Sharon Lo,26,413012052,7,2,21,41.4608
+116th,Canterbury (Lee),Amanda Tolep,26,411004352,7,2,21,41.4608
+117th,H. B. Plant,Janie Friedman,26,427002650,7,2,21,41.4608
+118th,St Stephen's Episcopal,PERRI ANDERSON,26,489003151,7,2,21,41.4608
+119th,Jefferson,MIN LUO,25,430000751,8,7,15,41.0885
+120th,Tampa Bay Tech,Bryce Thalackal,25,461001451,7,3,20,41.0885
+121st,Hillsborough,MEGAN JONES,25,428010551,7,3,20,41.0885
+122nd,Canterbury (Lee),Michael Carracino,25,411003052,7,3,20,41.0885
+123rd,Gaither High School,Jenny Luong,25,426005150,7,3,20,41.0885
+124th,St Stephen's Episcopal,DANIELLE WALL,23,489002551,7,5,18,40.3439
+125th,Fort Myers,Griffin Plattner,23,423003752,7,5,18,40.3439
+126th,Tampa Bay Tech,Ahlam Abuawad,23,461000051,7,5,18,40.3439
+127th,Chamberlain,Surekha Tuntiserirat,21,407000051,7,7,16,39.5994
+128th,Newsome,Tyler Iorizzo,20,465000751,6,4,20,39.2271
+129th,Robinson,TARONE THIRAWATANANOND,19,458001052,7,9,14,38.8548
+130th,H. B. Plant,Sam Park,18,427001850,5,2,23,38.4825
+131st,Wharton,SOFIA RATTES,17,485000851,6,7,17,38.1103
+132nd,H. B. Plant,Erin Swindle,15,427003050,5,5,20,37.3657
+133rd,Palm Harbor Univ,Hiu Lui,13,413012450,4,3,23,36.6211
+134th,Palm Harbor Univ,Vishesh Choudhry,12,413003550,5,8,17,36.2489
+135th,Freedom (Tampa),Rachael Ferrall,12,466001352,5,8,17,36.2489
+136th,Berkeley Prep,Josh Fanelli,12,405004850,4,4,22,36.2489
+137th,Cape Coral High School,STEPHANIE FINE,11,418002952,3,1,26,35.8766
+138th,Robinson,NICOLE DIAMANTAS,10,458003052,4,6,20,35.5043
+139th,Jefferson,Javier Maldonado,9,430000951,3,3,24,35.1320
+140th,Fort Myers,JiHyun Kim,8,423002250,3,4,23,34.7597
+141st,Palm Harbor Univ,Sonya Bhaskar,6,413001250,3,6,21,34.0152
+142nd,St Petersburg,Samantha McCuskey,6,497004351,6,18,6,34.0152
+143rd,Durant,Jonathan Huang,4,475003651,2,4,24,33.2706
+144th,Chamberlain,NEIL MACINNES,3,407000151,3,9,18,32.8983

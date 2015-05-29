@@ -1,0 +1,146 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Deerlake Middle,JIMMY ZHANG,110,185110211,28,2,0,83.2093
+2nd,Fairview Middle,Matthew Kang,106,125109911,27,2,1,81.6309
+3rd,Fairview Middle,Tommy Luo,105,125101611,27,3,0,81.2363
+4th,Fairview Middle,Alex Yu,100,125104911,26,4,0,79.2633
+5th,Deerlake Middle,NICHOLAS YANG,96,185102711,25,4,1,77.6849
+6th,Fairview Middle,Kevin Kim,88,125100411,23,4,3,74.5280
+7th,Deerlake Middle,JOYCE WANG,84,185103312,22,4,4,72.9496
+8th,Deerlake Middle,DAVID CAO,83,185100411,22,5,3,72.5550
+9th,Fairview Middle,Pamela Hu,79,125101112,21,5,4,70.9766
+10th,Deerlake Middle,NATHAN HOEKMAN,76,185108712,20,4,6,69.7928
+11th,Deerlake Middle,WYATT SCHROEDER,73,185105411,20,7,3,68.6090
+12th,Lincoln,Joseph Chiou,70,109000511,20,10,0,67.4252
+13th,Fairview Middle,Mihir Thakkar,65,125104312,19,11,0,65.4521
+14th,Fairview Middle,David Weng,65,125102812,19,11,0,65.4521
+15th,Fairview Middle,Wyndham Hudson,61,125100810,17,7,6,63.8737
+16th,Deerlake Middle,SOPHIE D'ORCHIMONT,61,185108910,16,3,11,63.8737
+17th,Fairview Middle,Jeffrey Zou,61,125103010,17,7,6,63.8737
+18th,Deerlake Middle,CECILIA XIE,55,185101312,15,5,10,61.5061
+19th,Lincoln,Mariano RiveraRamos,52,109000111,15,8,7,60.3223
+20th,Fairview Middle,ShuanYu Chan,49,125105210,14,7,9,59.1385
+21st,Deerlake Middle,TENNISON WATTS,49,185109512,15,11,4,59.1385
+22nd,Fairview Middle,Steven Cui,47,125103812,14,9,7,58.3493
+23rd,Maclay, ,46,172006111,13,6,11,57.9547
+24th,Cobb,Egwuchku Kalu,45,166008912,14,11,5,57.5601
+25th,Deerlake Middle,LINDSEY ELLIS,43,185102110,12,5,13,56.7709
+26th,Fairview Middle,Anisha Sinha,43,125106210,13,9,8,56.7709
+27th,Deerlake Middle,AMY MARSHALL,42,185111010,11,2,17,56.3763
+28th,Cobb,Alex Stowers,41,166002511,13,11,6,55.9816
+29th,Deerlake Middle,ALEX DOBEK,40,185104110,11,4,15,55.5870
+30th,Deerlake Middle,ALAYNA SIBILLE,40,185106510,11,4,15,55.5870
+31st,Fairview Middle,Govind Kallunkal,38,125108710,12,10,8,54.7978
+32nd,Deerlake Middle,LEEON XIE,38,185102410,12,10,8,54.7978
+33rd,Deerlake Middle,ADI HENDLIN,37,185110910,10,3,17,54.4032
+34th,Cobb,Jessica Liu,35,166006511,13,17,0,53.6140
+35th,Swift Creek Middle,Xixi Liu,34,122100211,10,6,14,53.2194
+36th,Rocky Bayou Christian School,Tim Sung,34,192001211,10,6,14,53.2194
+37th,Swift Creek Middle,Ria Shah,34,122100411,10,6,14,53.2194
+38th,Workman Middle,Carsten Bahnsen,34,699100812,10,6,14,53.2194
+39th,Cobb,Kody Koch,33,166001911,10,7,13,52.8248
+40th,Swift Creek Middle,Derek Rivera,32,122100311,10,8,12,52.4302
+41st,Deerlake Middle,KYLE BERRY,32,185101110,10,8,12,52.4302
+42nd,Deerlake Middle,Spencer Cason,31,185190210,9,5,16,52.0356
+43rd,Trinity Catholic Middle School,ANI GARRIGO,30,129100312,12,18,0,51.6410
+44th,Deerlake Middle,ZACHARY GILL,30,185105210,9,6,15,51.6410
+45th,Deerlake Middle,PATRICK RUTKOWSKI,30,185106310,9,6,15,51.6410
+46th,Cobb,Spencer Doerr,30,166008110,11,14,5,51.6410
+47th,Montford Middle,Erica Gloyd,29,151102811,9,7,14,51.2464
+48th,Montford Middle,Garrett Blanton,29,151100010,8,3,19,51.2464
+49th,Swift Creek Middle,Natalie Jones,28,122100912,9,8,13,50.8518
+50th,Deerlake Middle,MCLAIN GOODWIN,28,185107910,9,8,13,50.8518
+51st,Deerlake Middle,JEFFREY CHEN,27,185103210,8,5,17,50.4572
+52nd,Trinity Catholic Middle School,ANGIE MCNUTT,27,129100511,9,9,12,50.4572
+53rd,Workman Middle,Dylan Dalrymple,26,699100712,10,14,6,50.0626
+54th,Cobb,Kaitlin Godwin,26,166008411,8,6,16,50.0626
+55th,Trinity Catholic Middle School,HANNAH BAILEY,26,129100011,11,18,1,50.0626
+56th,Montford Middle,Jalen McCalla,24,151103410,7,4,19,49.2734
+57th,Deerlake Middle,Trey McQuaig,24,185191210,7,4,19,49.2734
+58th,Deerlake Middle,ESTHER ROWAN,24,185106110,6,0,24,49.2734
+59th,Deerlake Middle,NATHAN STARKE,24,185106910,7,4,19,49.2734
+60th,Cobb,Christinia Sickinger,24,166006912,8,8,14,49.2734
+61st,Montford Middle,Emily Jeter,24,151101011,7,4,19,49.2734
+62nd,Deerlake Middle,Yun Lee,24,185191110,9,12,9,49.2734
+63rd,Montford Middle,Casey Crowe,24,151102411,7,4,19,49.2734
+64th,Rocky Bayou Christian School,Megan Gallagher,24,192001611,8,8,14,49.2734
+65th,Deerlake Middle,KELDEN COATES,23,185103410,9,13,8,48.8788
+66th,Maclay,Lucy Byun,23,172001611,8,9,13,48.8788
+67th,Rocky Bayou Christian School,Shiloh Johns,21,192001311,6,3,21,48.0896
+68th,Cobb,Tyler Dohery,20,166008210,10,20,0,47.6950
+69th,Deerlake Middle,CAMILLE HAYWARD,20,185108310,6,4,20,47.6950
+70th,Trinity Catholic Middle School,EMILY KROLL,20,129100411,7,8,15,47.6950
+71st,Deerlake Middle,LOGAN HINDS,20,185108810,8,12,10,47.6950
+72nd,Deerlake Middle,ADDISON WASSON,19,185102210,7,9,14,47.3004
+73rd,Deerlake Middle,LAYNE GARRETT,19,185105010,6,5,19,47.3004
+74th,Swift Creek Middle,Mena Locke,18,122101612,5,2,23,46.9058
+75th,Deerlake Middle,June Suh,18,185192310,7,10,13,46.9058
+76th,Deerlake Middle,Mitchell Fernbach,18,185190710,7,10,13,46.9058
+77th,Swift Creek Middle,Jonathan Grisiafi,18,122100112,6,6,18,46.9058
+78th,Montford Middle,Austin Quigley,17,151101612,9,19,2,46.5112
+79th,Workman Middle,Sydney Stone,17,699100211,9,19,2,46.5112
+80th,Deerlake Middle,COREY HAGENBECK,17,185108010,7,11,12,46.5112
+81st,Deerlake Middle, ,16,185190010,4,0,26,46.1166
+82nd,Rocky Bayou Christian School,Chris Listak,16,192004911,5,4,21,46.1166
+83rd,Deerlake Middle,JENNI CRAWFORD,16,185110510,5,4,21,46.1166
+84th,Deerlake Middle,Brandon Nguyen,15,185191410,4,1,25,45.7220
+85th,Deerlake Middle,RYAN FORGAS,15,185104710,7,13,10,45.7220
+86th,Deerlake Middle,Lauren Claude,15,185190510,4,1,25,45.7220
+87th,Deerlake Middle,Ashton Glady,15,185190910,4,1,25,45.7220
+88th,Trinity Catholic Middle School,PATRICK DESLOGE,15,129100112,9,21,0,45.7220
+89th,Cobb,Matthew Bevis,15,166000510,8,17,5,45.7220
+90th,Deerlake Middle,JULIA SORRENTI,13,185106610,4,3,23,44.9327
+91st,Deerlake Middle,DANIEL WATSON,12,185109710,5,8,17,44.5381
+92nd,Deerlake Middle,CLAIRE KELLY,12,185109310,4,4,22,44.5381
+93rd,Trinity Catholic Middle School,KATHRYN FREESMEIER,12,129100211,6,12,12,44.5381
+94th,Montford Middle,Hannah Salyers,11,151101812,4,5,21,44.1435
+95th,Deerlake Middle,JACOB GODWIN,11,185105310,3,1,26,44.1435
+96th,Deerlake Middle,COURTNEY HOLLIS,11,185109010,3,1,26,44.1435
+97th,Deerlake Middle,OLIVIA BURNS,11,185103010,5,9,16,44.1435
+98th,Swift Creek Middle,Spencer Elizondo,11,122100812,7,17,6,44.1435
+99th,Cobb,Kelsey Carlton,11,166007710,4,5,21,44.1435
+100th,Workman Middle,Omar Alshazley,10,699100512,8,22,0,43.7489
+101st,Deerlake Middle,PARTH PATEL,10,185101610,3,2,25,43.7489
+102nd,Deerlake Middle,Marcus Clark,10,185190410,3,2,25,43.7489
+103rd,Cobb,James Greer,10,166006010,8,22,0,43.7489
+104th,Deerlake Middle,DOUGLAS BAXTER,10,185100510,4,6,20,43.7489
+105th,Montford Middle,Mona Ighani,9,151103110,5,11,14,43.3543
+106th,Deerlake Middle,Bethany Nelson,9,185191310,4,7,19,43.3543
+107th,Deerlake Middle,JARON HALL,9,185108110,3,3,24,43.3543
+108th,Deerlake Middle,Erik Petrick,9,185191810,4,7,19,43.3543
+109th,Rocky Bayou Christian School,Casey Young,9,192003412,5,11,14,43.3543
+110th,Deerlake Middle,ALISON GERZINA,8,185105110,3,4,23,42.9597
+111th,Deerlake Middle,MARYCLARE SWANSON,8,185107110,3,4,23,42.9597
+112th,Montford Middle,Courtney Althouse,8,151102211,4,8,18,42.9597
+113th,Workman Middle,Conner Rodgers,8,699100411,6,16,8,42.9597
+114th,Deerlake Middle,AMBREIA YOUNG,8,185110710,4,8,18,42.9597
+115th,Cobb,Zachary Buchholz,8,166007612,4,8,18,42.9597
+116th,Deerlake Middle,Robert Seniors,7,185192110,2,1,27,42.5651
+117th,Deerlake Middle,John Gatlin,7,185190810,3,5,22,42.5651
+118th,Montford Middle,Mickey Manias,7,151101412,2,1,27,42.5651
+119th,Deerlake Middle,Lindsey Nichols,7,185191610,3,5,22,42.5651
+120th,Cobb,Jonathan Simmons,7,166010010,3,5,22,42.5651
+121st,Cobb,Kenya Pye,6,166009810,5,14,11,42.1705
+122nd,Deerlake Middle,Spencer Nguyen,6,185191510,2,2,26,42.1705
+123rd,Swift Creek Middle,Joanna Zhao,6,122100511,6,18,6,42.1705
+124th,John Paul II Catholic,DANA EDWARDS,6,104001811,4,10,16,42.1705
+125th,Deerlake Middle,SHAULA HARVIN,5,185108210,2,3,25,41.7759
+126th,Deerlake Middle,CAROLINE CARTWRIGHT,5,185103110,2,3,25,41.7759
+127th,Deerlake Middle,VICTORIA MARTIN,5,185111110,3,7,20,41.7759
+128th,Deerlake Middle,NATALEH HOWARD,5,185109110,3,7,20,41.7759
+129th,Deerlake Middle,AUSTIN WYATT,5,185110010,7,23,0,41.7759
+130th,Cobb,Momodou Janneh,5,166001712,5,15,10,41.7759
+131st,Deerlake Middle,SANKET PATEL,4,185105710,4,12,14,41.3813
+132nd,Deerlake Middle,Cody Smith,3,185192210,4,13,13,40.9867
+133rd,Deerlake Middle,Brianna Drake,3,185190610,4,13,13,40.9867
+134th,Deerlake Middle,SCOTT BOEBINGER,2,185102810,3,10,17,40.5921
+135th,Rocky Bayou Christian School,Savannah Linn,2,192004012,2,6,22,40.5921
+136th,Fairview Middle,Harrison Kent,1,125108010,4,15,11,40.1975
+137th,Rocky Bayou Christian School,Jon Delgado,0,192004812,1,4,25,39.8029
+138th,Workman Middle,Debra Toussaint,0,699100111,6,24,0,39.8029
+139th,Deerlake Middle,BOOMER BIEGALSKI,-1,185101210,1,5,24,39.4083
+140th,Deerlake Middle,LEE COX,-1,185103910,3,13,14,39.4083
+141st,Montford Middle,Lindsey King,-3,151103212,2,11,17,38.6191
+142nd,Montford Middle,Josh Gardner,-5,151100510,3,17,10,37.8299
+143rd,Cobb,Phillip Mendez,-5,166009210,3,17,10,37.8299
+144th,Workman Middle,Peter McMilion,-5,699100311,4,21,5,37.8299
+145th,Cobb,Kaitlynn Jones,-10,166001810,4,26,0,35.8569

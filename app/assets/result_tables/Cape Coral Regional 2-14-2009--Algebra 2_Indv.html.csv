@@ -1,0 +1,119 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Community Sch Naples,Jonathan Bunce,105,562000031,27,3,0,77.5659
+2nd,Berkeley Prep,Aruni Gunaratne,94,405002231,24,2,4,73.0379
+3rd,Berkeley Prep,Adarsh Dave,93,405002030,24,3,3,72.6263
+4th,King,Kun Cao,92,435002132,24,4,2,72.2146
+5th,King,Tianxing (lisa) Ma,90,435003731,23,2,5,71.3913
+6th,Berkeley Prep,Amanda Smart,90,405003531,23,2,5,71.3913
+7th,Middleton,Nathan Phan,88,468002631,23,4,3,70.5681
+8th,Naples,Mahitha Rachumalla,85,545006532,22,3,5,69.3331
+9th,Berkeley Prep,Nathan Weinbren,80,405003730,21,4,5,67.2749
+10th,Berkeley Prep,Caitlin Sills,78,405003432,20,2,8,66.4517
+11th,Berkeley Prep,Matt Sheets,78,405003331,21,6,3,66.4517
+12th,Berkeley Prep,Alex Gari,76,405002132,20,4,6,65.6284
+13th,King,Austin Shin,76,435004731,20,4,6,65.6284
+14th,King,Rishi Bollu,72,435002031,19,4,7,63.9818
+15th,Community Sch Naples,Hale Schwerin,72,562000932,19,4,7,63.9818
+16th,Middleton,Mike Goodman,65,468002531,17,3,10,61.1003
+17th,Middleton,Walter Andrzejewski,65,468000131,19,11,0,61.1003
+18th,Cape Coral High School,Ismeal Sauceda,64,418001531,16,0,14,60.6887
+19th,Berkeley Prep,Derek Schocken,63,405003132,16,1,13,60.2771
+20th,Berkeley Prep,Audrey Menna,62,405002930,16,2,12,59.8654
+21st,Berkeley Prep,Brad Tillotson,62,405003632,17,6,7,59.8654
+22nd,Palm Harbor Univ,Masi Javeed,60,413002131,18,12,0,59.0421
+23rd,Community Sch Naples,Ricky Gallo,60,562000531,17,8,5,59.0421
+24th,Community Sch Naples,Matt Ferguson,59,562000431,16,5,9,58.6305
+25th,Hillsborough,Cheryl Cherian,58,428020131,16,6,8,58.2189
+26th,King,Natasha Bhuyan,54,435001732,14,2,14,56.5723
+27th,Freedom,Thomas Erben,53,466001831,14,3,13,56.1606
+28th,Community Sch Naples,Felipe Ortiz,53,562005632,15,7,8,56.1606
+29th,Community Sch Naples,Tristan Joseph,51,562006732,15,9,6,55.3374
+30th,Middleton,Alex Kingston,49,468000432,14,7,9,54.5141
+31st,Mariner,Carmen Aguirre,48,473000232,15,12,3,54.1024
+32nd,Naples,Doug  Digiorno,47,545005132,13,5,12,53.6908
+33rd,Berkeley Prep,Jessica Hahn,47,405002330,13,5,12,53.6908
+34th,Fort Myers,Deanna Hambleton,46,423003331,12,2,16,53.2792
+35th,Cape Coral High School,Max Mcadams,46,418001331,14,10,6,53.2792
+36th,Cape Coral High School,Stephanie Fine,44,418000831,12,4,14,52.4559
+37th,Berkeley Prep,Chester Bedell,43,405001730,11,1,18,52.0442
+38th,Hillsborough,My'lea Coulombequach,43,428020731,11,1,18,52.0442
+39th,Palm Harbor Univ,Sung Pyo,42,413004931,13,10,7,51.6326
+40th,Berkeley Prep,Paras Shah,42,405003230,14,14,2,51.6326
+41st,Cape Coral High School,Desire Goenaga,41,418001032,11,3,16,51.2210
+42nd,Berkeley Prep,Ethan Camp,41,405001831,14,15,1,51.2210
+43rd,Naples,Michael Lopez,40,545006030,11,4,15,50.8093
+44th,Golden Gate High,Maria Acebey,40,560001331,11,4,15,50.8093
+45th,Fort Myers,Naina Sharma,38,423004131,10,2,18,49.9860
+46th,Naples,Amanda Walker,38,545007230,10,2,18,49.9860
+47th,Middleton,Chris Myrick,38,468000631,12,10,8,49.9860
+48th,Naples,Ryan Brown,37,545004631,11,7,12,49.5744
+49th,Hillsborough,Trisha Dey,37,428020631,10,3,17,49.5744
+50th,King,Vedant Acharya,37,435001332,11,7,12,49.5744
+51st,Palm Harbor Univ,Nathan Lord,36,413003131,13,16,1,49.1628
+52nd,Middleton,Simy Decotret,36,468002832,11,8,11,49.1628
+53rd,Berkeley Prep,Kat Weston,36,405003830,10,4,16,49.1628
+54th,Community Sch Naples,Dylan Chestnut,36,562000231,11,8,11,49.1628
+55th,Canterbury (Lee),Gaurav Otal,35,411002331,11,9,10,48.7511
+56th,Hillsborough,Hayley Zyndorf,35,428021232,10,5,15,48.7511
+57th,Fort Myers,Jung Kim,35,423003232,11,9,10,48.7511
+58th,North Fort Myers High,Carissa Coppins,35,433000731,11,9,10,48.7511
+59th,Palm Harbor Univ,Alec Sokol,34,413005832,10,6,14,48.3395
+60th,King,Ken Yu,34,435005131,10,6,14,48.3395
+61st,Palm Harbor Univ,Jiatao Yun,33,413006432,9,3,18,47.9278
+62nd,Naples,Angellica Martinez,33,545006131,10,7,13,47.9278
+63rd,Freedom,Sam Brown,33,466001731,10,7,13,47.9278
+64th,Cape Coral High School,Nick Minckler,33,418001231,10,7,13,47.9278
+65th,Palm Harbor Univ,Miranda Goot,33,413001632,9,3,18,47.9278
+66th,Palm Harbor Univ,Sarah Wall,31,413006231,8,1,21,47.1046
+67th,Naples,Ariel Chaudhuri,30,545004731,9,6,15,46.6929
+68th,King,Christopher Whitten,30,435004932,9,6,15,46.6929
+69th,Fort Myers,Nancy Lu,30,423005431,8,2,20,46.6929
+70th,Ida S. Baker High School,Christopher Wright,30,441000231,12,18,0,46.6929
+71st,North Fort Myers High,Amy Fenicle,29,433001032,8,3,19,46.2813
+72nd,Canterbury (Lee),Vaib Penukonda,29,411002431,10,11,9,46.2813
+73rd,St Stephen's Episcopal,Travis Fort,28,489002231,8,4,18,45.8696
+74th,Naples,Katie Kramer,27,545005730,8,5,17,45.4580
+75th,Berkeley Prep,Vikas Kotha,26,405002530,8,6,16,45.0464
+76th,Naples,Katherine Lopera,26,545005932,8,6,16,45.0464
+77th,Berkeley Prep,Jake Salzer,26,405009830,9,10,11,45.0464
+78th,Berkeley Prep,Alex Bandes,26,405001530,10,14,6,45.0464
+79th,Mariner,Chris Flaker,25,473000732,11,19,0,44.6347
+80th,Hillsborough,Rebecca Tran,25,428021131,7,3,20,44.6347
+81st,Mariner,Loren Hall,25,473000831,11,19,0,44.6347
+82nd,Canterbury (Lee),Josh Liebowitz,25,411000832,11,19,0,44.6347
+83rd,Ida S. Baker High School,Dominic Latassa,25,441000031,11,19,0,44.6347
+84th,North Fort Myers High,Zachary Cleveland,24,433000631,10,16,4,44.2231
+85th,Cape Coral High School,Kevin Bergener,23,418000730,7,5,18,43.8114
+86th,Palm Harbor Univ,Ethan Dunn,23,413001530,6,1,23,43.8114
+87th,Naples,Rebecca Datus,21,545004930,6,3,21,42.9882
+88th,Naples,Aj Prokopervin,21,545006432,8,11,11,42.9882
+89th,Berkeley Prep,Weston Phillips,20,405003030,6,4,20,42.5765
+90th,Cape Coral High School,Lukas Neumann,20,418001430,7,8,15,42.5765
+91st,Palm Harbor Univ,Justin Singh,20,413005732,10,20,0,42.5765
+92nd,Cape Coral High School,Dylan Edmonds,19,418004132,6,5,19,42.1649
+93rd,Canterbury (Lee),Steven Schwartz,19,411002231,7,9,14,42.1649
+94th,Fort Myers,Priyanka Patel,19,423002031,7,9,14,42.1649
+95th,Freedom,Greg Dzuranin,19,466004031,6,5,19,42.1649
+96th,Fort Myers,Mariah Coughlin,18,423004032,6,6,18,41.7532
+97th,Canterbury (Lee),Neil Singh,18,411002532,7,10,13,41.7532
+98th,Mariner,Sarah Rollins,17,473001331,7,11,12,41.3416
+99th,Golden Gate High,Cindy Rivas,15,560001231,5,5,20,40.5183
+100th,Cape Coral High School,Matt Gates,15,418000932,5,5,20,40.5183
+101st,Golden Gate High,Diany Saldarriaga,14,560001131,5,6,19,40.1067
+102nd,North Fort Myers High,Gabrielle Felice,13,433000931,8,19,3,39.6950
+103rd,Cape Coral High School,Arthi Lis,13,418001132,6,11,13,39.6950
+104th,St Stephen's Episcopal,Ashley Falkner,12,489002131,5,8,17,39.2834
+105th,Lely,Brittany Tripp,12,581000131,4,4,22,39.2834
+106th,Canterbury (Lee),Adam Yudelman,11,411001031,7,17,6,38.8718
+107th,Ida S. Baker High School,Nick Saracione,11,441000331,7,17,6,38.8718
+108th,Dunbar,Robert Macarthur,11,477000731,5,9,16,38.8718
+109th,North Fort Myers High,Sterling Wingard,10,433001431,4,6,20,38.4601
+110th,Mariner,Jacob Heavener,10,473001231,8,22,0,38.4601
+111th,North Fort Myers High,Dylan Curtis,9,433000832,4,7,19,38.0485
+112th,Naples,Nicole Vandaele,9,545007131,4,7,19,38.0485
+113th,Ida S. Baker High School,Nick Chrone,8,441000131,4,8,18,37.6368
+114th,Lely,Josey Prior,8,581000331,3,4,23,37.6368
+115th,North Fort Myers High,Arturo Rios,6,433001932,4,10,16,36.8136
+116th,St Stephen's Episcopal,Chris Scott,6,489002531,2,2,26,36.8136
+117th,Mariner,Asa Johnston,2,473002231,3,10,17,35.1670
+118th,Dunbar,Erisleyvys Rodriguez,0,477000231,2,8,20,34.3437

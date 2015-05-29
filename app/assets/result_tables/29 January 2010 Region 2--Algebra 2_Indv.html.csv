@@ -1,0 +1,92 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Martin Andreea,111,295000931,28,1,1,73.9654
+2nd,Lincoln Middle,Zhao Li,110,201101132,28,2,0,73.6546
+3rd,Eastside,Ghengis Kann,105,280001931,27,3,0,72.1004
+4th,Lincoln Middle,Jessica Lee,101,201100431,26,3,1,70.8570
+5th,Buchholz,David Hurst,98,295000231,25,2,3,69.9245
+6th,Lincoln Middle,Ben Wu,95,201101031,25,5,0,68.9920
+7th,Lincoln Middle,Reva Ranka,92,201100232,24,4,2,68.0594
+8th,Lincoln Middle,Kevin Peng,88,201100831,23,4,3,66.8161
+9th,Lincoln Middle,Timmie Xie,88,201101230,23,4,3,66.8161
+10th,Lincoln Middle,Becky Liao,85,201100730,22,3,5,65.8836
+11th,Eastside,Yuxin Zhang,83,280006431,22,5,3,65.2619
+12th,Eastside,Christine Pu,80,280004632,21,4,5,64.3294
+13th,Lincoln Middle,Jason Ai,80,201101331,22,8,0,64.3294
+14th,Lincoln Middle,Kevin Noh,80,201100532,22,8,0,64.3294
+15th,Lincoln Middle,Qihan Zhu,73,201100330,20,7,3,62.1535
+16th,Lincoln Middle,Lisa Lu,73,201100632,20,7,3,62.1535
+17th,Eastside,Lucinda Peng,69,280004231,19,7,4,60.9101
+18th,Eastside,Xingchen Li,68,280002930,18,4,8,60.5993
+19th,Lincoln Middle,Megan Mathew,63,201100130,17,5,8,59.0451
+20th,Lincoln Middle,Victor Lin,61,201100930,17,7,6,58.4234
+21st,Eastside,Annie Lott,59,280003332,15,1,14,57.8017
+22nd,Buchholz,Albert Zhou,59,295001531,17,9,4,57.8017
+23rd,Buchholz,Eunsun Park,56,295001831,16,8,6,56.8692
+24th,Eastside,Allie Sourakov,55,280005231,15,5,10,56.5584
+25th,Gainesville High School,Tyler Parker,50,268008231,14,6,10,55.0042
+26th,Eastside,Julian Tolentino,49,280005530,14,7,9,54.6933
+27th,Gainesville High School,Chancie Grant,47,268008132,13,5,12,54.0717
+28th,Eastside,Unmil Patel,43,280004132,13,9,8,52.8283
+29th,Gainesville High School,Jacob Gordon,43,268009732,12,5,13,52.8283
+30th,Bolles,Zhang Zhengyi,39,252000831,11,5,14,51.5849
+31st,Gainesville High School,Jamie Blackband,37,268008531,10,3,17,50.9633
+32nd,Gainesville High School,Philip Christofferson,37,268007430,11,7,12,50.9633
+33rd,Stanton College Preparatory School,Lara Dedic,35,296004931,11,9,10,50.3416
+34th,Gainesville High School,Mike Leopold,32,268003430,11,12,7,49.4091
+35th,Stanton College Preparatory School,Chanllyca Chau,30,296004831,10,10,10,48.7874
+36th,Gainesville High School,Conor Hogan,30,268010730,12,18,0,48.7874
+37th,Eastside,Ahmad Guenoun,29,280001332,10,11,9,48.4765
+38th,Gainesville High School,Sharp Sharp,29,268009130,10,11,9,48.4765
+39th,Gainesville High School,Lucia Murphy,25,268008930,8,7,15,47.2332
+40th,Gainesville High School,Asher Shoucair,25,268010531,8,7,15,47.2332
+41st,Gainesville High School,Naomi Henderson,25,268007930,8,7,15,47.2332
+42nd,Gainesville High School,Jenny Parks,25,268010830,11,19,0,47.2332
+43rd,Gainesville High School,Sarah Prager,24,268009430,7,4,19,46.9223
+44th,Flagler Palm Coast,GABRIELLA GIULIANO,24,221020430,9,12,9,46.9223
+45th,Gainesville High School,Alex Sherman,23,268008630,8,9,13,46.6115
+46th,Flagler Palm Coast,OLGA NUSHTAYEVA,23,221020632,8,9,13,46.6115
+47th,Gainesville High School,Madison Szar,22,268010232,7,6,17,46.3007
+48th,Flagler Palm Coast,ANISSA ZACHARIAS,21,221020832,7,7,16,45.9898
+49th,Spruce Creek,Hyunseo Lee,20,267011131,6,4,20,45.6790
+50th,Flagler Palm Coast,LINSEY SMITH,20,221020031,6,4,20,45.6790
+51st,Gainesville High School,Ethan Ellis,20,268010030,7,8,15,45.6790
+52nd,Gainesville High School,Julia Apostol,19,268011230,7,9,14,45.3681
+53rd,Gainesville High School,Glenn Godfrey,19,268009532,7,9,14,45.3681
+54th,Stanton College Preparatory School,Kanupriya Gupta,17,296000531,6,7,17,44.7465
+55th,Flagler Palm Coast,CARLY ESPOSITO,17,221021432,7,11,12,44.7465
+56th,Gainesville High School,Dylan Richardson,17,268010331,8,15,7,44.7465
+57th,Flagler Palm Coast,TYLER JARNAGIN,16,221020731,5,4,21,44.4356
+58th,Gainesville High School,Gracie Brown,16,268007830,5,4,21,44.4356
+59th,Gainesville High School,Emilee Bell,14,268007530,5,6,19,43.8139
+60th,Gainesville High School,Christopher Berry,14,268008030,5,6,19,43.8139
+61st,Gainesville High School,Elizabeth Rojas,14,268010430,8,18,4,43.8139
+62nd,Flagler Palm Coast,BREANNA GILLILAND,13,221021230,5,7,18,43.5031
+63rd,Stanton College Preparatory School,Neehariki Mylavari,13,296001030,8,19,3,43.5031
+64th,Gainesville High School,Jennifer Portell,13,268009330,6,11,13,43.5031
+65th,Flagler Palm Coast,ALFREDO TORRES,11,221021530,5,9,16,42.8814
+66th,Gainesville High School,Adam Bullock,11,268010930,7,17,6,42.8814
+67th,Gainesville High School,Ashley Hickmon,11,268007330,5,9,16,42.8814
+68th,Oak Hall,FAROOQ FAISAL,11,249001331,5,9,16,42.8814
+69th,Spruce Creek,Sarah Bazargan,10,267010231,3,2,25,42.5706
+70th,Flagler Palm Coast,MELODY SIVRI,10,221020230,6,14,10,42.5706
+71st,Gainesville High School,Kiel Orwig,10,268009630,8,22,0,42.5706
+72nd,Flagler Palm Coast,DANIEL GERHARD,8,221020332,4,8,18,41.9489
+73rd,Flagler Palm Coast,MELISSA BOYLES,7,221021131,4,9,17,41.6381
+74th,Gainesville High School,Copelan Hartwell,7,268001030,4,9,17,41.6381
+75th,Gainesville High School,Logan Jacobs,6,268008830,4,10,16,41.3272
+76th,Spruce Creek,Hera Jamal,6,267011031,2,2,26,41.3272
+77th,Gainesville High School,Jimmy Ossa,6,268000530,3,6,21,41.3272
+78th,Gainesville High School,Bee Hoeffer,6,268008430,4,10,16,41.3272
+79th,Gainesville High School,Anthony MonahanEstes,6,268004730,7,22,1,41.3272
+80th,Kanapaha Middle School,Jennifer Ha,5,209101231,7,23,0,41.0164
+81st,Spruce Creek,Nicholas Haupt,5,267010831,4,11,15,41.0164
+82nd,Stanton College Preparatory School,Kyra Auguste,5,296005632,7,23,0,41.0164
+83rd,Gainesville High School,Jessica Yomano,4,268010630,5,16,9,40.7055
+84th,Matanzas H. S.,Roummoney Pen,3,228001830,4,13,13,40.3947
+85th,Gainesville High School,Kendal Drewke,2,268010130,2,6,22,40.0839
+86th,Gainesville High School,Taylor Parker,1,268001330,6,23,1,39.7730
+87th,Gainesville High School,Arielle Boudreaux,-1,268009230,4,17,9,39.1514
+88th,Gainesville High School,Sarah Bullock,-4,268009830,3,16,11,38.2188
+89th,Gainesville High School,Marguerite Mills,-6,268008330,0,6,24,37.5972
+90th,Flagler Palm Coast,FORREST MASON,-6,221021030,4,22,4,37.5972
+91st,Flagler Palm Coast,MICHAEL SAFARTY,-10,221020131,1,14,15,36.3538

@@ -1,0 +1,86 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Montford Middle,Sam Cho,150,151162412,30,0,0,63.9362
+2nd,Deerlake Middle,KARINA ZHANG,146,185113611,29,0,1,62.6608
+2nd,Pizitz Middle School,Greta Chen,146,278101214,29,0,1,62.6608
+2nd,Deerlake Middle,CYNTHIA WANG,146,185111611,29,0,1,62.6608
+2nd,Pizitz Middle School,Keene Zhang,146,278100211,29,0,1,62.6608
+6th,Fairview Middle,Karthik Macherla,145,125102012,29,1,0,62.3419
+6th,Pizitz Middle School,Edward Huang,145,278100712,29,1,0,62.3419
+6th,Fairview Middle,Anvitha Mandapati,145,125100611,29,1,0,62.3419
+6th,Fairview Middle,Carson Jones,145,125100311,29,1,0,62.3419
+10th,Stewart Middle,Oumer Nassir,141,413101111,28,1,1,61.0665
+11th,Pizitz Middle School,William Zhang,141,278100011,28,1,1,61.0665
+12th,Fairview Middle,Rithik Gavvala,141,125100112,28,1,1,61.0665
+13th,Pizitz Middle School,Wendy Jiang,140,278100612,28,2,0,60.7476
+13th,Fairview Middle,Charitha Moparthy,140,125100711,28,2,0,60.7476
+15th,Fairview Middle,Poornachand Deenadayalan,140,125100012,28,2,0,60.7476
+16th,Pizitz Middle School,Allan Feng,140,278100111,28,2,0,60.7476
+17th,Pizitz Middle School,Yifan Zhao,140,278100912,28,2,0,60.7476
+18th,Deerlake Middle,ALANNA DU,136,185104411,27,2,1,59.4721
+19th,Montford Middle,Allison Stevens,136,151166711,27,2,1,59.4721
+20th,Deerlake Middle,JOANNA WANG,135,185111811,27,3,0,59.1533
+21st,Pizitz Middle School,Ahmed Farrukh,135,278100311,27,3,0,59.1533
+22nd,Pizitz Middle School,Odelia Huang,135,278101313,27,3,0,59.1533
+23rd,Fairview Middle,Aman Raj,135,125101211,27,3,0,59.1533
+24th,Montford Middle,Kiyeon Park,131,151157911,26,3,1,57.8778
+25th,Elizabeth Cobb Middle School,Giovanni Jana,130,166002011,26,4,0,57.5590
+26th,Pizitz Middle School,PumSung Koo,129,278101413,25,1,4,57.2401
+27th,Pizitz Middle School,Yihan Zhong,127,278100513,25,3,2,56.6024
+28th,Pizitz Middle School,Matthew Zhu,127,278100812,25,3,2,56.6024
+29th,Pizitz Middle School,Richard Fu,124,278101114,24,2,4,55.6458
+30th,Stewart Middle,Lars Tatum,123,413100811,24,3,3,55.3269
+31st,Sanford Middle,Amrita Kapat,123,344104612,24,3,3,55.3269
+32nd,Williams Middle,Sarah Elgrini,123,468100911,24,3,3,55.3269
+33rd,Orlando Science Middle Charter School,Ryan Le,122,348100811,24,4,2,55.0080
+34th,Fairview Middle,Pruthak Patel,122,125101012,24,4,2,55.0080
+35th,Sanford Middle,Jason Raman,121,344100311,24,5,1,54.6892
+36th,Sanford Middle,Adrija Das,119,344101412,23,3,4,54.0515
+37th,Pizitz Middle School,Sidhvi Reddy,118,278102210,23,4,3,53.7326
+38th,Pizitz Middle School,Yasha Kulkarni,117,278100413,23,5,2,53.4137
+39th,Pizitz Middle School,Sarah Zhao,114,278101014,22,4,4,52.4571
+40th,Stewart Middle,Alyssa Schroeder,114,413100011,22,4,4,52.4571
+41st,Berkeley Preparatory Middle,Brad Batas,111,405100011,21,3,6,51.5005
+42nd,Montford Middle,Dong Ni Jiang,110,151157511,22,8,0,51.1817
+43rd,Sanford Middle,James Soto,108,344104211,21,6,3,50.5439
+44th,Montford Middle,Elliot Faris,108,151162611,21,6,3,50.5439
+45th,Pizitz Middle School,Robert Hill,108,278102314,21,6,3,50.5439
+46th,Montford Middle,Marvin Kalms,106,151163012,20,4,6,49.9062
+47th,Sanford Middle,Snigdha Nawala,103,344103211,20,7,3,48.9496
+48th,Pizitz Middle School,Michael Zheng,102,278101600,19,4,7,48.6308
+49th,Stewart Middle,Erin Piacitelli,102,413100512,19,4,7,48.6308
+50th,Montford Middle,Hunter Blackburn,98,151165012,18,4,8,47.3553
+51st,Berkeley Preparatory Middle,Ryan Li,95,405101411,17,3,10,46.3987
+52nd,Berkeley Preparatory Middle,Rowan Majumdar,94,405101711,18,8,4,46.0798
+53rd,Stewart Middle,Brianna Schroeder,93,413100112,17,5,8,45.7610
+54th,Montford Middle,Anika Patel,93,151166412,17,5,8,45.7610
+55th,Elizabeth Cobb Middle School,Michaela Fredrickson,93,166001412,17,5,8,45.7610
+56th,Sanford Middle,Jennie Kim,93,344102412,18,9,3,45.7610
+57th,Orlando Science Middle Charter School,Lydia Abedeen,92,348101811,16,2,12,45.4421
+58th,Montford Middle,Eo-Jin Kim,90,151163110,16,4,10,44.8044
+59th,Orlando Science Middle Charter School,Rania Soufny,89,348101511,17,9,4,44.4855
+60th,Elizabeth Cobb Middle School,Dhea Putri,88,166005112,16,6,8,44.1667
+61st,Sanford Middle,Simran Shah,85,344101513,15,5,10,43.2101
+62nd,Elizabeth Cobb Middle School,Martine Fredrickson,84,166001312,14,2,14,42.8912
+63rd,Pizitz Middle School,Kunal Tiwari,84,278102110,15,6,9,42.8912
+64th,Sanford Middle,Aidan Furlong,82,344102012,14,4,12,42.2535
+65th,Pizitz Middle School,Amy Li,81,278101810,14,5,11,41.9346
+66th,Stewart Middle,Tousif Khan,80,413101411,14,6,10,41.6157
+67th,Stewart Middle,Makayla Bellino,78,413100912,13,4,13,40.9780
+68th,Pizitz Middle School,Alex Freeburg,78,278101910,13,4,13,40.9780
+69th,Elizabeth Cobb Middle School,Portland Janus,77,166004111,14,9,7,40.6592
+70th,Williams Middle,Devan Shah,76,468101011,14,10,6,40.3403
+71st,Elizabeth Cobb Middle School,Molly Schoffel,74,166004812,12,4,14,39.7026
+72nd,Pizitz Middle School,Rachel Ding,68,278101710,11,6,13,37.7894
+73rd,Montford Middle,Justin Mulder,67,151163710,11,7,12,37.4705
+74th,Sanford Middle,Lokambika Muthu,66,344104813,11,8,11,37.1516
+75th,Elizabeth Cobb Middle School,Melanie Bynum,65,166000611,11,9,10,36.8328
+76th,Sanford Middle,Adishi Ranjan,65,344101711,13,17,0,36.8328
+77th,Sanford Middle,Sneha Das,65,344103013,10,5,15,36.8328
+78th,Williams Middle,Shreya Patel,65,468100611,12,13,5,36.8328
+79th,Elizabeth Cobb Middle School,Ziwei Lin,61,166002111,10,9,11,35.5573
+80th,Stewart Middle,Nicholas Petit-Frere,60,413101012,12,18,0,35.2385
+81st,Miami Springs,VANESSA GUTIERREZ,59,582001511,9,7,14,34.9196
+82nd,Elizabeth Cobb Middle School,Pierce Ryan,58,166003110,9,8,13,34.6007
+83rd,Williams Middle,Jordon Bergman,55,468100711,9,11,10,33.6441
+84th,Pizitz Middle School,AnneKearney Patton,51,278101510,8,11,11,32.3687
+85th,Pizitz Middle School,Anna Chhabra,42,278102010,6,12,12,29.4989

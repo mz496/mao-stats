@@ -1,0 +1,84 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Sanford Middle,Kyle Gettig,110,344103321,28,2,0,78.6767
+2nd,Sanford Middle,Raymund Vista,92,344104622,24,4,2,71.5576
+3rd,Markham Woods Middle,anthony chen,87,323101621,23,5,2,69.5800
+4th,Sanford Middle,Justin Raman,86,344104121,22,2,6,69.1845
+5th,Sanford Middle,Neil Shah,85,344102721,23,7,0,68.7890
+6th,Seminole (Seminole),ADAM JAFFER,84,341005521,22,4,4,68.3935
+7th,St Edward's,DANIEL MULLEN,83,374010921,22,5,3,67.9980
+8th,Sanford Middle,Sunash Sharma,82,344105422,21,2,7,67.6025
+9th,Sanford Middle,Satya Patel,75,344104022,21,9,0,64.8339
+10th,Seminole (Seminole),ROBERT BLAINE,71,341005621,20,9,1,63.2519
+11th,Markham Woods Middle,aneesh jindal,65,323102221,18,7,5,60.8789
+12th,Markham Woods Middle,kristopher tolopka,64,323103022,17,4,9,60.4833
+13th,Gifford Middle School,Ryan Zerega,62,309100821,17,6,7,59.6923
+14th,Sanford Middle,Helen Tolley,61,344104521,17,7,6,59.2968
+15th,Sanford Middle,Diptodip Deb,59,344103220,16,5,9,58.5058
+16th,Seminole (Seminole),Alex Oh,56,341005822,15,4,11,57.3193
+17th,Jackson Heights Middle,NATHAN ZHANG,56,304100121,15,4,11,57.3193
+18th,Lincoln Park Academy,Samantha Strong,55,396001521,15,5,10,56.9238
+19th,Seminole (Seminole),Michelle Zhong,55,341006321,15,5,10,56.9238
+20th,Sanford Middle,Viraj Shah,54,344104322,16,10,4,56.5283
+21st,Sanford Middle,Calvin Yeung,52,344106420,14,4,12,55.7372
+22nd,Sanford Middle,Mahzain Malik,52,344103920,14,4,12,55.7372
+23rd,Markham Woods Middle,jessica fang,50,323101822,13,2,15,54.9462
+24th,Lincoln Park Academy,Dishan Patel,48,396001321,14,8,8,54.1552
+25th,Markham Woods Middle,stephanie yuan,47,323103421,13,5,12,53.7597
+26th,Jackson Heights Middle,PRERNA SHARMA,46,304100221,13,6,11,53.3642
+27th,Markham Woods Middle,shawnison hammerling,46,323102021,14,10,6,53.3642
+28th,West Shore,Alex Heuser,44,393000122,13,8,9,52.5732
+29th,West Shore,Sarah Arends,43,393000921,11,1,18,52.1777
+30th,Sanford Middle,Nadiya Nawsheen,43,344105720,13,9,8,52.1777
+31st,West Shore,Shelley Mitchell,43,393000521,13,9,8,52.1777
+32nd,West Shore,Emma Kalvan,42,393000621,13,10,7,51.7822
+33rd,Sanford Middle,Kyle Cook,42,344103120,12,6,12,51.7822
+34th,Sanford Middle,Marcellus Johnson,40,344105920,11,4,15,50.9912
+35th,Sanford Middle,Austin Miller,40,344105520,14,16,0,50.9912
+36th,West Shore,Caleb Bryant,39,393001721,13,13,4,50.5956
+37th,Jackson Heights Middle,MARK VAINSHTEIN,39,304100321,12,9,9,50.5956
+38th,Sanford Middle,Derek Zoock,38,344105220,10,2,18,50.2001
+39th,Bayside,Kelsey Tousignant,35,303000721,10,5,15,49.0136
+40th,Sanford Middle,Swathi Konduri,35,344102820,10,5,15,49.0136
+41st,St Edward's,JAD SHALHOUB,35,374011321,11,9,10,49.0136
+42nd,St Edward's,SARA SWIFT,34,374011421,9,2,19,48.6181
+43rd,Sanford Middle,Alexander Lowie,34,344103720,11,10,9,48.6181
+44th,Seminole (Seminole),AAISHA SANAULLAH,34,341005221,10,6,14,48.6181
+45th,West Shore,Katie Beckwith,34,393000722,11,10,9,48.6181
+46th,St Edward's,KRIS MENNIGER,33,374010722,11,11,8,48.2226
+47th,St Edward's,CLAY DEAL,32,374010322,9,4,17,47.8271
+48th,Sanford Middle,Shivani Mehta,30,344102420,9,6,15,47.0361
+49th,Suncoast Comm,Lois Arasim,29,327008521,10,11,9,46.6406
+50th,St Edward's,ELLA MERRILL,27,374010822,7,1,22,45.8495
+51st,Bayside,Robert Rogulski,27,303000521,8,5,17,45.8495
+52nd,St Edward's,COLTON WARREN,27,374011621,9,9,12,45.8495
+53rd,Sanford Middle,Aminha Ullah,25,344105820,9,11,10,45.0585
+54th,Jackson Heights Middle,RADHIA AZAD,25,304101122,11,19,0,45.0585
+55th,Suncoast Comm,Katerina Pattee,24,327008421,9,12,9,44.6630
+56th,Sanford Middle,Sara Friend,24,344103020,7,4,19,44.6630
+57th,Sanford Middle,Adam Novak,23,344103420,8,9,13,44.2675
+58th,Bayside,William Gordon,22,303000222,7,6,17,43.8720
+59th,Lincoln Park Academy,Violetta Gonzales,20,396001721,6,4,20,43.0810
+60th,Sanford Middle,Joshua Tijerino,20,344102920,6,4,20,43.0810
+61st,Jackson Heights Middle,GRACE LI,20,304100421,6,4,20,43.0810
+62nd,Suncoast Comm,Nicole Dan,19,327006721,7,9,14,42.6855
+63rd,St Edward's,TRACY NGUYEN,19,374011020,5,1,24,42.6855
+64th,St Edward's,WESLEY CAMPBELL,18,374010122,6,6,18,42.2900
+65th,Sanford Middle,Ernest Choi,15,344102520,7,13,10,41.1035
+66th,Markham Woods Middle,shanpetriaya Adudu,14,323104122,5,6,19,40.7079
+67th,Sanford Middle,Swara Desai,14,344105120,4,2,24,40.7079
+68th,West Shore,Alex Autenreib,13,393001322,6,11,13,40.3124
+69th,Sanford Middle,Samiha Nazrul,12,344102320,6,12,12,39.9169
+70th,Bayside,Melanie Bailey,11,303000020,5,9,16,39.5214
+71st,Palm Beach Gardens,Kephard Atilus,11,373002821,6,13,11,39.5214
+72nd,Palm Beach Gardens,Caroline Glezil,11,373000021,5,9,16,39.5214
+73rd,Bayside,Austin Cavenaugh,11,303000121,4,5,21,39.5214
+74th,Sanford Middle,Dalia Ghazall,10,344105020,4,6,20,39.1259
+75th,Markham Woods Middle,john kewley,10,323104022,7,18,5,39.1259
+76th,Lincoln Park Academy,Daniel Saban,10,396001421,6,14,10,39.1259
+77th,Palm Beach Gardens,Wandy Geffrard,10,373002620,5,10,15,39.1259
+78th,Bayside,Joshua Schmidt,9,303000622,4,7,19,38.7304
+79th,Palm Beach Gardens,Stephanine Richard,5,373000121,5,15,10,37.1484
+80th,Palm Beach Gardens,Dorie Josma,5,373000321,4,11,15,37.1484
+81st,Suncoast Comm,Nathalie Canate,0,327009021,4,16,10,35.1708
+82nd,St Edward's,AKSHA PATEL,0,374011220,1,4,25,35.1708
+83rd,Sanford Middle,Bobek Manesh,0,344106620,3,12,15,35.1708

@@ -1,0 +1,91 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,George Tedder,90,295003541,24,6,0,71.2044
+2nd,Rickards High School,Payal Patel,90,140001941,24,6,0,71.2044
+3rd,Buchholz,David Annable,87,295000141,23,5,2,70.2251
+4th,Buchholz,Emily Shroads,86,295003441,23,6,1,69.8987
+5th,Eastside,Jon Claus,86,280001741,23,6,1,69.8987
+6th,Rickards High School,Daniel Kang,85,140004341,23,7,0,69.5722
+7th,Buchholz,John Phillpot,84,295000642,22,4,4,69.2458
+8th,Buchholz,Jeremy Liu,80,295000542,22,8,0,67.9400
+9th,Buchholz,Antony Gillette,80,295000341,22,8,0,67.9400
+10th,Lawton Chiles High School,Niral Patel,79,181004541,21,5,4,67.6135
+11th,Buchholz,Haeun Jung,78,295000442,21,6,3,67.2871
+12th,Buchholz,Jingyi Ye,73,295001140,19,3,8,65.6549
+13th,Rickards High School,Diego Hernandez,72,140001641,20,8,2,65.3284
+14th,Buchholz,Mackenzie Sims,72,295000740,19,4,7,65.3284
+15th,Lincoln,Mitchell Schmidt,67,109000641,18,5,7,63.6962
+16th,Stanton College Preparatory School,Tuongvan Le,64,296002341,17,4,9,62.7169
+17th,Eastside,Tahsis Claus,59,280001841,17,9,4,61.0846
+18th,Stanton College Preparatory School,Mohan Ravi,56,296003041,15,4,11,60.1053
+19th,Buchholz,June Huang,56,295003242,16,8,6,60.1053
+20th,Lawton Chiles High School,Joyce Lin,53,181000041,15,7,8,59.1260
+21st,Eastside,Jason Kim,53,280002142,15,7,8,59.1260
+22nd,Buchholz,Bryce Sperling,50,295000940,14,6,10,58.1466
+23rd,Rocky Bayou Christian School,Fang Xin,50,192002242,16,14,0,58.1466
+24th,Buchholz,YuXiang Zhang,38,295006040,11,6,13,54.2293
+25th,Lawton Chiles High School,Ken Paterson,37,181004641,11,7,12,53.9028
+26th,Buchholz,Yuhak Choi,35,295003140,11,9,10,53.2499
+27th,Rickards High School,Tarun Gupta,35,140000741,13,17,0,53.2499
+28th,Lincoln,Kushan Patel,33,109052441,10,7,13,52.5971
+29th,Leon,TANNER REPASKY,32,190002041,10,8,12,52.2706
+30th,Lincoln,Luxi Qiao,29,109016841,9,7,14,51.2913
+31st,Eastside,Joshua Carnes,26,280005442,8,6,16,50.3119
+32nd,Stanton College Preparatory School,Daniel Josol,26,296002441,9,10,11,50.3119
+33rd,Eastside,Safa Kaleem,23,280002041,9,13,8,49.3326
+34th,Stanton College Preparatory School,Ana Bautista,23,296004242,8,9,13,49.3326
+35th,Leon,JINCHI LIU,21,190001941,7,7,16,48.6797
+36th,Navarre,TRINH NGUYEN,20,180005042,7,8,15,48.3533
+37th,Stanton College Preparatory School,Janice Lee,20,296007141,7,8,15,48.3533
+38th,Gainesville High School,Dagan Martinez,19,268000241,6,5,19,48.0268
+39th,Navarre,WILL POLOSKI,15,180005441,5,5,20,46.7210
+40th,Leon,YUSHAN WANG,15,190001741,5,5,20,46.7210
+41st,Rickards High School,Lily Moline,15,140001242,8,17,5,46.7210
+42nd,Maclay,Sandy Chang,14,172002841,4,2,24,46.3946
+43rd,Eastside,Judy Noh,13,280002441,5,7,18,46.0681
+44th,Rocky Bayou Christian School,Jacob Emerick,12,192009441,4,4,22,45.7417
+45th,Lincoln,Alan Kung,11,109013541,5,9,16,45.4153
+46th,Rocky Bayou Christian School,Emily Steele,11,192001641,4,5,21,45.4153
+47th,Navarre,CONNOR PASSALACQUA,11,180005342,3,1,26,45.4153
+48th,Rocky Bayou Christian School,Bill Hudson,11,192002741,4,5,21,45.4153
+49th,Lawton Chiles High School,Morrie Kim,10,181000741,5,10,15,45.0888
+50th,Rickards High School,Kenny Soyars,10,140004242,8,22,0,45.0888
+51st,Maclay,Merina Gorman,9,172002741,6,15,9,44.7624
+52nd,Navarre,MADISON HOWARD,8,180006140,2,0,28,44.4359
+53rd,Navarre,Kaitie Meyer,8,180004840,3,4,23,44.4359
+54th,Lincoln,Bradley Wheeler,7,109000340,3,5,22,44.1095
+55th,Leon,DANIEL ALDRIDGE,7,190001842,2,1,27,44.1095
+56th,Leon,JUNE LEE,7,190002140,5,13,12,44.1095
+57th,Oak Hall,DEAN SHARABI,7,249011041,3,5,22,44.1095
+58th,Lincoln,Danielle Bedard,7,109006942,4,9,17,44.1095
+59th,Navarre,PATRICK SULLIVAN,6,180005842,2,2,26,43.7830
+60th,Lincoln,Randall Gavin,5,109000042,2,3,25,43.4566
+61st,Rocky Bayou Christian School,JinWoo Jang,5,192003242,4,11,15,43.4566
+62nd,Navarre,AMBER CONTANT,5,180004342,7,23,0,43.4566
+63rd,Oak Hall,CRISTINA LOPEZNIETO,4,249001141,3,8,19,43.1301
+64th,Godby,Amber Walden,4,210000341,4,12,14,43.1301
+65th,Lawton Chiles High School,Annie Booth,3,181000342,3,9,18,42.8037
+66th,Rocky Bayou Christian School,Kit Sandlin,3,192006842,3,9,18,42.8037
+67th,Port Saint Joe High School,Megan Gannon,3,103002842,4,13,13,42.8037
+68th,Port Saint Joe High School,Adrian Hubbard,1,103000042,1,3,26,42.1508
+69th,Eastside,Alec McCaffrey,1,280002342,3,11,16,42.1508
+70th,Port Saint Joe High School,Brianna Sigman,1,103001441,2,7,21,42.1508
+71st,Port Saint Joe High School,Sara Ward,1,103001242,1,3,26,42.1508
+72nd,Leon,JENNI WU,1,190000542,1,3,26,42.1508
+73rd,Lawton Chiles High School,Nitasha Menon,0,181004342,6,24,0,41.8244
+74th,Port Saint Joe High School,Corey Burke,0,103001641,1,4,25,41.8244
+75th,Navarre,KAYLA KING,0,180004641,1,4,25,41.8244
+76th,Navarre,MELANIE GURSKI,-1,180004441,0,1,29,41.4979
+77th,Port Saint Joe High School,Erin Kennedy,-2,103003541,1,6,23,41.1715
+78th,Lincoln,Adithi Vemuri,-2,109011842,0,2,28,41.1715
+79th,Stanton College Preparatory School,Keyerra Croley,-2,296005742,0,2,28,41.1715
+80th,Port Saint Joe High School,Erica Balogh,-2,103001741,1,6,23,41.1715
+81st,Rocky Bayou Christian School,LAURA PATE,-3,192010242,0,3,27,40.8450
+82nd,Oak Hall,LESHIN VARGHESE,-3,249001341,3,15,12,40.8450
+83rd,Navarre,ALEXA MENDEZ,-4,180004741,0,4,26,40.5186
+84th,Lincoln,Courtney Simpson,-4,109031442,0,4,26,40.5186
+85th,Rocky Bayou Christian School,Sarah Lynch,-5,192002141,0,5,25,40.1921
+86th,Oak Hall,SCOTTY WILLIS,-5,249007641,0,5,25,40.1921
+87th,Leon,CHELSEA WILLIAMS,-6,190003842,1,10,19,39.8657
+88th,Rocky Bayou Christian School,Emily Kent,-7,192001940,1,11,18,39.5392
+89th,Port Saint Joe High School,Katie McNeill,-8,103002342,0,8,22,39.2128
+90th,Leon,JAMES GRAHAM,-10,190004142,4,26,0,38.5599

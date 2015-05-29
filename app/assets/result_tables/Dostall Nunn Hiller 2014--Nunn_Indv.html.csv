@@ -1,0 +1,329 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),Vladyslav Oleksenko,95,506005920,25,5,0,86.7253
+2nd,Buchholz,Brad Benton,85,295006230,23,7,0,81.6454
+3rd,Deerlake Middle,ANDREW YUAN,81,185103020,21,3,6,79.6135
+4th,Lincoln Middle,Daniel Zeng,76,201100430,20,4,6,77.0735
+5th,Buchholz,Daniel Samraj,74,295000230,20,6,4,76.0576
+6th,Buchholz,Steven Li,73,295003020,20,7,3,75.5496
+7th,Sanford Middle,Jordan Nguyen,73,344104730,20,7,3,75.5496
+8th,Buchholz,Sidhika Balachandar,71,295002620,19,5,6,74.5336
+9th,Buchholz,Jenny Baik,69,295005320,18,3,9,73.5176
+10th,Cypress Bay,Sujay Shankar,68,588003330,19,8,3,73.0096
+11th,Buchholz,Chris Campo,68,295000820,19,8,3,73.0096
+12th,Buchholz,Qing Lu,66,295005420,18,6,6,71.9937
+13th,Buchholz,Sohan Subhash,65,295004720,18,7,5,71.4857
+14th,Buchholz,DJ Hranicky,64,295002020,17,4,9,70.9777
+15th,American Heritage (Plantation),Cassandra Pena,63,506004030,17,5,8,70.4697
+16th,Lincoln Middle,Tej Stead,63,201100530,17,5,8,70.4697
+17th,American Heritage (Plantation),Daniel Sarnecki,62,506009330,17,6,7,69.9617
+18th,Buchholz,Claire Tseng,61,295004620,16,3,11,69.4537
+19th,Falcon Cove Middle School,Viraj Maddur,59,541102120,16,5,9,68.4378
+20th,Fairview Middle,Sri Donthineni,56,125102720,15,4,11,66.9138
+21st,American Heritage (Plantation),Paul Teng,55,506006520,15,5,10,66.4058
+22nd,Lincoln Middle,Ben Gao,55,201101030,15,5,10,66.4058
+23rd,Lincoln Middle,Andy Wu,55,201100230,16,9,5,66.4058
+24th,Buchholz,Grace Douglas,55,295004920,15,5,10,66.4058
+25th,Cypress Bay,Joseph Li,55,588002030,14,1,15,66.4058
+26th,Deerlake Middle,BRANDON CHYI,54,185109420,15,6,9,65.8978
+27th,Doral Academy Middle,Anirudh Rahul,54,537700620,15,6,9,65.8978
+28th,Fairview Middle,Nihar Kommu,54,125103220,15,6,9,65.8978
+29th,American Heritage (Plantation),Min-kyu (Andrew) Kim,54,506003730,15,6,9,65.8978
+30th,Buchholz,Ben Nagoshi,54,295004220,15,6,9,65.8978
+31st,Lawton Chiles High School,Julia Jin,51,181008530,13,1,16,64.3739
+32nd,Fairview Middle,Joshua Kim,51,125103120,13,1,16,64.3739
+33rd,American Heritage (Plantation),Karen Lu,51,506004920,14,5,11,64.3739
+34th,American Heritage (Plantation),June Dong,51,506002030,14,5,11,64.3739
+35th,Buchholz,Gavin Gamble,51,295000930,14,5,11,64.3739
+36th,Sanford Middle,Zach Ip,49,344104830,14,7,9,63.3579
+37th,Coral Glades,Sebastian Castro,49,528000330,13,3,14,63.3579
+38th,American Heritage (Plantation),Sofia Leon,48,506004530,13,4,13,62.8499
+39th,Lawton Chiles High School,Cynthia Wang,48,181009530,13,4,13,62.8499
+40th,American Heritage - Boca/Delray,Xinyuan (Klaus) Xu,48,526006830,15,12,3,62.8499
+41st,Lincoln Middle,Kathleen Yang,47,201100030,13,5,12,62.3419
+42nd,West Broward High School,Omar Kalam,47,534000430,14,9,7,62.3419
+43rd,Deerlake Middle,JENNIFER WEN,46,185102620,12,2,16,61.8339
+44th,Buchholz,Caroline Chu,46,295002720,13,6,11,61.8339
+45th,Orlando Science Middle Charter School,Alexandria Bias,45,348100130,15,15,0,61.3259
+46th,Lincoln Middle,Cindy Jie,44,201100630,12,4,14,60.8180
+47th,Cypress Bay,Zanshen Yu,44,588004430,13,8,9,60.8180
+48th,Orlando Science Middle Charter School,Tran Le,44,348100230,12,4,14,60.8180
+49th,American Heritage (Plantation),Jessica Kang,43,506003230,12,5,13,60.3100
+50th,Lawton Chiles High School,Alanna Du,42,181008130,13,10,7,59.8020
+51st,American Heritage (Plantation),Andrew (AJ) Kolondra,42,506007120,11,2,17,59.8020
+52nd,Deerlake Middle,VICTORIA YANG,41,185102920,12,7,11,59.2940
+53rd,Hillsborough,Andrew Kim,41,428080630,14,15,1,59.2940
+54th,Orlando Science Middle Charter School,Esha Ranade,40,348100420,11,4,15,58.7860
+55th,Buchholz,Arjun Panicker,40,295003920,12,8,10,58.7860
+56th,University School of NSU,Amelia Meles,40,563004330,13,12,5,58.7860
+57th,Orlando Science Charter  High School,Lance Jittan,40,348000730,11,4,15,58.7860
+58th,Buchholz,Benjamin Salvo,40,295006130,11,4,15,58.7860
+59th,Lincoln Middle,Daniel Chen,40,201100930,11,4,15,58.7860
+60th,Lawton Chiles High School,Joanna Wang,39,181009630,12,9,9,58.2780
+61st,Fairview Middle,Bryan Cao,39,125102520,12,9,9,58.2780
+62nd,Lawton Chiles High School,Allison Stevens,38,181009030,10,2,18,57.7700
+63rd,American Heritage (Plantation),Vayun Alapati,37,506005830,11,7,12,57.2620
+64th,Lincoln Middle,Jackie Liu,37,201100830,11,7,12,57.2620
+65th,Seminole (Seminole),ANIRUDH VEGESANA,37,341003330,11,7,12,57.2620
+66th,Lawton Chiles High School,Erik Huang,37,181008430,10,3,17,57.2620
+67th,Doral Academy Middle,Douglas Shu,37,537701820,10,3,17,57.2620
+68th,Orlando Science Middle Charter School,Sanjana Konda,37,348100520,11,7,12,57.2620
+69th,American Heritage (Plantation),Zhengyang (Jim) Liu,36,506009830,10,4,16,56.7541
+70th,American Heritage (Plantation),Sameera Vedantam,35,506004230,10,5,15,56.2461
+71st,Sanford Middle,Alex Quach,35,344104630,10,5,15,56.2461
+72nd,American Heritage - Boca/Delray,Spencer Bredoff,35,526000720,10,5,15,56.2461
+73rd,Sanford Middle,Vishal Purohitham,35,344104420,10,5,15,56.2461
+74th,Lawton Chiles High School,Jessica Dang,35,181000030,9,1,20,56.2461
+75th,Doral Academy Middle,Tomas Alvarez,35,537700920,10,5,15,56.2461
+76th,Fairview Middle,Maathesh Manoharan,35,125103420,10,5,15,56.2461
+77th,American Heritage (Plantation),Sajiv Chandrasekaran,35,506006830,10,5,15,56.2461
+78th,American Heritage (Plantation),James Blitz,35,506006320,13,17,0,56.2461
+79th,American Heritage - Boca/Delray,Matthew Feder,35,526001130,11,9,10,56.2461
+80th,Sanford Middle,Cyriac Manjaly,35,344103520,10,5,15,56.2461
+81st,Doral Academy Middle,Jorge Santos,34,537701720,9,2,19,55.7381
+82nd,Doral Academy Middle,Pedro Contipelli,34,537701220,9,2,19,55.7381
+83rd,American Heritage - Boca/Delray,Xinwei (Elaine) Dong,34,526000920,10,6,14,55.7381
+84th,Doral Academy High,Elier Bermudez,34,537502130,10,6,14,55.7381
+85th,American Heritage (Plantation),Trishala Kumar,33,506005620,10,7,13,55.2301
+86th,Fairview Middle,Townsend Porcher,33,125103820,9,3,18,55.2301
+87th,Orlando Science Middle Charter School,Arshia Goyal,33,348100330,9,3,18,55.2301
+88th,Suncoast Comm,Christopher Stephens,33,327006530,9,3,18,55.2301
+89th,Fort Myers,Tianxin Zheng,33,423003330,10,7,13,55.2301
+90th,Sanford Middle,Yashvi Vardhan,32,344104520,10,8,12,54.7221
+91st,Saint Stephen's Episcopal School,VANESSA YAN,32,489000930,9,4,17,54.7221
+92nd,Falcon Cove Middle School,Stephen Soto,32,541103220,9,4,17,54.7221
+93rd,Lincoln Middle,Justin Kim,31,201100730,9,5,16,54.2141
+94th,Saint Stephen's Episcopal School,MATTHEW THOMAS,31,489002420,9,5,16,54.2141
+95th,Williams Middle,Roshan Jayaramen,31,468103220,9,5,16,54.2141
+96th,Wharton,Gregory Harvey,31,485001930,11,13,6,54.2141
+97th,Coral Glades,Brett Ellenbogen,30,528002130,8,2,20,53.7061
+98th,Doral Academy High,Karanveer Sandhu,30,537503320,8,2,20,53.7061
+99th,American Heritage - Boca/Delray,Cole McMullen,30,526001720,8,2,20,53.7061
+100th,Lawton Chiles High School,Ashley Tang,29,181009330,8,3,19,53.1981
+101st,Fairview Middle,Diyah Mettupalli,29,125103520,9,7,14,53.1981
+102nd,Cypress Bay,Jason Liu,28,588002130,10,12,8,52.6902
+103rd,Falcon Cove Middle School,Kyuhyun Park,28,541102620,8,4,18,52.6902
+104th,Williams Middle,Robert Haywood,28,468101620,8,4,18,52.6902
+105th,University School of NSU,Skylar Ronkin,27,563004920,10,13,7,52.1822
+106th,Saint Stephen's Episcopal School,IAN SCHAFF,27,489000020,7,1,22,52.1822
+107th,American Heritage (Plantation),Melina Michel,27,506008130,7,1,22,52.1822
+108th,University School of NSU,Matthew Robbins,27,563004820,7,1,22,52.1822
+109th,Coral Glades,Waddy Leonvil,27,528001630,8,5,17,52.1822
+110th,West Broward High School,Steven Santos,27,534002930,9,9,12,52.1822
+111th,Doral Academy High,Camille Wang,27,537500730,8,5,17,52.1822
+112th,Orlando Science Middle Charter School,Harshitha Uppada,26,348100620,7,2,21,51.6742
+113th,Falcon Cove Middle School,Nicolas Golner,26,541101020,7,2,21,51.6742
+114th,Sanford Middle,Anderson Moonguaklang,26,344103320,7,2,21,51.6742
+115th,Sanford Middle,Caitlin Chen,26,344103420,7,2,21,51.6742
+116th,American Heritage - Boca/Delray,Xikai (Sky) Wu,26,526003130,9,10,11,51.6742
+117th,Seminole (Seminole),SORIN CHO,26,341002430,7,2,21,51.6742
+118th,Nova High School,HuiAn Ooi,25,553005230,10,15,5,51.1662
+119th,Nova High School,Aviva Grimmett,25,553001020,11,19,0,51.1662
+120th,American Heritage (Plantation),Jessica Wu,25,506005330,7,3,20,51.1662
+121st,Lawton Chiles High School,Raluca Popa,25,181008930,7,3,20,51.1662
+122nd,Fairview Middle,Vishnu Vijay,25,125104320,7,3,20,51.1662
+123rd,Williams Middle,Anmol Mittal,25,468102720,8,7,15,51.1662
+124th,West Broward High School,Maryam Iqbal,24,534004630,7,4,19,50.6582
+125th,Doral Academy High,Jason Bravo,24,537505730,6,0,24,50.6582
+126th,Doral Academy High,Carolina Mora,24,537502730,7,4,19,50.6582
+127th,Tampa Bay Tech,Arsany Gad,24,461000830,6,0,24,50.6582
+128th,Lincoln,Dylan Swart,24,109004030,6,0,24,50.6582
+129th,Doral Academy Middle,Fabiano Andrade,24,537703920,7,4,19,50.6582
+130th,Lawton Chiles High School,George Zhang,24,181009830,7,4,19,50.6582
+131st,Williams Middle,Thushar Mahesh,24,468102620,8,8,14,50.6582
+132nd,Hillsborough,Rushabh Shah,24,428081620,9,12,9,50.6582
+133rd,Sanford Middle,Noah Burkhart,23,344105220,6,1,23,50.1502
+134th,Doral Academy High,Antonio Fernandez,23,537500230,7,5,18,50.1502
+135th,Orlando Science Middle Charter School,Nicholas Nguyen,23,348100720,7,5,18,50.1502
+136th,American Heritage - Boca/Delray,Miao (Jeff) Jin,23,526006630,8,9,13,50.1502
+137th,Falcon Cove Middle School,Adam Abdalla,23,541100920,6,1,23,50.1502
+138th,Seminole (Seminole),WENJIE GONG,22,341000930,7,6,17,49.6422
+139th,Doral Academy High,Mariajose Soto,22,537503130,6,2,22,49.6422
+140th,Cypress Bay,Jianing Wang,22,588004130,7,6,17,49.6422
+141st,Lawton Chiles High School,Odessa Deng,22,181008030,6,2,22,49.6422
+142nd,Nova High School,Kristanty Kurnia,22,553003030,6,2,22,49.6422
+143rd,Doral Academy Middle,Camila Maneiro,22,537700420,7,6,17,49.6422
+144th,American Heritage - Boca/Delray,Fritz Rolle,21,526000120,7,7,16,49.1343
+145th,Lawton Chiles High School,Erin Kim,21,181008630,7,7,16,49.1343
+146th,Fairview Middle,Deekshita Vedula,21,125104120,6,3,21,49.1343
+147th,Deerlake Middle,KEVIN CUI,21,185113020,7,7,16,49.1343
+148th,Wharton,Victoria Bell,21,485004430,6,3,21,49.1343
+149th,Williams Middle,Truman Hoang,21,468103520,7,7,16,49.1343
+150th,Falcon Cove Middle School,Ian Yu,20,541103520,6,4,20,48.6263
+151st,Wharton,Sahil Deschenes,20,485002130,7,8,15,48.6263
+152nd,Fort Myers,Martin Smith,20,423002720,6,4,20,48.6263
+153rd,Piper,Samuel Greene,20,552001330,10,20,0,48.6263
+154th,American Heritage (Plantation),Jacob Becker,20,506000000,7,8,15,48.6263
+155th,Williams Middle,Isha Harshe,19,468101520,7,9,14,48.1183
+156th,Doral Academy High,Amanda Fernandez,19,537505830,5,1,24,48.1183
+157th,Tampa Bay Tech,Sabrina Rodriguez,19,461000730,6,5,19,48.1183
+158th,Suncoast Comm,Megan Simmen,19,327006430,5,1,24,48.1183
+159th,Lincoln Middle,Annie Ho,19,201100330,6,5,19,48.1183
+160th,Falcon Cove Middle School,Rishab Jain,19,541101720,6,5,19,48.1183
+161st,Seminole (Seminole),KARTHIK SREERAM,19,341003430,7,9,14,48.1183
+162nd,Fairview Middle,Rakasha Sridhar,19,125104020,8,13,9,48.1183
+163rd,American Heritage - Boca/Delray,Daniel Schneider,18,526002330,6,6,18,47.6103
+164th,American Heritage (Plantation),Jamie Riesenberg,18,506008830,5,2,23,47.6103
+165th,Lawton Chiles High School,Alan Van Etten,18,181009430,6,6,18,47.6103
+166th,Coral Glades,Drew Rader,18,528002230,5,2,23,47.6103
+167th,Lawton Chiles High School,Drake Faris,18,181008230,5,2,23,47.6103
+168th,Williams Middle,Joel Shaju,18,468104820,6,6,18,47.6103
+169th,Saint Stephen's Episcopal School,RISHAB RAMAMURTHY,18,489002820,6,6,18,47.6103
+170th,Seminole (Seminole),RYAN LAM,18,341000830,6,6,18,47.6103
+171st,Lincoln Middle,Eric Song,18,201102030,6,6,18,47.6103
+172nd,Saint Stephen's Episcopal School,ALEX SIEGAL,17,489000730,5,3,22,47.1023
+173rd,Vero Beach,LINDSAY BARKETT,17,372000030,6,7,17,47.1023
+174th,Coral Glades,Kassandra Perez,17,528002430,5,3,22,47.1023
+175th,Tampa Bay Tech,Mikeul Dinkens,17,461001130,5,3,22,47.1023
+176th,Saint Stephen's Episcopal School,GABY PUNG,17,489000520,5,3,22,47.1023
+177th,Doral Academy Middle,Liliana Sosa,17,537701920,6,7,17,47.1023
+178th,Miami Springs,OSCAR TORRES,17,582002930,7,11,12,47.1023
+179th,Doral Academy High,Crystal Zhang,17,537500030,5,3,22,47.1023
+180th,American Heritage (Plantation),Nicholas Montes,17,506008420,7,11,12,47.1023
+181st,American Heritage (Plantation),Jack Nelson,17,506008530,5,3,22,47.1023
+182nd,Miami Sunset,Angie Diaz,16,544002220,6,8,16,46.5943
+183rd,Mast Academy,Carlos Rojas,16,556001540,4,0,26,46.5943
+184th,Sanford Middle,Srinija Cherivirala,16,344104120,7,12,11,46.5943
+185th,Falcon Cove Middle School,Kari Xia,16,541103620,5,4,21,46.5943
+186th,American Heritage (Plantation),Amy Kwon,16,506007330,6,8,16,46.5943
+187th,American Heritage - Boca/Delray,Abhishek (Aby) Venkataramnan,16,526002730,6,8,16,46.5943
+188th,Clearwater Fundamental Middle,Rana Hanna,15,438150520,5,5,20,46.0863
+189th,Pembroke Pines Charter High School,Kyle Frank,15,548501530,4,1,25,46.0863
+190th,Coral Glades,Thomas Sierra,15,528001230,6,9,15,46.0863
+191st,Clearwater Fundamental Middle,Tina Bhatt,15,438105720,5,5,20,46.0863
+192nd,Saint Stephen's Episcopal School,STEPHEN WU,15,489005130,7,13,10,46.0863
+193rd,Sanford Middle,Narenkumar Thirmiya,15,344103620,5,5,20,46.0863
+194th,American Heritage - Boca/Delray,Qiaochu (Sabrina) Huang,15,526001420,8,17,5,46.0863
+195th,Lawton Chiles High School,Jamie Ha,14,181008330,5,6,19,45.5783
+196th,Clearwater Fundamental Middle,Erin Watson,14,438173120,4,2,24,45.5783
+197th,Falcon Cove Middle School,Kavya Sarin,14,541103020,5,6,19,45.5783
+198th,Lincoln Middle,Anna Liu,14,201102620,4,2,24,45.5783
+199th,American Heritage - Boca/Delray,Yutong (Yolanda) Wu,14,526003320,5,6,19,45.5783
+200th,Braddock,OLIVIA FLEBES,14,538002040,5,6,19,45.5783
+201st,Doral Academy Middle,Alexander Breijo,14,537706310,5,6,19,45.5783
+202nd,Clearwater Fundamental Middle,Joe Sanders,13,438124320,4,3,23,45.0704
+203rd,Nova High School,Khalil King,13,553004030,5,7,18,45.0704
+204th,Doral Academy High,Felipe Delacamara,13,537505920,5,7,18,45.0704
+205th,Clearwater Fundamental Middle,Brent Wilson,13,438165820,5,7,18,45.0704
+206th,Doral Academy High,Nathaly Gonzalez,13,537501930,5,7,18,45.0704
+207th,American Heritage (Plantation),Ishaan Shah,13,506009620,5,7,18,45.0704
+208th,Sanford Middle,Matthew Chang,13,344105120,7,15,8,45.0704
+209th,Williams Middle,Neha Dakshit,13,468103820,6,11,13,45.0704
+210th,American Heritage - Boca/Delray,Yifan (Myles) Shao,13,526002420,6,11,13,45.0704
+211th,Lawton Chiles High School,Ammar Syed,12,181009130,4,4,22,44.5624
+212th,Saint Stephen's Episcopal School,LUKE VALADIE,12,489000620,3,0,27,44.5624
+213th,Tampa Bay Tech,Beatriz Garcia,12,461000030,3,0,27,44.5624
+214th,Deerlake Middle,AMY XIA,12,185102820,4,4,22,44.5624
+215th,American Heritage (Plantation),Fernando Rivera,12,506005130,5,8,17,44.5624
+216th,Fairview Middle,Cydney Parmar,12,125103720,5,8,17,44.5624
+217th,Lincoln,Franz Roeder,12,109000930,4,4,22,44.5624
+218th,Williams Middle,Saketh Katta,12,468104020,6,12,12,44.5624
+219th,Saint Stephen's Episcopal School,COLTON MELNICK,12,489002220,4,4,22,44.5624
+220th,Doral Academy High,Sofia Osuna,12,537502030,4,4,22,44.5624
+221st,Lincoln Middle,Shreya Pathak,11,201101320,3,1,26,44.0544
+222nd,Doral Academy High,Luis Gomez,11,537500830,4,5,21,44.0544
+223rd,Hillsborough,Carlos Morales,11,428083030,4,5,21,44.0544
+224th,Clearwater Fundamental Middle,Zoe Davidson,11,438170520,5,9,16,44.0544
+225th,Orlando Science Charter  High School,Lydia Abedeen,11,348001120,8,21,1,44.0544
+226th,Vero Beach,MARGARET WELTE,10,372001130,3,2,25,43.5464
+227th,Williams Middle,Sricharan Pusala,10,468103920,3,2,25,43.5464
+228th,Doral Academy High,Daniel Ramos,10,537502230,3,2,25,43.5464
+229th,Pembroke Pines Charter High School,Victor Perez-Ramirez,10,548501730,3,2,25,43.5464
+230th,Palm Harbor Univ,Ewa Wiercioch,10,413008230,4,6,20,43.5464
+231st,Piper,Sijia Li,10,552000530,4,6,20,43.5464
+232nd,Saint Stephen's Episcopal School,MARYANN PLACHERIL,10,489000830,3,2,25,43.5464
+233rd,American Heritage - Boca/Delray,Laura Najera,10,526008430,5,10,15,43.5464
+234th,Palm Harbor Univ,Chase Fagen,10,413002930,4,6,20,43.5464
+235th,Sanford Middle,Tanuj Prajapati,10,344104220,6,14,10,43.5464
+236th,Nova High School,Isabella Rojas,9,553000630,4,7,19,43.0384
+237th,Fort Myers,Tasnim Thakur,9,423003530,3,3,24,43.0384
+238th,Saint Stephen's Episcopal School,EMMA JONES,9,489004030,3,3,24,43.0384
+239th,Falcon Cove Middle School,MinatoSky Myers,9,541102520,3,3,24,43.0384
+240th,Suncoast Comm,David Wang,9,327006730,3,3,24,43.0384
+241st,Lincoln,Daniel Spainhour,9,109000730,3,3,24,43.0384
+242nd,Williams Middle,Anushka Dakshit,9,468103020,4,7,19,43.0384
+243rd,American Heritage - Boca/Delray,Cydney (CJ) Fam,9,526001030,6,15,9,43.0384
+244th,Sanford Middle,Vishal Dubey,9,344104320,7,19,4,43.0384
+245th,Deerlake Middle,LEON KWAN,9,185115220,4,7,19,43.0384
+246th,Doral Academy High,Tiffany Leesang,9,537504030,4,7,19,43.0384
+247th,Vero Beach,SHABEEN RAZA,9,372000630,4,7,19,43.0384
+248th,Coral Glades,Tyler Bravo,8,528000120,3,4,23,42.5304
+249th,Williams Middle,Raphael Brosula,8,468100620,3,4,23,42.5304
+250th,Rosenblatt High School,Maia Blumofe,8,338000630,4,8,18,42.5304
+251st,Saint Stephen's Episcopal School,MPO CHO,8,489003620,3,4,23,42.5304
+252nd,Nova High School,Jarod Kelly,8,553001220,3,4,23,42.5304
+253rd,Miami Sunset,Karla Madrigal,8,544003030,4,8,18,42.5304
+254th,Suncoast Comm,Alex Levine,8,327005430,3,4,23,42.5304
+255th,Saint Stephen's Episcopal School,ZLATA UZDENOVA,8,489003220,3,4,23,42.5304
+256th,Saint Stephen's Episcopal School,JACK BERRY,8,489001830,4,8,18,42.5304
+257th,Nova High School,Vanzel Burnett,8,553000530,7,20,3,42.5304
+258th,Falcon Cove Middle School,Charles Chang,8,541102820,2,0,28,42.5304
+259th,Doral Academy Middle,Bryan Mauceri,8,537704020,3,4,23,42.5304
+260th,Clearwater Fundamental Middle,Kendall Mackin,7,438167220,3,5,22,42.0224
+261st,American Heritage - Boca/Delray,Zichun (Summer) Wang,7,526003020,4,9,17,42.0224
+262nd,Nova High School,Offir Ben-Salmon,7,553000920,5,13,12,42.0224
+263rd,Williams Middle,Gabriel Brosula,7,468100520,3,5,22,42.0224
+264th,Falcon Cove Middle School,Daniel Arnott,7,541104020,3,5,22,42.0224
+265th,Doral Academy High,Nivia Garcia,7,537503720,3,5,22,42.0224
+266th,Doral Academy High,Daniela Hernandez,6,537504920,4,10,16,41.5145
+267th,Williams Middle,Prakash Vasanthakumar,6,468105920,2,2,26,41.5145
+268th,University School of NSU,Alp Yurttutan,6,563005020,3,6,21,41.5145
+269th,Williams Middle,Issay Barry,6,468100320,3,6,21,41.5145
+270th,American Heritage - Boca/Delray,Borui (Grace) Li,6,526001520,5,14,11,41.5145
+271st,Saint Stephen's Episcopal School,HAYES CHATHAM,6,489005320,3,6,21,41.5145
+272nd,Rosenblatt High School,Ashley Klein,6,338000030,4,10,16,41.5145
+273rd,Miami Sunset,Alexandra Re,5,544003530,2,3,25,41.0065
+274th,Coral Glades,Sabrina Wahid,5,528001730,2,3,25,41.0065
+275th,Coral Glades,Derick Morgan,5,528003420,2,3,25,41.0065
+276th,Suncoast Comm,Mark Muchechetere,5,327006130,2,3,25,41.0065
+277th,Hillsborough,Lewis Li,5,428080730,3,7,20,41.0065
+278th,Fairview Middle,Dylan Ma,5,125103320,4,11,15,41.0065
+279th,Lincoln Middle,Ying Yu,5,201100130,5,15,10,41.0065
+280th,Falcon Cove Middle School,Blake Perry,5,541102920,3,7,20,41.0065
+281st,Pembroke Pines Charter High School,Kiana-Alize Diaz,5,548501930,6,19,5,41.0065
+282nd,Williams Middle,Manish Bhatta,5,468102520,3,7,20,41.0065
+283rd,Coral Glades,Marcela Foley,5,528002520,3,7,20,41.0065
+284th,Miami Sunset,Erika Rodriguez,5,544003630,7,23,0,41.0065
+285th,Williams Middle,Padma Vasanthakumar,4,468105820,3,8,19,40.4985
+286th,Nova High School,Kevin Harrilal,4,553001120,3,8,19,40.4985
+287th,Wharton,Samantha Scott,4,485004630,2,4,24,40.4985
+288th,American Heritage - Boca/Delray,Yihan (Arina) Wang,4,526002930,5,16,9,40.4985
+289th,Orlando Science Charter  High School,Jorge Vega,4,348001330,3,8,19,40.4985
+290th,Saint Stephen's Episcopal School,YUQUING LIU,4,489002330,2,4,24,40.4985
+291st,American Heritage - Boca/Delray,Christopher Barkey,4,526000420,2,4,24,40.4985
+292nd,Miami Sunset,Lina Perez,3,544003230,1,1,28,39.9905
+293rd,Piper,Nasrat Alam,3,552000830,1,1,28,39.9905
+294th,Clearwater Fundamental Middle,Colette Kania,3,438142420,4,13,13,39.9905
+295th,Deerlake Middle,JUDY WANG,3,185102520,2,5,23,39.9905
+296th,Braddock,KIMBERLY MORALES,3,538002340,4,13,13,39.9905
+297th,Doral Academy High,Jaime Sosa,2,537501820,2,6,22,39.4825
+298th,Williams Middle,Ryan Luu,2,468104220,1,2,27,39.4825
+299th,Williams Middle,Jasmine Mohanlall,2,468102820,1,2,27,39.4825
+300th,Miami Springs,MICHEAL ORTIZ,1,582001820,1,3,26,38.9745
+301st,Coral Glades,Atheek Ashkar,1,528001320,2,7,21,38.9745
+302nd,Coral Glades,Paige Long,1,528005120,1,3,26,38.9745
+303rd,Williams Middle,Sushmita Saji,1,468102920,2,7,21,38.9745
+304th,Williams Middle,Keerthana Kallarachal,1,468101720,2,7,21,38.9745
+305th,Falcon Cove Middle School,Benjamin Jones,0,541103320,1,4,25,38.4665
+306th,Coral Glades,Maria Bello,0,528004420,1,4,25,38.4665
+307th,Pembroke Pines Charter High School,Neshell Francois,0,548501630,1,4,25,38.4665
+308th,West Broward High School,Valeria Vega,0,534004430,2,8,20,38.4665
+309th,Falcon Cove Middle School,Robin Fintz,0,541103720,6,24,0,38.4665
+310th,Nova High School,Mikko Bianna,0,553000230,2,8,20,38.4665
+311th,Doral Academy High,Giovanni Ferioli,0,537506720,6,24,0,38.4665
+312th,Falcon Cove Middle School,Muskaan Singh,0,541103120,6,24,0,38.4665
+313th,Orlando Science Middle Charter School,Russell Abedeen,0,348100820,6,24,0,38.4665
+314th,American Heritage - Boca/Delray,Kevin Shulman,0,526002520,1,4,25,38.4665
+315th,Coral Glades,Rafaela Vieira,0,528001020,1,4,25,38.4665
+316th,Lincoln Middle,Kira Nagoshi,0,201102310,4,16,10,38.4665
+317th,Braddock,MELISSA COBBLAH,-2,538002840,1,6,23,37.4506
+318th,Miami Springs,DANIEL BETANCOURT,-2,582003830,0,2,28,37.4506
+319th,Miami Sunset,Veronica Garcia,-3,544002320,4,19,7,36.9426
+320th,Coral Glades,Salwa Warsi,-3,528002820,1,7,22,36.9426
+321st,Ferguson,PRIYANKA SOOKHAI,-4,507004230,0,4,26,36.4346
+322nd,Vero Beach,TAYLOR NUTTALL,-4,372000530,1,8,21,36.4346
+323rd,Suncoast Comm,Tyler Maignan,-6,327005631,2,14,14,35.4186
+324th,Saint Stephen's Episcopal School,CAITLIN LYNCH,-9,489001020,1,13,16,33.8946
+325th,Vero Beach,QUINN HIAASEN,-9,372001530,0,9,21,33.8946
+326th,Clearwater Fundamental Middle,Kyle Romero,-10,438124420,4,26,0,33.3867
+327th,Miami Sunset,Rocio Quintana,-10,544003420,1,14,15,33.3867
+328th,American Heritage - Boca/Delray,Eswar Saraswathi-Mohan,-10,526002030,4,26,0,33.3867

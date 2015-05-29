@@ -1,0 +1,80 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Kevin Noh,110,295005761,28,2,0,70.0621
+2nd,Buchholz,Soomin Cho,105,295003261,27,3,0,68.3296
+3rd,Buchholz,HauLin Wu,101,295004262,26,3,1,66.9436
+4th,Vero Beach,JACOB HULTMAN,100,372000461,26,4,0,66.5971
+5th,Buchholz,Donghyun Yoon,100,295004362,26,4,0,66.5971
+6th,Buchholz,Reva Ranka,100,295005861,26,4,0,66.5971
+7th,Seminole (Seminole),MARCELLUS JOHNSON,97,341003261,25,3,2,65.5575
+8th,Buchholz,Victor Lin,96,295005062,25,4,1,65.2110
+9th,Buchholz,Spencer Douglas,96,295002361,25,4,1,65.2110
+10th,Vero Beach,MATT MCCOY,95,372003161,25,5,0,64.8645
+11th,Hagerty High School,Alexander Creecy,95,310000850,25,5,0,64.8645
+12th,Stanton College Preparatory School,Taehwan Kwak,95,296002261,25,5,0,64.8645
+13th,Eastside,Carlo Romo,90,280004861,24,6,0,63.1320
+14th,Nease High School,Daniel Schwartz,89,290001961,23,3,4,62.7855
+15th,Eastside,Kelly Lampotang,81,280002761,22,7,1,60.0135
+16th,Buchholz,Timmie Xie,80,295005962,22,8,0,59.6670
+17th,Seminole (Seminole),NEIL SHAH,75,341005061,21,9,0,57.9345
+18th,West Shore,Lexie Krehbiel,75,393003061,20,5,5,57.9345
+19th,Nease High School,Ronak Kundalia,70,290001861,19,6,5,56.2020
+20th,Vero Beach,MEGAN CLARKE,67,372001261,18,5,7,55.1625
+21st,Nease High School,Justin Andrilenas,66,290001062,17,2,11,54.8160
+22nd,Lake Mary,Kyle Cook,66,308000761,18,6,6,54.8160
+23rd,Saint Edward's School,DANIEL MULLEN,65,374040860,19,11,0,54.4694
+24th,Seminole (Seminole),JULIUS CHAI,61,341008062,16,3,11,53.0834
+25th,Lyman High School,Cassandra Frisch,60,351002561,18,12,0,52.7369
+26th,Nease High School,Alec Short,60,290002062,18,12,0,52.7369
+27th,Seminole (Seminole),REETI GULATI,58,341008161,16,6,8,52.0439
+28th,Vero Beach,JENNA BEASLEY,58,372000161,15,2,13,52.0439
+29th,West Shore,Robbie Breininger,57,393001161,15,3,12,51.6974
+30th,Lake Mary,NATASHA ZDRAVKOVIC,56,308000251,16,8,6,51.3509
+31st,Seminole (Seminole),JENNIFER SAPORITO,55,341008362,17,13,0,51.0044
+32nd,Eastside,Gloria Kann,55,280002261,16,9,5,51.0044
+33rd,Seminole (Seminole),NEIL KRISHNAN,55,341008661,15,5,10,51.0044
+34th,Lake Brantley,Heather Borrelli,55,388001061,15,5,10,51.0044
+35th,Lake Brantley,Daniel Kim,55,388003461,16,9,5,51.0044
+36th,Lake Howell,Michaela Scotchie,55,391040461,17,13,0,51.0044
+37th,Seminole (Seminole),SHAWNISON HAMMERLING,55,341002962,16,9,5,51.0044
+38th,Saint Edward's School,MARK BRICKMAN,52,374020460,15,8,7,49.9649
+39th,Stanton College Preparatory School,Robin Zeng,51,296002161,15,9,6,49.6184
+40th,Nease High School,Chris Flemming,50,290001362,14,6,10,49.2719
+41st,Nease High School,Megan Hinkle,50,290001561,13,2,15,49.2719
+42nd,Lake Brantley,Ryan Corlett,50,388002461,14,6,10,49.2719
+43rd,Seminole (Seminole),SARA KHAN,48,341010360,13,4,13,48.5789
+44th,Lake Mary,Jeff Strange,47,308001761,15,13,2,48.2324
+45th,Seminole (Seminole),DIPTODIP DEB,45,341002662,15,15,0,47.5394
+46th,Lyman High School,Michele Kuhn,45,351003161,15,15,0,47.5394
+47th,Lake Mary,Kailey Pak,44,308003761,13,8,9,47.1929
+48th,Nease High School,Drashti Brahmbhatt,43,290001162,13,9,8,46.8464
+49th,Stanton College Preparatory School,Samuel Yang,43,296005461,14,13,3,46.8464
+50th,Leesburg High School,Max Shen,42,287003761,12,6,12,46.4999
+51st,Nease High School,Zach Anastasiadis,41,290000960,12,7,11,46.1534
+52nd,Leesburg High School,Akeem Sankey,39,287001962,12,9,9,45.4604
+53rd,Stanton College Preparatory School,Cory Zhu,37,296003561,13,15,2,44.7674
+54th,Eastside,Alice HOU,36,280001761,10,4,16,44.4209
+55th,Leesburg High School,Miguel Fortuno,35,287001461,10,5,15,44.0744
+56th,Nease High School,Justin Glinka,34,290001461,11,10,9,43.7279
+57th,Leesburg High School,Alexandra Northcott,32,287000961,10,8,12,43.0349
+58th,Flagler Palm Coast High School,Colleen Sousa,32,221001461,9,4,17,43.0349
+59th,Leesburg High School,Matthew Chandra,31,287000861,10,9,11,42.6883
+60th,Leesburg High School,Leor Tal,30,287001060,10,10,10,42.3418
+61st,Lake Howell,Kim Huynh,30,391040262,12,18,0,42.3418
+62nd,Lyman High School,Elena Kallergis,29,351003061,11,15,4,41.9953
+63rd,Lyman High School,Hannah Smith,29,351002761,10,11,9,41.9953
+64th,Nease High School,Kacie Carter,28,290001260,10,12,8,41.6488
+65th,Leesburg High School,Clayton McDaniel,26,287000762,9,10,11,40.9558
+66th,Lake Howell,Kaley Scanlon,26,391040361,8,6,16,40.9558
+67th,Lake Howell,Ryan Ton,25,391040561,11,19,0,40.6093
+68th,Lake Howell,Mark Guzman,25,391040162,10,15,5,40.6093
+69th,Flagler Palm Coast High School,Ashli Phillips,23,221002961,7,5,18,39.9163
+70th,Nease High School,Shannon Holder,22,290001660,8,10,12,39.5698
+71st,Flagler Palm Coast High School,Maha Muneer,21,221001261,6,3,21,39.2233
+72nd,Lake Howell,Mary Tran,15,391040662,7,13,10,37.1443
+73rd,Vero Beach,SHERMEEN RAZA,14,372003960,6,10,14,36.7978
+74th,Leesburg High School,Francesca Lawrence,13,287000562,6,11,13,36.4513
+75th,West Shore,Rana Karycki,13,393005861,5,7,18,36.4513
+76th,West Shore,Ilana Krause,10,393001261,8,22,0,35.4118
+77th,Flagler Palm Coast High School,Jeyda Deniz,7,221002161,3,5,22,34.3723
+78th,Flagler Palm Coast High School,Lauren Umpenhour,0,221003460,2,8,20,31.9468
+79th,Leesburg High School,Bethany Phillips,-6,287001562,3,18,9,29.8677

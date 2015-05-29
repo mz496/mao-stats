@@ -1,0 +1,84 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Middle,Vincent Mei,106,201100931,27,2,1,70.4333
+2nd,Lincoln Middle,KyungSeok Oh,105,201100331,27,3,0,70.1356
+3rd,Buchholz,Rina Wu,101,295002332,26,3,1,68.9448
+4th,Buchholz,JiYoung Kim,101,295006331,26,3,1,68.9448
+5th,Lincoln Middle,Hyunjee Rhee,100,201101031,26,4,0,68.6471
+6th,Lincoln Middle,Stephen So,99,201100431,25,1,4,68.3494
+7th,Buchholz,Caleb Summers,93,295002031,24,3,3,66.5633
+8th,Lincoln Middle,Andrew Fang,90,201101532,23,2,5,65.6702
+9th,Lincoln Middle,Vivian Zhu,89,201100532,23,3,4,65.3725
+10th,Lincoln Middle,Hope Pan,87,201101432,23,5,2,64.7771
+11th,Buchholz,Danny Dewitt,85,295003631,22,3,5,64.1817
+12th,Buchholz,Kevin Chung,85,295004530,23,7,0,64.1817
+13th,Buchholz,Matthew Pearson,85,295005332,23,7,0,64.1817
+14th,Buchholz,josh brownstein,84,295000832,22,4,4,63.8840
+15th,Buchholz,Sam Harris,75,295003730,19,1,10,61.2048
+16th,Lincoln Middle,Wenli Zhao,72,201100630,19,4,7,60.3117
+17th,Lincoln Middle,Robin Xu,72,201101230,19,4,7,60.3117
+18th,Buchholz,Tomasz Andraka,71,295002630,19,5,6,60.0140
+19th,Buchholz,John Huber,70,295004831,19,6,5,59.7163
+20th,Buchholz,Marie Thomas,67,295006232,18,5,7,58.8232
+21st,Stanton College Preparatory School,Jeffery Tang,66,296001731,18,6,6,58.5255
+22nd,Eastside,Henry Cole,65,280000031,17,3,10,58.2278
+23rd,Lincoln Middle,Ria Someshwar,61,201100832,18,11,1,57.0371
+24th,Lincoln Middle,Sam Hagan,56,201101330,16,8,6,55.5486
+25th,Lincoln Middle,Apara Agarwal,54,201101130,15,6,9,54.9532
+26th,Stanton College Preparatory School,Madi Lahey,46,296002931,13,6,11,52.5716
+27th,Buchholz,Will Messina,46,295005030,13,6,11,52.5716
+28th,Lincoln Middle,Minjia Zhong,45,201100230,13,7,10,52.2740
+29th,Eastside,Xinyi Wu,44,280005831,13,8,9,51.9763
+30th,Eastside,Jennifer Le,42,280001131,12,6,12,51.3809
+31st,Eastside,Bushra Guenoun,41,280000132,11,3,16,51.0832
+32nd,Eastside,Seth Rutman,40,280000231,11,4,15,50.7855
+33rd,Stanton College Preparatory School,Kyle Vu,39,296001531,11,5,14,50.4878
+34th,Buchholz,Michael Patlovich,37,295005230,11,7,12,49.8924
+35th,Leesburg High School,TIA TRAVIS,36,287003131,10,4,16,49.5947
+36th,Bolles,Nathan Kostick,36,252000431,11,8,11,49.5947
+37th,Eastside,Ginnie Lin,35,280001330,10,5,15,49.2970
+38th,Bolles,Yangyu Zhou,35,252002331,11,9,10,49.2970
+39th,Leesburg High School,LAUREN RICHARDSON,30,287002932,9,6,15,47.8085
+40th,Gainesville High School,Jordyn Connell,29,268002730,9,7,14,47.5108
+41st,Gainesville High School,David Barbet,27,268002532,10,13,7,46.9155
+42nd,Stanton College Preparatory School,Divyagnan Kandala,25,296000632,11,19,0,46.3201
+43rd,Leesburg High School,HYOSANG PARK,25,287002432,11,19,0,46.3201
+44th,Gainesville High School,Katelin McDilda,25,268002331,8,7,15,46.3201
+45th,Oak Hall,BOB ZHOU,24,249000631,7,4,19,46.0224
+46th,Stanton College Preparatory School,Nishtha Garg,24,296000431,7,4,19,46.0224
+47th,Gainesville High School,Kristen Dorval,23,268000132,9,13,8,45.7247
+48th,Gainesville High School,Evan Morris,22,268001531,7,6,17,45.4270
+49th,Eastside,Eliza Steffee,22,280001430,7,6,17,45.4270
+50th,Eastside,Fanning Lin,22,280001232,8,10,12,45.4270
+51st,Eastside,Lauren vonZabern,20,280000330,7,8,15,44.8316
+52nd,Gainesville High School,Shelby Altomari,20,268002230,6,4,20,44.8316
+53rd,Leesburg High School,MARGARET PHETHEAN,19,287002831,6,5,19,44.5339
+54th,Eastside,Erin Isaza,19,280000832,6,5,19,44.5339
+55th,Gainesville High School,Jazz Weigel,17,268003930,8,15,7,43.9385
+56th,Oak Hall,RYAN LEE,17,249000531,6,7,17,43.9385
+57th,Gainesville High School,Kathryn Palmer,16,268002031,5,4,21,43.6408
+58th,Bolles,Doug Trippe,16,252002531,9,20,1,43.6408
+59th,Eastside,Ryan Kim,15,280001030,5,5,20,43.3431
+60th,Gainesville High School,Jessica Ely,12,268002430,5,8,17,42.4501
+61st,Gainesville High School,Eve Sampson,11,268002630,3,1,26,42.1524
+62nd,Leesburg High School,ALEXANDRIA BURRY,11,287001131,3,1,26,42.1524
+63rd,Gainesville High School,Aaron Stainsby,11,268001831,6,13,11,42.1524
+64th,Eastside,Michael Kim,10,280000932,4,6,20,41.8547
+65th,Oak Hall,ELLYN ROSS,9,249000832,4,7,19,41.5570
+66th,Gainesville High School,Briana Freeman,8,268003232,5,12,13,41.2593
+67th,Leesburg High School,SHAELEE ELDRIDGE,8,287001231,3,4,23,41.2593
+68th,Gainesville High School,Chitra Glasheen,7,268003630,4,9,17,40.9616
+69th,Fleming Island High,Alan Ngo,7,220001631,3,5,22,40.9616
+70th,Stanton College Preparatory School,Calvin Chern,6,296000330,6,18,6,40.6639
+71st,Gainesville High School,Brandon Caton,5,268005332,6,19,5,40.3662
+72nd,Oak Hall,EMILY ROSS,4,249000731,4,12,14,40.0685
+73rd,Gainesville High School,Rhenn Handel,3,268004430,3,9,18,39.7708
+74th,Oak Hall,NICKI MYERS,3,249000332,5,17,8,39.7708
+75th,Leesburg High School,LEAH HARVEY,2,287001532,1,2,27,39.4731
+76th,Matanzas H. S.,JASMINE PEREZ,2,228001531,3,10,17,39.4731
+77th,Stanton College Preparatory School,Jennie May,1,296000732,1,3,26,39.1754
+78th,Stanton College Preparatory School,Mary Chen,1,296001930,3,11,16,39.1754
+79th,Stanton College Preparatory School,Jillian Ramirez,0,296002732,3,12,15,38.8777
+80th,Gainesville High School,Breanna Hicks,-1,268002930,1,5,24,38.5800
+81st,Matanzas H. S.,PATRICK UZCATEGUI,-5,228001631,0,5,25,37.3893
+82nd,Oak Hall,OLIVIA EDMUNDSON,-12,249000431,1,16,13,35.3054
+83rd,Stanton College Preparatory School,Sunny Mandal,-20,296002832,2,28,0,32.9238

@@ -1,0 +1,145 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Deerlake Middle,BRANDON CHYI,110,185109410,28,2,0,82.0123
+2nd,American Heritage (Plantation),Vladyslav Oleksenko,93,506005910,24,3,3,74.8666
+3rd,Falcon Cove Middle School,Viraj Maddur,86,541102110,23,6,1,71.9243
+4th,Deerlake Middle,JENNIFER WEN,85,185102610,22,3,5,71.5040
+5th,Deerlake Middle,ANDREW YUAN,85,185103010,23,7,0,71.5040
+6th,Williams Middle,Thushar Mahesh,84,468102610,22,4,4,71.0837
+7th,Sanford Middle,Alex Quach,73,344100910,19,3,8,66.4600
+8th,Sanford Middle,Cyriac Manjaly,72,344100610,20,8,2,66.0397
+9th,Fairview Middle,Sri Donthineni,72,125100810,19,4,7,66.0397
+10th,Tequesta Trace Middle School,Raphael Cheng,72,500100710,19,4,7,66.0397
+11th,Williams Middle,Anmol Mittal,71,468102710,19,5,6,65.6194
+12th,Fairview Middle,Vishnu Vijay,71,125103910,20,9,1,65.6194
+13th,American Heritage (Plantation),Trishala Kumar,69,506005610,18,3,9,64.7787
+14th,Fairview Middle,Townsend Porcher,67,125103110,17,1,12,63.9380
+15th, , ,66,165115210,18,6,6,63.5177
+16th,Fairview Middle,Bryan Cao,66,125100210,19,10,1,63.5177
+17th,Doral Academy Middle,Pedro Contipelli,66,537701210,17,2,11,63.5177
+18th,Sanford Middle,Yashvi Vardhan,65,344101110,19,11,0,63.0974
+19th,Sanford Middle,Srinija Cherivirala,62,344100210,17,6,7,61.8364
+20th,Doral Academy Middle,Douglas Shu,60,537701810,16,4,10,60.9957
+21st,Tequesta Trace Middle School,Alex Bay,59,500100310,16,5,9,60.5754
+22nd,Williams Middle,Truman Hoang,58,468103510,15,2,13,60.1551
+23rd,Fairview Middle,Dylan Ma,57,125102310,16,7,7,59.7347
+24th,Deerlake Middle,KEVIN CUI,56,185113010,15,4,11,59.3144
+25th,American Heritage (Plantation),Naomi Spargo,56,506006210,16,8,6,59.3144
+26th,Fairview Middle,Deekshita Vedula,56,125103710,16,8,6,59.3144
+27th,Doral Academy Middle,Paola Aguilar,56,537703210,17,12,1,59.3144
+28th,Sanford Middle,Vishal Purohitham,55,344101310,15,5,10,58.8941
+29th,Sanford Middle,Vishal Dubey,55,344100410,15,5,10,58.8941
+30th,Sanford Middle,Shah Aayush,55,344101010,16,9,5,58.8941
+31st,Sanford Middle,Caitlin Chen,54,344100110,15,6,9,58.4737
+32nd,Doral Academy Middle,Tomas Alvarez,54,537700910,14,2,14,58.4737
+33rd,Markham Woods Middle,Amixadai Miranda,53,323100810,15,7,8,58.0534
+34th,Fairview Middle,Diyah Mettupalli,52,125102710,15,8,7,57.6331
+35th,Sanford Middle,Sanjana Prasad,50,344103410,16,14,0,56.7924
+36th,Falcon Cove Middle School,Kyuhyun Park,49,541102610,13,3,14,56.3721
+37th,Sanford Middle,Saagar Patel,48,344102110,14,8,8,55.9518
+38th,Fairview Middle,Nihar Kommu,46,125101610,14,10,6,55.1111
+39th,Sanford Middle,Tanuj Prajapati,45,344102810,15,15,0,54.6908
+40th,Kanapaha Middle School,Alexander Dvorak,45,209100610,13,7,10,54.6908
+41st,Falcon Cove Middle School,Matthew Zhang,45,541103810,12,3,15,54.6908
+42nd,Deerlake Middle,VICTORIA YANG,45,185102910,13,7,10,54.6908
+43rd,American Heritage (Plantation),Paul Teng,44,506006510,12,4,14,54.2704
+44th,Sanford Middle,Malavika kannan,44,344103810,11,0,19,54.2704
+45th,American Heritage (Plantation),Diego Ramos,43,506006310,12,5,13,53.8501
+46th,Falcon Cove Middle School,Nicolas Golner,43,541101010,12,5,13,53.8501
+47th,American Heritage (Plantation),Hermangi Rajpal,42,506006010,13,10,7,53.4298
+48th,Doral Academy Middle,Lauren Rousseau,42,537702910,11,2,17,53.4298
+49th,Doral Academy Middle,Michelle Bernardo,42,537701110,11,2,17,53.4298
+50th,Doral Academy Middle,Jorge Santos,41,537701710,11,3,16,53.0094
+51st,Tequesta Trace Middle School,Alan Llewelyn,41,500102110,12,7,11,53.0094
+52nd,Sanford Middle,Narenkumar Thirmiya,40,344102910,13,12,5,52.5891
+53rd,Doral Academy Middle,Maria Vazquez,40,537700710,10,0,20,52.5891
+54th,Doral Academy Middle,Andoni Garrogerricaec,40,537703010,11,4,15,52.5891
+55th,Falcon Cove Middle School,Stephen Soto,40,541103210,13,12,5,52.5891
+56th,Tequesta Trace Middle School,Angelica Tracey,40,500102610,14,16,0,52.5891
+57th,Williams Middle,Ronit Mishra,37,468103410,12,11,7,51.3281
+58th,Falcon Cove Middle School,Adam Abdalla,36,541100910,11,8,11,50.9078
+59th,Kanapaha Middle School,Chris Clavier,35,209100410,10,5,15,50.4875
+60th,Williams Middle,Roshan Jayaramen,35,468103210,10,5,15,50.4875
+61st,Tequesta Trace Middle School,Lucia Maldonado,35,500102210,13,17,0,50.4875
+62nd,Crooms Academy,Benjamin Setayesh,35,368600710,13,17,0,50.4875
+63rd,Fairview Middle,Neranjan Kuppuswamy,34,125101910,11,10,9,50.0671
+64th,Falcon Cove Middle School,VedArnav Singh,34,541104010,10,6,14,50.0671
+65th,Doral Academy Middle,Anthony Fernandez,34,537701410,10,6,14,50.0671
+66th,Falcon Cove Middle School,Jonghun Lim,33,541101910,12,15,3,49.6468
+67th,Tequesta Trace Middle School,Rohan Lingam,33,500102010,10,7,13,49.6468
+68th,Williams Middle,Manish Bhatta,32,468102510,9,4,17,49.2265
+69th,Markham Woods Middle,sydney bell,32,323102210,10,8,12,49.2265
+70th,Fairview Middle,Joshua Kim,32,125101510,10,8,12,49.2265
+71st,Lincoln Park Academy,Ian Mullins,30,396000410,10,10,10,48.3858
+72nd,Kanapaha Middle School,Madison Duncanson,30,209100310,9,6,15,48.3858
+73rd,Williams Middle,Ryan Luu,30,468104210,9,6,15,48.3858
+74th,Doral Academy Middle,Fernando Morandi,30,537703710,9,6,15,48.3858
+75th,Falcon Cove Middle School,Valeria Ruiz,29,541102810,8,3,19,47.9655
+76th,Lincoln Park Academy,Shreya Reddy,29,396000010,8,3,19,47.9655
+77th,Fairview Middle,Cydney Parmar,29,125103010,9,7,14,47.9655
+78th,Markham Woods Middle,michelle miller,29,323100410,9,7,14,47.9655
+79th,Deerlake Middle,AMY XIA,28,185102810,8,4,18,47.5452
+80th,Doral Academy Middle,Zavier Garcia,28,537703610,8,4,18,47.5452
+81st,American Heritage (Plantation),Yasmin Charles-Harris,28,506005510,8,4,18,47.5452
+82nd,Kanapaha Middle School,Matthew Rega,28,209100210,8,4,18,47.5452
+83rd,Falcon Cove Middle School,Kari Xia,27,541103610,8,5,17,47.1248
+84th,Kanapaha Middle School,Andrew Storch,27,209100710,9,9,12,47.1248
+85th,Williams Middle,Katie Diskin,26,468103710,8,6,16,46.7045
+86th,Fairview Middle,Maathesh Manoharan,25,125102610,11,19,0,46.2842
+87th,Doral Academy Middle,Lia Rosado,25,537703410,7,3,20,46.2842
+88th,Tequesta Trace Middle School,Brunella Radice,25,500101110,11,19,0,46.2842
+89th, , ,25,060011415,10,15,5,46.2842
+90th,Kanapaha Middle School,Maggie Willis,23,209100110,7,5,18,45.4435
+91st,Doral Academy Middle,Victor Suaryz,23,537703310,7,5,18,45.4435
+92nd,Markham Woods Middle,Macy Somoskey,21,323101410,9,15,6,44.6028
+93rd,Doral Academy Middle,Katerina Faget,20,537702710,6,4,20,44.1825
+94th,Doral Academy Middle,Liliana Sosa,20,537701910,6,4,20,44.1825
+95th,Doral Academy Middle,Jonathan Nunez,20,537701610,6,4,20,44.1825
+96th,Williams Middle,Jenna Callison,20,468100110,6,4,20,44.1825
+97th,Tequesta Trace Middle School,Mariana Acosta,20,500100110,9,16,5,44.1825
+98th,Doral Academy Middle,Natalia Escobar,19,537700000,6,5,19,43.7622
+99th,Kanapaha Middle School,Drew Vaudreuil,19,209102410,6,5,19,43.7622
+100th,Doral Academy Middle,Doraly Avila,19,537703110,7,9,14,43.7622
+101st,American Heritage (Plantation),Isha Goel,19,506005210,6,5,19,43.7622
+102nd,American Heritage (Plantation),Veronica Dotsenko,18,506006610,6,6,18,43.3418
+103rd,Falcon Cove Middle School,Andrew Laurent,18,541100810,7,10,13,43.3418
+104th,Tequesta Trace Middle School,Carlos Hernandez,16,500101310,7,12,11,42.5012
+105th,Tequesta Trace Middle School,Noah Rabinovitch,16,500102510,7,12,11,42.5012
+106th,Lincoln Park Academy,Rida Ahmed,16,396000610,6,8,16,42.5012
+107th,Fairview Middle,Chaquayla Katam,15,125101310,8,17,5,42.0809
+108th,Doral Academy Middle,Alvin Santos,15,537702510,4,1,25,42.0809
+109th,Williams Middle,Jasmine Mohanlall,15,468102810,6,9,15,42.0809
+110th,Falcon Cove Middle School,Rishab Jain,15,541101710,9,21,0,42.0809
+111th,Williams Middle,Sanal Gupta,15,468104110,9,21,0,42.0809
+112th,Tequesta Trace Middle School,Joshua Wall,15,500102810,9,21,0,42.0809
+113th,Ronald Reagan H. S.,Valentina Baptiste,15,527008410,9,21,0,42.0809
+114th,Doral Academy Middle,Andrea Guerrero,14,537702610,5,6,19,41.6605
+115th,Lincoln Park Academy,Deshaune Jean-Charles,14,396000310,6,10,14,41.6605
+116th,Kanapaha Middle School,Rachel Garner,14,209100010,5,6,19,41.6605
+117th,Williams Middle,Sricharan Pusala,13,468103910,5,7,18,41.2402
+118th,Markham Woods Middle,Emily Underwood,12,323101110,5,8,17,40.8199
+119th,Markham Woods Middle,Sophia Logas,12,323100010,6,12,12,40.8199
+120th,Lincoln Park Academy,Katrina Wu,12,396005410,6,12,12,40.8199
+121st,Doral Academy Middle,Vanessa Salas,11,537703510,4,5,21,40.3995
+122nd,Williams Middle,Saketh Katta,11,468104010,6,13,11,40.3995
+123rd,Falcon Cove Middle School,Leah Hale,11,541101110,7,17,6,40.3995
+124th,Deerlake Middle,MALLIKA MISRA,10,185100610,7,18,5,39.9792
+125th,Doral Academy Middle,Fabricio Aimeda,10,537702810,3,2,25,39.9792
+126th,Ronald Reagan H. S.,Maria Sanchez,10,527011010,8,22,0,39.9792
+127th,Falcon Cove Middle School,Maya Merchant,10,541102210,8,22,0,39.9792
+128th,Lincoln Park Academy,Rida Ahmed,9,396000610,4,7,19,39.5589
+129th,Kanapaha Middle School,Cameron Sarajedini,9,209100510,5,11,14,39.5589
+130th,Falcon Cove Middle School,Muskaan Singh,8,541103110,6,16,8,39.1385
+131st,Falcon Cove Middle School,Emily Moon,7,541102410,3,5,22,38.7182
+132nd,Williams Middle,Pranavi Gudala,7,468103610,4,9,17,38.7182
+133rd,Lincoln Park Academy,Karen McGilvery,6,396000910,3,6,21,38.2979
+134th,Sanford Middle,Richa Bhavsar,6,344100010,5,14,11,38.2979
+135th,Williams Middle,Anushka Dakshit,5,468103010,5,15,10,37.8776
+136th,Crooms Academy,Andrei Billaut,5,368600810,7,23,0,37.8776
+137th,Lincoln Park Academy,Kristen Martens,4,396001110,3,8,19,37.4572
+138th,Falcon Cove Middle School,Benjamin Jones,4,541101810,4,12,14,37.4572
+139th,Sanford Middle,Andrew Hefley,3,344100510,2,5,23,37.0369
+140th,Lincoln Park Academy,Kadesha D'Silva,0,396000710,6,24,0,35.7759
+141st,Williams Middle,Sushmita Saji,-3,468102910,1,7,22,34.5149
+142nd,Falcon Cove Middle School,Kavya Sarin,-4,541103010,5,24,1,34.0946
+143rd,Williams Middle,Neha Dakshit,-5,468103810,5,25,0,33.6742
+144th,Lincoln Park Academy,Samantha Lenhardt,-15,396001010,3,27,0,29.4709

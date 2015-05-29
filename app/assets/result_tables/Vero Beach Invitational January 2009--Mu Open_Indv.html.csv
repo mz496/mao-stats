@@ -1,0 +1,190 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Kevin Fan,110,295001450,28,2,0,72.4262
+2nd,Buchholz,Kathy Qiu,107,295004440,27,1,2,71.4895
+3rd,Buchholz,Sarah Pang,101,295001650,26,3,1,69.6161
+4th,Buchholz,Mark Simon,100,295001750,26,4,0,69.3039
+5th,Cypress Bay,Andrew  Rodriguez,100,588012250,26,4,0,69.3039
+6th,Stoneman Douglas,ETHAN LI,100,532021050,26,4,0,69.3039
+7th,Cypress Bay,Joyce   Wang,98,588009040,25,2,3,68.6794
+8th,Buchholz,Alexander Sappington,98,295004740,25,2,3,68.6794
+9th,Cypress Bay,Denise  Neiloom,97,588007040,25,3,2,68.3672
+10th,Cypress Bay,Liana  Braun,96,588014850,25,4,1,68.0550
+11th,Stoneman Douglas,ANTHONY FU,95,532020550,25,5,0,67.7427
+12th,Cypress Bay,Sung-Min   Baek,91,588009450,24,5,1,66.4938
+13th,Lawton Chiles High School,Michael Wei,91,181006850,24,5,1,66.4938
+14th,Cypress Bay,Krishna   Ajmeri,90,588004040,23,2,5,66.1816
+15th,American Heritage (Plantation),mathew joa,90,506005050,24,6,0,66.1816
+16th,Atlantic High School,Mike Qian,90,597006450,23,2,5,66.1816
+17th,Middleton,Leo Sell,90,468003650,24,6,0,66.1816
+18th,Stoneman Douglas,JOHN BOSWELL,90,532020150,24,6,0,66.1816
+19th,Buchholz,Kirsten Soucek,89,295005840,23,3,4,65.8693
+20th,Lawton Chiles High School,James Yan,89,181010540,23,3,4,65.8693
+21st,Stoneman Douglas,SHUN LEUNG,88,532020950,23,4,3,65.5571
+22nd,Middleton,Omar Garcia,87,468001050,23,5,2,65.2449
+23rd,Cypress Bay,Euiyoung  Kwak,86,588006440,22,2,6,64.9326
+24th,Lawton Chiles High School,Taylor Grulich,85,181004540,23,7,0,64.6204
+25th,Middleton,Allen Pennington,83,468001450,22,5,3,63.9959
+26th,Buchholz,David Bai,83,295003840,22,5,3,63.9959
+27th,Cypress Bay,Leo  Shao,80,588012450,22,8,0,63.0592
+28th,Stoneman Douglas,TIM LI,80,532010640,22,8,0,63.0592
+29th,Seminole (Seminole),ANDREW HUA,80,341002150,22,8,0,63.0592
+30th,Buchholz,Alex Soucek,79,295004940,21,5,4,62.7470
+31st,Cypress Bay,Brandon  Allen,79,588013650,21,5,4,62.7470
+32nd,Atlantic High School,William Wu,78,597008050,20,2,8,62.4348
+33rd,Lawton Chiles High School,Logan Stafman,77,181006550,21,7,2,62.1225
+34th,Cypress Bay,Juan Pablo  Ocampo,75,588007140,20,5,5,61.4981
+35th,Buchholz,Ming Cao,75,295003940,20,5,5,61.4981
+36th,Buchholz,Shuyun Xue,74,295006140,20,6,4,61.1858
+37th,Berkeley Prep,Elliot Stein,72,405006350,20,8,2,60.5614
+38th,Miami Springs,JESSICA TRUJILLO,70,582003050,19,6,5,59.9369
+39th,Cypress Bay,Josh   Trinkler,69,588008840,18,3,9,59.6247
+40th,Atlantic High School,William Hornbeck,68,597003050,18,4,8,59.3125
+41st,Ronald Reagan H. S.,Jee-Young Kim,67,527000540,18,5,7,59.0002
+42nd,Atlantic High School,Tanvir Ahmed,66,597000150,17,2,11,58.6880
+43rd,Seminole (Seminole),Won.Young Choi,65,341000840,17,3,10,58.3758
+44th,Berkeley Prep,Avani Singh,64,405004740,17,4,9,58.0635
+45th,Berkeley Prep,Sophia Kim,61,405005650,17,7,6,57.1268
+46th,Atlantic High School,Jessica Perfetto,61,597005750,16,3,11,57.1268
+47th,Atlantic High School,Trung Tran,61,597007350,16,3,11,57.1268
+48th,Berkeley Prep,Brent Batas,60,405005050,18,12,0,56.8146
+49th,Berkeley Prep,Anuj Bhatia,60,405005150,18,12,0,56.8146
+50th,Stoneman Douglas,KIRILL KLIMUK,60,532020750,18,12,0,56.8146
+51st,Atlantic High School,Ethan Miller,59,597004750,17,9,4,56.5024
+52nd,Lawton Chiles High School,Blair Wulterkens,59,181007050,17,9,4,56.5024
+53rd,Cypress Bay,Jaime  Bravo,57,588009750,17,11,2,55.8779
+54th,Atlantic High School,Jenny Yao,56,597008250,16,8,6,55.5657
+55th,Palm Harbor Univ,DJ Kirby,55,413009350,17,13,0,55.2534
+56th,Cypress Bay,Graciela  Aguero,54,588009250,15,6,9,54.9412
+57th,Middleton,Tristan Helmink,54,468001250,16,10,4,54.9412
+58th,Lawton Chiles High School,Daniel Struk,53,181006750,16,11,3,54.6290
+59th,Atlantic High School,Ralph Lefrance,52,597004350,15,8,7,54.3167
+60th,Atlantic High School,Samir Borle,52,597000650,14,4,12,54.3167
+61st,Atlantic High School,Abinash Sahoo,52,597006850,15,8,7,54.3167
+62nd,Berkeley Prep,Bonnie Macfarlane,51,405005750,15,9,6,54.0045
+63rd,Stoneman Douglas,MICHELLE AMIT,50,532010040,14,6,10,53.6923
+64th,Palm Harbor Univ,Samantha Griffith,50,413007950,16,14,0,53.6923
+65th,Berkeley Prep,Miranda Steele,50,405006250,16,14,0,53.6923
+66th,Cypress Bay,Nicole   Bejany,48,588009550,13,4,13,53.0678
+67th,Flanagan,Cesar Ramos,46,591001550,13,6,11,52.4433
+68th,Cypress Bay,Amna  Imran,45,588017150,13,7,10,52.1311
+69th,Stoneman Douglas,WANSHEN WU,45,532010840,14,11,5,52.1311
+70th,Freedom,ANDREW MORTELLARO,44,466002950,13,8,9,51.8189
+71st,Seminole (Seminole),AVEEK KAPAT,44,341001940,13,8,9,51.8189
+72nd,Stoneman Douglas,AMY HUANG,44,532010340,12,4,14,51.8189
+73rd,Vero Beach,JOHN OBRYAN,43,372007250,13,9,8,51.5066
+74th,Miami Springs,ENRIQUE TORRES,43,582010150,13,9,8,51.5066
+75th,Stoneman Douglas,MICHAEL XIA,42,532011040,13,10,7,51.1944
+76th,Lawton Chiles High School,Daniel HOEKMAN,40,181008840,11,4,15,50.5699
+77th,Lincoln,DEVIN FRENTZ,40,109013250,11,4,15,50.5699
+78th,Vero Beach,JOSH LAMOTHE,40,372008250,14,16,0,50.5699
+79th,Stoneman Douglas,HENRY LAU,39,532010440,13,13,4,50.2577
+80th,Lincoln,Nicole Slagle,39,109021640,12,9,9,50.2577
+81st,Lawton Chiles High School,Sonal Sathe,39,181006250,12,9,9,50.2577
+82nd,Oviedo,David Parsons,37,377002150,11,7,12,49.6333
+83rd,Atlantic High School,Olga Mir,37,597004850,11,7,12,49.6333
+84th,Lincoln,SUSAN EMERICK,36,109082650,11,8,11,49.3210
+85th,Lincoln,Christopher Weeden,35,109091640,12,13,5,49.0088
+86th,Berkeley Prep,Michelle Zeidan,35,405006550,10,5,15,49.0088
+87th,Seminole (Seminole),KATHERINE KNOX,35,341009740,13,17,0,49.0088
+88th,Lake Mary,Anish Patel,35,308005540,11,9,10,49.0088
+89th,Ronald Reagan H. S.,Yu-Hua Wang,34,527002250,11,10,9,48.6966
+90th,Deerfield Beach,Colleen Baublitz,34,577005350,10,6,14,48.6966
+91st,Atlantic High School,Jordyn Burger,34,597000750,10,6,14,48.6966
+92nd,Atlantic High School,Rucha Kulkarni,34,597003850,10,6,14,48.6966
+93rd,Berkeley Prep,AnneMeredith Baldy,33,405007040,9,3,18,48.3843
+94th,Deerfield Beach,ARUN KURIAN,33,577006750,10,7,13,48.3843
+95th,Hillsborough,MAX BARTOLOTTI,33,428009750,10,7,13,48.3843
+96th,Seminole (Seminole),JAMIE WILSON,32,341004040,9,4,17,48.0721
+97th,Miami Springs,BRANDON GAGNE,32,582011650,9,4,17,48.0721
+98th,Oviedo,Toby Tobkin,32,377002250,9,4,17,48.0721
+99th,Lawton Chiles High School,Amanda Rosier,31,181010240,10,9,11,47.7599
+100th,Ronald Reagan H. S.,Karen Vinluan,31,527001250,9,5,16,47.7599
+101st,Atlantic High School,Spencer Rosario,31,597006750,9,5,16,47.7599
+102nd,Freedom,JASMINE LINVILLE,30,466002550,12,18,0,47.4476
+103rd,Vero Beach,DANA D'HAESELEER,29,372001340,10,11,9,47.1354
+104th,Ronald Reagan H. S.,Francisco Cano,29,527003350,10,11,9,47.1354
+105th,Hillsborough,GABRIEL TORRES,29,428001050,10,11,9,47.1354
+106th,Lake Mary,KRISTINE GU,27,308007550,8,5,17,46.5109
+107th,Lawton Chiles High School,Shuyao Zhang,27,181007150,11,17,2,46.5109
+108th,Rickards High School,Jarrod Frankenfield,26,140000640,7,2,21,46.1987
+109th,Seminole (Seminole),JYOTI LODHA,26,341009540,9,10,11,46.1987
+110th,Deerfield Beach,PEARL LEUNG,25,577011840,9,11,10,45.8865
+111th,Lawton Chiles High School,Ariane Sears,25,181006350,9,11,10,45.8865
+112th,Seminole (Seminole),SAMANTHA PHAN,25,341004550,10,15,5,45.8865
+113th,Berkeley Prep,McLean Baran,24,405004950,7,4,19,45.5742
+114th,Ronald Reagan H. S.,Eduardo Rivas,24,527000650,8,8,14,45.5742
+115th,Freedom,BLAKE O'CONNOR,23,466003050,7,5,18,45.2620
+116th,Miami Springs,TONI CANONICO,23,582011240,7,5,18,45.2620
+117th,Vero Beach,AMY ASKREN,23,372001640,9,13,8,45.2620
+118th,Middleton,Chelsea Weinberg,22,468002340,9,14,7,44.9498
+119th,Miami Springs,LINNET LAROSA,21,582006840,6,3,21,44.6375
+120th,Seminole (Seminole),AMMNA DHILLON,21,341008340,8,11,11,44.6375
+121st,Flanagan,Robert Rolfs,20,591002750,6,4,20,44.3253
+122nd,Deerfield Beach,TINA WANG,19,577010350,8,13,9,44.0131
+123rd,Atlantic High School,Jagir Patel,19,597005550,5,1,24,44.0131
+124th,Durant,Angel Chavez,19,475003450,6,5,19,44.0131
+125th,Miami Springs,ALEXANDER BUILES,18,582004250,6,6,18,43.7008
+126th,Lawton Chiles High School,Sarah Dietrich,18,181008140,5,2,23,43.7008
+127th,Seminole (Seminole),DAKOTA PARK-OZEE,18,341003040,7,10,13,43.7008
+128th,Sebastian River,Abel Thomas,18,314005250,8,14,8,43.7008
+129th,Ferguson,SHUSHAN SARGSIAN,16,507005540,6,8,16,43.0764
+130th,Deerfield Beach,THANH NGUYEN,16,577012440,6,8,16,43.0764
+131st,Miami Springs,JOELY CARPIO,16,582004640,4,0,26,43.0764
+132nd,Cypress Bay,Valentina   Franco,16,588010550,8,16,6,43.0764
+133rd,Lake Mary,Bryan Tran,14,308006240,5,6,19,42.4519
+134th,Berkeley Prep,RJ Johnson,14,405005550,6,10,14,42.4519
+135th,Sebastian River,Kyle Dennery,14,314004450,6,10,14,42.4519
+136th,Atlantic High School,Jennifer Hua,12,597008350,5,8,17,41.8274
+137th,Deerfield Beach,NEIL SONI,12,577013440,5,8,17,41.8274
+138th,Atlantic High School,Avian Goordeen,12,597002250,6,12,12,41.8274
+139th,Atlantic High School,Aubrey Crum,12,597001350,4,4,22,41.8274
+140th,Deerfield Beach,ANA DELCID,12,577011140,5,8,17,41.8274
+141st,Miami Springs,JAIME ALAYON,12,582000050,5,8,17,41.8274
+142nd,Deerfield Beach,ASHLEY GILKES,12,577011440,5,8,17,41.8274
+143rd,Deerfield Beach,MEGAN SMITH,12,577013340,5,8,17,41.8274
+144th,Stoneman Douglas,DIVYA DEVABHAKTUNI,12,532010140,4,4,22,41.8274
+145th,Seminole (Seminole),HYUNBIN CHO,12,341005140,5,8,17,41.8274
+146th,Miami Springs,ERNESTO SEBASTIAN,11,582003340,5,9,16,41.5152
+147th,Miami Springs,BRANDON NAVARRETE,11,582003550,4,5,21,41.5152
+148th,Lawton Chiles High School,Lacey Booth,11,181003850,4,5,21,41.5152
+149th,Sebastian River,Sean Ferguson,10,314004650,8,22,0,41.2030
+150th,Seminole (Seminole),BRANDON LEW,10,341009340,8,22,0,41.2030
+151st,Miami Springs,ARMANDO AGUILAR,9,582003450,4,7,19,40.8907
+152nd,Ronald Reagan H. S.,Sahil Babani,9,527002950,4,7,19,40.8907
+153rd,Deerfield Beach,JOEY CUSMANO,9,577011040,5,11,14,40.8907
+154th,Lincoln Park Academy,MATT LAGES,9,396000250,6,15,9,40.8907
+155th,Atlantic High School,KwanHong Kim,8,597003650,4,8,18,40.5785
+156th,Miami Springs,CHRISTOPHER MACOMBER,8,582004350,5,12,13,40.5785
+157th,Flanagan,Jesse Cheung,6,591000150,3,6,21,39.9540
+158th,Atlantic High School,Iordan Potchileev,6,597006350,3,6,21,39.9540
+159th,Lawton Chiles High School,Erica Kearney,6,181009240,3,6,21,39.9540
+160th,Rickards High School,Rachel Niu,6,140001840,6,18,6,39.9540
+161st,Ronald Reagan H. S.,Ivan Ramirez,5,527001550,2,3,25,39.6418
+162nd,Miami Springs,GABRIEL ICAZA,5,582006440,3,7,20,39.6418
+163rd,Palm Harbor Univ,RobertTyler Crown,5,413007350,7,23,0,39.6418
+164th,Rickards High School,Talia Robinson,4,140003250,3,8,19,39.3296
+165th,Freedom,STEPHANIE DACHS,4,466000240,2,4,24,39.3296
+166th,Freedom,YASHOBHA RANAWEERA,4,466003250,6,20,4,39.3296
+167th,Ronald Reagan H. S.,Camille Spencer,2,527001050,1,2,27,38.7051
+168th,Miami Springs,ANGIE ESTRADA,2,582003240,1,2,27,38.7051
+169th,Ronald Reagan H. S.,Stephanie Gibbon,1,527001850,3,11,16,38.3929
+170th,Middleton,Robert Aldridge,1,468002940,6,23,1,38.3929
+171st,Miami Springs,JAZMIN HERNANDEZ,0,582006230,2,8,20,38.0807
+172nd,Miami Springs,KRISTINE FERNANDEZ,0,582011550,1,4,25,38.0807
+173rd,Ferguson,LAURA LOZANO,0,507009850,3,12,15,38.0807
+174th,Middleton,Eric Cote,0,468003540,6,24,0,38.0807
+175th,Seminole (Seminole),JENNIFER BECK,-1,341007040,3,13,14,37.7684
+176th,Miami Springs,YULIANA OLIVARI,-1,582012440,2,9,19,37.7684
+177th,Middleton,Jared Inlow,-1,468003240,2,9,19,37.7684
+178th,Atlantic High School,Ronak Gandhi,-2,597002150,4,18,8,37.4562
+179th,Flanagan,Jolie Quach,-3,591001141,0,3,27,37.1440
+180th,Miami Springs,GABRIEL ICAZA,-4,582006442,0,4,26,36.8317
+181st,Ferguson,ZINNIA SOTOLONGO,-4,507005640,1,8,21,36.8317
+182nd,Miami Springs,LAUREN LOB,-4,582013550,1,8,21,36.8317
+183rd,Ronald Reagan H. S.,Bruno Fernandes,-5,527000350,1,9,20,36.5195
+184th,Miami Springs,ANNA SAVIANO,-5,582013240,0,5,25,36.5195
+185th,Sebastian River,John Welte,-5,314000440,5,25,0,36.5195
+186th,Lawton Chiles High School,Catherine Liu,-6,181009640,2,14,14,36.2073
+187th,Lawton Chiles High School,Keenan Poll,-7,181010040,2,15,13,35.8950
+188th,Ferguson,LUIS RAMIREZ,-8,507003140,0,8,22,35.5828
+189th,Miami Springs,MELODY MENDEZ,-9,582004131,1,13,16,35.2706

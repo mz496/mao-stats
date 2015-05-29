@@ -1,0 +1,93 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Seminole (Seminole),KYLE GETTIG,76,341002742,21,8,1,83.4110
+2nd,Seminole (Seminole),ALEX CHEN,59,341001541,17,9,4,73.5850
+3rd,Seminole (Seminole),KYLE KRATT,56,341002941,17,12,1,71.8510
+4th,Seminole (Seminole),ANDREW KWON,54,341003042,15,6,9,70.6950
+5th,Oviedo,David Brickeen,50,377001541,13,2,15,68.3830
+6th,Seminole (Seminole),VAANI OHRI,46,341004142,13,6,11,66.0710
+7th,Seminole (Seminole),ISHIKA KHONDAKER,46,341002141,13,6,11,66.0710
+8th,Seminole (Seminole),MICHELLE ZHONG,45,341006340,15,15,0,65.4930
+9th,St Edward's,ELLIOT JAFFE,44,374020241,13,8,9,64.9150
+10th,St Edward's,DANIEL MULLEN,42,374010941,13,10,7,63.7590
+11th,Seminole (Seminole),MAX SCHUMAN,40,341004542,13,12,5,62.6030
+12th,Seminole (Seminole),ALDWIN DEGUZMAN,37,341005040,12,11,7,60.8689
+13th,Hagerty High School,Stephen Barberi,37,310001140,10,3,17,60.8689
+14th,West Shore,Caleb Bryant,35,393002940,10,5,15,59.7129
+15th,Vero Beach,TOMMY BEASLEY,34,372000741,10,6,14,59.1349
+16th,St Edward's,BAI XUE,33,374022041,10,7,13,58.5569
+17th,Suncoast Comm,Matthew Liang,33,327005941,10,7,13,58.5569
+18th,Hagerty High School,Karena Edun,32,310001941,10,8,12,57.9789
+19th,Winter Springs,Paul Mekwinski,31,395001341,9,5,16,57.4009
+20th,Hagerty High School,Brad Bentz,31,310003141,11,13,6,57.4009
+21st,Seminole (Seminole),VICTOR CHAN,30,341001240,10,10,10,56.8229
+22nd,Vero Beach,HARSHONNATI JAIN,30,372000942,9,6,15,56.8229
+23rd,Vero Beach,CHRIS DIXON,30,372002641,10,10,10,56.8229
+24th,Seminole (Seminole),JENNY RAMAN,30,341010440,9,6,15,56.8229
+25th,Suncoast Comm,Cody Johnson,30,327006041,10,10,10,56.8229
+26th,Seminole (Seminole),MAHDI KASSAM,29,341008241,11,15,4,56.2449
+27th,Seminole (Seminole),JAY BULSARA,27,341007440,8,5,17,55.0889
+28th,Vero Beach,BILLY O'BRYAN,25,372005342,10,15,5,53.9329
+29th,Hagerty High School,Esther Cha,24,310001341,8,8,14,53.3549
+30th,St Edward's,JACQUELYN CARROLL,23,374022242,7,5,18,52.7769
+31st,Hagerty High School,Charles Hill,22,310000041,8,10,12,52.1989
+32nd,Hagerty High School,Jennifer Lam,21,310002942,6,3,21,51.6209
+33rd,St Edward's,KIMBERLY BUCACCIO,21,374020141,6,3,21,51.6209
+34th,Winter Springs,Carter Howard,20,395000541,8,12,10,51.0429
+35th,Hagerty High School,Aubrey Coffey,20,310000442,5,0,25,51.0429
+36th,Vero Beach,EMBER COURTNEY,20,372007141,7,8,15,51.0429
+37th,Vero Beach,MOLLY HIGGINS,19,372007642,7,9,14,50.4649
+38th,Hagerty High School,Joshua Stromberg,19,310005942,6,5,19,50.4649
+39th,Seminole (Seminole),SHAUNAK PANDYA,18,341005340,7,10,13,49.8869
+40th,Seminole (Seminole),EVAN RAPP,18,341010040,7,10,13,49.8869
+41st,West Shore,Esha Bansal,17,393004241,7,11,12,49.3089
+42nd,St Edward's,OLIVIA BLAKEMAN,17,374021742,6,7,17,49.3089
+43rd,Suncoast Comm,Melissa Horowitz,16,327009742,5,4,21,48.7309
+44th,Lincoln Park Academy,Colleen Sanders,16,396000041,6,8,16,48.7309
+45th,Hagerty High School,Nicole Nowotny,15,310000142,5,5,20,48.1529
+46th,Winter Springs,Idanya Clark,15,395000930,9,21,0,48.1529
+47th,Vero Beach,MARK GASPICH,14,372003242,6,10,14,47.5749
+48th,Suncoast Comm,Zhaoqi Li,14,327005841,6,10,14,47.5749
+49th,Suncoast Comm,Jai Patel,13,327004242,5,7,18,46.9969
+50th,Seminole (Seminole),PEARLY PANDYA,13,341004240,6,11,13,46.9969
+51st,Bayside,Charles Smith,12,303003241,4,4,22,46.4189
+52nd,Suncoast Comm,Roman Maracarelli,12,327005141,4,4,22,46.4189
+53rd,Lake Howell,Melissa Shafer,12,391030541,5,8,17,46.4189
+54th,West Shore,Kha Duong,12,393002340,5,8,17,46.4189
+55th,West Shore,Andrew Lim,11,393002441,4,5,21,45.8409
+56th,Lake Mary,Christina Na,11,308004241,4,5,21,45.8409
+57th,Suncoast Comm,Jay Patel,11,327006540,6,13,11,45.8409
+58th,Hagerty High School,Rohith Kasireddy,10,310003240,3,2,25,45.2629
+59th,Suncoast Comm,Josh Hellerstein,10,327006840,4,6,20,45.2629
+60th,Seminole (Seminole),KENDALL RUSKIN,10,341004340,8,22,0,45.2629
+61st,Seminole (Seminole),HELEN TOLLEY,10,341008440,5,10,15,45.2629
+62nd,Lake Mary,Nicholas Sepulveda,9,308004541,5,11,14,44.6849
+63rd,West Shore,David Anderson,9,393002641,5,11,14,44.6849
+64th,West Shore,Clay Uhing,9,393004141,4,7,19,44.6849
+65th,Lake Mary,Ellen Baker,8,308001441,3,4,23,44.1069
+66th,Lincoln Park Academy,Robert Bacchus,8,396001641,6,16,8,44.1069
+67th,Vero Beach,CODY HOWARD,7,372007741,7,21,2,43.5289
+68th,Lake Howell,Danielle Samuels,7,391031041,3,5,22,43.5289
+69th,West Shore,Robert Edmiston,7,393002042,3,5,22,43.5289
+70th,West Shore,Taryn Tolle,7,393002242,4,9,17,43.5289
+71st,West Shore,Rachel Poole,6,393002742,3,6,21,42.9509
+72nd,West Shore,Danielle Jerdon,6,393002142,2,2,26,42.9509
+73rd,Bayside,Robert Rogulski,5,303003041,2,3,25,42.3729
+74th,Suncoast Comm,Thomas Smith,5,327004140,4,11,15,42.3729
+75th,Winter Springs,Quinten Putze,5,395001241,4,11,15,42.3729
+76th,Lincoln Park Academy,Alexandra Saloman,4,396000341,2,4,24,41.7949
+77th,Suncoast Comm,Wendy Huang,3,327006142,2,5,23,41.2169
+78th,Oviedo,David Ridgeway,3,377000841,4,13,13,41.2169
+79th,Lake Mary,Sarah Gourlay,2,308003341,1,2,27,40.6389
+80th,Suncoast Comm,Christian Mendoza,2,327005242,2,6,22,40.6389
+81st,Oviedo,Lucy Wu,1,377000341,1,3,26,40.0609
+82nd,Lake Howell,Shaihanne Singh,1,391030641,2,7,21,40.0609
+83rd,West Shore,Hannah Schmidt,-2,393002540,1,6,23,38.3269
+84th,Lyman High School,Kristina Escobar,-2,351001041,1,6,23,38.3269
+85th,Vero Beach,SPENCER WOODWARD,-2,372002040,3,14,13,38.3269
+86th,Lake Howell,Grace Chun,-3,391030141,1,7,22,37.7489
+87th,Suncoast Comm,Samantha Grubner,-4,327006240,1,8,21,37.1709
+88th,Vero Beach,JETT MORROW,-5,372001340,5,25,0,36.5929
+89th,Winter Springs,Christina Clement,-5,395000341,2,13,15,36.5929
+90th,Bayside,Michelle Corrales,-5,303002441,0,5,25,36.5929
+91st,Lyman High School,Benjamin Manipadam,-10,351002941,4,26,0,33.7029
+92nd,Winter Springs,Soroush Antikchi,-10,395009442,4,26,0,33.7029

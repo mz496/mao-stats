@@ -1,0 +1,63 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Orlando Science Middle Charter School,Minh Le,116,348101011,29,0,1,69.0632
+2nd,West Shore,Mircea Silaghi,110,393001211,28,2,0,67.2083
+3rd,Orlando Science Middle Charter School,Siyona Mishra,110,348100011,28,2,0,67.2083
+4th,Sanford Middle,Praveen Sundar,106,344101011,27,2,1,65.9716
+5th,Sanford Middle,Lydia Chung,105,344102711,27,3,0,65.6625
+6th,Sanford Middle,Vincent Huang,101,344101711,26,3,1,64.4258
+7th,Lincoln Park Academy,Callie Zheng,100,396000211,26,4,0,64.1167
+8th,Indian Trails Middle School,Jason Harmon,99,375000411,25,1,4,63.8075
+9th,Sanford Middle,Srikar Gadamsetty,97,344100511,25,3,2,63.1892
+10th,West Shore,Kishen Mitra,97,393001011,25,3,2,63.1892
+11th,Sanford Middle,Ian Henriques,96,344103012,25,4,1,62.8800
+12th,Sanford Middle,Gabris Ni,95,344100412,24,1,5,62.5709
+13th,Orlando Science Middle Charter School,Arnav Pulyala,88,348101312,23,4,3,60.4067
+14th,Sanford Middle,Ronald Xu,83,344101810,21,1,8,58.8609
+15th,Sanford Middle,Aishwarya Babuji,82,344102412,22,6,2,58.5518
+16th,West Shore,Conner Miles,82,393001311,21,2,7,58.5518
+17th,Orlando Science Middle Charter School,Justin Kim,78,348102012,21,6,3,57.3151
+18th,Orlando Science Middle Charter School,Wade Twyford,75,348101410,20,5,5,56.3876
+19th,Orlando Science Middle Charter School,Jaehyun Ahn,72,348101612,19,4,7,55.4602
+20th,Orlando Science Middle Charter School,Peter Penev,66,348101711,17,2,11,53.6052
+21st,Sanford Middle,Sanjana Kumar,61,344105310,17,7,6,52.0594
+22nd,Sanford Middle,Aniketh Guduri,61,344103110,16,3,11,52.0594
+23rd,Sanford Middle,Suhas Dhanyamraju,60,344101610,17,8,5,51.7502
+24th,Sanford Middle,Tanay Poddar,57,344101110,16,7,7,50.8228
+25th,Sanford Middle,Arianna Zhai,57,344100010,16,7,7,50.8228
+26th,Sanford Middle,Richa Bhavsar,57,344103720,15,3,12,50.8228
+27th,Markham Woods Middle,Samantha Eldredge,54,323101211,15,6,9,49.8953
+28th,Markham Woods Middle,jack dellenger,54,323101611,14,2,14,49.8953
+29th,Orlando Science Middle Charter School,Nelson Ying,53,348101211,15,7,8,49.5861
+30th,Sanford Middle,Kashyap Sreeram,51,344102812,15,9,6,48.9678
+31st,Indian Trails Middle School,Taeseung Um,50,375000811,16,14,0,48.6586
+32nd,Lawton Chiles Middle School,Steven Fang,50,329101211,15,10,5,48.6586
+33rd,West Shore,Lasya Damaraju,47,393003912,13,5,12,47.7312
+34th,Indian Trails Middle School,Daniel Galvez,47,375000312,13,5,12,47.7312
+35th,Lincoln Park Academy,Austin Coley,46,396000811,12,2,16,47.4220
+36th,Lawton Chiles Middle School,Nathan Weaver,45,329101111,15,15,0,47.1128
+37th,Orlando Science Middle Charter School,Bansari Modi,44,348101112,13,8,9,46.8037
+38th,Orlando Science Middle Charter School,Meghana Talluri,42,348101910,12,6,12,46.1854
+39th,Indian Trails Middle School,Julia Hoffman,41,375000512,11,3,16,45.8762
+40th,Sanford Middle,Anita Shiva,40,344101310,13,12,5,45.5670
+41st,Sanford Middle,Aditi Dubey,40,344100110,13,12,5,45.5670
+42nd,West Shore,Brendan Rannings,39,393002511,11,5,14,45.2579
+43rd,Orlando Science Middle Charter School,Alex Yim,39,348101810,12,9,9,45.2579
+44th,Sanford Middle,Anirudh Vustepalli,39,344101910,12,9,9,45.2579
+45th,Lawton Chiles Middle School,Sofia Martinez,37,329101411,13,15,2,44.6396
+46th,Indian Trails Middle School,Juan Claudio,36,375000111,13,16,1,44.3304
+47th,Markham Woods Middle,Julia Ulrich,32,323101911,9,4,17,43.0938
+48th,Sanford Middle,Sneha Suresh,30,344102310,10,10,10,42.4754
+49th,West Shore,Kyle Townsend,30,393002212,9,6,15,42.4754
+50th,Sanford Middle,Ritika Vonguru,28,344102010,8,4,18,41.8571
+51st,Sanford Middle,Anusha Sikand,25,344101510,7,3,20,40.9296
+52nd,Millennium Middle School,Sally Stahl,19,318101811,8,13,9,39.0747
+53rd,West Shore,Josh Freeman,18,393006212,6,6,18,38.7655
+54th,Sanford Middle,Yashaswini Meduri,15,344102610,6,9,15,37.8380
+55th,Markham Woods Middle,Elise Gaines,15,323100011,6,9,15,37.8380
+56th,Millennium Middle School,Leila Declouet,11,318101911,4,5,21,36.6014
+57th,Lawton Chiles Middle School,Noah Van Camp,10,329101611,5,10,15,36.2922
+58th,Indian Trails Middle School,Julian Delgado,9,375000212,6,15,9,35.9831
+59th,Millennium Middle School,Charles Hatfield,8,318102212,6,16,8,35.6739
+60th,Millennium Middle School,Mollie Brengman,7,318102112,4,9,17,35.3648
+61st,Millennium Middle School,Gabrielle Perlstein,5,318101711,4,11,15,34.7464
+62nd,Sanford Middle,Suhaib Hasan,2,344100610,5,18,7,33.8190

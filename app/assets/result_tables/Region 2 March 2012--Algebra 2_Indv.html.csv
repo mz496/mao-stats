@@ -1,0 +1,88 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Middle,Ellen Li,86,201103531,22,2,6,77.3101
+2nd,Buchholz,HauLin Wu,86,295004231,22,2,6,77.3101
+3rd,Buchholz,Michael Wong,82,295004031,21,2,7,75.5436
+4th,Buchholz,Nicholas Klugman,78,295000731,20,2,8,73.7771
+5th,Lincoln Middle,Beverly Ge,70,201103431,18,2,10,70.2440
+6th,Lincoln Middle,Lillian Zhu,68,201103731,18,4,8,69.3607
+7th,Stanton College Preparatory School,Robin Zeng,60,296002131,16,4,10,65.8277
+8th,Buchholz,Soomin Cho,57,295003231,15,3,12,64.5028
+9th,Lincoln Middle,Jonathan Fang,56,201103631,15,4,11,64.0612
+10th,Gainesville High School,Michael Quillen,54,268003432,15,6,9,63.1779
+11th,Buchholz,Anand Vidyasagar,50,295003430,14,6,10,61.4114
+12th,Buchholz,Donghyun Yoon,48,295004332,14,8,8,60.5281
+13th,Oak Hall,AMAN KABEER,46,249000231,13,6,11,59.6448
+14th,Lincoln Middle,Danielle Liu,44,201104032,13,8,9,58.7616
+15th,Oak Hall,HAOQING YAN,42,249001131,13,10,7,57.8783
+16th,Buchholz,Junhao Wang,42,295004132,13,10,7,57.8783
+17th,Eastside,Jess Smith,41,280005031,12,7,11,57.4367
+18th,Gainesville High School,Huck Rocca,41,268000431,12,7,11,57.4367
+19th,Buchholz,Eric Ye,40,295003832,11,4,15,56.9950
+20th,Buchholz,Lisa Zhang,40,295003532,12,8,10,56.9950
+21st,Nease High School,Trevor Bernas,38,290000831,11,6,13,56.1118
+22nd,Eastside,Shannon Liu,38,280004931,11,6,13,56.1118
+23rd,Gainesville High School,Laura Davis,35,268002830,10,5,15,54.7869
+24th,Stanton College Preparatory School,Taehwan Kwak,35,296002231,11,9,10,54.7869
+25th,Gainesville High School,Zachary Read,32,268004131,9,4,17,53.4620
+26th,Stanton College Preparatory School,Sindee Lee,31,296001631,9,5,16,53.0204
+27th,Fleming Island High,Hubert Bui,31,220000131,8,1,21,53.0204
+28th,Lincoln Middle,Anand Rajan,31,201104132,10,9,11,53.0204
+29th,Fleming Island High,R. J. Norris,30,220000231,8,2,20,52.5787
+30th,Fleming Island High,Brian Stokes,30,220000432,9,6,15,52.5787
+31st,Eastside,Sarah Lulu,29,280005932,8,3,19,52.1371
+32nd,Bolles,Swetha Davuluri,28,252002431,8,4,18,51.6955
+33rd,Eastside,Yong Shan,27,280006331,9,9,12,51.2538
+34th,Nease High School,Alexander Short,27,290000331,11,17,2,51.2538
+35th,Eastside,Gloria Kann,26,280004532,8,6,16,50.8122
+36th,Lincoln Middle,Sanika Subhash,26,201104232,9,10,11,50.8122
+37th,Stanton College Preparatory School,Raj Shah,24,296004032,8,8,14,49.9289
+38th,Oak Hall,ZAIN KABEER,23,249007331,7,5,18,49.4873
+39th,Fleming Island High,Troy Dentel,23,220001232,7,5,18,49.4873
+40th,Gainesville High School,Nick Mueller,22,268003330,8,10,12,49.0457
+41st,Gainesville High School,Cailey Lydon,20,268007330,10,20,0,48.1624
+42nd,Gainesville High School,Zoey Hendrickson,19,268000830,6,5,19,47.7208
+43rd,Eastside,Vanna Yang,17,280006531,7,11,12,46.8375
+44th,Gainesville High School,Karen Tecler,17,268006331,6,7,17,46.8375
+45th,Stanton College Preparatory School,Arjun Tamrakar,17,296005131,5,3,22,46.8375
+46th,Gainesville High School,Chaz Chester,17,268002632,5,3,22,46.8375
+47th,Gainesville High School,Delilah Allen,16,268003530,8,16,6,46.3959
+48th,Flagler Palm Coast,Barret Manfre,15,221003630,4,1,25,45.9542
+49th,Bolles,Zereen Sarwar,15,252002831,5,5,20,45.9542
+50th,Fleming Island High,Austin Stevens,15,220000331,5,5,20,45.9542
+51st,Gainesville High School,Ashley Brockway,15,268004830,5,5,20,45.9542
+52nd,Fleming Island High,Zane Budzinski,14,220000031,4,2,24,45.5126
+53rd,Flagler Palm Coast,Brett Cain,14,221004330,4,2,24,45.5126
+54th,Nease High School,Zach Anastasiadis,14,290000431,5,6,19,45.5126
+55th,Nease High School,Justin Glinka,14,290000631,5,6,19,45.5126
+56th,Gainesville High School,Alexis Clay,13,268001631,5,7,18,45.0710
+57th,Flagler Palm Coast,Daniel Sarmiento,13,221002630,4,3,23,45.0710
+58th,Flagler Palm Coast,Ashli Phillips,12,221002932,4,4,22,44.6293
+59th,Flagler Palm Coast,Hailey Cronk,12,221000330,3,0,27,44.6293
+60th,Stanton College Preparatory School,Jonathan Charles,12,296001832,4,4,22,44.6293
+61st,Gainesville High School,Samuel Phillips,12,268000630,6,12,12,44.6293
+62nd,Oak Hall,NEAL PATEL,11,249003131,4,5,21,44.1877
+63rd,Nease High School,Tyler Goldsmith,11,290000732,5,9,16,44.1877
+64th,Flagler Palm Coast,Mytrang Tran,9,221002131,3,3,24,43.3044
+65th,Flagler Palm Coast,Brandan Eng,8,221002532,3,4,23,42.8628
+66th,Gainesville High School,Matthew Powell,8,268008732,5,12,13,42.8628
+67th,Gainesville High School,Beth Miles,7,268007230,4,9,17,42.4212
+68th,Flagler Palm Coast,Eva Perez,7,221001532,2,1,27,42.4212
+69th,Flagler Palm Coast,Mirlande Mercius,7,221003431,3,5,22,42.4212
+70th,Flagler Palm Coast,Anna Skudarnova,6,221002731,2,2,26,41.9796
+71st,Gainesville High School,Erik Abernathy,6,268005332,3,6,21,41.9796
+72nd,Gainesville High School,Abel Paguio,6,268008630,3,6,21,41.9796
+73rd,Flagler Palm Coast,Autumn Sanson,5,221001630,2,3,25,41.5379
+74th,Flagler Palm Coast,Maha Muneer,5,221001232,2,3,25,41.5379
+75th,Gainesville High School,Zak Woodward,5,268003830,4,11,15,41.5379
+76th,Gainesville High School,Sadie DePeter,5,268003030,4,11,15,41.5379
+77th,Gainesville High School,Jacob Yeboah,4,268005430,3,8,19,41.0963
+78th,Flagler Palm Coast,Jeyda Deniz,3,221000430,1,1,28,40.6547
+79th,Gainesville High School,Gabrielle Moore,2,268006730,2,6,22,40.2130
+80th,Leesburg High School,Max Shen,2,287003731,1,2,27,40.2130
+81st,Gainesville High School,Svieta Livingston,2,268004630,4,14,12,40.2130
+82nd,Gainesville High School,Rachel Graham,0,268002930,4,16,10,39.3298
+83rd,Flagler Palm Coast,Sydney Ung,-3,221003530,1,7,22,38.0049
+84th,Flagler Palm Coast,Tina Nguyen,-6,221001331,0,6,24,36.6800
+85th,Nease High School,Turner Street,-6,290000532,2,14,14,36.6800
+86th,Gainesville High School,RJ Johnson,-15,268006830,3,27,0,32.7053
+87th,Gainesville High School,Kira Carusone,-17,268007730,0,17,13,31.8220

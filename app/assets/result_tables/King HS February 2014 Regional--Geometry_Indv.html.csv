@@ -1,0 +1,77 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Riverdale,Luke ChinAFoeng,106,457000221,27,2,1,76.9118
+2nd,Dunbar High School,Christopher Lather,98,477070121,25,2,3,73.4327
+3rd,Berkeley Prep,Julia Hossain,98,405004021,25,2,3,73.4327
+4th,Berkeley Prep,Jake Sokol,90,405001821,24,6,0,69.9536
+5th,Williams Middle,Aryan Patidar,79,468101620,21,5,4,65.1697
+6th,Wharton,April Olson,73,485001121,19,3,8,62.5604
+7th,Tampa Bay Tech,Sabrina Rodriguez,73,461000721,19,3,8,62.5604
+8th,Berkeley Prep,Ryan Li,73,405002821,20,7,3,62.5604
+9th,Wharton,Muhammed Kocak,71,485003921,19,5,6,61.6906
+10th,Saint Stephen's Episcopal School,VANESSA YAN,67,489000921,18,5,7,59.9510
+11th,Gaither High School,Dariush Kim,67,426000621,18,5,7,59.9510
+12th,Hillsborough,Jakob Nicolasora,66,428070821,17,2,11,59.5161
+13th,Dunbar High School,Israel Rodriguez,66,477070421,18,6,6,59.5161
+14th,Fort Myers,Simon Negin,65,423001921,17,3,10,59.0812
+15th,Hillsborough,Willie Mason,64,428070721,17,4,9,58.6464
+16th,Williams Middle,Sakina Johar,63,468100621,17,5,8,58.2115
+17th,Middleton,Panith Thiruvenkatasamy,63,468000721,18,9,3,58.2115
+18th,Tampa Bay Tech,Arsany Gad,63,461000821,17,5,8,58.2115
+19th,Berkeley Prep,Sean Nguyen,61,405001622,17,7,6,57.3417
+20th,Berkeley Prep,Sydney Corey,60,405006621,16,4,10,56.9068
+21st,Robinson,Madisen Kerr,57,458000721,15,3,12,55.6021
+22nd,Chamberlain,Chad McNeal,53,407001121,14,3,13,53.8625
+23rd,Fort Myers,Caroline Parslow,52,423003721,14,4,12,53.4276
+24th,Berkeley Prep,Brad Batas,52,405004722,16,12,2,53.4276
+25th,Wharton,Samantha Scott,51,485001621,14,5,11,52.9927
+26th,Robinson,Kyle Johnson,51,458003621,13,1,16,52.9927
+27th,Williams Middle,Dakshin Rathnavadivel,51,468101822,13,1,16,52.9927
+28th,Saint Stephen's Episcopal School,XIN HUANG,50,489001921,14,6,10,52.5579
+29th,Wharton,Rungi Weng,46,485001821,14,10,6,50.8183
+30th,Wharton,James Cannon,44,485000822,12,4,14,49.9485
+31st,Middleton,Bryant Wilkins,44,468003221,13,8,9,49.9485
+32nd,Saint Stephen's Episcopal School,YUQUING LIU,43,489002321,12,5,13,49.5136
+33rd,Tampa Bay Tech,Colin Castlewitz,43,461001021,12,5,13,49.5136
+34th,Robinson,Jordan Moumne,43,458001421,13,9,8,49.5136
+35th,Fort Myers,Trey Brauch,43,423002121,13,9,8,49.5136
+36th,Dunbar High School,Stone Warren,42,477070221,11,2,17,49.0787
+37th,Berkeley Prep,Jessica Cascio,42,405006722,12,6,12,49.0787
+38th,Williams Middle,Neeti Bhutada,42,468100021,13,10,7,49.0787
+39th,Berkeley Prep,Hayley Divers,41,405001220,11,3,16,48.6438
+40th,Saint Stephen's Episcopal School,JERRY WANG,41,489003821,14,15,1,48.6438
+41st,Berkeley Prep,Tej Patel,41,405003920,13,11,6,48.6438
+42nd,Sickles,Milin Kurup,40,479009321,14,16,0,48.2089
+43rd,Riverdale,Jenny Nguyen,38,457000021,11,6,13,47.3391
+44th,Berkeley Prep,Caroline Cepero,38,405000920,11,6,13,47.3391
+45th,Fort Myers,Mohit Mathur,37,423006121,10,3,17,46.9043
+46th,Robinson,Esther Cer,37,458001821,12,11,7,46.9043
+47th,Chamberlain,Allen Lopez,36,407002121,11,8,11,46.4694
+48th,Williams Middle,Ria Shah,36,468102122,11,8,11,46.4694
+49th,Berkeley Prep,Anjali Shah,36,405006520,11,8,11,46.4694
+50th,Dunbar High School,Nathan Chaiprasert,35,477070921,9,1,20,46.0345
+51st,Tampa Bay Tech,Mikeul Dinkens,34,461001122,9,2,19,45.5996
+52nd,Cape Coral High School,Shanjida Rauf,33,418002321,9,3,18,45.1647
+53rd,Tampa Bay Tech,Ali Khan,33,461000922,10,7,13,45.1647
+54th,Cape Coral High School,Chris Samuels,31,418001221,9,5,16,44.2949
+55th,Middleton,Hunter Bowerman,31,468002621,10,9,11,44.2949
+56th,Durant,Jared Brock,30,475003121,12,18,0,43.8600
+57th,Tampa Bay Tech,Beatriz Garcia,29,461000021,9,7,14,43.4251
+58th,Berkeley Prep,Isabella Monticciolo,29,405006020,8,3,19,43.4251
+59th,Tampa Bay Tech,Cassandra Pitcher,29,461001422,10,11,9,43.4251
+60th,Williams Middle,Ria Sanghani,28,468102021,10,12,8,42.9902
+61st,Tampa Bay Tech,Courtney Ruble,27,461001322,8,5,17,42.5553
+62nd,Williams Middle,Minjoo Kim,26,468100721,9,10,11,42.1204
+63rd,Berkeley Prep,Andrew Koch,24,405001122,9,12,9,41.2506
+64th,Gaither High School,Isaac Cheung,24,426003321,8,8,14,41.2506
+65th,Hillsborough,Junior Charley,23,428072421,8,9,13,40.8158
+66th,Williams Middle,Hannah Diskin,21,468100422,7,7,16,39.9460
+67th,Fort Myers,Tasnia Patwary,21,423004122,6,3,21,39.9460
+68th,Williams Middle,Dylan Mohanlall,19,468100922,6,5,19,39.0762
+69th,Fort Myers,Purvis Amin,19,423002322,5,1,24,39.0762
+70th,Cape Coral High School,Dannah Dolorfino,19,418001021,7,9,14,39.0762
+71st,Gaither High School,Sun Dong Kim,16,426000721,6,8,16,37.7715
+72nd,Gaither High School,Calvin Cheung,15,426000921,5,5,20,37.3366
+73rd,Williams Middle,Vamsi Lolla,12,468100820,5,8,17,36.0319
+74th,Middleton,Serina Bush,10,468000922,5,10,15,35.1622
+75th,Shorecrest Prep,Mac Gilroy,7,451005621,5,13,12,33.8575
+76th,Middleton,Dylan Singh,-8,468000521,2,16,12,27.3341

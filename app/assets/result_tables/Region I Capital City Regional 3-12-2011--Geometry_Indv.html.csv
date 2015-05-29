@@ -1,0 +1,87 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Deerlake Middle,JESSIE CHI,115,185111921,29,1,0,74.3790
+2nd,Fairview Middle,Michael Sorensen,111,125105320,28,1,1,73.0994
+3rd,Fairview Middle,Jeewoo Kang,110,125103621,28,2,0,72.7795
+4th,Deerlake Middle,NICK YOUNG,104,185110221,26,0,4,70.8601
+5th,Lawton Chiles High School,Shinyoung Lee,95,181000121,24,1,5,67.9811
+6th,Fairview Middle,Stephen Barton,95,125103521,25,5,0,67.9811
+7th,Deerlake Middle,ANDREW DANG,94,185111621,24,2,4,67.6612
+8th,Fairview Middle,Siddarth Kethireddy,92,125100721,24,4,2,67.0214
+9th,Deerlake Middle,DANIEL ZHENG,91,185110721,23,1,6,66.7015
+10th,Deerlake Middle,ZAC SCHROEPFER,90,185110920,23,2,5,66.3816
+11th,Fairview Middle,Brian Lockwood,85,125100122,23,7,0,64.7821
+12th,Montford Middle,Shiming Deng,77,151115622,21,7,2,62.2230
+13th,Fairview Middle,Teja Jakkala,75,125107221,20,5,5,61.5832
+14th,Fairview Middle,Andres Rodriguez,73,125101322,20,7,3,60.9434
+15th,Lincoln,Seunghyun Lee,71,109004021,20,9,1,60.3036
+16th,Deerlake Middle,ABHINAV HARISH,71,185111222,18,1,11,60.3036
+17th,Fairview Middle,Salma ElAzab,69,125107720,18,3,9,59.6638
+18th,Deerlake Middle,DELANEY DING,67,185110822,17,1,12,59.0240
+19th,Elizabeth Cobb Middle School,Justin Bartell,67,166000521,18,5,7,59.0240
+20th,Fairview Middle,Carolyn Shi,67,125100922,18,5,7,59.0240
+21st,Fairview Middle,Ifrah Waris,63,125109720,17,5,8,57.7444
+22nd,Fairview Middle,Awnish Choudhary,56,125100222,16,8,6,55.5052
+23rd,Lawton Chiles High School,Amanda VelezCortez,49,181000521,13,3,14,53.2659
+24th,Elizabeth Cobb Middle School,Joshua Arthurs,49,166000321,14,7,9,53.2659
+25th,Fairview Middle,John Ameen,49,125104620,14,7,9,53.2659
+26th,Lawton Chiles High School,Colleen Cui,47,181001021,13,5,12,52.6261
+27th,Fairview Middle,Evan Wilson,47,125108820,13,5,12,52.6261
+28th,Montford Middle,Doreen Yang,46,151117222,13,6,11,52.3062
+29th,Swift Creek Middle,Brendan Schneider,46,122101421,14,10,6,52.3062
+30th,Fairview Middle,Raymond Reyes,46,125105920,13,6,11,52.3062
+31st,Fairview Middle,Rhea Reyes,44,125103220,13,8,9,51.6664
+32nd,Deerlake Middle,NICK DIETRICH,41,185111522,11,3,16,50.7067
+33rd,Deerlake Middle,DAVID JOBCZYNSKI,40,185113422,11,4,15,50.3868
+34th,Rutherford High School,Angela Pham,40,174000321,12,8,10,50.3868
+35th,Lawton Chiles High School,Annie Yang,39,181000620,13,13,4,50.0670
+36th,Montford Middle,William Burch,39,151115221,12,9,9,50.0670
+37th,Deerlake Middle,FARRAH LIN,37,185112320,10,3,17,49.4272
+38th,Elizabeth Cobb Middle School,Thomas Roddenberry,37,166003321,11,7,12,49.4272
+39th,Montford Middle,Grace Hong,35,151116222,12,13,5,48.7874
+40th,Deerlake Middle,KATHRYN VANETTEN,32,185117320,10,8,12,47.8277
+41st,Lawton Chiles High School,Xueting Wang,31,181003321,10,9,11,47.5078
+42nd,Fairview Middle,Aiman Waris,30,125101120,9,6,15,47.1879
+43rd,Swift Creek Middle,Amanda Mascarenhas,29,122101021,9,7,14,46.8680
+44th,Deerlake Middle,JAMIE LEE,28,185113720,8,4,18,46.5481
+45th,Rutherford High School,Patrick Robinson,28,174001922,10,12,8,46.5481
+46th,Swift Creek Middle,Angela Duan,26,122101521,9,10,11,45.9083
+47th,Navarre,KATIE SULLIVAN,26,180003421,7,2,21,45.9083
+48th,Deerlake Middle,ERIKA FYE,26,185112120,7,2,21,45.9083
+49th,Deerlake Middle,SIERRA DILLENSCHNEIDER,26,185111120,7,2,21,45.9083
+50th,Deerlake Middle,JEFFREY ZHU,26,185117220,10,14,6,45.9083
+51st,Deerlake Middle,KAITLIN CHEN,25,185110120,7,3,20,45.5884
+52nd,Montford Middle,Zach Sespico,25,151118921,8,7,15,45.5884
+53rd,Deerlake Middle,LAURA KENYON,25,185112220,7,3,20,45.5884
+54th,Elizabeth Cobb Middle School,Faith Hill,25,166001821,9,11,10,45.5884
+55th,Navarre,TAYLOR DAVIS,25,180003021,7,3,20,45.5884
+56th,Deerlake Middle,LAURIE FINDLEY,24,185112820,7,4,19,45.2685
+57th,Montford Middle,Pranshu Trivedi,22,151116821,7,6,17,44.6287
+58th,Deerlake Middle,DAVID XIA,21,185111720,6,3,21,44.3088
+59th,Rocky Bayou Christian School,Kelly Hanning,21,192004021,7,7,16,44.3088
+60th,Lincoln,WooJin Kim,20,109001621,10,20,0,43.9889
+61st,Rutherford High School,Nhung Phan,20,174000421,6,4,20,43.9889
+62nd,Montford Middle,Shrikumar Nair,20,151118722,9,16,5,43.9889
+63rd,Montford Middle,Hannah Williams,19,151119321,6,5,19,43.6691
+64th,Milton,Ryan Schaffer,19,154005021,8,13,9,43.6691
+65th,Elizabeth Cobb Middle School,Isabella Banka,17,166000420,6,7,17,43.0293
+66th,Rutherford High School,Maiya Phillips,16,174000521,5,4,21,42.7094
+67th,Rutherford High School,Kyrah Dinham,14,174000122,5,6,19,42.0696
+68th,Fairview Middle,Shwetha Shetty,13,125106420,5,7,18,41.7497
+69th,Deerlake Middle,BRYAN POZZUOLI,12,185111020,4,4,22,41.4298
+70th,Deerlake Middle,ARIC HAWKINS,11,185119920,4,5,21,41.1099
+71st,Lincoln,Aarti Parmar,11,109001821,4,5,21,41.1099
+72nd,Rutherford High School,Ivy Grob,10,174000221,3,2,25,40.7900
+73rd,Fairview Middle,Khayah Peters,10,125103420,8,22,0,40.7900
+74th,Deerlake Middle,TY MURRAY,7,185112720,2,1,27,39.8303
+75th,Deerlake Middle,BEN FREHN,6,185114420,2,2,26,39.5104
+76th,Deerlake Middle,WINSLOW ROBINSON,5,185111820,3,7,20,39.1905
+77th,Rutherford High School,Naomi Machala,5,174001222,2,3,25,39.1905
+78th,Deerlake Middle,TAYLOR CASSELMAN,5,185110320,2,3,25,39.1905
+79th,Navarre,CELINE CHARITAT,5,180002921,3,7,20,39.1905
+80th,Navarre,ROMAN SPEAR,5,180003321,2,3,25,39.1905
+81st,Montford Middle,Jacob Vancore,3,151117020,1,1,28,38.5507
+82nd,Milton,Zane Lowe,3,154002721,2,5,23,38.5507
+83rd,Montford Middle,Samuel Vancore,3,151114620,4,13,13,38.5507
+84th,Deerlake Middle,JOEL BUENROSTRO,2,185112920,1,2,27,38.2308
+85th,Rocky Bayou Christian School,Cody Craine,0,192006221,3,12,15,37.5910
+86th,Elizabeth Cobb Middle School,Tiffany Lewis,-15,166002520,0,15,15,32.7926

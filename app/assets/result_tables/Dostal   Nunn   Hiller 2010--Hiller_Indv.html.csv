@@ -1,0 +1,69 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Sanford Middle,Aradhya Kasera,115,344101310,29,1,0,74.9307
+2nd,Lincoln Park Academy,Geoffrey Zheng,110,396001210,28,2,0,73.1901
+3rd,Jackson Heights Middle,CAMERON YAP,98,304100710,25,2,3,69.0128
+4th,Sanford Middle,Jimmy Qin,93,344100010,24,3,3,67.2723
+5th,Sanford Middle,Shachi Pandya,91,344100210,24,5,1,66.5761
+6th,Deerlake Middle,ARYA OKTEN,91,185105610,24,5,1,66.5761
+7th,American Heritage (Plantation),Trevor Bierenbaum,90,506005410,24,6,0,66.2280
+8th,Sanford Middle,Patrick Lim,84,344100310,22,4,4,64.1393
+9th,Deerlake Middle,JAMIE GAO,78,185109010,20,2,8,62.0507
+10th,Sanford Middle,Seraphina Choi,75,344100710,20,5,5,61.0064
+11th,Deerlake Middle,NILAY PATEL,75,185104210,20,5,5,61.0064
+12th,Deerlake Middle,SAMPATH KUMAR,70,185101310,20,10,0,59.2658
+13th,Sanford Middle,Priya Manjaly,70,344101510,20,10,0,59.2658
+14th,Sanford Middle,Amrita Sumal,69,344100110,19,7,4,58.9177
+15th,Sanford Middle,Nafisa Mostafa,67,344101710,19,9,2,58.2215
+16th,Sanford Middle,Sita Ramaswamy,62,344100610,17,6,7,56.4809
+17th,Sanford Middle,Bahram Hosseini,62,344102010,16,2,12,56.4809
+18th,Sanford Middle,Chirag Lodha,61,344101810,16,3,11,56.1328
+19th,Deerlake Middle,ARLENE CHEN,59,185100310,16,5,9,55.4366
+20th,Deerlake Middle,REILLY STONER,57,185101710,15,3,12,54.7404
+21st,Sanford Middle,Anvita Nath,57,344101610,15,3,12,54.7404
+22nd,Jackson Heights Middle,TIA MENNA,56,304101310,15,4,11,54.3923
+23rd,Sanford Middle,Silvia Huaman,51,344101910,14,5,11,52.6518
+24th,West Broward High School,Bryan Gatto,50,534002310,16,14,0,52.3037
+25th,St Stephen's Episcopal,JORGE ZAVALA,49,489002810,13,3,14,51.9555
+26th,Jackson Heights Middle,DAVID JABLON,48,304100510,13,4,13,51.6074
+27th,Bishop Verot,Holly Branthoover,48,453002410,13,4,13,51.6074
+28th,Jackson Heights Middle,LAUREN NELDNER,47,304101710,13,5,12,51.2593
+29th,St Edward's,GRIFFIN FAIRCHOK,45,374000210,13,7,10,50.5631
+30th,Sanford Middle,Nirva Vassa,44,344101210,12,4,14,50.2150
+31st,Deerlake Middle,SARAH WALKER,39,185101610,11,5,14,48.4745
+32nd,Jackson Heights Middle,MAUREEN HAYNES,38,304100910,11,6,13,48.1264
+33rd,Deerlake Middle,KENNY LEE,38,185106710,12,10,8,48.1264
+34th,Jackson Heights Middle,KIRAN KHALSA,37,304101610,13,15,2,47.7783
+35th,Deerlake Middle,TAYLOR NIEHOFF,36,185101210,10,4,16,47.4301
+36th,American Heritage (Plantation),Asad Saleem,35,506005210,11,9,10,47.0820
+37th,Gifford Middle School,Wendy WalterCano,34,309101710,10,6,14,46.7339
+38th,Deerlake Middle,MEGAN HARRISON,33,185100610,9,3,18,46.3858
+39th,Deerlake Middle,MELISA TABTIMTONG,31,185104610,9,5,16,45.6896
+40th,Jackson Heights Middle,CHRISTINE COLE,31,304101010,10,9,11,45.6896
+41st,St Edward's,OLIVIA PIZZO,30,374000810,10,10,10,45.3415
+42nd, , ,30,624600710,10,10,10,45.3415
+43rd,Florida Chrisitan School of Dade (Middle),Melissa Gerdts,30,524600510,10,10,10,45.3415
+44th,Miami Sunset,PILAR ALI,30,544000110,12,18,0,45.3415
+45th,American Heritage (Plantation),Jesse Zhou,30,506005310,12,18,0,45.3415
+46th,Ferguson,TAI VAN,29,507014010,10,11,9,44.9934
+47th,Florida Chrisitan School of Dade (Middle),Ashley Castillo,29,524600110,11,15,4,44.9934
+48th,Florida Chrisitan School of Dade (Middle),Giani DeSantino,28,524600210,8,4,18,44.6453
+49th,Deerlake Middle,MEGHAN BIGGINS,28,185100210,8,4,18,44.6453
+50th,Gifford Middle School,Noah Lanier,26,309101910,8,6,16,43.9491
+51st,Gifford Middle School,Airea Williams,25,309102010,11,19,0,43.6010
+52nd,Florida Chrisitan School of Dade (Middle),Robert Ingimarsson,25,524600610,8,7,15,43.6010
+53rd,Sanford Middle,Jefferson Lustre,24,344102110,7,4,19,43.2528
+54th,Florida Chrisitan School of Dade (Middle),Kristine Reynardus,23,524600910,8,9,13,42.9047
+55th,Florida Chrisitan School of Dade (Middle),Marissa Stephens,22,524601110,8,10,12,42.5566
+56th,Gifford Middle School,Yusra Hashmi,19,309102110,7,9,14,41.5123
+57th,Jackson Heights Middle,JONYUNG LEE,18,304101210,7,10,13,41.1642
+58th,Florida Chrisitan School of Dade (Middle),Francesca Ratovich,17,524600810,6,7,17,40.8161
+59th,Ferguson,MOHAMMED ADAM,16,507000100,5,4,21,40.4680
+60th,Florida Chrisitan School of Dade (Middle),Sabrina Donato,15,524600310,6,9,15,40.1199
+61st,Florida Chrisitan School of Dade (Middle),Andy Fernandez,15,524600410,6,9,15,40.1199
+62nd,Gifford Middle School,Mary Scheidt,14,309101510,6,10,14,39.7718
+63rd,Florida Chrisitan School of Dade (Middle),Brian Bolanos,13,524600011,6,11,13,39.4237
+64th,Sanford Middle,Jessica Patel,2,344100510,2,6,22,35.5945
+65th,Miami Sunset,JULIA MEYER,0,544004410,6,24,0,34.8983
+66th,Ferguson,Tang Zhan,-2,507015410,2,10,18,34.2020
+67th,Florida Chrisitan School of Dade (Middle),Asvin Sivarasa,-5,524601010,3,17,10,33.1577
+68th,Miami Sunset,FRANCISCO VELOZ,-5,544007110,5,25,0,33.1577

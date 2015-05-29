@@ -1,0 +1,65 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Andrew Chen,105,140005142,27,3,0,78.3426
+2nd,Lawton Chiles High School,Wayne Zhao,100,181008341,26,4,0,76.6317
+3rd,Rickards High School,Andrew Chico,100,140003741,26,4,0,76.6317
+4th,Rickards High School,Linda Liu,84,140003041,22,4,4,71.1567
+5th,Rickards High School,Ian Pitts,80,140002141,21,4,5,69.7880
+6th,Lawton Chiles High School,Keven Huang,77,181005541,20,3,7,68.7614
+7th,Lincoln,Angela Jiang,65,109090641,17,3,10,64.6552
+8th,Lawton Chiles High School,Kenneth Zhou,65,181008441,17,3,10,64.6552
+9th,Lawton Chiles High School,Jeremy Jones,64,181005642,17,4,9,64.3130
+10th,Lawton Chiles High School,Ginger Yu,52,181008242,15,8,7,60.2068
+11th,Lawton Chiles High School,Danny Kim,50,181005941,15,10,5,59.5224
+12th,Lincoln,Ellie Sell,43,109092041,13,9,8,57.1271
+13th,Rickards High School,Andrew Wilson,41,140004042,13,11,6,56.4427
+14th,Rocky Bayou Christian School,Haley Lee,38,192003741,11,6,13,55.4162
+15th,Rickards High School,Sonia Koul,35,140002041,11,9,10,54.3896
+16th,Lincoln,Anica Sunshine,31,109020341,9,5,16,53.0209
+17th,Lincoln,Jasmine Tsai,30,109002541,9,6,15,52.6787
+18th,Leon,SAMUEL TEW,29,190001441,8,3,19,52.3365
+19th,Rickards High School,Sathwik Madireddy,29,140003442,8,3,19,52.3365
+20th,Lawton Chiles High School,Elizabeth Wang,27,181007742,8,5,17,51.6521
+21st,Rocky Bayou Christian School,Victor Johns,26,192001141,7,2,21,51.3099
+22nd,Pensacola,Preeyal Gupta,26,115004841,8,6,16,51.3099
+23rd,Lincoln,Jonathan Mason,25,109004542,7,3,20,50.9677
+24th,Leon,JILL SMITH,24,190001241,7,4,19,50.6256
+25th,Rutherford High School,Juli Fraser,21,174002641,6,3,21,49.5990
+26th,Port Saint Joe High School,Emerald Muniz,21,103003441,6,3,21,49.5990
+27th,Lawton Chiles High School,Grace Ying,19,181008142,8,13,9,48.9146
+28th,Lawton Chiles High School,Samantha Bartlett,13,181004340,4,3,23,46.8615
+29th,Port Saint Joe High School,Erin White,11,103003641,8,21,1,46.1771
+30th,Rutherford High School,Allen Gorchov Negron,11,174001841,4,5,21,46.1771
+31st,Lincoln,Michael Heron,10,109090542,3,2,25,45.8350
+32nd,Gulf Breeze High,Brandon Harper,8,101000542,4,8,18,45.1506
+33rd,Rocky Bayou Christian School,Neely fawaz,8,192001441,4,8,18,45.1506
+34th,Navarre,KATIE MEYER,8,180004540,3,4,23,45.1506
+35th,Maclay,Matheus Schneider,7,172001440,2,1,27,44.8084
+36th,Navarre,MATT ANDRE,7,180003541,4,9,17,44.8084
+37th,Leon,JIAQI HAN,7,190000641,7,21,2,44.8084
+38th,Rocky Bayou Christian School,Savannah West,6,192000442,2,2,26,44.4662
+39th,Lawton Chiles High School,Jeongmin Ham,6,181005140,4,10,16,44.4662
+40th,Navarre,LAUREN LAUTENSLAGER,6,180004441,4,10,16,44.4662
+41st,Leon,CATHERINE KENT,5,190000241,3,7,20,44.1240
+42nd,Rutherford High School,Cara Henry,5,174001442,2,3,25,44.1240
+43rd,Rocky Bayou Christian School,Josh Turner,5,192001041,3,7,20,44.1240
+44th,Navarre,SARAH HOFFMAN,5,180003841,3,7,20,44.1240
+45th,Navarre,SHAWNIE HOUSTON,4,180003940,1,0,29,43.7818
+46th,Port Saint Joe High School,Jenny Miles,4,103003841,3,8,19,43.7818
+47th,Navarre,MONICA NASRI,4,180004640,2,4,24,43.7818
+48th,Rutherford High School,Dev Nanji,3,174001541,1,1,28,43.4396
+49th,Port Saint Joe High School,Blaine Bush,3,103003340,2,5,23,43.4396
+50th,Port Saint Joe High School,Katie Graham,3,103002142,2,5,23,43.4396
+51st,Gulf Breeze High,Patrick Dunne,2,101002542,2,6,22,43.0975
+52nd,Milton,Kurt Chism,2,154001441,3,10,17,43.0975
+53rd,Rocky Bayou Christian School,Brittany Tiller,2,192001242,1,2,27,43.0975
+54th,Pensacola,Rhiana Simon,1,115003841,2,7,21,42.7553
+55th,Rickards High School,Abraham Khalil,0,140005442,2,8,20,42.4131
+56th,Rocky Bayou Christian School,Essie Alldredge,-1,192007742,0,1,29,42.0709
+57th,Port Saint Joe High School,Emily Dykes,-2,103000342,2,10,18,41.7287
+58th,Port Saint Joe High School,Michelle Hiscock,-3,103004242,2,11,17,41.3865
+59th,Rutherford High School,Patrick Bates,-3,174002541,0,3,27,41.3865
+60th,Lawton Chiles High School,Ally Findley,-5,181004840,2,13,15,40.7022
+61st,Navarre,JARRYD VILLACRUZ,-7,180005042,0,7,23,40.0178
+62nd,Lawton Chiles High School,Jason Huang,-7,181005440,3,19,8,40.0178
+63rd,Navarre,HOWIE JOHNSON,-8,180004242,0,8,22,39.6756
+64th,Navarre,SARAH TOWNSEND,-8,180004941,2,16,12,39.6756

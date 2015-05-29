@@ -1,0 +1,78 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Jason Chen,85,295001731,23,7,0,67.8616
+2nd,Lincoln Middle,Bradley Kim,84,201103832,22,4,4,67.4607
+3rd,Lincoln Middle,Steven Li,81,201100131,22,7,1,66.2582
+4th,Buchholz,Otto Piramuthu,81,295002131,21,3,6,66.2582
+5th,Kanapaha Middle School,Jenny Baik,80,209101431,21,4,5,65.8573
+6th,Lincoln Middle,Alex Maruniak,80,201102432,21,4,5,65.8573
+7th,Buchholz,Leon Shi,76,295005132,20,4,6,64.2539
+8th,Westwood Middle,Gracie Douglas,76,212000031,20,4,6,64.2539
+9th,James W. Johnson Middle,Shreya Ravi,74,215101831,20,6,4,63.4522
+10th,Buchholz,Chris Campo,73,295000831,19,3,8,63.0513
+11th,Stanton College Preparatory School,David Shi,72,296007732,19,4,7,62.6504
+12th,Lincoln Middle,Ben Nagoshi,70,201101530,19,6,5,61.8487
+13th,Lincoln Middle,Caroline Chu,68,201100032,18,4,8,61.0470
+14th,Lincoln Middle,Sidhika Balachandar,66,201100731,18,6,6,60.2453
+15th,Stanton College Preparatory School,Sarinda Samarasinghe,64,296002732,17,4,9,59.4436
+16th,Lincoln Middle,Amir Helmy,64,201102230,18,8,4,59.4436
+17th,Lincoln Middle,Claire Tseng,63,201100832,17,5,8,59.0427
+18th,Lincoln Middle,Qing Lu,62,201101330,17,6,7,58.6419
+19th,Lincoln Middle,Arjun Panicker,62,201100331,17,6,7,58.6419
+20th,James W. Johnson Middle,Maanasi Garg,59,215101031,17,9,4,57.4393
+21st,Lincoln Middle,Ike Gugel,56,201101930,16,8,6,56.2367
+22nd,Stanton College Preparatory School,Min Kim,56,296001131,16,8,6,56.2367
+23rd,Gainesville High School,Ryan Jacobs,56,268012031,16,8,6,56.2367
+24th,Buchholz,Sunny Baik,55,295001432,15,5,10,55.8359
+25th,Lincoln Middle,Divyanshi Sharma,55,201101730,15,5,10,55.8359
+26th,Buchholz,Noah Cook,53,295001631,16,11,3,55.0341
+27th,Buchholz,Bobby Wong,51,295001932,15,9,6,54.2324
+28th,Bolles,Robert Pooley,50,252000431,13,2,15,53.8316
+29th,Buchholz,Tommy Huber,50,295001032,14,6,10,53.8316
+30th,Stanton College Preparatory School,George Pu,48,296002831,14,8,8,53.0299
+31st,James W. Johnson Middle,Devanik Biswas,47,215102031,14,9,7,52.6290
+32nd,Kanapaha Middle School,Joseph Hardin,46,209101531,14,10,6,52.2281
+33rd,Bolles,Kunal Kanaparti,46,252001231,13,6,11,52.2281
+34th,Gainesville High School,Joslyn Hunt,46,268000731,14,10,6,52.2281
+35th,Nease High School,Ava Hampton,44,290003331,12,4,14,51.4264
+36th,Eastside,Brandon Morgan,42,280003231,13,10,7,50.6247
+37th,Bolles,David Ramos Montana,42,252000231,13,10,7,50.6247
+38th,Gainesville High School,Alexander Shuping,41,268001731,11,3,16,50.2239
+39th,Nease High School,Jared Plotkin,39,290003932,11,5,14,49.4221
+40th,Lincoln Middle,Sohan Subhash,38,201103731,11,6,13,49.0213
+41st,Bolles,Sanjna Chetan,38,252001431,12,10,8,49.0213
+42nd,Gainesville High School,Tucker Moretta,37,268013930,10,3,17,48.6204
+43rd,Stanton College Preparatory School,Sam Goldstein,35,296008431,10,5,15,47.8187
+44th,Stanton College Preparatory School,Milind Mishra,35,296001732,10,5,15,47.8187
+45th,Stanton College Preparatory School,"",34,296003632,10,6,14,47.4179
+46th,Gainesville High School,Jordan Horn,34,268008632,10,6,14,47.4179
+47th,Gainesville High School,Ethan Reneke,34,268000932,10,6,14,47.4179
+48th,Gainesville High School,Karoline McKaig,33,268007432,10,7,13,47.0170
+49th,Stanton College Preparatory School,Srajat Rastogi,31,296002331,10,9,11,46.2153
+50th,Gainesville High School,Nicholas Schrott,31,268001330,10,9,11,46.2153
+51st,Eastside,Hannah Famador,29,280001031,9,7,14,45.4136
+52nd,Gainesville High School,Marc Diaz,27,268011331,10,13,7,44.6118
+53rd,Nease High School,Jay Kura,25,290003432,8,7,15,43.8101
+54th,Gainesville High School,Clay Cain,23,268004830,8,9,13,43.0084
+55th,Flagler Palm Coast High School,Elizabeth Mason,23,221003131,8,9,13,43.0084
+56th,River City Science Academy,Matthew McCully,20,269011431,10,20,0,41.8058
+57th,Nease High School,Tanvi Padalkar,18,290003831,5,2,23,41.0041
+58th,James W. Johnson Middle,Nirmal Kathirvan,16,215100132,7,12,11,40.2024
+59th,Flagler Palm Coast High School,Dylan Lyden,16,221002331,6,8,16,40.2024
+60th,Nease High School,Evan Osterbur,15,290003732,5,5,20,39.8016
+61st,Flagler Palm Coast High School,Erin Verdi,14,221004431,7,14,9,39.4007
+62nd,Eastside,Mitul Patel,14,280002432,5,6,19,39.4007
+63rd,Fleming Island High,C. J. Volz,14,220000931,6,10,14,39.4007
+64th,Eastside,Carolina Rosales,13,280000132,5,7,18,38.9998
+65th,Eastside,Samantha Hackett,13,280001331,6,11,13,38.9998
+66th,Flagler Palm Coast High School,Vincent Launh,12,221004531,5,8,17,38.5990
+67th,Gainesville High School,Rebekah Malpass,12,268014632,6,12,12,38.5990
+68th,James W. Johnson Middle,Atul Ganju,12,215101732,5,8,17,38.5990
+69th,James W. Johnson Middle,Alexandru Bordanca,12,215101931,7,16,7,38.5990
+70th,Eastside,Lisa Kurian,11,280001631,5,9,16,38.1981
+71st,River City Science Academy,Andrew Heffelfinger,10,269011331,8,22,0,37.7973
+72nd,Gainesville High School,Kellen Breton,8,268012430,5,12,13,36.9956
+73rd,Gainesville High School,Kyle Nipper,6,268011730,2,2,26,36.1938
+74th,Leesburg High School,James Austin,5,287000431,4,11,15,35.7930
+75th,Flagler Palm Coast High School,Garrett Monroe,4,221005232,2,4,24,35.3921
+76th,River City Science Academy,Matthew McCully,1,269011431,6,23,1,34.1896
+77th,River City Science Academy,Yunus Sipahioglu,-2,269011132,4,18,8,32.9870

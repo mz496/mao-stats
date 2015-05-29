@@ -1,0 +1,125 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Oviedo,Gene Katsevich,110,377001651,28,2,0,80.5947
+2nd,Lake Mary,Akshay Save,96,308005751,24,0,6,74.8298
+3rd,Seminole (Seminole),SAYEED TASNIM,96,341000051,25,4,1,74.8298
+4th,Flagler Palm Coast,DEVIN JOHNSON,95,221031151,25,5,0,74.4180
+5th,West Shore,Karl Krehbiel,92,393002051,24,4,2,73.1826
+6th,Vero Beach,ASHLEY VILLAR,91,372002351,23,1,6,72.7709
+7th,Spruce Creek,David Weinberg,88,267020251,23,4,3,71.5355
+8th,Seminole (Seminole),ANDREW HUA,86,341002151,23,6,1,70.7119
+9th,St Edward's,ERIC WILLETT,84,374051651,22,4,4,69.8884
+10th,Spruce Creek,Frank Luciano,79,267018451,21,5,4,67.8295
+11th,Vero Beach,FREDERICK OUELLET,74,372002751,19,2,9,65.7706
+12th,Seminole (Seminole),NICHOLAS MILLER,74,341017351,20,6,4,65.7706
+13th,Spruce Creek,Brian LaStarza,67,267018251,18,5,7,62.8881
+14th,Spruce Creek,Megan Reynolds,67,267019451,18,5,7,62.8881
+15th,West Shore,Anthony Vigil,62,393002351,16,2,12,60.8292
+16th,Seminole (Seminole),ANDREW JIN,60,341002052,16,4,10,60.0056
+17th,Lake Howell,Massoud BaradaranShoraka,58,391000851,16,6,8,59.1821
+18th,Vero Beach,HANISHA PATEL,58,372002051,16,6,8,59.1821
+19th,Spruce Creek,Rami Okasha,56,267018652,15,4,11,58.3585
+20th,Hagerty High School,Stephen Davis,56,310001651,16,8,6,58.3585
+21st,Flagler Palm Coast,JUSTIN RIDGEWELL,56,221032451,16,8,6,58.3585
+22nd,West Shore,Kim Day,55,393000452,15,5,10,57.9467
+23rd,Bayside,Queenella Goddard,53,303046851,14,3,13,57.1232
+24th,St Edward's,JACK WEI,52,374051351,15,8,7,56.7114
+25th,Hagerty High School,Patrick McCormack,52,310004351,14,4,12,56.7114
+26th,Vero Beach,ALEXA MERTENS,51,372000151,14,5,11,56.2996
+27th,Lake Mary,Connor Harrington,51,308004351,15,9,6,56.2996
+28th,St Edward's,HESHUANG LIANG,50,374050651,14,6,10,55.8878
+29th,Vero Beach,DANA D'HAESELEER,50,372001352,13,2,15,55.8878
+30th,Bayside,Rachel Rosolino,50,303037551,13,2,15,55.8878
+31st,St Edward's,JARRED SPEAR,50,374051151,16,14,0,55.8878
+32nd,Sebastian River,Kirk Henf,50,314003051,16,14,0,55.8878
+33rd,Seminole (Seminole),STEVEN WANG,49,341003951,14,7,9,55.4760
+34th,West Shore,AJ Goodermuth,47,393004651,13,5,12,54.6525
+35th,Seminole (Seminole),THOMAS ZHANG,45,341004252,15,15,0,53.8289
+36th,Ocoee High School,Joshua Joyner,45,275000051,12,3,15,53.8289
+37th,Lake Brantley,Caitlin Pequignot,45,388004351,12,3,15,53.8289
+38th,Lake Howell,Scott Nicks,44,391000551,12,4,14,53.4171
+39th,Lake Brantley,Rachel McGovern,44,388003251,12,4,14,53.4171
+40th,Seminole (Seminole),DAKOTA PARK-OZEE,43,341003050,11,1,18,53.0053
+41st,Hagerty High School,Edward Cha,43,310002250,12,5,13,53.0053
+42nd,Hagerty High School,Timothy Copeland,43,310001352,13,9,8,53.0053
+43rd,Spruce Creek,Joey Hernandez,43,267017550,11,1,18,53.0053
+44th,Spruce Creek,Corey Holman,41,267017652,11,3,16,52.1818
+45th,Hagerty High School,Scott Amrhein,39,310000251,10,1,19,51.3582
+46th,Seminole (Seminole),AVEEK KAPAT,38,341001952,11,6,13,50.9464
+47th,Lake Brantley,Joey Ehinger,38,388000752,11,6,13,50.9464
+48th,Lake Mary,Austin Reed,38,308008251,11,6,13,50.9464
+49th,West Shore,Mayur Mehta,38,393000851,11,6,13,50.9464
+50th,Lyman High School,Bryan Danley,38,351002551,11,6,13,50.9464
+51st,Seminole (Seminole),DAVID WONG,35,341011550,11,9,10,49.7111
+52nd,Lake Brantley,Katie Pham,35,388004451,10,5,15,49.7111
+53rd,Hagerty High School,Vu Tran,35,310006150,11,9,10,49.7111
+54th,Hagerty High School,Casey Barker,35,310000650,10,5,15,49.7111
+55th,Spruce Creek,Deepak Sathyanarayan,35,267019650,11,9,10,49.7111
+56th,Hagerty High School,Chris Torres,34,310006052,9,2,19,49.2993
+57th,Hagerty High School,Jacob Croft,34,310001452,9,2,19,49.2993
+58th,Hagerty High School,Heather Burke,33,310000952,10,7,13,48.8875
+59th,West Shore,Christian Widere,32,393005552,9,4,17,48.4757
+60th,Spruce Creek,Mia Choi,32,267017250,10,8,12,48.4757
+61st,Satellite High School,Danielle Scherzer,31,360004151,9,5,16,48.0640
+62nd,Spruce Creek,Mark Kindy,31,267017952,11,13,6,48.0640
+63rd,Hagerty High School,Tori Self,30,310005650,8,2,20,47.6522
+64th,Bayside,Josh Emison,30,303043551,9,6,15,47.6522
+65th,Seminole (Seminole),STEWART GRAY,29,341008550,10,11,9,47.2404
+66th,Lake Brantley,Eric Gibbs,29,388001152,10,11,9,47.2404
+67th,Vero Beach,DAVID DANCY,29,372001152,9,7,14,47.2404
+68th,Spruce Creek,Matthew Pollock,29,267019152,9,7,14,47.2404
+69th,West Shore,Ali Lamens,27,393005352,10,13,7,46.4168
+70th,Ocoee High School,Clay Blastic,26,275000251,10,14,6,46.0051
+71st,Vero Beach,DEVON MINICH,26,372000052,10,14,6,46.0051
+72nd,Seminole (Seminole),JUSTIN HUNDLEY,25,341001650,11,19,0,45.5933
+73rd,Flagler Palm Coast,GARETT JOHNSTON,25,221031251,7,3,20,45.5933
+74th,Flagler Palm Coast,VADIM BELINSKIY,25,221030351,9,11,10,45.5933
+75th,Spruce Creek,Evan Stoner,24,267019750,7,4,19,45.1815
+76th,Lyman High School,Jaime Wilson,24,351001051,7,4,19,45.1815
+77th,Hagerty High School,Becca Leeper,24,310004050,8,8,14,45.1815
+78th,Vero Beach,VIBHOR JAIN,24,372010950,9,12,9,45.1815
+79th,Vero Beach,ARIA YAGOBI,24,372002250,8,8,14,45.1815
+80th,Lyman High School,Chelsea Appleget,24,351002951,9,12,9,45.1815
+81st,Flagler Palm Coast,STEPHANIE GOPAL,23,221030752,7,5,18,44.7697
+82nd,Vero Beach,JACK MOORE,22,372000850,7,6,17,44.3579
+83rd,Vero Beach,KATHLEEN GROSSMAN,22,372001050,6,2,22,44.3579
+84th,Vero Beach,DAVID KESTELOOT,22,372000552,7,6,17,44.3579
+85th,Satellite High School,Brendan Bures,22,360005451,8,10,12,44.3579
+86th,Lyman High School,Dylan Rapp,22,351002051,8,10,12,44.3579
+87th,Vero Beach,AMELIA WHITE,21,372001950,6,3,21,43.9461
+88th,Ocoee High School,Sarah Mhyre,21,275000351,6,3,21,43.9461
+89th,Lake Brantley,Tami Segal,21,388004851,8,11,11,43.9461
+90th,Ocoee High School,Tony Nguyen,21,275000151,9,15,6,43.9461
+91st,Seminole (Seminole),WON KIM,21,341003650,9,15,6,43.9461
+92nd,Seminole (Seminole),CAMILLE MEKWINSKI,21,341010450,10,19,1,43.9461
+93rd,Bayside,Jake Whitwright,20,303042552,6,4,20,43.5344
+94th,Lake Brantley,David Levin,20,388002852,7,8,15,43.5344
+95th,Flagler Palm Coast,KAREN GRANT,19,221030852,6,5,19,43.1226
+96th,Palm Bay High School,Rudy Laprade,19,382010751,7,9,14,43.1226
+97th,Spruce Creek,Auree Postell,18,267019250,6,6,18,42.7108
+98th,Hagerty High School,Greg Braciak,16,310000751,8,16,6,41.8872
+99th,Seminole (Seminole),ZACH HINSLEY,16,341004450,7,12,11,41.8872
+100th,West Shore,Erik Maki,15,393005452,6,9,15,41.4755
+101st,Flagler Palm Coast,RALSTON MATEO,15,221031750,9,21,0,41.4755
+102nd,Seminole (Seminole),ALAKH GULATI,14,341012150,7,14,9,41.0637
+103rd,Lake Howell,Adenike Adeyemi,13,391000151,5,7,18,40.6519
+104th,Bayside,Seth Reesh,13,303035552,4,3,23,40.6519
+105th,Bayside,Cassandra Clark,13,303029551,4,3,23,40.6519
+106th,Palm Bay High School,Casey Spencer,12,382011251,5,8,17,40.2401
+107th,Hagerty High School,Chris Galletti,12,310002350,4,4,22,40.2401
+108th,Flagler Palm Coast,MAXIM SKUDARNOV,12,221032852,4,4,22,40.2401
+109th,Sebastian River,Damien Gilliams,11,314001451,6,13,11,39.8283
+110th,Seminole (Seminole),DYLAN BELFIELD,11,341007252,8,21,1,39.8283
+111th,Hagerty High School,Alex Amos,10,310000150,6,14,10,39.4165
+112th,Flagler Palm Coast,MEGAN CASH,10,221033452,8,22,0,39.4165
+113th,Lake Howell,Parminder Kaur,9,391000051,3,3,24,39.0048
+114th,Vero Beach,CHRIS KARMERIS,9,372002850,4,7,19,39.0048
+115th,Satellite High School,Emily Yang,9,360006351,5,11,14,39.0048
+116th,Satellite High School,Michelangelo Romano,9,360005351,4,7,19,39.0048
+117th,Bayside,Kayla Costello,8,303030552,3,4,23,38.5930
+118th,Flagler Palm Coast,KATHERINE RIVERA,7,221032550,3,5,22,38.1812
+119th,Sebastian River,Tony Spagnolia,6,314003951,3,6,21,37.7694
+120th,Lake Brantley,David Halverson,5,388001452,7,23,0,37.3576
+121st,Flagler Palm Coast,ARIEL LLANES,5,221031450,7,23,0,37.3576
+122nd,Seminole (Seminole),JENNIFER BECK,4,341000550,2,4,24,36.9459
+123rd,Seminole (Seminole),SAMANTHA PHAN,2,341004550,6,22,2,36.1223
+124th,Seminole (Seminole),VRAJEN PATEL,0,341002950,0,0,30,35.2987

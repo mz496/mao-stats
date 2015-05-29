@@ -1,0 +1,108 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Pizitz Middle School,Peter Qiu,115,278100211,29,1,0,69.2713
+2nd,Pizitz Middle School,Lin Lin Pan,115,278100111,29,1,0,69.2713
+2nd,Lincoln Park Academy,Geoffrey Zheng,115,396001211,29,1,0,69.2713
+4th,Pizitz Middle School,Lynn Han,110,278100510,28,2,0,67.5632
+5th,Pizitz Middle School,Charles Li,110,278100011,28,2,0,67.5632
+6th,Pizitz Middle School,Philip Wang,110,278100311,28,2,0,67.5632
+7th,Pizitz Middle School,Jason Liu,106,278101110,27,2,1,66.1967
+8th,Pizitz Middle School,Shirley Zhang,105,278101410,27,3,0,65.8551
+9th,Pizitz Middle School,Kai He,105,278100710,27,3,0,65.8551
+10th,Pizitz Middle School,Karan Patel,105,278101210,27,3,0,65.8551
+11th,Pizitz Middle School,Amy Weng,101,278102710,26,3,1,64.4886
+12th,Fairview Middle,Puneet Sachdeva,100,125102611,26,4,0,64.1470
+13th,Pizitz Middle School,Ankit Bansal,100,278100410,26,4,0,64.1470
+14th,Sanford Middle,Aradhya Kasera,96,344101311,25,4,1,62.7805
+15th,Sanford Middle,Jordan Armstrong,95,344106110,24,1,5,62.4389
+16th,Fairview Middle,Daniel Jung,95,125101511,25,5,0,62.4389
+17th,Pizitz Middle School,Charby Xu,91,278101510,24,5,1,61.0724
+18th,Jackson Heights Middle,CAMERON YAP,90,304100711,23,2,5,60.7308
+19th,Pizitz Middle School,Evan Liu,90,278102510,24,6,0,60.7308
+20th,Sanford Middle,Jimmy Qin,86,344100011,23,6,1,59.3643
+21st,Fairview Middle,Rohan Perisetla,86,125105011,23,6,1,59.3643
+22nd,Pizitz Middle School,Jason Hsu,86,278100910,23,6,1,59.3643
+22nd,Pizitz Middle School,Kevin Pham,86,278101310,23,6,1,59.3643
+24th,Pizitz Middle School,Sean Herrera,85,278100810,22,3,5,59.0226
+25th,Pizitz Middle School,Sumin Jeong,84,278101010,22,4,4,58.6810
+26th,Pizitz Middle School,Will Matthews,80,278102410,22,8,0,57.3145
+27th,Fairview Middle,Aditya Srivastava,79,125101010,21,5,4,56.9729
+28th,Sanford Middle,Patrick Lim,77,344100310,20,3,7,56.2897
+29th,Pizitz Middle School,Summer Harrison,74,278100610,20,6,4,55.2648
+30th,Pizitz Middle School,Harsh Jain,72,278101910,20,8,2,54.5816
+31st,Shorecrest Middle,Jake Szasz,71,451101810,18,1,11,54.2399
+32nd,Sanford Middle,Nafisa Mostafa,71,344101711,20,9,1,54.2399
+33rd,Montford Middle,Katherine Wei,71,151112811,19,5,6,54.2399
+34th,Berkeley Preparatory Middle,Divya Bhansali,70,405100210,19,6,5,53.8983
+35th,Montford Middle,Byul Choi,70,151102211,20,10,0,53.8983
+36th,Berkeley Preparatory Middle,Ankie Goyal,70,405100711,19,6,5,53.8983
+37th,Pizitz Middle School,Tyler Whitehurst,69,278101710,19,7,4,53.5567
+38th,Montford Middle,Michael Hong,68,151105911,19,8,3,53.2151
+39th,Sanford Middle,Priya Manjaly,67,344101510,19,9,2,52.8735
+40th,Sanford Middle,Sydney Good,67,344106310,18,5,7,52.8735
+41st,Shorecrest Middle,Katherina Fucci,66,451100011,18,6,6,52.5318
+42nd,Pizitz Middle School,Tristan Marcks,66,278102610,18,6,6,52.5318
+43rd,Fairview Middle,Amara Ahmed,65,125102511,18,7,5,52.1902
+44th,Sanford Middle,Syeda Adil,65,344105610,19,11,0,52.1902
+45th,Sanford Middle,Megana Challa,64,344101110,17,4,9,51.8486
+46th,Shorecrest Middle,Tommy Patterson,64,451100711,18,8,4,51.8486
+47th,Berkeley Preparatory Middle,Catherine Bai,64,405100011,17,4,9,51.8486
+48th,Sanford Middle,Seraphina Choi,63,344100710,17,5,8,51.5070
+49th,Sanford Middle,Gouthami Gadamsetty,61,344104810,17,7,6,50.8237
+50th,Fairview Middle,Pravav Bokey,61,125103110,17,7,6,50.8237
+51st,Sanford Middle,Chirag Lodha,61,344101810,17,7,6,50.8237
+52nd,Fairview Middle,Siddu Dussa,60,125108410,16,4,10,50.4821
+53rd,Jackson Heights Middle,MAUREEN HAYNES,59,304100911,16,5,9,50.1405
+54th,Sanford Middle,Silvia Huaman,58,344101910,16,6,8,49.7989
+55th,Sanford Middle,Amrita Sumal,57,344100110,16,7,7,49.4572
+56th,Pizitz Middle School,James Mao,57,278102310,16,7,7,49.4572
+57th,Berkeley Preparatory Middle,Jordan Lowrey,54,405101212,16,10,4,48.4324
+58th,Sanford Middle,Sita Ramaswamy,52,344100610,15,8,7,47.7491
+59th,Sanford Middle,Gabrielle Plympton,52,344100910,14,4,12,47.7491
+60th,Jackson Heights Middle,CHRISTINE COLE,51,304101011,14,5,11,47.4075
+61st,Montford Middle,Sara Shelton,50,151111011,16,14,0,47.0659
+62nd,Pizitz Middle School,Michael Chung,49,278102210,14,7,9,46.7243
+63rd,Berkeley Preparatory Middle,Rachel Weinbren,49,405101710,13,3,14,46.7243
+64th,Shorecrest Middle,AnaGabriella Rocha,48,451101110,13,4,13,46.3826
+65th,Sanford Middle,Shachi Pandya,48,344100211,15,12,3,46.3826
+66th,Berkeley Preparatory Middle,Brian Longbottom,48,405101110,15,12,3,46.3826
+67th,Sanford Middle,Sara Keatley,45,344100810,12,3,15,45.3578
+68th,Pizitz Middle School,Kareem El-Kattan,45,278101810,13,7,10,45.3578
+69th,Berkeley Preparatory Middle,Max Henderson,45,405100812,13,7,10,45.3578
+70th,Montford Middle,Vicky Li,44,151107410,13,8,9,45.0162
+71st,Montford Middle,Caleigh Roberts,44,151110610,12,4,14,45.0162
+72nd,Pizitz Middle School,Jin Jang,44,278102010,13,8,9,45.0162
+73rd,Pizitz Middle School,Hunter Whitehurst,41,278101610,13,11,6,43.9913
+74th,Berkeley Preparatory Middle,Kevin Baron,40,405100110,11,4,15,43.6497
+75th,Montford Middle,Brian Rowe,39,151110710,12,9,9,43.3080
+76th,Sanford Middle,Alex Villanueva,39,344103510,12,9,9,43.3080
+77th,Shorecrest Middle,Nicole Braner,37,451100910,11,7,12,42.6248
+78th,Berkeley Preparatory Middle,Samhaoir Ruland,37,405101410,11,7,12,42.6248
+79th,Pizitz Middle School,Ching Sullivan,36,278102110,12,12,6,42.2832
+80th,Sanford Middle,Kearissa Lucas,36,344104710,11,8,11,42.2832
+81st,Jackson Heights Middle,KIRAN KHALSA,35,304101611,12,13,5,41.9416
+82nd,Sanford Middle,Bahram Hosseini,34,344102010,10,6,14,41.5999
+83rd,Berkeley Preparatory Middle,Saskia Hennecke,34,405100911,11,10,9,41.5999
+84th,Berkeley Preparatory Middle,Andreas Pavlakos,34,405101311,10,6,14,41.5999
+85th,Miami Springs,KRYSTAL REYES,33,582002811,10,7,13,41.2583
+86th,Shorecrest Middle,Alice Darrow,32,451100811,11,12,7,40.9167
+87th,Berkeley Preparatory Middle,Harrison Keane,32,405101010,10,8,12,40.9167
+88th,Sanford Middle,David Jones,30,344106210,9,6,15,40.2334
+89th,Fort Myers,Tyler VonHarten,30,423005911,10,10,10,40.2334
+90th,Berkeley Preparatory Middle,Christine Wright,30,405101910,8,2,20,40.2334
+91st,Sanford Middle,Parth Desai,27,344106010,8,5,17,39.2086
+92nd,Shorecrest Middle,Alex Pray,27,451100611,8,5,17,39.2086
+93rd,Berkeley Preparatory Middle,Sabrina Saeed,27,405101512,10,13,7,39.2086
+94th,Berkeley Preparatory Middle,Aida Wolf,26,405101810,8,6,16,38.8670
+95th,Berkeley Preparatory Middle,Samara Singh,25,405102010,9,11,10,38.5253
+96th,Jackson Heights Middle,LAUREN NELDNER,24,304101710,8,8,14,38.1837
+97th,Berkeley Preparatory Middle,Gillian Cline,24,405100310,8,8,14,38.1837
+98th,Sanford Middle,Anvita Nath,23,344101610,7,5,18,37.8421
+99th,Berkeley Preparatory Middle,Kyle Campbell,23,405100412,9,13,8,37.8421
+100th,Montford Middle,Natalie Giese,21,151104710,7,7,16,37.1588
+101st,Berkeley Preparatory Middle,Ryan Franzese,21,405100610,8,11,11,37.1588
+102nd,Sanford Middle,Jonathan Manipadam,20,344104210,7,8,15,36.8172
+103rd,Shorecrest Middle,Matthew Johnson,18,451101610,8,14,8,36.1340
+104th,Sanford Middle,Jefferson Lustre,12,344102110,5,8,17,34.0843
+105th,Berkeley Preparatory Middle,Brad Stone,10,405101610,7,18,5,33.4010
+106th,Berkeley Preparatory Middle,Natlie Raterman,7,405102110,4,9,17,32.3761
+107th,Miami Springs,ILLISSA LLANA,3,582006511,6,21,3,31.0097

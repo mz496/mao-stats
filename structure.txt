@@ -1,0 +1,13 @@
+Person:
+    alternate_names:string (array of strings)
+    student_IDs:string (array of integers encoded as strings)
+    school:string
+
+Selection:
+    competition:string
+    test:string
+
+(later)
+School:
+    name:string
+    school_ID:integer

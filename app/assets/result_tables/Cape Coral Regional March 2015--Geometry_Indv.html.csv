@@ -1,0 +1,66 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Community School of Naples,Jack Ciabaton,70,562007921,19,6,5,80.7752
+2nd,Berkeley Prep,Sneha Patel,55,405000621,15,5,10,70.9949
+3rd,Saint Stephen's Episcopal School,MATTHEW THOMAS,46,489002421,13,6,11,65.1268
+4th,Berkeley Prep,Tony Leche,44,405007521,12,4,14,63.8227
+5th,Fort Myers,Ryan McGary,41,423003021,11,3,16,61.8667
+6th,Cape Coral High School,Rishi Merchant,41,418004621,13,11,6,61.8667
+7th,Cape Coral High School,Timon Braun,40,418000922,14,16,0,61.2147
+8th,Williams Middle,Manish Bhatta,39,468102522,11,5,14,60.5627
+9th,Canterbury (Lee),Jian Chen,38,411001821,11,6,13,59.9106
+10th,Tampa Bay Tech,Suzanna Cronyn,37,461000321,10,3,17,59.2586
+11th,Dunbar High School,Austin Pickett,37,477080221,11,7,12,59.2586
+12th,Williams Middle,Thushar Mahesh,36,468102621,11,8,11,58.6066
+13th,Fort Myers,Martin Smith,36,423002721,10,4,16,58.6066
+14th,Hillsborough,Varun Puri,36,428081121,11,8,11,58.6066
+15th,Berkeley Prep,Gary Shetye,35,405008922,10,5,15,57.9546
+16th,Community School of Naples,Nico Basim,34,562000821,12,14,4,57.3026
+17th,Saint Stephen's Episcopal School,RISHAB RAMAMURTHY,34,489002821,10,6,14,57.3026
+18th,Williams Middle,Andrew Paul,32,468103122,9,4,17,55.9985
+19th,Cape Coral High School,Dru Ricci,31,418000821,10,9,11,55.3465
+20th,Fort Myers,Tina Yang,30,423002921,9,6,15,54.6945
+21st,Berkeley Prep,Prashanth Ramireddy,30,405007821,9,6,15,54.6945
+22nd,Berkeley Prep,Jalen Li,29,405000421,10,11,9,54.0425
+23rd,Community School of Naples,Sebastian Dounchis,29,562001720,10,11,9,54.0425
+24th,Community School of Naples,Nick Dounchis,28,562001321,11,16,3,53.3905
+25th,Saint Stephen's Episcopal School,COLTON MELNICK,28,489002222,9,8,13,53.3905
+26th,Berkeley Prep,Reed Cecil,27,405003922,10,13,7,52.7385
+27th,Williams Middle,Gabriel Brosula,26,468100522,8,6,16,52.0865
+28th,Saint Stephen's Episcopal School,GABY PUNG,24,489000522,7,4,19,50.7824
+29th,Saint Stephen's Episcopal School,HAYES CHATHAM,24,489005321,7,4,19,50.7824
+30th,Gulf Coast,Spencer Gauta,24,575003321,8,8,14,50.7824
+31st,Gulf Coast,John Eugenides,23,575001221,7,5,18,50.1304
+32nd,Williams Middle,Roshan Jayaraman,23,468103221,8,9,13,50.1304
+33rd,Dunbar High School,Ezequiel Mejias Melo,23,477080120,7,5,18,50.1304
+34th,Dunbar High School,Magdali Bartolome,22,477080521,7,6,17,49.4784
+35th,Naples,Abigail Carroll,22,545000021,8,10,12,49.4784
+36th,Tampa Bay Tech,Donovan Doyle,20,461001521,10,20,0,48.1744
+37th,Clearwater Fundamental Middle,Kyle Romero,20,438124421,6,4,20,48.1744
+38th,Cape Coral High School,Teresa Xiao,16,418003922,6,8,16,45.5663
+39th,Tampa Bay Tech,Caitlin Romberger,16,461000521,7,12,11,45.5663
+40th,Gulf Coast,Adriana Cespedes,16,575000321,5,4,21,45.5663
+41st,Williams Middle,Anmol Mittal,15,468102721,6,9,15,44.9143
+42nd,Hillsborough,Rushabh Shah,15,428081621,7,13,10,44.9143
+43rd,Tampa Bay Tech,Eman Hasan,15,461000121,5,5,20,44.9143
+44th,Berkeley Prep,Nick Banull,15,405003022,6,9,15,44.9143
+45th,Palmetto Ridge,Christian Custodio,15,518003121,7,13,10,44.9143
+46th,Williams Middle,Raphael Brosula,14,468100621,6,10,14,44.2623
+47th,Cape Coral High School,William Kao,14,418002021,6,10,14,44.2623
+48th,Gulf Coast,Jared Walters,13,575002521,4,3,23,43.6102
+49th,Palmetto Ridge,Meagan Garcia,13,518000821,4,3,23,43.6102
+50th,Saint Stephen's Episcopal School,LUKE VALADIE,13,489000621,5,7,18,43.6102
+51st,Berkeley Prep,John Flynn,11,405007620,7,17,6,42.3062
+52nd,Dunbar High School,Tahtiana Rangel,11,477080321,5,9,16,42.3062
+53rd,Community School of Naples,Michael Chen,11,562006121,6,13,11,42.3062
+54th,Cape Coral High School,Nick Brian,10,418002421,5,10,15,41.6542
+55th,Saint Stephen's Episcopal School,ZLATA UZDENOVA,9,489003222,3,3,24,41.0022
+56th,Labelle High School,Katherine Donges,9,510001021,5,11,14,41.0022
+57th,Palmetto Ridge,Adrian Atiles,9,518001621,4,7,19,41.0022
+58th,Naples,Ryan Vassalotti,8,545002321,4,8,18,40.3502
+59th,Canterbury (Lee),Yimei Tong,8,411001621,4,8,18,40.3502
+60th,Berkeley Prep,Alexa Fannon,5,405003820,7,23,0,38.3941
+61st,Cape Coral High School,Emily Vandyke,4,418002622,3,8,19,37.7421
+62nd,Saint Stephen's Episcopal School,MPO CHO,-1,489003622,2,9,19,34.4820
+63rd,Palmetto Ridge,Meridith Dattilo,-2,518001921,1,6,23,33.8300
+64th,Labelle High School,Becky Phipps,-6,510002521,0,6,24,31.2219
+65th,Wharton,Alina Kurji,-8,485001221,3,20,7,29.9179

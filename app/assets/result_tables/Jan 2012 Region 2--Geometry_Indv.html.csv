@@ -1,0 +1,106 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Vincent Mei,120,295004421,30,0,0,77.6882
+2nd,Lincoln Middle,Zhao Li,115,201103821,29,1,0,75.9920
+2nd,Buchholz,Lisa Lu,115,295005522,29,1,0,75.9920
+4th,Buchholz,Becky Liao,111,295004720,28,1,1,74.6350
+5th,Buchholz,Victor Lin,110,295005022,28,2,0,74.2958
+6th,Lincoln Middle,Ben Wu,110,201103921,28,2,0,74.2958
+7th,Buchholz,Kevin Noh,110,295005721,28,2,0,74.2958
+8th,Buchholz,David Hurst,106,295000221,27,2,1,72.9389
+9th,Buchholz,Jason Ai,101,295004522,26,3,1,71.2427
+10th,Buchholz,Timmie Xie,95,295005921,25,5,0,69.2073
+11th,Buchholz,Reva Ranka,85,295005822,23,7,0,65.8149
+12th,Eastside,Reiner Dizon,73,280007321,19,3,8,61.7440
+13th,Julia Landon Middle,Victoria Ge,67,200100021,18,5,7,59.7086
+14th,Gainesville High School,KJ McIver,66,268009421,18,6,6,59.3694
+15th,Gainesville High School,Sean Benton,66,268011921,17,2,11,59.3694
+16th,James W. Johnson Middle,Bhavik Desai,63,215100321,17,5,8,58.3517
+17th,Gainesville High School,Christina Oakes,58,268010821,16,6,8,56.6555
+18th,Fleming Island High,Martine Montgomery,57,220001821,15,3,12,56.3163
+19th,Buchholz,Albert Zhou,56,295001520,17,12,1,55.9770
+20th,Eastside,Maria Merolle,55,280006221,15,5,10,55.6378
+21st,Bolles,Corey Levinson,55,252002121,15,5,10,55.6378
+22nd,Eastside,Amy Tran,54,280005122,16,10,4,55.2986
+23rd,James W. Johnson Middle,Suhani Jain,50,215100121,15,10,5,53.9416
+24th,James W. Johnson Middle,Amy Song,50,215100622,14,6,10,53.9416
+25th,James W. Johnson Middle,Ravi Patel,48,215100021,14,8,8,53.2631
+26th,Lincoln Middle,Stephanie Tyler,48,201103022,14,8,8,53.2631
+27th,Lincoln Middle,Emily Griffis,47,201102120,14,9,7,52.9239
+28th,James W. Johnson Middle,Anuj Shah,45,215100221,13,7,10,52.2454
+29th,Lincoln Middle,Brandon Kim,45,201102221,13,7,10,52.2454
+30th,Lincoln Middle,Stephanie Zhang,45,201103220,13,7,10,52.2454
+31st,Eastside,Noble Chun,44,280006821,14,12,4,51.9062
+32nd,Howard Bishop Middle,Kailas Rajan,44,208100221,12,4,14,51.9062
+33rd,Nease High School,Megan Hinkle,43,290000121,12,5,13,51.5669
+34th,Julia Landon Middle,Chase Welch,43,200101421,12,5,13,51.5669
+35th,Lincoln Middle,Eve Rowland,42,201102520,11,2,17,51.2277
+36th,Bolles,Travis Johns,41,252002021,12,7,11,50.8885
+37th,Kanapaha Middle School,Rhen Davis,40,209100521,11,4,15,50.5492
+38th,Fleming Island High,Matthew Knight,40,220001720,11,4,15,50.5492
+39th,Howard Bishop Middle,Pierre Angibaud,38,208100421,11,6,13,49.8708
+40th,Fleming Island High,Savannah Nelson,38,220001922,11,6,13,49.8708
+41st,Eastside,Carlo Romo,36,280007422,11,8,11,49.1923
+42nd,Julia Landon Middle,Nihal Kala,36,200100921,10,4,16,49.1923
+43rd,Kanapaha Middle School,Kye Davis,36,209100421,11,8,11,49.1923
+44th,Gainesville High School,Nathan Fisher,35,268012821,10,5,15,48.8531
+45th,Lincoln Middle,Upal Bose,35,201101820,11,9,10,48.8531
+46th,Lincoln Middle,Michelle Bai,35,201101720,10,5,15,48.8531
+47th,Fleming Island High,Jon Dasher,35,220001521,13,17,0,48.8531
+48th,Nease High School,Ashley Plant,34,290000921,11,10,9,48.5138
+49th,James W. Johnson Middle,Evan Qu,33,215100722,10,7,13,48.1746
+50th,Kanapaha Middle School,Andrew Brodsky,33,209100321,10,7,13,48.1746
+51st,Stanton College Preparatory School,Christina Parks,32,296001421,9,4,17,47.8353
+52nd,Eastside,Kelly Lampotang,31,280005621,11,13,6,47.4961
+53rd,Stanton College Preparatory School,Zixuan Xu,31,296000221,9,5,16,47.4961
+54th,Lincoln Middle,Emma Thieke,31,201102922,9,5,16,47.4961
+55th,Lincoln Middle,Selena Cho,31,201101922,9,5,16,47.4961
+56th,Eastside,Eric Brigham,30,280004322,9,6,15,47.1569
+57th,Lincoln Middle,Sam Cockey,30,201104421,12,18,0,47.1569
+58th,Stanton College Preparatory School,Morgan Jones,29,296001321,8,3,19,46.8176
+59th,Kanapaha Middle School,Muzi Wang,28,209101921,8,4,18,46.4784
+60th,Fleming Island High,Logan Opp,28,220002021,8,4,18,46.4784
+61st,Bolles,Brenna Thanner,28,252002221,8,4,18,46.4784
+62nd,Bolles,Lauren Bishop,28,252001522,9,8,13,46.4784
+63rd,Howard Bishop Middle,Kyle Rubin,27,208100321,9,9,12,46.1392
+64th,Kanapaha Middle School,Brian Garner,26,209100722,8,6,16,45.7999
+65th,Bolles,Neha Goel,25,252001922,8,7,15,45.4607
+66th,Julia Landon Middle,JC Boers,25,200100622,8,7,15,45.4607
+67th,Lincoln Middle,Kara Fender,25,201102020,8,7,15,45.4607
+68th,Fleming Island High,Dimitry Willadsen,25,220002322,8,7,15,45.4607
+69th,Julia Landon Middle,Grant delaVasselais,25,200101322,8,7,15,45.4607
+70th,Lincoln Middle,Meera Srinivasan,25,201102720,9,11,10,45.4607
+71st,Nease High School,Jason Cochran,25,290000021,11,19,0,45.4607
+72nd,Fleming Island High,Kate Bohn,24,220001422,8,8,14,45.1215
+73rd,Gainesville High School,Katie White,24,268010722,8,8,14,45.1215
+74th,Julia Landon Middle,Mandy Harris,23,200100822,7,5,18,44.7822
+75th,Howard Bishop Middle,Jackson Jost,22,208101122,6,2,22,44.4430
+76th,Gainesville High School,Alina Maruniak,22,268008822,7,6,17,44.4430
+77th,Kanapaha Middle School,Joey Mathews,22,209101322,8,10,12,44.4430
+78th,Lincoln Middle,Sonal Thakur,22,201102822,7,6,17,44.4430
+79th,James W. Johnson Middle,Solana Huang,21,215100422,9,15,6,44.1037
+80th,Lincoln Middle,Andy Zhong,20,201103320,7,8,15,43.7645
+81st,Julia Landon Middle,Michael Boyton,20,200100721,6,4,20,43.7645
+82nd,Gainesville High School,Ken Donsky,20,268011820,10,20,0,43.7645
+83rd,Fleming Island High,Garrett Van Dyke,19,220002222,8,13,9,43.4253
+84th,Gainesville High School,Chris Niesen,19,268011420,7,9,14,43.4253
+85th,Fleming Island High,Daniel Knight,19,220001620,7,9,14,43.4253
+86th,Gainesville High School,Ashton Mason,19,268012220,6,5,19,43.4253
+87th,Gainesville High School,Kaitlyn Smith,17,268011622,7,11,12,42.7468
+88th,Fleming Island High,Arpit Patel,16,220002121,8,16,6,42.4076
+89th,Gainesville High School,Tommy McManus,16,268010920,6,8,16,42.4076
+90th,Gainesville High School,Christy Wassef,16,268012722,9,20,1,42.4076
+91st,Gainesville High School,Kelly Gordon,15,268011320,7,13,10,42.0683
+92nd,James W. Johnson Middle,Anish Mirjankar,15,215100522,9,21,0,42.0683
+93rd,Kanapaha Middle School,Reilly McDonald,13,209101422,4,3,23,41.3899
+94th,Howard Bishop Middle,Chanakya Bhosale,12,208100121,6,12,12,41.0506
+95th,Stanton College Preparatory School,Katie Thurson,10,296001121,6,14,10,40.3721
+96th,Gainesville High School,Genevieve Ehlers,9,268012620,3,3,24,40.0329
+97th,Eastside,Nichole Stuve,9,280004122,3,3,24,40.0329
+98th,Eastside,Priya Dave,8,280004420,5,12,13,39.6937
+99th,Gainesville High School,Abbi Neal,8,268011720,4,8,18,39.6937
+100th,Bolles,Avery Cochran,2,252001622,4,14,12,37.6582
+101st,Gainesville High School,Russell Fricks,-2,268012020,2,10,18,36.3013
+102nd,Oak Hall,ALEC SHARKEY,-2,249000321,1,6,23,36.3013
+103rd,Gainesville High School,Anna Beebe,-3,268012320,3,15,12,35.9621
+104th,Oak Hall,ZAC MACRACKEN,-5,249000121,5,25,0,35.2836
+105th,Gainesville High School,Brianna Burgard,-12,268011520,1,16,13,32.9089

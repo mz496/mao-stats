@@ -1,0 +1,168 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Ransom Everglades,John Mistele,146,519000721,29,0,1,73.2968
+2nd,Sanford Middle,Sam Li,145,344100221,29,1,0,72.9737
+3rd,Buchholz,Ellen Li,145,295002221,29,1,0,72.9737
+4th,Buchholz,Lillian Zhu,135,295000421,27,3,0,69.7431
+5th,American Heritage (Plantation),Matthew Robins,135,506004421,27,3,0,69.7431
+6th,Berkeley Prep,Ankit Aggarwal,132,405004621,26,2,2,68.7740
+7th,Montford Middle,John Park,130,151189521,26,4,0,68.1279
+8th,Buchholz,Jonathan Fang,130,295001821,26,4,0,68.1279
+9th,Fairview Middle,Aditya Hota,128,125102321,25,2,3,67.4817
+10th,Parkway Middle School,Yuru Niu,127,527101221,25,3,2,67.1587
+11th,Buchholz,Sanika Subhash,127,295000521,25,3,2,67.1587
+12th,Ransom Everglades,Eric Cai,127,519006721,25,3,2,67.1587
+13th,Buchholz,Leo Zsembik,126,295006420,25,4,1,66.8356
+14th,Montford Middle,Jaewon Shim,125,151194321,25,5,0,66.5126
+15th,Deerlake Middle,JUSTIN CHEN,125,185103821,25,5,0,66.5126
+16th,Fairview Middle,Kyle Chen,123,125100421,24,3,3,65.8664
+17th,Buchholz,Erin Mowry,120,295006020,23,2,5,64.8973
+18th,Sanford Middle,Kevin Zhai,118,344103820,23,4,3,64.2511
+19th,Buchholz,Lisa Zhang,117,295001120,23,5,2,63.9281
+20th,Markham Woods Middle,andrew delgadillo,116,323101921,22,2,6,63.6050
+21st,Buchholz,Michael Mulligan,116,295005620,23,6,1,63.6050
+22nd,Deerlake Middle,KEVIN JIANG,115,185109721,23,7,0,63.2820
+23rd,Deerlake Middle,CHARMARA GUNARATNE,114,185107621,22,4,4,62.9589
+24th,Buchholz,Anand Vidyasager,113,295000120,22,5,3,62.6358
+25th,Sanford Middle,Raveena Patel,110,344101321,22,8,0,61.6667
+26th,Sanford Middle,Varun Naga,110,344101120,21,4,5,61.6667
+27th,Sanford Middle,Tara Nibhanapudy,107,344100520,20,3,7,60.6975
+28th,Cypress Bay,Erika Bryant,104,588027221,20,6,4,59.7283
+29th,Berkeley Prep,Jack Graham,103,405004320,20,7,3,59.4053
+30th,Sanford Middle,Meera Sundar,103,344104121,19,3,8,59.4053
+31st,Berkeley Prep,Zachary Diamandis,102,405003521,20,8,2,59.0822
+32nd,Bayside,Floyd Burke,102,303001521,18,0,12,59.0822
+33rd,American Heritage (Plantation),Brian Haimes,102,506003621,20,8,2,59.0822
+34th,Tampa Bay Tech,Nikhil Nagabandi,101,461000221,19,5,6,58.7591
+35th,Sanford Middle,Aaron Zhang,101,344101020,19,5,6,58.7591
+36th,Sebastian River,Angelica Bodine,100,314003521,19,6,5,58.4361
+37th,American Heritage (Plantation),Justin Yang,100,506008421,19,6,5,58.4361
+38th,St Edward's,NISHANTH CHALASANI,98,374010321,18,4,8,57.7900
+39th,Sanford Middle,Pranav Garg,96,344100620,18,6,6,57.1438
+40th,Middleton,Alexander Hoang,96,468000121,17,2,11,57.1438
+41st,Freedom (Tampa),Sky Russell,96,466004421,17,2,11,57.1438
+42nd,King,Sebastian Ayala,96,435001221,18,6,6,57.1438
+43rd,American Heritage (Plantation),Justin Yang,96,506008421,19,10,1,57.1438
+44th,American Heritage (Plantation),Barath Triumala,95,506004720,19,11,0,56.8208
+45th,Fairview Middle,Roehl Reyes,94,125101421,18,8,4,56.4977
+46th,Sanford Middle,Sabrina Fan,93,344103721,18,9,3,56.1747
+47th,Berkeley Prep,Shezreh Haider,93,405004721,17,5,8,56.1747
+48th,Deerfield Beach,Richa Parikh,92,577005721,16,2,12,55.8516
+49th,Fairview Middle,Shardul Heda,91,125106721,17,7,6,55.5285
+50th,Lawton Chiles High School,Nanju Lee,89,181000220,17,9,4,54.8824
+51st,Fairview Middle,Zackary Button,87,125101320,16,7,7,54.2363
+52nd,Eastside,Sangeun Lee,86,280002921,16,8,6,53.9132
+53rd,Sanford Middle,Rohan Gupta,86,344100420,15,4,11,53.9132
+54th,Berkeley Prep,Jarod Guzik,85,405004520,16,9,5,53.5902
+55th,Orlando Science Middle Charter School,Zhi Wang,85,348100521,16,9,5,53.5902
+56th,Sanford Middle,Dhruv Dadhania,84,344103920,14,2,14,53.2671
+57th,Ferguson,CHRISTIAN FLORES,84,507001821,15,6,9,53.2671
+58th,Montford Middle,Ram Moore,84,151192321,15,6,9,53.2671
+59th,Deerfield Beach,Meghan Ta,84,577006221,16,10,4,53.2671
+60th,St Edward's,JOSH HURWITZ,83,374010721,15,7,8,52.9441
+61st,Montford Middle,David Mathews,83,151197521,14,3,13,52.9441
+62nd,Palm Harbor Univ,Andrew An,82,413000021,15,8,7,52.6210
+63rd,Orlando Science Middle Charter School,Brandon Grandison,82,348100121,14,4,12,52.6210
+64th,Eastside,Kalp Patel,80,280004321,16,14,0,51.9749
+65th,Deerlake Middle,TIFFANY LEE,80,185111221,16,14,0,51.9749
+66th,Bayside,Wistenly Alphonse,79,303001221,14,7,9,51.6518
+67th,Montford Middle,Quintus Lamar,78,151192720,14,8,8,51.3288
+68th,Berkeley Prep,Maya Ghandi,78,405003620,14,8,8,51.3288
+69th,Cypress Bay,Rosa Wang,77,588032821,15,13,2,51.0057
+70th,Middleton,Logan Kane,77,468000422,13,5,12,51.0057
+71st,St Edward's,DAVID STORK,76,374011020,12,2,16,50.6827
+72nd,Cypress Bay,Christian Marin,76,588030021,14,10,6,50.6827
+73rd,Cypress Bay,Rona Wang,76,588032721,14,10,6,50.6827
+74th,Berkeley Prep,Nick Diaco,75,405001021,13,7,10,50.3596
+75th,Lincoln,Whittnie Merlau,75,109001021,15,15,0,50.3596
+76th,Ransom Everglades,Patrick Visan,74,519003521,13,8,9,50.0365
+77th,Sanford Middle,Timothy Vu,74,344103320,14,12,4,50.0365
+78th,Sanford Middle,Joel Kratt,72,344102120,12,6,12,49.3904
+79th,St Edward's,KISHORE CHUNDI,71,374010421,11,3,16,49.0674
+80th,Orlando Science High School,Paul Tran,71,348001121,11,3,16,49.0674
+81st,Markham Woods Middle,lauren nash,71,323100021,12,7,11,49.0674
+82nd,Gaither High School,Brandon See,70,426004921,11,4,15,48.7443
+83rd,Bayside,Adrianna Arjoon,67,303000220,11,7,12,47.7751
+84th,Deerfield Beach,Megan Paul,66,577005920,10,4,16,47.4521
+85th,Bayside,Melissa Argote,66,303000020,10,4,16,47.4521
+86th,St Edward's,MASON HEIM,66,374010620,10,4,16,47.4521
+87th,American Heritage - Boca/Delray,Chayse Banks,65,526005821,12,13,5,47.1290
+88th,Sanford Middle,Ishan Dhillon,65,344101220,12,13,5,47.1290
+89th,Hillsborough,Sameer Puri,65,428061421,11,9,10,47.1290
+90th,Lincoln,Caleb Young,65,109000521,13,17,0,47.1290
+91st,Lauderdale Lakes Middle,Tyrese Johnson,64,535102021,9,2,19,46.8059
+92nd,King,Pranjal Tyagi,64,435003621,10,6,14,46.8059
+93rd,St Edward's,NARISSA AGUSTIN,64,374010120,10,6,14,46.8059
+94th,Gaither High School,Brian Tran,64,426001420,10,6,14,46.8059
+95th,Strawberry Crest,Robbie Mahoney,63,498503721,9,3,18,46.4829
+96th,Bayside,Priscilla Gonzalez,62,303002021,10,8,12,46.1598
+97th,Middleton,Vontero Duncan,62,468000621,9,4,17,46.1598
+98th,Lincoln Park Academy,Carlos ArceDeza,62,396002321,10,8,12,46.1598
+99th,Gaither High School,Hubert Nguyen,62,426005421,9,4,17,46.1598
+100th,Sanford Middle,Nikhil Patel,62,344102320,10,8,12,46.1598
+101st,Tampa Bay Tech,Kimani Smith,61,461001821,9,5,16,45.8368
+102nd,Berkeley Prep,Annie Phifer,61,405004420,10,9,11,45.8368
+103rd,Middleton,Surya Balaji,60,468000021,10,10,10,45.5137
+104th,Deerfield Beach,Cameron Mcvay,60,577004821,8,2,20,45.5137
+105th,St Edward's,GRACE KAHLE,59,374010820,8,3,19,45.1906
+106th,Deerfield Beach,Erin Connors,59,577001520,9,7,14,45.1906
+107th,American Heritage - Boca/Delray,Noah Schreibman,58,526003821,11,16,3,44.8676
+108th,Hillsborough,Robert Wood,58,428062221,9,8,13,44.8676
+109th,Deerfield Beach,Julianne Fontana,56,577002420,9,10,11,44.2215
+110th,Tampa Bay Tech,Emily Compton,56,461001621,9,10,11,44.2215
+111th,American Heritage (Plantation),Claire Generato,56,506003520,9,10,11,44.2215
+112th,Elizabeth Cobb Middle School,Craig Curry,55,166001021,7,3,20,43.8984
+113th,Elizabeth Cobb Middle School,Orion VanOss,55,166003821,7,3,20,43.8984
+114th,Orlando Science High School,Areeba Tariq,55,348001321,9,11,10,43.8984
+115th,Saint Andrew's School,Elizabeth Bartzokis,55,566500721,8,7,15,43.8984
+116th,Sanford Middle,Joel Zishuk,55,344102220,9,11,10,43.8984
+117th,Orlando Science High School,Tina Dang,54,348001221,8,8,14,43.5754
+118th,Gaither High School,Karla Alonso,53,426007221,7,5,18,43.2523
+119th,Lake Mary,Luke Stumpf,53,308002721,8,9,13,43.2523
+120th,Orlando Science Middle Charter School,Oscar Guerrero,53,348100321,9,13,8,43.2523
+121st,Miami Springs,THOMAS SHELOW,52,582001821,7,6,17,42.9292
+122nd,Williams Middle,Shawn Simon,52,468100421,8,10,12,42.9292
+123rd,Parkway Middle School,Kinord Cinord,52,527101421,9,14,7,42.9292
+124th,Miami Springs,BRENT CATES,51,582000021,6,3,21,42.6062
+125th,King,Jonathan Ptak,50,435003221,7,8,15,42.2831
+126th,Sanford Middle,Siddhardha Maligireddy,50,344104320,8,12,10,42.2831
+128th,Bayside,Isaac Williamson,50,303003120,7,8,15,42.2831
+129th,Markham Woods Middle,dexter bell,50,323101821,9,16,5,42.2831
+130th,American Heritage - Boca/Delray,Clayton Cole,49,526006021,9,17,4,41.9601
+131st,Lake Mary,Sahil Bhikha,49,308002021,7,9,14,41.9601
+132nd,Robinson,Chau Nguyen,48,458005821,6,6,18,41.6370
+133rd, , ,48,420006720,6,6,18,41.6370
+134th,Lincoln Park Academy,Bradley Gilrane,48,396000121,7,10,13,41.6370
+135th,St Edward's,FAHAD AHMED,47,374010221,7,11,12,41.3139
+136th,Berkeley Prep,Shezreh Haider,46,405004720,6,8,16,40.9909
+137th,Williams Middle,Easwar Prabakaran,46,468100321,7,12,11,40.9909
+138th,Orlando Science High School,Angel Quinones,46,348001021,7,12,11,40.9909
+139th,Berkeley Prep,Eleni Kokolakis,45,405005320,6,9,15,40.6678
+140th,Markham Woods Middle,pareena sharma,45,323100121,5,5,20,40.6678
+141st,Saint Andrew's Middle School,Carson Folk,45,566600321,5,5,20,40.6678
+142nd,Lauderdale Lakes Middle,Aaliyah Fuller,45,535101021,6,9,15,40.6678
+143rd,Elizabeth Cobb Middle School,James McAuley,44,166002421,4,2,24,40.3448
+144th,Berkeley Prep,Amol Dhaliwal,43,405003920,5,7,18,40.0217
+145th,Parkway Middle School,Pierre Vilme,43,527101121,6,11,13,40.0217
+146th,Saint Andrew's School,Rylie Torretti,43,566503821,8,19,3,40.0217
+147th,Saint Andrew's Middle School,Carson Fregosi,41,566600221,5,9,16,39.3756
+148th,Ferguson,LUISANA CAICEDO,40,507001721,5,10,15,39.0525
+149th,Elizabeth Cobb Middle School,Trevor Coxwell,39,166000921,4,7,19,38.7295
+150th,King,Austin Kee,39,435002321,5,11,14,38.7295
+151st,Deerfield Beach,David Marulanda,37,577003521,5,13,12,38.0833
+152nd,Gaither High School,Dennis Erazo,37,426004721,3,5,22,38.0833
+153rd,Lauderdale Lakes Middle,Isaiah Thompson,36,535103221,3,6,21,37.7603
+154th,Lauderdale Lakes Middle,Briana Reid,35,535102121,2,3,25,37.4372
+155th,Berkeley Prep,Sarah Ali,35,405003320,3,7,20,37.4372
+156th,American Heritage - Boca/Delray,Mira Sharma,35,526005920,3,7,20,37.4372
+157th,American Heritage - Boca/Delray,Ali Sweid,35,526000420,4,11,15,37.4372
+158th,Sanford Middle,Matthew Duazo,35,344104020,2,3,25,37.4372
+159th,Durant,Jake Raschke,35,475004821,5,15,10,37.4372
+160th,Tampa Bay Tech,Caitlyn Hayes,35,461000621,5,15,10,37.4372
+161st,Bayside,Karlyn Sequeira,34,303002521,3,8,19,37.1142
+162nd,Middleton,Francis Roan,34,468002322,3,8,19,37.1142
+163rd,Middleton, ,33,468002421,6,21,3,36.7911
+164th,Berkeley Prep,Yianni Kokolakis,33,405004020,2,5,23,36.7911
+165th,Bayside,Martha Esparza,33,303001920,1,1,28,36.7911
+166th,Miami Springs,LESLIE PEREZ,28,582002021,2,10,18,35.1758
+167th,American Heritage - Boca/Delray,Melissa Tropeano,27,526001221,3,15,12,34.8528
+168th,Lauderdale Lakes Middle,Kenderia Moore,24,535103320,1,10,19,33.8836

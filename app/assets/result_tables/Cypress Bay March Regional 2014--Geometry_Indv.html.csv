@@ -1,0 +1,135 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Tequesta Trace Middle School,Richard Liu,105,500103020,27,3,0,75.8904
+2nd,Pembroke Pines Charter Middle School,Saaketh Vedantam,103,501300121,26,1,3,75.1749
+3rd,American Heritage (Plantation),Max Ranis,103,506007421,26,1,3,75.1749
+4th,American Heritage (Plantation),Jackson Blitz,102,506007821,26,2,2,74.8172
+5th,Falcon Cove Middle School,Sriraj Atluri,93,541100121,24,3,3,71.5976
+6th,Tequesta Trace Middle School,Robert Slutsky,93,500101921,24,3,3,71.5976
+7th,American Heritage (Plantation),Felipe Shiwa,93,506007921,24,3,3,71.5976
+8th,Falcon Cove Middle School,MinKyu Kim,91,541101321,24,5,1,70.8821
+9th,Tequesta Trace Middle School,Cassie Pena,90,500101421,23,2,5,70.5244
+10th,American Heritage (Plantation),Nithya Kasarla,84,506006720,22,4,4,68.3779
+11th,American Heritage (Plantation),Kishan Patel,77,506002220,20,3,7,65.8738
+12th,Ransom Everglades,Thorstein Adreassen,75,519002521,19,1,10,65.1583
+13th,Cypress Bay,Joshua Tang,74,588025721,19,2,9,64.8006
+14th,American Heritage (Plantation),Azzara Nincevic,74,506006921,20,6,4,64.8006
+15th,Ransom Everglades,Ryan Tie-Shue,74,519003221,20,6,4,64.8006
+16th,Cypress Bay,Kevin Winzey,72,588029221,19,4,7,64.0851
+17th,Doral Academy Middle,Sofia Leon,71,537701521,18,1,11,63.7274
+18th,American Heritage (Plantation),Rebecca Shipman,69,506009520,19,7,4,63.0119
+19th,Falcon Cove Middle School,Jessica Kang,67,541101221,17,1,12,62.2965
+20th,Falcon Cove Middle School,Jason Liu,66,541102020,18,6,6,61.9387
+21st,American Heritage - Boca/Delray,Jiayu (Helen) Huang,63,526006721,17,5,8,60.8655
+22nd,American Heritage (Plantation),Sumera Subzwari,63,506009220,17,5,8,60.8655
+23rd,Tequesta Trace Middle School,Dylan Lyon,63,500101020,18,9,3,60.8655
+24th,Cypress Bay,Kyle Scott,62,588023521,16,2,12,60.5078
+25th,Tequesta Trace Middle School,Sujay Shankar,61,500101821,17,7,6,60.1501
+26th,Tequesta Trace Middle School,Tanmai Bandarupalli,60,500100021,16,4,10,59.7923
+27th,Indian Ridge Middle School,Giancarlo Cabeza,60,520101221,16,4,10,59.7923
+28th,Falcon Cove Middle School,June Dong,57,541100620,15,3,12,58.7191
+29th,Falcon Cove Middle School,Zonshen Yu,56,541103721,15,4,11,58.3614
+30th,Doral Academy Middle,Camille Wang,54,537700521,14,2,14,57.6459
+31st,Pembroke Pines Charter Middle School,Sameera Vedantam,53,501300221,14,3,13,57.2882
+32nd,Saint Andrew’s School,Zirui Wang,51,566505421,14,5,11,56.5727
+33rd,Stoneman Douglas,RYAN FLEMMING,49,532002121,13,3,14,55.8572
+34th,Indian Ridge Middle School,Gabrielle Cabeza,48,520101121,13,4,13,55.4995
+35th,American Heritage - Boca/Delray,Wu (Shawn) Mengxiao,48,526010921,13,4,13,55.4995
+36th,Falcon Cove Middle School,Catherine Wu,46,541100020,12,2,16,54.7840
+37th,Doral Academy High,Liliet Sosa,44,537505021,11,0,19,54.0686
+38th,Coral Springs Middle,RAMYA REDDY,43,515100121,13,9,8,53.7108
+39th,Cypress Bay,Eli Nir,43,588018921,13,9,8,53.7108
+40th,Ferguson,BRIANA MORALES,41,507009521,12,7,11,52.9954
+41st,Cooper City,Julieanna Bacon,41,565000121,11,3,16,52.9954
+42nd,Ferguson,EVA CHEUNG,40,507007321,13,12,5,52.6376
+43rd,Cypress Bay,Jacob Wilentz,38,588029130,13,14,3,51.9222
+44th,Falcon Cove Middle School,Caleb Wong,36,541100420,9,0,21,51.2067
+45th,Ferguson,MUHAMMAD UMAIR,35,507010121,11,9,10,50.8490
+46th,Falcon Cove Middle School,Enrico Bautista,35,541100220,11,9,10,50.8490
+47th,Saint Andrew’s School,Arjun Misra,35,566505621,11,9,10,50.8490
+48th,Miami Palmetto,Remy Farkas,35,541001321,11,9,10,50.8490
+49th,Stoneman Douglas,AMANDA FUTTERMAN,34,532002221,10,6,14,50.4912
+50th,Saint Andrew’s School,Byeong Ahn,34,566506321,10,6,14,50.4912
+51st,Falcon Cove Middle School,Jessica Wu,33,541103520,9,3,18,50.1335
+52nd,Cypress Bay,Kshitiz Lamba,32,588012920,9,4,17,49.7757
+53rd,American Heritage (Plantation),Tanvi Bafna,30,506008520,9,6,15,49.0603
+54th,American Heritage - Boca/Delray,Laura Najera,30,526008420,9,6,15,49.0603
+55th,American Heritage - Boca/Delray,Brenda Gomes,30,526007921,8,2,20,49.0603
+56th,Indian Ridge Middle School,Maria Smirnova,29,520101721,8,3,19,48.7025
+57th,Coral Glades,Waddy Leonvil,29,528001621,9,7,14,48.7025
+58th,Falcon Cove Middle School,Nikolas Urcuyo,29,541103320,9,7,14,48.7025
+59th,Falcon Cove Middle School,Eniya Krishnaraj,29,541103920,10,11,9,48.7025
+60th,Tequesta Trace Middle School,Oliver Qiu,28,500101520,10,12,8,48.3448
+61st,American Heritage - Boca/Delray,Dorrenyta Fenelon,28,526000720,8,4,18,48.3448
+62nd,Ransom Everglades,Francisco Cabrera,27,519001620,8,5,17,47.9871
+63rd,Doral Academy Middle,Carolina Mora,27,537700121,8,5,17,47.9871
+64th,Ransom Everglades,Chloe Namias,27,519000521,8,5,17,47.9871
+65th,Stoneman Douglas,INDIRA FLORES,27,532002821,9,9,12,47.9871
+66th,Falcon Cove Middle School,Fernando Rivera,26,541102320,8,6,16,47.6293
+67th,Doral Academy Middle,Elier Bermudez,24,537702121,8,8,14,46.9139
+68th,Falcon Cove Middle School,Jenny Shim,24,541102920,7,4,19,46.9139
+69th,Parkway Middle School,Jayanne Forrest,23,527101521,7,5,18,46.5561
+70th,Monarch High,Serena Clayton,23,565501321,7,5,18,46.5561
+71st,Doral Academy High,Jorge Jacob,23,537500820,6,1,23,46.5561
+72nd,Miramar H. S.,Philip Ambattu,23,503030521,6,1,23,46.5561
+73rd,Doral Academy High,Jonathan Caseiro,23,537500721,6,1,23,46.5561
+74th,Doral Academy High,Nathaly Gonzalez,22,537501921,7,6,17,46.1984
+75th,Falcon Cove Middle School,Livia Chen,22,541100320,7,6,17,46.1984
+76th,Indian Ridge Middle School,Philippe Andre,22,520100920,6,2,22,46.1984
+77th,Cypress Bay,Eric Juarez,21,588011720,7,7,16,45.8407
+78th,Deerfield Beach,Tulika Srivastava,21,577007921,7,7,16,45.8407
+79th,Tequesta Trace Middle School,Emmy Semprun,20,500101720,10,20,0,45.4829
+80th,Falcon Cove Middle School,Catherine Wang,19,541103420,6,5,19,45.1252
+81st,Ransom Everglades,Christina Lindsay,19,519000321,6,5,19,45.1252
+82nd,Doral Academy Middle,Crystal Zhang,19,537700820,6,5,19,45.1252
+83rd,Stoneman Douglas,GABBY SCHWARTZ,19,532002421,6,5,19,45.1252
+84th,Palm Beach Gardens,Yvette Amaro,19,373000621,6,5,19,45.1252
+85th,American Heritage (Plantation),Ryan Epstein,18,506004820,5,2,23,44.7675
+86th,JP Taravella,Valentino Rivera,18,533003621,5,2,23,44.7675
+87th,American Heritage - Boca/Delray,Neal Sharma,18,526008720,6,6,18,44.7675
+88th,Falcon Cove Middle School,Chad Cerutti,17,541100520,6,7,17,44.4097
+89th,Deerfield Beach,Aleksandra Cechulska,16,577001421,5,4,21,44.0520
+90th,Doral Academy Middle,Natalia Escobar,16,537700020,5,4,21,44.0520
+91st,Coral Glades,Mark Mansfield,15,528001821,5,5,20,43.6943
+92nd,Indian Ridge Middle School,Joelle Friedlander,14,520101320,6,10,14,43.3365
+93rd,Parkway Middle School,Quin Nardone,14,527101621,7,14,9,43.3365
+94th,Monarch High,Chris Magnus,14,565502121,5,6,19,43.3365
+95th,Coral Glades,Sebastian Castro,13,528000321,5,7,18,42.9788
+96th,Doral Academy High,Manuel Sargen,13,537502721,5,7,18,42.9788
+97th,Miramar H. S.,Sarah Arikupurathu,13,503000031,4,3,23,42.9788
+98th,Palm Beach Gardens,Clifnie Francoise,13,373000221,5,7,18,42.9788
+99th,Parkway Middle School,Alexander Williams,12,527101320,4,4,22,42.6211
+100th,Parkway Middle School,Noesha Noel,12,527100821,4,4,22,42.6211
+101st,Falcon Cove Middle School,Rohan Samanta,12,541102720,6,12,12,42.6211
+102nd,Indian Ridge Middle School,Bailey Fox,12,520102220,4,4,22,42.6211
+103rd,Parkway Middle School,Jennifer Verdelus,11,527100921,5,9,16,42.2633
+104th,Cypress Bay,Benjamin Tillinger,11,588026420,5,9,16,42.2633
+105th,Doral Academy Middle,David Alirezaei,11,537702820,3,1,26,42.2633
+106th,Ferguson,KELLY LY,11,507012121,4,5,21,42.2633
+107th,Ferguson,DAVID ROTGER,11,507009920,4,5,21,42.2633
+108th,Coral Glades,Kassandra Perez,10,528002421,3,2,25,41.9056
+109th,West Broward High School,Adrianna Delgado,10,534004120,4,6,20,41.9056
+110th,Cypress Bay,Alyssa Marotta,10,588016120,6,14,10,41.9056
+111th,Deerfield Beach,Felipe Fernandez,10,577008621,8,22,0,41.9056
+112th,Doral Academy High,Armani Arellano,9,537503820,3,3,24,41.5479
+113th,Palm Beach Gardens,Jordan TranPham,9,373000821,4,7,19,41.5479
+114th,Coral Springs High School,Arshena Allie,8,515000220,3,4,23,41.1901
+115th,Indian Ridge Middle School,Isabella Schaerf,8,520101620,4,8,18,41.1901
+116th,American Heritage - Boca/Delray,Peilin (Frank) Zong,7,526009020,4,9,17,40.8324
+117th,JP Taravella,Muhammed Ahmed,7,533001321,2,1,27,40.8324
+118th,American Heritage - Boca/Delray,Bowen (Leo) Li,7,526011220,2,1,27,40.8324
+119th,Ferguson,MARICEL TROITINO,7,507001020,4,9,17,40.8324
+120th,Palm Beach Gardens,Diego Murrilo,6,373002721,3,6,21,40.4746
+121st,Miramar H. S.,Vanessa Gregoire,5,503020221,4,11,15,40.1169
+122nd,Deerfield Beach,Larissa Boruk,5,577008421,2,3,25,40.1169
+123rd,Parkway Middle School,ToriAnn Hanson,5,527100321,5,15,10,40.1169
+124th,Indian Ridge Middle School,Kevin Peter,3,520101420,3,9,18,39.4014
+125th,Coral Glades,Franchesca Ammirata,2,528000120,2,6,22,39.0437
+126th,Indian Ridge Middle School,Jordan Boyd,2,520100620,4,14,12,39.0437
+127th,Indian Ridge Middle School,Aisha Jehaludi,1,520100720,2,7,21,38.6860
+128th,American Heritage - Boca/Delray,Yihan (Arina) Wang,0,526009121,5,20,5,38.3282
+129th,Saint Andrew’s School,John Moroney,0,566505721,0,0,30,38.3282
+130th,Indian Ridge Middle School,Shane Clarke,-1,520102120,3,13,14,37.9705
+131st,Indian Ridge Middle School,Brandon Stewart,-4,520101821,3,16,11,36.8973
+132nd,Westland Hialeah Senior HS,Ivelys Seijas,-4,504503821,5,24,1,36.8973
+133rd,JP Taravella,Eddy Ou,-6,533003521,1,10,19,36.1818
+134th,Westland Hialeah Senior HS,Euri Rodriguez,-10,504505121,0,10,20,34.7509

@@ -1,0 +1,86 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Jackson Heights,Ochwan Kwon,108,8041127,27,0,3,81.7588
+2nd,West Shore,Varun Bansul,86,3931100,22,2,6,72.3380
+3rd,Jackson Heights,Joy Shen,77,3041121,21,7,2,68.4840
+4th,Jackson Heights,John Li,74,3041122,20,6,4,67.1993
+5th,Greenwood Lakes,Jesse Wesenberg,71,3451157,19,5,6,65.9147
+6th,Jackson Heights,Kevin Jones,69,3041123,19,7,4,65.0582
+7th,Lincoln Park Academy,Cimone Watson,68,3961101,18,4,8,64.6300
+8th,Markham Woods Middle,Snigdha Das,65,1231127,17,3,10,63.3454
+9th,West Shore,Theopeste Kerelos,64,3931105,17,4,9,62.9171
+10th,Jackson Heights,Jeet Chakravorty,64,8041132,17,4,9,62.9171
+11th,Markham Woods Middle,Besant Nandra,62,6231139,16,2,12,62.0607
+12th,Markham Woods Middle,Carter Gile,62,1231330,16,2,12,62.0607
+13th,Markham Woods Middle,Phong Nguyen,62,1231123,17,6,7,62.0607
+14th,Markham Woods Middle,Arley Ruskin,62,1231140,17,6,7,62.0607
+15th,Jackson Heights,Eric Anschuetz,60,3041124,17,8,5,61.2043
+16th,West Shore,Aalekhya Tenali,58,3931109,16,6,8,60.3478
+17th,Markham Woods Middle,Meagan Harwick,57,6231120,15,3,12,59.9196
+18th,West Shore,Kaylee Mccormack,55,3931106,14,1,15,59.0632
+19th,Gifford,Heather Fredrickson,54,3091104,15,6,9,58.6349
+20th,Sanford Middle School,Casimir Kiersnowski,53,3441339,14,3,13,58.2067
+21st,Gifford,Colin Mackay,53,3091113,15,7,8,58.2067
+22nd,Gifford,Sarah Kelly,53,3091310,14,3,13,58.2067
+23rd,Gifford,Sami Hashmi,52,3091106,14,4,12,57.7785
+24th,Gifford,Daniel Boling,51,8091100,14,5,11,57.3503
+25th,Jackson Heights,Brian Trinh,51,8041125,14,5,11,57.3503
+26th,Gifford,Zoey Neudeck,50,3091116,13,2,15,56.9221
+27th,Sanford Middle School,Safkat Islam,47,3441112,13,5,12,55.6374
+28th,Gifford,Zoe Roschach,47,8091118,13,5,12,55.6374
+29th,Gifford,Jack Gorman,45,3091305,12,3,15,54.7810
+30th,West Shore,Eran Delcastillo,43,8931103,12,5,13,53.9245
+31st,Greenwood Lakes,Valentine Barshay,43,3451101,13,9,8,53.9245
+32nd,Greenwood Lakes,Corey Harpe,40,3451108,14,16,0,52.6399
+33rd,Gifford,Connor Davidson,40,8091103,11,4,15,52.6399
+34th,Sanford Middle School,Danniel Swann,38,3441111,12,10,8,51.7834
+35th,Markham Woods Middle,Ravi Jindal,38,1231133,12,10,8,51.7834
+36th,Sanford Middle School,Tyler Coughlin,37,3441121,10,3,17,51.3552
+37th,Greenwood Lakes,Moriah Saunders,34,8451106,11,10,9,50.0705
+38th,Gifford,Emily Lunn,32,3091312,10,8,12,49.2141
+39th,Jackson Heights,Megan Mullally,30,8041128,10,10,10,48.3576
+40th,Gifford,Taylor Narozanick,28,3091315,9,8,13,47.5012
+41st,Greenwood Lakes,Mark Richardson,28,8451105,10,12,8,47.5012
+42nd,Sanford Middle School,Annika Jarvinen,28,8441109,8,4,18,47.5012
+43rd,Greenwood Lakes,Nicholas Coury,28,3451150,9,8,13,47.5012
+44th,West Shore,Balaji Thoguluva,27,8931110,9,9,12,47.0730
+45th,Tuskawilla Middle School,John Mohr,27,3061120,8,5,17,47.0730
+46th,West Shore,Michelle Chin,27,8931101,9,9,12,47.0730
+47th,Sanford Middle School,Elizabeth Sult,26,8441100,7,2,21,46.6448
+48th,Markham Woods Middle,Mikaela Malanga,26,6231136,10,14,6,46.6448
+49th, ,Johnathan Egli,25,8061150,11,19,0,46.2165
+50th,Gifford,Zac Maes,25,3091314,8,7,15,46.2165
+51st,Sanford Middle School,Chelcea Fowler,24,3441304,7,4,19,45.7883
+52nd,Sanford Middle School,Benjamin Shever,24,8441114,9,12,9,45.7883
+53rd,Sanford Middle School,Britta Gorman,23,3441302,7,5,18,45.3601
+54th,Markham Woods Middle,Aviel Yashar,22,1231359,7,6,17,44.9319
+55th,Sanford Middle School,Yanchunxiao Yin,21,3441310,10,19,1,44.5037
+56th,Markham Woods Middle,Louis Dipaolo,20,6231144,8,12,10,44.0754
+57th,Sanford Middle School,Meghan Martin,17,8441107,5,3,22,42.7908
+58th,Tuskawilla Middle School,Emma Parker,17,3061122,7,11,12,42.7908
+59th,Gifford,Leo Cury,17,8091102,7,11,12,42.7908
+60th,Gifford,Chelsea Verhoven,16,3091307,5,4,21,42.3626
+61st,Sanford Middle School,James Blanchard,16,3441316,6,8,16,42.3626
+62nd,Gifford,Kendall Loewendick,16,3091311,7,12,11,42.3626
+63rd,Sanford Middle School,Abbas Dewji,16,3441318,5,4,21,42.3626
+64th,Tuskawilla Middle School,Mercedes Hedrick,16,3061330,8,16,6,42.3626
+65th,Sanford Middle School,Kelley Sanford,16,3441303,6,8,16,42.3626
+66th, ,Harley Graham,15,8061153,6,9,15,41.9343
+67th,Markham Woods Middle,Shaina Palama,15,1231355,9,21,0,41.9343
+68th,Markham Woods Middle,Madline Kewley,14,1231334,6,10,14,41.5061
+69th,Tuskawilla Middle School,Nikki Kreitz,13,3061155,7,15,8,41.0779
+70th,Sanford Middle School,Shannon Hatcher,12,3441327,5,8,17,40.6497
+71st,Sanford Middle School,Nicholas Swann,12,3441322,4,4,22,40.6497
+72nd,Markham Woods Middle,Lauren Hendrix,11,1231361,6,13,11,40.2215
+73rd,Sanford Middle School,Naomi Pitter,11,3441325,6,13,11,40.2215
+74th,South Seminole Middle,Josh Mounts,10,1271102,5,10,15,39.7932
+75th,Sanford Middle School,Ian Svantesson,10,3441323,5,10,15,39.7932
+76th,Sanford Middle School,Brendan Rourke,10,3441319,5,10,15,39.7932
+77th,South Seminole Middle,Tony Woods,9,1271105,6,15,9,39.3650
+78th,Markham Woods Middle,Kyle Durham,9,1231318,6,15,9,39.3650
+79th,Sanford Middle School,Armin Mohammad,7,3441331,5,13,12,38.5086
+80th, ,Justin Turner,2,8061143,4,14,12,36.3675
+81st,Tuskawilla Middle School,Alexandria  Delong,1,3061170,4,15,11,35.9393
+82nd,Markham Woods Middle,Brandon Hammock,0,1231348,6,24,0,35.5110
+83rd,Sanford Middle School,Hayden Cruise,-2,3441106,2,10,18,34.6546
+84th, ,Nick Picanso,-4,8061162,3,16,11,33.7982
+85th,West Shore,Julia Murphy,-10,8931108,4,26,0,31.2288

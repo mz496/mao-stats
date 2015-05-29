@@ -1,0 +1,134 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Lincoln Middle School,JuKyung Choi,111,201001930,28,1,1,80.0071
+2nd,Buchholz,Jingyi Ye,102,295001130,26,2,2,76.1953
+3rd,Buchholz,Fanchao Zhu,97,295001230,25,3,2,74.0776
+4th,Buchholz,Jooheui Son,91,295000830,24,5,1,71.5365
+5th,Buchholz,David Annable,91,295000120,24,5,1,71.5365
+6th,Vero Beach,DYLAN FLINCHUM,90,372004030,24,6,0,71.1129
+7th,Buchholz,June Huang,86,295003220,23,6,1,69.4188
+8th,Lawton Chiles High School,Jason Wu,86,181003430,23,6,1,69.4188
+9th,Berkeley Prep,Nathan Weinbren,80,405003730,21,4,5,66.8776
+10th,Berkeley Prep,Adarsh Dave,78,405002030,21,6,3,66.0305
+11th,Buchholz,Bryce Sperling,77,295000920,20,3,7,65.6070
+12th,Vero Beach,GWENDI LAMOTHE,76,372004430,21,8,1,65.1835
+13th,Berkeley Prep,Ethan Camp,75,405001830,21,9,0,64.7599
+14th,Buchholz,Paul Park,70,295003320,19,6,5,62.6423
+15th,Seminole (Seminole),NICHOLAS CHRISTODOULIDES,68,341004930,18,4,8,61.7952
+16th,Berkeley Prep,Caitlin Sills,68,405003430,18,4,8,61.7952
+17th,Seminole (Seminole),ANDREW JIN,67,341002030,18,5,7,61.3717
+18th,Lake Mary,Andy Marty,65,308002030,17,3,10,60.5246
+19th,Fairview Middle,Diego Hernandez,64,125100720,18,8,4,60.1011
+20th,Stoneman Douglas,JOANNA FU,64,532015430,18,8,4,60.1011
+21st,Fairview Middle,Annie Ma,63,125101520,17,5,8,59.6776
+22nd,Lake Mary,Jessee Leimgruber,62,308001830,17,6,7,59.2540
+23rd,Lake Mary,Nicholas Bagley,61,308001130,18,11,1,58.8305
+24th,Berkeley Prep,Derek Schocken,60,405003130,17,8,5,58.4070
+25th,Vero Beach,JUAN VALLEJO,60,372006530,18,12,0,58.4070
+26th,Berkeley Prep,Jessica Hahn,59,405002330,16,5,9,57.9834
+27th,Rickards High School,Amrit Vastrala,58,140002230,17,10,3,57.5599
+28th,Vero Beach,JACKIE METZ,56,372005030,17,12,1,56.7128
+29th,Lawton Chiles High School,Morrie Kim,54,181001330,15,6,9,55.8658
+30th,Cypress Bay,Olivia  Formoso,53,588001230,14,3,13,55.4422
+31st,Fairview Middle,Sonia Koul,52,125101820,14,4,12,55.0187
+32nd,Markham Woods Middle,Besant Nandra,52,323102220,14,4,12,55.0187
+33rd,Berkeley Prep,Nadine Zeidan,52,405004030,15,8,7,55.0187
+34th,American Heritage (Plantation),christopher lam,52,506001730,14,4,12,55.0187
+35th,Lawton Chiles High School,Niral Patel,51,181002130,15,9,6,54.5952
+36th,Berkeley Prep,Alex Bandes,51,405001530,14,5,11,54.5952
+37th,Berkeley Prep,Vikas Kotha,49,405002530,14,7,9,53.7481
+38th,Berkeley Prep,Audrey Menna,49,405002930,14,7,9,53.7481
+39th,Fairview Middle,Kavitha Chintam,49,125101320,14,7,9,53.7481
+40th,Cypress Bay,Ricky  Estripeaut,49,588000830,13,3,14,53.7481
+41st,Vero Beach,SAMUEL LAPEYRE,48,372004530,15,12,3,53.3246
+42nd,Berkeley Prep,Brett Campbell,47,405001930,14,9,7,52.9010
+43rd,Cobb,Samuel Tew,47,166005520,12,1,17,52.9010
+44th,Cypress Bay,Jason  Finkelstein,46,588001130,13,6,11,52.4775
+45th,Lake Mary,Benjamin DeStefano,46,308001430,13,6,11,52.4775
+46th,Vero Beach,EMILY DEBRAAL,46,372003730,14,10,6,52.4775
+47th,Lake Mary,Hemaghini Das,45,308001330,14,11,5,52.0540
+48th,Berkeley Prep,Kat Weston,45,405003830,12,3,15,52.0540
+49th,Jackson Heights Middle,TATIANA ANTHONY,45,304102920,14,11,5,52.0540
+50th,Markham Woods Middle,Ravi Jindal,45,323101620,13,7,10,52.0540
+51st,Jackson Heights Middle,MITCHELL CALLOWAY,44,304101320,12,4,14,51.6304
+52nd,Lake Mary,Sarena Martin,44,308001930,14,12,4,51.6304
+53rd,Seminole (Seminole),ZACK HINSLEY,43,341008730,12,5,13,51.2069
+54th,Berkeley Prep,Chester Bedell,43,405001730,13,9,8,51.2069
+55th,Stoneman Douglas,JOSH MILLER,43,532015830,14,13,3,51.2069
+56th,Lawton Chiles High School,Bailey Ruark,43,181002730,13,9,8,51.2069
+57th,Lake Mary,Ivan Yim,42,308002830,12,6,12,50.7834
+58th,Lawton Chiles High School,Annie Zheng,42,181003530,12,6,12,50.7834
+59th,Lawton Chiles High School,Kelsey McWilliams,41,181001830,12,7,11,50.3598
+60th,Lawton Chiles High School,Corinne Watts,41,181003230,12,7,11,50.3598
+61st,Middleton,Daniel Truesdell,41,468000730,12,7,11,50.3598
+62nd,Oviedo,Caitlin Loftus,40,377000930,11,4,15,49.9363
+63rd,Vero Beach,EVAN MOULDER,40,372000930,14,16,0,49.9363
+64th,Seminole (Seminole),NEIL NAGDA,39,341005530,11,5,14,49.5128
+65th,Cypress Bay,David  Pinsky,39,588002630,12,9,9,49.5128
+66th,Seminole (Seminole),DAVID WONG,39,341011530,12,9,9,49.5128
+67th,Sebastian River, ,38,314006030,11,6,13,49.0892
+68th,Hillsborough,TRISHA DEY,38,428020630,11,6,13,49.0892
+69th,Berkeley Prep,Brad Tillotson,37,405003630,12,11,7,48.6657
+70th,Hillsborough,LINDSEY REEDER,36,428021030,10,4,16,48.2422
+71st,Vero Beach,SHAWN DESAI,35,372003830,12,13,5,47.8186
+72nd,Berkeley Prep,Paras Shah,35,405003230,13,17,0,47.8186
+73rd,Berkeley Prep,Weston Phillips,35,405003030,10,5,15,47.8186
+74th,Fairview Middle,Andrew Chico,35,125104420,12,13,5,47.8186
+75th,Berkeley Prep,Ajay Kanuri,35,405000220,13,17,0,47.8186
+76th,Rickards High School,Jiahui Chen,34,140000130,11,10,9,47.3951
+77th,Seminole (Seminole),RUTH HSU,34,341002730,10,6,14,47.3951
+78th,Oviedo,Jarrett Slater,33,377001430,10,7,13,46.9716
+79th,Lawton Chiles High School,Amanda Langston,33,181001430,11,11,8,46.9716
+80th,Berkeley Prep,Masha Leonov,32,405002630,10,8,12,46.5481
+81st,Berkeley Prep,Alex Nelson,32,405000820,10,8,12,46.5481
+82nd,Berkeley Prep,Virginia Wills,32,405003930,11,12,7,46.5481
+83rd,Seminole (Seminole),ARIELLA YASHAR,31,341004430,10,9,11,46.1245
+84th,Lake Mary,Connor Accurso,31,308000930,10,9,11,46.1245
+85th,Lawton Chiles High School,Annie Booth,30,181000530,9,6,15,45.7010
+86th,Hillsborough,MY'LEA COULOMBEQUACH,30,428020730,8,2,20,45.7010
+87th,Berkeley Prep,Ashima Madan,30,405002830,9,6,15,45.7010
+88th,Vero Beach,JESUS MORENO,30,372005230,11,14,5,45.7010
+89th,Lawton Chiles High School,Eun Lee,30,181001630,9,6,15,45.7010
+90th,Cypress Bay,Jenna  Freedman,29,588005230,9,7,14,45.2775
+91st,Ferguson,KEVIN LEMUS,29,507000830,9,7,14,45.2775
+92nd,Berkeley Prep,Bill Jacobus,28,405002430,8,4,18,44.8539
+93rd,Oviedo,Tom Goff,28,377000630,9,8,13,44.8539
+94th,Berkeley Prep,Mitchell Kim,27,405000320,9,9,12,44.4304
+95th,Hillsborough,HAYLEY ZYNDORF,26,428021230,8,6,16,44.0069
+96th,Jackson Heights Middle,JONATHAN LE,26,304103120,8,6,16,44.0069
+97th,Berkeley Prep,Gates Lucas,25,405002730,7,3,20,43.5833
+98th,Lincoln,Austin Shaeffer,25,109022520,8,7,15,43.5833
+99th,Atlantic High School,Poonam Patel,24,597005630,8,8,14,43.1598
+100th,Berkeley Prep,Zack Bandes,24,405001630,9,12,9,43.1598
+101st,Cypress Bay,Alex Sugarman,23,588003230,8,9,13,42.7363
+102nd,Seminole (Seminole),MARIA CASTANO,22,341001820,6,2,22,42.3127
+103rd,Seminole (Seminole),AVEEK KAPAT,22,341001920,7,6,17,42.3127
+104th,Ronald Reagan H. S.,Gianfranco Colombi,22,527000030,8,10,12,42.3127
+105th,Stoneman Douglas,ALANA VILLANUEVA,21,532000920,8,11,11,41.8892
+106th,Cobb,Sherman Wilhelm,21,166005820,7,7,16,41.8892
+107th,Seminole (Seminole),RIKHIL AMIN,21,341001520,7,7,16,41.8892
+108th,Jackson Heights Middle,AMANDA HESTON,20,304101420,6,4,20,41.4657
+109th,Berkeley Prep,Monica Kundra,19,405000420,7,9,14,41.0421
+110th,Seminole (Seminole),SAMEER JAGANI,19,341001620,7,9,14,41.0421
+111th,Markham Woods Middle,Madeline Kewley,19,323101820,7,9,14,41.0421
+112th,Seminole (Seminole),DAPHNE JACOBS,19,341001020,6,5,19,41.0421
+113th,Lincoln,Adithi Vemuri,18,109011830,6,6,18,40.6186
+114th,Stoneman Douglas,NATASHA GARCIA,17,532000120,8,15,7,40.1951
+115th,Berkeley Prep,Will Watson,17,405001320,7,11,12,40.1951
+116th,Berkeley Prep,Tatianna Padmanabhan,17,405000920,6,7,17,40.1951
+117th,Berkeley Prep,Akshay Matthews,16,405000720,7,12,11,39.7715
+118th,Lawton Chiles High School,Elizabeth Lee,15,181001530,5,5,20,39.3480
+119th,Oviedo,Colton Jaqueth,13,377000730,6,11,13,38.5009
+120th,Lincoln,Megan Konyndyk,13,109033330,7,15,8,38.5009
+121st,Lincoln,Stephanie Hong,12,109069630,7,16,7,38.0774
+122nd,Lake Mary,Matthew Bahr,11,308001230,5,9,16,37.6539
+123rd,Sebastian River,Jonathan Alerte,11,314001430,6,13,11,37.6539
+124th,Seminole (Seminole),CATHERINE PHAN,11,341002230,5,9,16,37.6539
+125th,American Heritage (Plantation),colin travers,8,506002130,6,16,8,36.3833
+126th,Ferguson,ANDRES SCHMOIS,7,507004130,5,13,12,35.9597
+127th,Stoneman Douglas,ADAM WEISS,7,532001020,4,9,17,35.9597
+128th,Atlantic High School,Sabrina Ahuja,6,597000230,3,6,21,35.5362
+129th,Markham Woods Middle,Aviel Yashar,6,323102520,5,14,11,35.5362
+130th,Sebastian River,Nicole Wheeler,5,314001820,7,23,0,35.1127
+131st,Stoneman Douglas,DANA STEEL,4,532000520,5,16,9,34.6892
+132nd,Middleton,Rachel Michehl,3,468003130,6,21,3,34.2656
+133rd,Seminole (Seminole),RADHIA KADAKIA,-4,341001320,1,8,21,31.3009

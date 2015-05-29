@@ -1,0 +1,69 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Rickards High School,Ian Pitts,115,140002130,29,1,0,74.6032
+2nd,Lawton Chiles High School,Wayne Zhao,105,181003930,27,3,0,71.2410
+3rd,Buchholz,Tony Zeng,103,295005120,26,1,3,70.5686
+4th,American Heritage (Plantation),Bradley Snider,96,506006430,24,0,6,68.2151
+5th,Palm Harbor Univ,Zhicheng Qiao,96,413016130,25,4,1,68.2151
+6th,Buchholz,Jukyung Choi,91,295001020,23,1,6,66.5340
+7th,Rickards High School,Ran Ju,86,140004830,23,6,1,64.8529
+8th,Cypress Bay,Yuan Xiu,83,588001630,21,1,8,63.8443
+9th,Seminole (Seminole),ALI.MUSA JAFFER,82,341000330,22,6,2,63.5080
+10th,Buchholz,Davis Foote,77,295001320,20,3,7,61.8269
+11th,Berkeley Prep,Bekka DePew,70,405002630,18,2,10,59.4734
+12th,Community Sch Naples,Jeremy Price,69,562002430,18,3,9,59.1372
+13th,Vero Beach,SAMI HASHMI,68,372004730,17,0,13,58.8010
+14th,Lawton Chiles High School,Elizabeth Wang,66,181003530,17,2,11,58.1286
+15th,King,Eric Chao,64,435000631,17,4,9,57.4561
+16th,Seminole (Seminole),PHONG NGUYEN,64,341001130,16,0,14,57.4561
+17th,Miami Springs,JOHN MAYO,63,582001630,17,5,8,57.1199
+18th,Vero Beach,EMILY ASTROM,62,372009330,16,2,12,56.7837
+19th,Lawton Chiles High School,Grace Ying,61,181003730,16,3,11,56.4475
+20th,Freedom (Tampa),Alex Coleman,59,466000831,15,1,14,55.7750
+21st,Lawton Chiles High School,Ginger Yu,58,181003830,15,2,13,55.4388
+22nd,Community Sch Naples,Patrick Moran,56,562005430,16,8,6,54.7664
+23rd,Eastside,Henry Cole,56,280000031,15,4,11,54.7664
+24th,Naples,Rich Krapf,54,545005730,14,2,14,54.0939
+25th,Eastside,Jennifer Le,49,280001131,13,3,14,52.4129
+26th,Stoneman Douglas,VICTOR MIAO,48,532000030,13,4,13,52.0766
+27th,Lincoln,Sherman Wilhelm,47,109020131,13,5,12,51.7404
+28th,Miami Springs,GERARDO CARRANZA,45,582000630,12,3,15,51.0680
+29th,Fort Myers,Alex Garcia,44,423000130,12,4,14,50.7318
+30th,Cypress Bay,Andrew Pearl,43,588002330,12,5,13,50.3956
+31st,Hillsborough,HAOYUN CAO,41,428030330,12,7,11,49.7231
+32nd,St Edward's,KYLE ALDRICH,39,374030130,13,13,4,49.0507
+33rd,American Heritage (Plantation),Harrison Miller,37,506000730,11,7,12,48.3782
+34th,Middleton,Daniel Viveiros,34,468001530,10,6,14,47.3696
+35th,Berkeley Prep,Will Watson,34,405004530,9,2,19,47.3696
+36th,Miramar H. S.,Somya Sha,33,503000830,9,3,18,47.0334
+37th,Shorecrest Prep,Luke Nunnelly,32,451001230,9,4,17,46.6972
+38th,Oviedo,Mitchell Calloway,30,377001230,8,2,20,46.0247
+39th,Community Sch Naples,Colette Rackleff,30,562005130,8,2,20,46.0247
+40th,Cape Coral High School,KILLIAN MUOLLO,28,418000231,8,4,18,45.3523
+41st,St Edward's,ETHAN KLEIN,28,374030830,8,4,18,45.3523
+42nd,Berkeley Prep,Derek Cohen,26,405002430,7,2,21,44.6799
+43rd,Vero Beach,SAMUEL MCCOY,25,372010430,7,3,20,44.3436
+44th,Cypress Bay,Jose Torres,25,588003230,7,3,20,44.3436
+45th,Eastside,Michael Kim,24,280000931,7,4,19,44.0074
+46th,RANSOM EVERGLADES,Max Grad,23,519002820,7,5,18,43.6712
+47th,Fort Myers,Cory French,23,423001430,6,1,23,43.6712
+48th,Golden Gate High,Guadalupe Lopez,22,560000330,9,14,7,43.3350
+49th,Deerfield Beach,RAQUEL BENSADOUN,21,577004830,6,3,21,42.9988
+50th,Berkeley Prep,Monica Kundra,18,405003330,5,2,23,41.9901
+51st,Spruce Creek,Bailey McCormick,18,267011930,5,2,23,41.9901
+52nd,Stoneman Douglas,EDWARD VOOR,18,532000730,5,2,23,41.9901
+53rd,Naples,Stephen Childs,18,545005130,5,2,23,41.9901
+54th,Gaither High School,Alexander Auto,16,426000331,4,0,26,41.3177
+55th,Suncoast Comm,Hassan Mohaideen,16,327008930,5,4,21,41.3177
+56th,Berkeley Prep,Shaun Majumdar,16,405003430,4,0,26,41.3177
+57th,St Edward's,SASHA BENINCASA,15,374030230,5,5,20,40.9815
+58th,Lincoln,Savannah Pierce,12,109091731,3,0,27,39.9728
+59th,Naples,Courtney Kramer,12,545005630,5,8,17,39.9728
+60th,Matanzas H. S.,PATRICK UZCATEGUI,9,228001631,3,3,24,38.9642
+61st,Middleton,Rahul Sirigiri,7,468000930,2,1,27,38.2917
+62nd,Miami Springs,ASHLEY BRODHEAD,7,582000430,3,5,22,38.2917
+63rd,Miami Sunset,CHAN LIAN,6,544003630,4,10,16,37.9555
+64th,Hagerty High School,Dean Edun,6,310001830,3,6,21,37.9555
+65th,Naples,Peter Yanson,5,545007430,3,7,20,37.6193
+66th,Golden Gate High,Xiomara Brioso,4,560001030,2,4,24,37.2831
+67th,Spruce Creek,Ellen Boener,4,267010020,2,4,24,37.2831
+68th,Ferguson,MARIA FLOREZ,2,507025130,1,2,27,36.6106

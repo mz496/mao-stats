@@ -1,0 +1,64 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,James Tan,107,295001850,27,1,2,73.1280
+2nd,American Heritage (Plantation),Aaron Brookner,96,506002850,25,4,1,69.1450
+3rd,Spruce Creek,David Weinberg,90,267020250,23,2,5,66.9724
+4th,Stoneman Douglas,MAX ROTHSTEIN,87,532021550,22,1,7,65.8861
+5th,Freedom (Tampa),Thomas Dombrowski,85,466001451,22,3,5,65.1619
+6th,Rickards High School,Eli Ross,85,140004451,23,7,0,65.1619
+7th,Lincoln,Jitesh Kuntawala,84,109061251,22,4,4,64.7998
+8th,Community Sch Naples,Jiaqi Li,80,562002850,22,8,0,63.3515
+9th,Buchholz,daniel steffee,80,295000250,21,4,5,63.3515
+10th,Seminole (Seminole),NICHOLAS MILLER,76,341017350,20,4,6,61.9031
+11th,Berkeley Prep,Barry Brudny,75,405004850,20,5,5,61.5410
+12th,Spruce Creek,Matthew Kindy,74,267018050,19,2,9,61.1789
+13th,Suncoast Comm,Jennifer Tilton,73,327007450,20,7,3,60.8168
+14th,Lawton Chiles High School,Jack Findley,70,181007450,19,6,5,59.7305
+15th,Cape Coral High School,ESTEBAN GONZALEZ,65,418001251,17,3,10,57.9201
+16th,Cypress Bay,Santiago Vargas,62,588005650,17,6,7,56.8338
+17th,Miami Palmetto,Forrest Voight,61,541002850,17,7,6,56.4717
+18th,Durant,Craig Bearsion,59,475003451,16,5,9,55.7475
+19th,Middleton,Katie Gertz,56,468000250,15,4,11,54.6612
+20th,King,Peter Kim,54,435008251,14,2,14,53.9370
+21st,Deerfield Beach,JAVAUGHN LAWRENCE,54,577001650,15,6,9,53.9370
+22nd,Eastside,Michael Cho,53,280002951,16,11,3,53.5750
+23rd,Cypress Bay,Brandon Allen,50,588006050,13,2,15,52.4887
+24th,Miami Palmetto,Erica Michelson,46,541011750,13,6,11,51.0403
+25th,Deerfield Beach,Abbey Bethel,45,577005650,15,15,0,50.6782
+26th,Rickards High School,Bishoy Ameen,45,140002551,13,7,10,50.6782
+27th,Rickards High School,Patrick Lu,45,140000351,15,15,0,50.6782
+28th,Miami Springs,ALEJANDRO FERNANDEZ,44,582000950,12,4,14,50.3161
+29th,Ronald Reagan H. S.,Alejandro Garcia,44,527000150,13,8,9,50.3161
+30th,Suncoast Comm,Drew Harris,43,327003550,12,5,13,49.9540
+31st,Deerfield Beach,DEVAN PATEL,42,577002350,13,10,7,49.5919
+32nd,Miami Sunset,ALEXIS LUDENA,40,544002050,12,8,10,48.8677
+33rd,Ferguson,AIDAN ZABALO,39,507005850,10,1,19,48.5056
+34th,Palm Harbor Univ,Jeremy Sparks,38,413018350,13,14,3,48.1436
+35th,Canterbury (Lee),Matthew Feiock,37,411003150,10,3,17,47.7815
+36th,Hagerty High School,Casey Barker,35,310000650,9,1,20,47.0573
+37th,Suncoast Comm,Stephen Horgan,35,327004050,13,17,0,47.0573
+38th,Palm Harbor Univ,Ambika Anand,35,413000650,13,17,0,47.0573
+39th,RANSOM EVERGLADES,Anthony Angueira,34,519001950,9,2,19,46.6952
+40th,Ferguson,VITOR MARTINS,32,507002350,9,4,17,45.9710
+41st,Lake Mary,Austin Reed,26,308008250,8,6,16,43.7984
+42nd,Deerfield Beach,MAURICIO VILLA,25,577003350,11,19,0,43.4363
+43rd,Rickards High School,Esha Atolia,25,140001351,11,19,0,43.4363
+44th,Gaither High School,Anthony Quartararo,24,426005951,7,4,19,43.0742
+45th,Palm Harbor Univ,Samantha Griffith,24,413006650,9,12,9,43.0742
+46th,Miami Palmetto,Sergio Williams,21,541003150,7,7,16,41.9880
+47th,Naples,Carlos Calixtro,21,545000850,10,19,1,41.9880
+48th,Deerfield Beach,PAULA PLUCHINO,20,577002550,10,20,0,41.6259
+49th,St Edward's,JARRED SPEAR,20,374051150,10,20,0,41.6259
+50th,Seminole (Seminole),BRANDON LEW,20,341009350,10,20,0,41.6259
+51st,Flanagan,Jaynee Hart,19,591001051,6,5,19,41.2638
+52nd,Vero Beach,DEVON MINICH,18,372000050,8,14,8,40.9017
+53rd,Miami Springs,YESENIA RAMIREZ,15,582001950,5,5,20,39.8154
+54th,Rickards High School,Rachel Niu,15,140001851,6,9,15,39.8154
+55th,Palm Harbor Univ,Sankar Kannusamy,15,413009550,9,21,0,39.8154
+56th,Lawton Chiles High School,Shuyao Zhang,11,181010050,7,17,6,38.3670
+57th,Deerfield Beach,Colleen Baublitz,10,577005550,3,2,25,38.0049
+58th,Seminole (Seminole),KATHERINE KNOX,10,341009750,8,22,0,38.0049
+59th,Seminole (Seminole),SAMANTHA PHAN,8,341004550,5,12,13,37.2808
+60th,Freedom (Tampa),Hannah Ferrall,7,466001751,7,21,2,36.9187
+61st,West Broward High School,Brittany Creary,5,534002150,7,23,0,36.1945
+62nd,Suncoast Comm,Marissa Ullman,3,327007750,3,9,18,35.4703
+63rd,Deerfield Beach,SEAN MOYA,0,577002050,6,24,0,34.3840

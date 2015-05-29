@@ -1,0 +1,125 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Jason Chen,120,295001731,30,0,0,69.8974
+2nd,Lincoln Middle,Caroline Chu,115,201100030,29,1,0,68.3463
+3rd,Lincoln Middle,Steven Li,115,201100131,29,1,0,68.3463
+4th,Seminole (Seminole),TIMOTHY VU,115,341001731,29,1,0,68.3463
+5th,Buchholz,Bobby Wong,112,295001932,28,0,2,67.4156
+6th,Seminole (Seminole),ANDREW DELGADILLO,110,341000331,28,2,0,66.7951
+7th,Seminole (Seminole),RAVEENA PATEL,110,341001331,28,2,0,66.7951
+8th,Sanford Middle,Jonathan Sepulvada,110,344105131,28,2,0,66.7951
+9th,Buchholz,Chris Campo,107,295000831,27,1,2,65.8644
+10th,Buchholz,Otto Piramuthu,106,295002131,27,2,1,65.5542
+11th,Seminole (Seminole),KEVIN ZHAI,105,341001931,27,3,0,65.2439
+12th,Lincoln Middle,Sidhika Balachandar,101,201100732,26,3,1,64.0030
+13th,Lincoln Middle,Claire Tseng,101,201100832,26,3,1,64.0030
+14th,Hagerty High School,Justin Wong,101,310001531,26,3,1,64.0030
+15th,Seminole (Seminole),AARON ZHANG,101,341002032,26,3,1,64.0030
+16th,Buchholz,David Geering,101,295001331,26,3,1,64.0030
+17th,Kanapaha Middle School,Jenny Baik,98,209101431,25,2,3,63.0723
+18th,Westwood Middle,Gracie Douglas,97,212000031,25,3,2,62.7621
+19th,Lincoln Middle,Arjun Panicker,96,201100332,25,4,1,62.4518
+20th,Buchholz,Leon Shi,96,295005132,25,4,1,62.4518
+21st,Stanton College Preparatory School,Kishan Patel,96,296000831,25,4,1,62.4518
+22nd,Seminole (Seminole),KEEJIN YOON,96,341001832,25,4,1,62.4518
+23rd,Seminole (Seminole),MEERA SUNDAR,95,341001530,25,5,0,62.1416
+24th,Lincoln Middle,Ben Nagoshi,92,201101531,24,4,2,61.2109
+25th,Stanton College Preparatory School,Min Kim,89,296001131,23,3,4,60.2802
+26th,Kanapaha Middle School,Joseph Hardin,88,209101531,23,4,3,59.9700
+27th,West Shore,Melinda Silaghi,87,393006631,22,1,7,59.6597
+28th,Lincoln Middle,Ike Gugel,86,201101930,23,6,1,59.3495
+29th,Saint Edward's School,NISHANTH CHALASANI,86,374010331,22,2,6,59.3495
+30th,Lincoln Middle,Bradley Kim,85,201103831,22,3,5,59.0393
+31st,Vero Beach,JACOB HOEKZEMA,84,372003631,22,4,4,58.7290
+32nd,Lake Mary,Dhruv Dadhania,78,308005931,21,6,3,56.8677
+33rd,Stanton College Preparatory School,David Shi,77,296007731,20,3,7,56.5574
+34th,Stanton College Preparatory School,Sarinda Samarasinghe,76,296002731,20,4,6,56.2472
+35th,Stanton College Preparatory School,Srajat Rastogi,75,296002332,20,5,5,55.9370
+36th,Stanton College Preparatory School,Milind Mishra,73,296001732,19,3,8,55.3165
+37th,Buchholz,Tommy Huber,72,295001030,19,4,7,55.0063
+38th,Seminole (Seminole),JOEL KRATT,71,341000730,19,5,6,54.6960
+39th,Seminole (Seminole),JOEL ZISHUK,70,341002132,19,6,5,54.3858
+40th,West Shore,Nicholas Sutton,70,393000031,19,6,5,54.3858
+41st,Stanton College Preparatory School,Rohan Varshney,69,296003632,18,3,9,54.0756
+42nd,Vero Beach,ALEX POLGE,68,372006831,18,4,8,53.7653
+43rd,Buchholz,Sunny Baik,68,295001432,18,4,8,53.7653
+44th,Seminole (Seminole),TARA NIBHANUPUDY,66,341001230,18,6,6,53.1449
+45th,West Shore,Neill Johnston,66,393006131,17,2,11,53.1449
+46th,Saint Edward's School,DAVID STORK,66,374011031,18,6,6,53.1449
+47th,Eastside,Hyun-Jun Lee,66,280004131,18,6,6,53.1449
+48th,West Shore,Austin Camps,65,393000132,18,7,5,52.8346
+49th,Hagerty High School,Pranav Sharma,64,310001731,17,4,9,52.5244
+50th,Hagerty High School,Alexander Adams,64,310002732,16,0,14,52.5244
+51st,Saint Edward's School,Jeffery Bi,63,374001732,17,5,8,52.2142
+52nd,Lincoln Middle,Qing Lu,62,201101332,18,10,2,51.9039
+53rd,Saint Edward's School,KISHORE CHUNDI,62,374010431,17,6,7,51.9039
+54th,Seminole (Seminole),VARUN NAGA,60,341001132,17,8,5,51.2835
+55th,Hagerty High School,Guerin Frei,58,310000531,16,6,8,50.6630
+56th,Nease High School,Ava Hampton,57,290003331,15,3,12,50.3528
+57th,Seminole (Seminole),SANTIAGO CLAVIJO-GOMEZ,56,341000230,16,8,6,50.0425
+58th,Nease High School,Michael Leisle,55,290003530,14,1,15,49.7323
+59th,Nease High School,Jared Plotkin,54,290003931,14,2,14,49.4221
+60th,Eastside,Alexandra Ro,53,280002531,14,3,13,49.1118
+61st,Seminole (Seminole),YAKUMO ISHIGAKI,53,341010830,16,11,3,49.1118
+62nd,Seminole (Seminole),LINDSAY MARTIN,52,341001030,13,0,17,48.8016
+63rd,Orlando Science Middle Charter School,Thomas Shea,52,348101031,16,12,2,48.8016
+64th,Orlando Science Charter  High School,Ahmed Rashid,52,348001131,14,4,12,48.8016
+65th,Stanton College Preparatory School,Sam Goldstein,51,296008432,13,1,16,48.4914
+66th,Seminole (Seminole),JONATHAN HEFLEY,51,341000530,14,5,11,48.4914
+67th,Vero Beach,JOSHUA TUCKER,51,372006331,13,1,16,48.4914
+68th,Nease High School,Jay Kura,51,290003432,13,1,16,48.4914
+69th,Hagerty High School,Jordan Miller,48,310001132,14,8,8,47.5607
+70th,Eastside,Hannah Famador,48,280001031,13,4,13,47.5607
+71st,Winter Springs,Samantha Berg,45,395007831,15,15,0,46.6300
+72nd,Hagerty High School,Vayda Barker,41,310001432,11,3,16,45.3890
+73rd,West Shore,Arick Lim,41,393004730,11,3,16,45.3890
+74th,Sebastian River,sam keiffer,41,314002531,13,11,6,45.3890
+75th,Lyman High School,Samantha Arguello,41,351001531,11,3,16,45.3890
+76th,West Shore,Juan Rodriguez,40,393005232,11,4,15,45.0788
+77th,Lake Howell,John McCombs,40,391010430,14,16,0,45.0788
+78th,Vero Beach,EMILY MCCAIN,39,372005531,11,5,14,44.7686
+79th,Saint Edward's School,BEN STORK,39,374010931,11,5,14,44.7686
+80th,Lake Mary,Ethan Goldsmith,37,308001431,13,15,2,44.1481
+81st,Seminole (Seminole),TRISHNA KHATRI,37,341000630,10,3,17,44.1481
+82nd,Hagerty High School,Zachary Weishampel,36,310000731,10,4,16,43.8379
+83rd,Nease High School,Evan Osterbur,35,290003732,10,5,15,43.5276
+84th,West Shore,Nick Pekmezian,33,393005131,9,3,18,42.9072
+85th,Lake Howell,Jessica Brown,32,391010231,10,8,12,42.5969
+86th,Seminole (Seminole),CHARISMA NGUYEN,32,341008830,9,4,17,42.5969
+87th,Lake Mary,Luke Stumpf,32,308002731,9,4,17,42.5969
+88th,Vero Beach,CHLOE SCHLITT,31,372006132,8,1,21,42.2867
+89th,Flagler Palm Coast High School,Elizabeth Mason,31,221003131,9,5,16,42.2867
+90th,Vero Beach,RYAN NIEDZ,31,372005932,9,5,16,42.2867
+91st,Seminole (Seminole),MATTHEW DUAZO,30,341000430,8,2,20,41.9765
+92nd,West Shore,River Grace,30,393000332,9,6,15,41.9765
+93rd,Seminole (Seminole),JOHL KAPIL,29,341009730,8,3,19,41.6662
+94th,Nease High School,Tanvi Padalkar,28,290003832,8,4,18,41.3560
+95th,Crooms Academy,Ryan Mackler,27,368601431,8,5,17,41.0458
+96th,Vero Beach,MIGUEL VALLEJO,26,372006432,7,2,21,40.7355
+97th,Seminole (Seminole),GRACE YAO,25,341011330,7,3,20,40.4253
+98th,Crooms Academy,Oscar Guerrero,25,368602031,7,3,20,40.4253
+99th,West Shore,Nina Fusco,25,393006432,7,3,20,40.4253
+100th,Leesburg High School,Emilie Palmer,25,287002331,11,19,0,40.4253
+101st,Lyman High School,Sadezia Ulcena,25,351003951,11,19,0,40.4253
+102nd,Lake Howell,Noah Michaud,24,391010531,10,16,4,40.1151
+103rd,Sebastian River,katrina nilsson,24,314002131,7,4,19,40.1151
+104th,Crooms Academy,Milton Zhang,23,368603031,7,5,18,39.8049
+105th,Seminole (Seminole),SHELBY RESNICK,23,341001430,6,1,23,39.8049
+106th,Flagler Palm Coast High School,Ally Erickson,22,221000231,6,2,22,39.4946
+107th,Lake Howell,Stephen Lawrence,21,391010331,8,11,11,39.1844
+108th,Lake Mary,Sahil Bhikha,20,308002031,7,8,15,38.8742
+109th,Lake Mary Preparatory School,Kulsoom Nemazi,20,304001731,8,12,10,38.8742
+110th,Crooms Academy,Meena Fathi,19,368601331,6,5,19,38.5639
+111th,Sebastian River,ciara golliher,18,314001031,6,6,18,38.2537
+112th,Eastside,Lisa Kurian,16,280001632,5,4,21,37.6332
+113th,Sebastian River,shayla macias,16,314001131,6,8,16,37.6332
+114th,Flagler Palm Coast High School,Marcel Baldassarri,15,221005631,5,5,20,37.3230
+115th,Flagler Palm Coast High School,Ethan Christensen,15,221005731,5,5,20,37.3230
+116th,Lake Mary Preparatory School,Adrian Konstantinov,15,304000431,6,9,15,37.3230
+117th,Lake Mary Preparatory School,Ashley Meadows,15,304002531,6,9,15,37.3230
+118th,Lake Howell,Mandy BarclayPollard,15,391010131,9,21,0,37.3230
+119th,Freedom (Orlando),Jordan Hansel,14,381005631,6,10,14,37.0128
+120th,West Shore,Zoe Wiles,13,393006530,5,7,18,36.7025
+121st,Lake Mary Preparatory School,Mumtaz Abdulhussein,12,304001231,4,4,22,36.3923
+122nd,Seminole (Seminole),ISWARYA CHIGURUPATI,11,341009830,5,9,16,36.0821
+123rd,Eastside,Samantha Hackett,7,280001331,2,1,27,34.8411
+124th,Lake Brantley,Darianna Samson,6,388005430,4,10,16,34.5309

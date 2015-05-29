@@ -1,0 +1,64 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Bryan Li,115,2953122,29,1,0,73.2119
+2nd,Buchholz,Jackson Looney,110,2953123,28,2,0,71.5889
+3rd,Buchholz,David Bai,105,7953115,27,3,0,69.9659
+4th,Bolles,Xiaotong Zhao,101,2523112,26,3,1,68.6674
+5th,Buchholz,Alexander Sappington,100,2953125,26,4,0,68.3428
+6th,Lincoln Middle,Ajit Vakharia,98,2013122,25,2,3,67.6936
+7th,Buchholz,Grace Kim,97,2953120,25,3,2,67.3690
+8th,Buchholz,Ming Cao,91,7953116,24,5,1,65.4214
+9th,Lincoln Middle,Jason Kim,89,2013121,23,3,4,64.7722
+10th,Buchholz,Emily Shroads,87,7953126,23,5,2,64.1230
+11th,Bolles,Sienna Liu,79,2523110,21,5,4,61.5261
+12th,Buchholz,Maddie Upthegrove,76,7953129,21,8,1,60.5523
+13th,Stanton College Prep,wilson  yeung,71,7963116,19,5,6,58.9292
+14th,Fort Clarke,SUNG TAE LEE,70,2033101,20,10,0,58.6046
+15th,Stanton College Prep,christopher  cruise,65,7963118,18,7,5,56.9816
+16th,Buchholz,June Huang,62,2953318,17,6,7,56.0078
+17th,Stanton College Prep,joseph  bolling,61,2963114,16,3,11,55.6832
+18th,Buchholz,Paul Park,58,2953324,16,6,8,54.7094
+19th,Lincoln Middle,Zadia Dupee,56,2013127,16,8,6,54.0602
+20th,Lincoln Middle,YuXiang Zhang,52,2013123,15,8,7,52.7617
+21st,Fort Clarke,HUISUB YOON,51,2033102,15,9,6,52.4371
+22nd,Stanton College Prep,rick  shaffer,51,7963180,14,5,11,52.4371
+23rd,Stanton College Prep,kevin  lu,49,2963320,13,3,14,51.7879
+24th,Buchholz,George Tedder,48,2953328,14,8,8,51.4633
+25th,Leesburg High School,MADISON CONNER,45,2873106,15,15,0,50.4895
+26th,Buchholz,Yu-Hak Choi,42,2953317,13,10,7,49.5157
+27th,Stanton College Prep,victoria  shami,42,2963113,12,6,12,49.5157
+28th,Stanton College Prep,dileep  karri,38,7963121,11,6,13,48.2172
+29th,Fleming Island High,Rachael Ford,38,2203106,11,6,13,48.2172
+30th,Spruce Creek,Mia Choi,36,2673124,11,8,11,47.5680
+31st,Oak Hall,GABRIEL MOLINA,35,2493175,10,5,15,47.2434
+32nd,Stanton College Prep,garima  gupta,35,2963111,10,5,15,47.2434
+33rd,Oak Hall,KATHERINE MIN,34,2493177,10,6,14,46.9188
+34th,Spruce Creek,Chris Raines,34,7673113,10,6,14,46.9188
+35th,Stanton College Prep,ariel  burnett,33,2963124,9,3,18,46.5942
+36th,Stanton College Prep,marc  lozano,33,2963315,9,3,18,46.5942
+37th,Stanton College Prep,mayank  gupta,32,2963312,10,8,12,46.2696
+38th,Spruce Creek,Matthew Pollock,32,2673129,11,12,7,46.2696
+39th,Buchholz,Joe Lee,31,2953321,10,9,11,45.9450
+40th,Oak Hall,APURV SUMAN,30,2493166,8,2,20,45.6204
+41st,Spruce Creek,Philly Tang,29,2673333,8,3,19,45.2958
+42nd,Spruce Creek,Hannah Masters,28,7673107,9,8,13,44.9712
+43rd,Stanton College Prep,tatini  gandham,26,2963319,9,10,11,44.3220
+44th,Oak Hall,JOHN PERLETTE,25,7493173,9,11,10,43.9974
+45th,Eastside,Susan Phan,20,2803119,10,20,0,42.3743
+46th,Spruce Creek,Sarah Elsakr,19,2673125,6,5,19,42.0497
+47th,Fleming Island High,Amelia Butler,17,2203104,6,7,17,41.4005
+48th,Eastside,Susan Su,17,2803123,6,7,17,41.4005
+49th,Eastside,Diana Petrukhina,17,2803117,6,7,17,41.4005
+50th,Stanton College Prep,gauthami  balagopal,16,2963325,5,4,21,41.0759
+51st,Spruce Creek,Auree Postell,15,2673130,5,5,20,40.7513
+52nd,Matanzas H. S.,SABRINA MAMO,14,2283105,5,6,19,40.4267
+53rd,Spruce Creek,Alex LeRoux,14,7673126,5,6,19,40.4267
+54th,Stanton College Prep,sajan  patel,13,2963317,5,7,18,40.1021
+55th,Eastside,Thomas Samant,13,2803120,6,11,13,40.1021
+56th,Stanton College Prep,dung  nguyen,12,2963323,5,8,17,39.7775
+57th,Leesburg High School,JESSICA ROBERTS,10,2873108,8,22,0,39.1283
+58th,Leesburg High School,MARY MILLER,9,2873107,5,11,14,38.8037
+59th,Spruce Creek,Kelsey Bowles,7,7673123,3,5,22,38.1544
+60th,Fleming Island High,Jonathan Dang,5,2203105,3,7,20,37.5052
+61st,Oak Hall,MARIA KORAH,3,7493174,2,5,23,36.8560
+62nd,Oak Hall,ALVIN WANG,1,2493190,6,23,1,36.2068
+63rd,Fleming Island High,Rachael Ford,-2,2203106,1,6,23,35.2330

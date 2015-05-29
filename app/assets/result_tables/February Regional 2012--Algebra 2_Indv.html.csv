@@ -1,0 +1,87 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Nicholas Klugman,115,295000731,29,1,0,71.1508
+2nd,Buchholz,Soomin Cho,115,295003231,29,1,0,71.1508
+3rd,Lincoln Middle,Lillian Zhu,111,201103731,28,1,1,70.0052
+4th,Buchholz,HauLin Wu,110,295004231,28,2,0,69.7188
+5th,Buchholz,Michael Wong,110,295004031,28,2,0,69.7188
+6th,Eastside,Jess Smith,102,280005031,26,2,2,67.4275
+7th,Lincoln Middle,Danielle Liu,102,201104031,26,2,2,67.4275
+8th,Lincoln Middle,Anand Rajan,101,201104132,26,3,1,67.1411
+9th,Lincoln Middle,Beverly Ge,101,201103431,26,3,1,67.1411
+10th,Lincoln Middle,Jonathan Fang,100,201103631,26,4,0,66.8547
+11th,Buchholz,Donghyun Yoon,100,295004332,26,4,0,66.8547
+12th,Buchholz,Spencer Douglas,98,295000132,25,2,3,66.2819
+13th,Stanton College Preparatory School,Taehwan Kwak,97,296002231,25,3,2,65.9955
+14th,Lincoln Middle,Sanika Subhash,81,201104232,22,7,1,61.4130
+15th,Buchholz,Junhao Wang,80,295004130,22,8,0,61.1266
+16th,Oak Hall,AMAN KABEER,79,249000231,21,5,4,60.8402
+17th,Buchholz,Eric Ye,78,295003832,21,6,3,60.5538
+18th,Stanton College Preparatory School,Robin Zeng,77,296002131,21,7,2,60.2674
+19th,Buchholz,Lisa Zhang,77,295003532,21,7,2,60.2674
+20th,Eastside,Shannon Liu,76,280004931,20,4,6,59.9809
+21st,Gainesville High School,Huck Rocca,73,268000431,19,3,8,59.1217
+22nd,Buchholz,Anand Vidyasagar,68,295003430,19,8,3,57.6897
+23rd,Buchholz,Jake Thompson,65,295003330,17,3,10,56.8305
+24th,Gainesville High School,Cameron Guy,57,268008131,16,7,7,54.5392
+25th,Nease High School,Alexander Short,51,290000331,15,9,6,52.8208
+26th,Spruce Creek,Kharina Guruvadoo,50,267005731,13,2,15,52.5344
+27th,Leesburg High School,Max Shen,46,287003731,12,2,16,51.3887
+28th,Eastside,Sarah Lulu,46,280005932,13,6,11,51.3887
+29th,Gainesville High School,Zachary Read,43,268004131,12,5,13,50.5295
+30th,Eastside,Jonathan Jacobs,43,280004731,13,9,8,50.5295
+31st,Fleming Island High,R. J. Norris,42,220000231,12,6,12,50.2431
+32nd,Nease High School,Justin Glinka,40,290000631,11,4,15,49.6703
+33rd,Oak Hall,GERARDO MOLINA,39,249002531,11,5,14,49.3839
+34th,Gainesville High School,Sadie DePeter,37,268003032,10,3,17,48.8111
+35th,Spruce Creek,Thomas Kenyon,36,267004131,10,4,16,48.5247
+36th,Spruce Creek,EunJi Lim,35,267006932,9,1,20,48.2383
+37th,Gainesville High School,Karen Tecler,35,268006332,10,5,15,48.2383
+38th,Gainesville High School,Abel Paguio,34,268008630,11,10,9,47.9519
+39th,Eastside,Gloria Kann,32,280004532,11,12,7,47.3790
+40th,Gainesville High School,Adam Barner,32,268013431,10,8,12,47.3790
+41st,Spruce Creek,Kristine Wong,31,267004531,8,1,21,47.0926
+42nd,Gainesville High School,Owen Thomas,31,268006030,10,9,11,47.0926
+43rd,Gainesville High School,Blake Victorian,29,268005630,9,7,14,46.5198
+44th,Gainesville High School,Ashley Brockway,27,268004832,8,5,17,45.9470
+45th,Gainesville High School,Sofia Eury,27,268003230,8,5,17,45.9470
+46th,Eastside,Alice Hou,27,280004631,9,9,12,45.9470
+47th,Oak Hall,ZAIN KABEER,26,249007331,9,10,11,45.6606
+48th,Gainesville High School,Beth Miles,25,268007230,11,19,0,45.3742
+49th,Eastside,Kate warren,25,280007132,7,3,20,45.3742
+50th,Gainesville High School,Matthew Powell,25,268008730,9,11,10,45.3742
+51st,Nease High School,Trevor Bernas,25,290000831,10,15,5,45.3742
+52nd,Fleming Island High,Hubert Bui,24,220000132,8,8,14,45.0878
+53rd,Gainesville High School,Sara Uman,23,268004032,7,5,18,44.8014
+54th,Fleming Island High,Troy Dentel,22,220001232,7,6,17,44.5150
+55th,Fleming Island High,Austin Stevens,22,220000331,8,10,12,44.5150
+56th,Oak Hall,NEAL PATEL,22,249003131,7,6,17,44.5150
+57th,Gainesville High School,Chaz Chester,21,268002630,7,7,16,44.2286
+58th,Gainesville High School,Delilah Allen,20,268003530,10,20,0,43.9422
+59th,Spruce Creek,Tala Saboungi,19,267004432,7,9,14,43.6558
+60th,Gainesville High School,Rebekah Dain,19,268005030,6,5,19,43.6558
+61st,Gainesville High School,Greg Robinson,19,268005830,7,9,14,43.6558
+62nd,Gainesville High School,Nick Mueller,18,268003330,7,10,13,43.3693
+63rd,Flagler Palm Coast,Brandan Eng,17,221002532,5,3,22,43.0829
+64th,Spruce Creek,Hailey Remigio,17,267004332,5,3,22,43.0829
+65th,Nease High School,Tyler Goldsmith,16,290000731,5,4,21,42.7965
+66th,Gainesville High School,Kelsey Watts,16,268001430,6,8,16,42.7965
+67th,Spruce Creek,Adele Pietras,15,267004231,5,5,20,42.5101
+68th,Fleming Island High,Brian Stokes,15,220000431,9,21,0,42.5101
+69th,Gainesville High School,Madison Weinberg,15,268001830,6,9,15,42.5101
+70th,Flagler Palm Coast,Carlos Espinoza,15,221000531,5,5,20,42.5101
+71st,Gainesville High School,Samuel Phillips,13,268000630,6,11,13,41.9373
+72nd,Flagler Palm Coast,Anna Skudarnova,11,221002731,4,5,21,41.3645
+73rd,Eastside,Thomas Poirier,11,280006732,7,17,6,41.3645
+74th,Gainesville High School,Erik Abernathy,11,268005330,4,5,21,41.3645
+75th,Flagler Palm Coast,Maha Muneer,10,221001231,4,6,20,41.0781
+76th,Gainesville High School,Jordan Moretta,10,268005930,5,10,15,41.0781
+77th,Flagler Palm Coast,Kimberly Pereira,8,221001431,4,8,18,40.5053
+78th,Stanton College Preparatory School,Selina Wang,6,296007131,3,6,21,39.9325
+79th,Fleming Island High,Zane Budzinski,5,220000031,4,11,15,39.6461
+80th,Gainesville High School,Rahmann Brown,3,268004230,3,9,18,39.0732
+81st,Spruce Creek,Sydney Volenec,3,267007732,2,5,23,39.0732
+82nd,Stanton College Preparatory School,Alex Chavez,1,296003731,5,19,6,38.5004
+83rd,Flagler Palm Coast,Autumn Sanson,0,221001632,2,8,20,38.2140
+84th,Gainesville High School,Jacob Yeboah,-4,268005430,1,8,21,37.0684
+85th,Gainesville High School,Delaney Sagul,-8,268003130,1,12,17,35.9228
+86th,Flagler Palm Coast,Hailey Cronk,-8,221000332,0,8,22,35.9228

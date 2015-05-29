@@ -1,0 +1,67 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,American Heritage (Plantation),Francisco Rivera,115,506006150,29,1,0,71.0676
+2nd,Rickards High School,Alex Yu,115,140003150,29,1,0,71.0676
+3rd,Buchholz,Kevin Huang,106,295004950,27,2,1,68.2798
+4th,Seminole (Seminole),KYLE GETTIG,106,341002850,27,2,1,68.2798
+5th,King,Haoqing Wang,105,435008650,27,3,0,67.9701
+6th,Berkeley Prep,Theo Diamandis,101,405000250,26,3,1,66.7311
+7th,Buchholz,Stephen Dolbier,97,295004650,25,3,2,65.4921
+8th,Seminole (Seminole),ELAINE LIN,90,341003650,24,6,0,63.3239
+9th,American Heritage (Plantation),Adam Wang,90,506002350,24,6,0,63.3239
+10th,Cypress Bay,Gonzalo Barreto,86,588001750,23,6,1,62.0849
+11th,Eastside,Yuxin Zhang,83,280006050,22,5,3,61.1556
+12th,Hagerty High School,Grant Elliot,79,310006850,21,5,4,59.9166
+13th,Lincoln,Justin Bartell,74,109001150,19,2,9,58.3679
+14th,Suncoast Comm,Joey Curti,70,327009350,18,2,10,57.1289
+15th,Spruce Creek,Oisin Harrington,70,267000750,18,2,10,57.1289
+16th,Tampa Bay Tech,Steven Paul,69,461000350,18,3,9,56.8191
+17th,Doral Academy High,Michael Perez,67,537500250,18,5,7,56.1997
+18th,Stoneman Douglas,VIVEK MIGLANI,62,532000150,16,2,12,54.6509
+19th,Deerfield Beach,Aarsh Trivedi,58,577000050,15,2,13,53.4119
+20th,Gainesville High School,Connor Davis,58,268006450,16,6,8,53.4119
+21st,Lawton Chiles High School,Brian Ahn,57,181002450,16,7,7,53.1022
+22nd,Community Sch Naples,Ivan Wang,56,562002550,17,12,1,52.7924
+23rd,Miami Palmetto,Alessandro Marchesini,56,541002950,15,4,11,52.7924
+24th,Ferguson,ABHINAV KOPPU,56,507006450,15,4,11,52.7924
+25th,Ferguson,NICHOLAS MORALES,54,507004650,15,6,9,52.1729
+26th,Fort Myers,Danial Zuberi,53,423002750,15,7,8,51.8632
+27th,Miami Springs,LEONARDO GUTIERREZ,53,582003350,15,7,8,51.8632
+28th,American Heritage - Boca/Delray,Guyi (Zoe) Zhou,51,526003450,14,5,11,51.2437
+29th,Cypress Bay,Kyle Tubman,48,588027050,14,8,8,50.3144
+30th,Hagerty High School,Jonghyun Lee,48,310001350,14,8,8,50.3144
+31st,Shorecrest Prep,Jackson Willis,46,451005450,14,10,6,49.6949
+32nd,Miami Palmetto,Benjamin Bao,45,541000450,15,15,0,49.3852
+33rd,Suncoast Comm,James Cardaman,45,327006950,15,15,0,49.3852
+34th,H. B. Plant,Cameron McKenzie,44,427050551,12,4,14,49.0754
+35th,Ferguson,JULIAN STRAKER,44,507003850,12,4,14,49.0754
+36th,Community Sch Naples,Pierce Gleeson,42,562001550,12,6,12,48.4560
+37th,Hillsborough,Chindu Mohanakumar,42,428040750,12,6,12,48.4560
+38th,Eastside,Anand Rajan,41,280004750,12,7,11,48.1462
+39th,Saint Andrew’s School,Sabastian Sadaka,40,566500150,11,4,15,47.8365
+40th,Palm Harbor Univ,Annie Luc,40,413010450,14,16,0,47.8365
+41st,Fort Myers,Janne Kahr,40,423003450,12,8,10,47.8365
+42nd,Belen Jesuit Prep,Adrian Alepuz,39,535002551,12,9,9,47.5267
+43rd,Fort Myers,Nick Gomez,37,423001050,13,15,2,46.9072
+44th,Vero Beach,GABRIELA PORTMANN,36,372001650,10,4,16,46.5975
+45th,Lawton Chiles High School,Wyatt Schroeder,34,181004850,10,6,14,45.9780
+46th,Ransom Everglades,Andrea Wenrich,29,519003050,8,3,19,44.4292
+47th,Miami Springs,DAVID PEREZ,23,582001750,6,1,23,42.5707
+48th,H. B. Plant,Vamsi Patwari,23,427050451,8,9,13,42.5707
+49th,Lawton Chiles High School,Anisha Sinha,21,181003550,6,3,21,41.9512
+50th,Berkeley Prep,Jay Majumdar,20,405005850,7,8,15,41.6415
+51st,Suncoast Comm,Anuradha Gulati,20,327008150,7,8,15,41.6415
+52nd,Lincoln,Brendan Schneider,19,109000850,7,9,14,41.3317
+53rd,Suncoast Comm,Brian Kelly,19,327003050,6,5,19,41.3317
+54th,American Heritage - Boca/Delray,Martin Jakos,17,526001750,5,3,22,40.7123
+55th,Coral Glades,Antonio Laracuente,15,528002950,9,21,0,40.0928
+56th,Cape Coral High School,Blaise Garfall,15,418003450,6,9,15,40.0928
+57th,Flagler Palm Coast High School,Forrest Mason,12,221021050,5,8,17,39.1635
+58th,American Heritage - Boca/Delray,Jiachen (Jessie) Ji,8,526007850,4,8,18,37.9245
+59th,Vero Beach,ALEXANDRIA HAGOOD,6,372000650,3,6,21,37.3050
+60th,Middleton,Ricky Hendel,6,468002460,5,14,11,37.3050
+61st,Vero Beach,DELANEY WILLSON,5,372001950,7,23,0,36.9953
+62nd,Vero Beach,J.J. WRIGHT,5,372002150,7,23,0,36.9953
+63rd,Vero Beach,GIORDANO BORDOLI,4,372000250,2,4,24,36.6855
+64th,Palmetto Ridge,Gabriel Pinto,2,518000950,1,2,27,36.0660
+65th,Gaither High School,Jonathan Sardja,-1,426000251,1,5,24,35.1368
+66th,Flagler Palm Coast High School,Tyler Jarnagin,-15,221002850,3,27,0,30.8003

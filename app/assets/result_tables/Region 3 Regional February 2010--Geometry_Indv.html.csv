@@ -1,0 +1,78 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Sanford Middle,Kyle Gettig,111,344103321,28,1,1,84.6768
+2nd,Sanford Middle,Neil Shah,90,344102721,24,6,0,75.7807
+3rd,Seminole (Seminole),ADAM JAFFER,81,341005521,22,7,1,71.9681
+4th,Sanford Middle,Satya Patel,80,344104022,22,8,0,71.5444
+5th,Markham Woods Middle,anthony chen,78,323101621,21,6,3,70.6972
+6th,Sanford Middle,Sunash Sharma,77,344105422,20,3,7,70.2735
+7th,St Edward's,DANIEL MULLEN,76,374010921,21,8,1,69.8499
+8th,Sanford Middle,Justin Raman,72,344104121,19,4,7,68.1554
+9th,Sanford Middle,Viraj Shah,63,344104320,18,9,3,64.3428
+10th,Gifford Middle School,Evan MacKay,60,309100921,17,8,5,63.0719
+11th,Indian Trails Middle School,REETI GULATI,54,375000120,16,10,4,60.5301
+12th,Sanford Middle,Diptodip Deb,46,344103222,13,6,11,57.1411
+13th,Markham Woods Middle,kristopher tolopka,43,323103021,12,5,13,55.8703
+14th,Sanford Middle,Helen Tolley,42,344104522,13,10,7,55.4466
+15th,Seminole (Seminole),ALEX OH,39,341005821,12,9,9,54.1757
+16th,Sanford Middle,Raymund Vista,38,344104621,12,10,8,53.7521
+17th,Jackson Heights Middle,PRERNA SHARMA,38,304100221,11,6,13,53.7521
+18th,Jackson Heights Middle,NATHAN ZHANG,37,304100121,12,11,7,53.3285
+19th,Sanford Middle,Sara Friend,36,344103020,10,4,16,52.9049
+20th,Jackson Heights Middle,RADHIA AZAD,36,304101121,12,12,6,52.9049
+21st,West Shore,Sarah Arends,34,393000921,9,2,19,52.0576
+22nd,Indian Trails Middle School, ,34,375011120,12,14,4,52.0576
+23rd,Seminole (Seminole),ROBERT BLAINE,33,341005621,11,11,8,51.6340
+24th,West Shore,Caleb Bryant,33,393001721,11,11,8,51.6340
+25th,Gifford Middle School,Ryan Zerega,33,309100821,11,11,8,51.6340
+26th,Markham Woods Middle,jessica fang,31,323101821,9,5,16,50.7867
+27th,Markham Woods Middle,shanpetriaya Adudu,30,323104122,9,6,15,50.3631
+28th,Bayside,Kelsey Tousignant,30,303000721,8,2,20,50.3631
+29th,Seabreeze High School,Paul Rice,28,255000021,8,4,18,49.5159
+30th,Lawton Chiles Middle School,Robby Burke,28,329100221,9,8,13,49.5159
+31st,West Shore,Emma Kalvan,28,393000621,9,8,13,49.5159
+32nd,Bayside,Melanie Bailey,28,303000021,9,8,13,49.5159
+33rd,Jackson Heights Middle,MARK VAINSHTEIN,27,304100321,8,5,17,49.0922
+34th,St Edward's,COLTON WARREN,26,374011621,9,10,11,48.6686
+35th,Jackson Heights Middle,ZACHARY SPIKES,26,304101422,10,14,6,48.6686
+36th,Jackson Heights Middle,LOGAN HUGHES,25,304102122,8,7,15,48.2450
+37th,Lyman High School,Laura Barros,24,351000121,8,8,14,47.8213
+38th,Sanford Middle,Marcellus Johnson,24,344105920,8,8,14,47.8213
+39th,Sanford Middle,Mahzain Malik,24,344103920,7,4,19,47.8213
+40th,Gifford Middle School,Shermeen Raza,24,309102221,9,12,9,47.8213
+41st,Sanford Middle,Kyle Cook,23,344103120,8,9,13,47.3977
+42nd,Sanford Middle,Calvin Yeung,23,344106420,8,9,13,47.3977
+43rd,Bayside,William Gordon,22,303000221,7,6,17,46.9741
+44th,Sanford Middle,Nina Kumar,22,344103620,8,10,12,46.9741
+45th,Markham Woods Middle,yui takahashi,22,323105821,9,14,7,46.9741
+46th,Seabreeze High School,Brian Wittenberg,22,255000122,9,14,7,46.9741
+47th,Seminole (Seminole),AAISHA SANAULLAH,21,341005220,7,7,16,46.5505
+48th,West Shore,Shelley Mitchell,20,393000521,7,8,15,46.1268
+49th,Suncoast Comm,Katerina Pattee,19,327008421,7,9,14,45.7032
+50th,Bayside,Austin Cavenaugh,19,303000121,6,5,19,45.7032
+51st,Sanford Middle,Aminha Ullah,18,344105820,7,10,13,45.2796
+52nd,Sanford Middle,Nadiya Nawsheen,18,344105720,8,14,8,45.2796
+53rd,St Edward's,ELLA MERRILL,17,374010821,5,3,22,44.8560
+54th,Seabreeze High School,Sommer Smith,17,255000221,5,3,22,44.8560
+55th,Seminole (Seminole),MICHELLE ZHONG,17,341006321,7,11,12,44.8560
+56th,Lawton Chiles Middle School,Stephanie Steedle,16,329100621,5,4,21,44.4323
+57th,Lawton Chiles Middle School,Evan Diatzikis,16,329100121,7,12,11,44.4323
+58th,Indian Trails Middle School,MATTHEW KOENIG,15,375003120,7,13,10,44.0087
+59th,Bayside,Joshua Schmidt,14,303000622,5,6,19,43.5851
+60th,Suncoast Comm,Lois Arasim,13,327008521,6,11,13,43.1615
+61st,Seabreeze High School,Corey Rodas,11,255000301,6,13,11,42.3142
+62nd,Sanford Middle,Swathi Konduri,11,344102820,7,17,6,42.3142
+63rd,St Edward's,ALI ORIAKU,10,374011122,5,10,15,41.8906
+64th,Suncoast Comm,Nicole Dan,10,327006721,4,6,20,41.8906
+65th,Suncoast Comm,Nathalie Canate,9,327009021,4,7,19,41.4670
+66th,Sanford Middle,Samiha Nazrul,9,344102320,6,15,9,41.4670
+67th,Jackson Heights Middle,GRACE LI,8,304100422,4,8,18,41.0433
+68th,Sanford Middle,Swara Desai,8,344105120,5,12,13,41.0433
+69th,Indian Trails Middle School,ALIA FAREED,8,375002120,6,16,8,41.0433
+70th,Sanford Middle,Shivani Mehta,7,344102420,5,13,12,40.6197
+71st,Sanford Middle,Bobek Manesh,7,344106620,4,9,17,40.6197
+72nd,Lyman High School,Jennie Yeo,2,351005921,5,18,7,38.5016
+73rd,St Edward's,JENNY KANE,2,374010522,3,10,17,38.5016
+74th,Jackson Heights Middle,PAVAN KHALSA,1,304100822,5,19,6,38.0779
+75th,St Edward's,WESLEY CAMPBELL,0,374010121,1,4,25,37.6543
+76th,Sanford Middle,Dalia Ghazall,0,344105020,2,8,20,37.6543
+77th,St Edward's,TIFFANY TEE,0,374011522,2,8,20,37.6543

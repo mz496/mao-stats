@@ -1,0 +1,83 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Vincent Mei,115,295004450,29,1,0,68.1862
+1st,Buchholz,Lisa Lu,115,295005550,29,1,0,68.1862
+3rd,Buchholz,Kevin Huang,115,295004951,29,1,0,68.1862
+3rd,Buchholz,Stephen Dolbier,115,295004651,29,1,0,68.1862
+5th,Buchholz,Michael Wong,111,295004050,28,1,1,67.1423
+6th,Buchholz,Zhao Li,111,295000352,28,1,1,67.1423
+7th,Buchholz,Nicholas Klugman,110,295000751,28,2,0,66.8813
+8th,Buchholz,Jason Ai,110,295004551,28,2,0,66.8813
+9th,Buchholz,Ben Wu,110,295000052,28,2,0,66.8813
+10th,Eastside,Yuxin Zhang,105,280006051,27,3,0,65.5763
+11th,Buchholz,Andreea Martin,101,295000950,26,3,1,64.5324
+12th,Buchholz,Vivian Zhu,101,295002750,26,3,1,64.5324
+13th,Eastside,Maxwell Curtis,100,280000951,26,4,0,64.2714
+14th,Buchholz,Minjia Zhong,98,295003050,25,2,3,63.7495
+15th,Gainesville High School,Connor Davis,98,268006451,25,2,3,63.7495
+16th,Gainesville High School,KJ McIver,93,268009451,24,3,3,62.4445
+17th,Buchholz,Josh chipman,91,295006352,24,5,1,61.9226
+18th,Oak Hall,ALAN LI,90,249000951,24,6,0,61.6616
+19th,Buchholz,David Hurst,90,295000252,24,6,0,61.6616
+20th,Buchholz,Andrew Fang,87,295002650,23,5,2,60.8786
+21st,Eastside,Wenli Zhao,85,280006351,22,3,5,60.3566
+22nd,Buchholz,Stephen SO,78,295005450,20,2,8,58.5298
+23rd,Oak Hall,AMAN KABEER,74,249000151,20,6,4,57.4858
+24th,Stanton College Preparatory School,Jeffrey Hung,63,296004451,17,5,8,54.6150
+25th,Nease High School,Farina Khandadia,60,290000451,16,4,10,53.8320
+26th,Stanton College Preparatory School,Baijun Desai,53,296007451,14,3,13,52.0051
+27th,Gainesville High School,Lucia Murphy,51,268008951,15,9,6,51.4832
+28th,Gainesville High School,Ethan Ellis,50,268012551,14,6,10,51.2222
+29th,Bolles,Quan Pham,46,252002651,13,6,11,50.1782
+30th,Eastside,Anand Rajan,44,280004751,14,12,4,49.6563
+31st,Oak Hall,GERARDO MOLINA,44,249000451,13,8,9,49.6563
+32nd,Oak Hall,NEAL PATEL,44,249000351,13,8,9,49.6563
+33rd,Nease High School,Aparna Sethumadhaven,44,290000752,12,4,14,49.6563
+34th,Nease High School,Christine Catania,42,290000152,13,10,7,49.1343
+35th,Fleming Island High,Victoria Sales,40,220003351,11,4,15,48.6123
+36th,Flagler Palm Coast High School,Benjamin Jones,37,221040151,11,7,12,47.8294
+37th,Stanton College Preparatory School,Alex Chavez,36,296003751,12,12,6,47.5684
+38th,Nease High School,Alejandro Ng,36,290000552,11,8,11,47.5684
+39th,Bolles,Mikkel Jordahn,36,252002751,11,8,11,47.5684
+40th,Bolles,Jasper Zhou,34,252002952,9,2,19,47.0464
+41st,Bolles,Jung Woo Lee,33,252000951,10,7,13,46.7854
+42nd,Nease High School,Jason Cochran,30,290002950,10,10,10,46.0025
+43rd,Buchholz,HyunJee Rhee,30,295003950,11,14,5,46.0025
+44th,River City Science Academy,Courtney Dorrian,30,269013251,12,18,0,46.0025
+45th,Bolles,David Chen,28,252001052,9,8,13,45.4805
+46th,Eastside,Aristotle Grosz,28,280001250,9,8,13,45.4805
+47th,Fleming Island High,R. J. Norris,27,220003252,8,5,17,45.2195
+48th,Nease High School,Lauren Hsu,27,290000351,8,5,17,45.2195
+49th,Flagler Palm Coast High School,Tyler Jarnagin,25,221002852,11,19,0,44.6975
+50th,Nease High School,Tyler Goldsmith,25,290003050,9,11,10,44.6975
+51st,Bolles,Swetha Davuluri,25,252002451,9,11,10,44.6975
+52nd,Nease High School,Jane Viviano,24,290000852,8,8,14,44.4366
+53rd,Stanton College Preparatory School,Alaap Murali,24,296004651,9,12,9,44.4366
+54th,Nease High School,Ashley Bushdorf,23,290000051,9,13,8,44.1756
+55th,Bolles,Zereen Sarwar,22,252002852,7,6,17,43.9146
+56th,Fleming Island High,Max Grandstaff,20,220003151,7,8,15,43.3926
+57th,Flagler Palm Coast High School,Eva Perez,20,221003251,10,20,0,43.3926
+58th,Orange Park High School,Haley Geeser,20,292000851,10,20,0,43.3926
+59th,Flagler Palm Coast High School,Ryan McMeel,18,221004951,6,6,18,42.8707
+60th,Orange Park High School,Julian Sanchez,17,292001051,6,7,17,42.6097
+61st,Orange Park High School,Alexandria McCalmant,17,292001450,7,11,12,42.6097
+62nd,Orange Park High School,Megan Buzby,16,292000451,6,8,16,42.3487
+63rd,River City Science Academy,Aliye Karakoyun,15,269013351,7,13,10,42.0877
+64th,Bolles,Hwajin Kang,14,252000052,6,10,14,41.8267
+65th,Nease High School,Turner Street,12,290003150,4,4,22,41.3047
+66th,Nease High School,Lauren Wisniewski,11,290003250,6,13,11,41.0438
+67th,River City Science Academy,Mark Young,11,269013151,6,13,11,41.0438
+68th,Nease High School,Knika Pandey,10,290000651,8,22,0,40.7828
+69th,Flagler Palm Coast High School,Brandon Eng,9,221002550,6,15,9,40.5218
+70th,Flagler Palm Coast High School,Barret Manfre,7,221003652,3,5,22,39.9998
+71st,Flagler Palm Coast High School,Melissa Boyles,7,221021150,5,13,12,39.9998
+72nd,Flagler Palm Coast High School,Hailey Cronk,7,221000350,5,13,12,39.9998
+73rd,Flagler Palm Coast High School,Austin Smith,7,221000652,3,5,22,39.9998
+74th,Orange Park High School,Zack Yarbrough,6,292001951,4,10,16,39.7388
+75th,Eastside,Kate Warren,4,280005852,3,8,19,39.2169
+76th,Flagler Palm Coast High School,Daniel Gerhard,4,221020350,3,8,19,39.2169
+77th,Fleming Island High,Kelsey Gelok,3,220003051,5,17,8,38.9559
+78th,Flagler Palm Coast High School,Marianna Sbordone,3,221003850,2,5,23,38.9559
+79th,Gainesville High School,Joey Schentrup,3,268000640,5,17,8,38.9559
+80th,Flagler Palm Coast High School,Chloe Carll,-2,221004050,2,10,18,37.6510
+81st,Flagler Palm Coast High School,Forrest Mason,-2,221021052,3,14,13,37.6510
+82nd,Flagler Palm Coast High School,Michael Safarty,-5,221020151,3,17,10,36.8680

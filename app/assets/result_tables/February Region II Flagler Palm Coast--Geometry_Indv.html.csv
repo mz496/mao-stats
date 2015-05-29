@@ -1,0 +1,79 @@
+Rank,School,Name,Score,Student ID,# Right,# Wrong,# Blank,T-Score
+1st,Buchholz,Harish Vemuri,120,295002821,30,0,0,70.3552
+1st,Buchholz,Kim Nguyen,120,295002922,30,0,0,70.3552
+1st,Buchholz,Joanna Song,120,295003520,30,0,0,70.3552
+4th,Buchholz,Spencer Dupee,115,295004821,29,1,0,68.9240
+5th,Buchholz,Jake Jeong,115,295003621,29,1,0,68.9240
+5th,Buchholz,Marie Shiau,115,295002521,29,1,0,68.9240
+7th,Buchholz,Thor Stead,105,295004122,27,3,0,66.0618
+8th,James W. Johnson Middle,John Cho,105,215100421,27,3,0,66.0618
+9th,Buchholz,Jason Zhang,105,295003120,27,3,0,66.0618
+10th,Buchholz,Gena Kim,102,295003322,26,2,2,65.2031
+11th,Buchholz,David Geering,101,295001322,26,3,1,64.9169
+12th,Gainesville High School,Brad Benton,101,268002721,26,3,1,64.9169
+13th,Gainesville High School,Tessa Brant,93,268002821,24,3,3,62.6270
+14th,Eastside,Samuel Claus,91,280000821,23,1,6,62.0546
+15th,Eastside,Stephanie Lampotang,90,280001821,23,2,5,61.7684
+16th,Gainesville High School,Andrew Knechel,80,268006821,21,4,5,58.9061
+17th,Gainesville High School,Ashley Goluoglu,79,268004221,21,5,4,58.6199
+18th,Eastside,Nesta OseiAgyei,78,280002021,20,2,8,58.3336
+19th,Gainesville High School,Emmett Kendall,77,268006522,20,3,7,58.0474
+20th,Spruce Creek,Rohit Hoskote,76,267003221,20,4,6,57.7612
+21st,Fort Clarke Middle,Jiseon Lee,75,279100421,20,5,5,57.4749
+22nd,Gainesville High School,Austin Petty,65,268008422,18,7,5,54.6127
+23rd,Flagler Palm Coast High School,Anna Buss,63,221000421,17,5,8,54.0402
+24th,James W. Johnson Middle,Olivia Morello,60,215101421,16,4,10,53.1815
+25th,Lincoln Middle,Promoto Islam,56,201101120,15,4,11,52.0366
+26th,James W. Johnson Middle,Ji Jung,53,215100021,15,7,8,51.1779
+27th,Westwood Middle,Gavin Gamble,51,212000621,14,5,11,50.6055
+28th,Gainesville High School,Anthony Becker,51,268002522,14,5,11,50.6055
+29th,Fleming Island High,Alexa Clark,50,220000521,13,2,15,50.3193
+30th,Gainesville High School,Madeline Farina,49,268004020,13,3,14,50.0330
+31st,Julia Landon Middle,Chisom Ukoha,47,200101221,13,5,12,49.4606
+32nd,Fleming Island High,Nate Anderson,45,220000121,13,7,10,48.8881
+33rd,Spruce Creek,Yasi Joulaee,45,267003321,12,3,15,48.8881
+34th,Westwood Middle,Daniel Samraj,44,212000421,13,8,9,48.6019
+35th,Gainesville High School,Kristen Hubbard,42,268005422,12,6,12,48.0294
+36th,Gainesville High School,Kayla Barrera,42,268002420,11,2,17,48.0294
+37th,James W. Johnson Middle,Sumanth Aluri,40,215101521,11,4,15,47.4570
+38th,Spruce Creek,Hamish Pierpont,40,267003621,12,8,10,47.4570
+39th,Gainesville High School,Katya Aslanidi,40,268012320,13,12,5,47.4570
+40th,Gainesville High School,Julia Burton,40,268002920,14,16,0,47.4570
+41st,Spruce Creek,Alex Bayer,38,267003122,11,6,13,46.8845
+42nd,Gainesville High School,Lauren Gordon,37,268004520,11,7,12,46.5983
+43rd,Oak View Middle,Hayden Davis,35,205100521,10,5,15,46.0258
+44th,Gainesville High School,Courtney Stanford,35,268010520,13,17,0,46.0258
+45th,Spruce Creek,Alanna Muldowney,35,267003421,10,5,15,46.0258
+46th,Gainesville High School,James Lilkendey,35,268006920,11,9,10,46.0258
+47th,Flagler Palm Coast High School,Kevin Logan,34,221003521,9,2,19,45.7396
+48th,Flagler Palm Coast High School, ,32,221005521,9,4,17,45.1672
+49th,Westwood Middle,Corey Ryan,31,212000321,9,5,16,44.8809
+50th,Fleming Island High,Logan Rainwater,31,220000822,9,5,16,44.8809
+51st,Fleming Island High,Tien Pham,31,220000722,10,9,11,44.8809
+52nd,Julia Landon Middle,Sarah McWilliams,31,200101421,11,13,6,44.8809
+53rd,Gainesville High School,Cameron Allen,31,268002220,10,9,11,44.8809
+54th,Flagler Palm Coast High School,Anna Walls,30,221000822,9,6,15,44.5947
+55th,Fleming Island High,Josh Heuler,27,220000621,8,5,17,43.7360
+56th,Gainesville High School,Haley Fern,27,268004120,9,9,12,43.7360
+57th,Gainesville High School,Tyler Winkel,26,268000020,8,6,16,43.4498
+58th,Kanapaha Middle School,Ben Salvo,25,209100821,9,11,10,43.1636
+59th,Julia Landon Middle,Shaan Patel,24,200101321,7,4,19,42.8773
+60th,Flagler Palm Coast High School,Nina Jones,24,221003921,8,8,14,42.8773
+61st,Fleming Island High,Sam Gathercole,23,220000221,8,9,13,42.5911
+62nd,Flagler Palm Coast High School,Anastasia Zwenger,21,221000122,6,3,21,42.0187
+63rd,James W. Johnson Middle,Vaibhav Desikan,20,215102222,10,20,0,41.7324
+64th,Spruce Creek, ,19,267002622,8,13,9,41.4462
+65th,Kanapaha Middle School,Bailey Quinn,15,209101621,5,5,20,40.3013
+66th,Gainesville High School,Trent Phillips,15,268008520,6,9,15,40.3013
+67th,Spruce Creek, ,14,267004022,5,6,19,40.0151
+68th,Fleming Island High,Katlyn Howell,13,220000022,4,3,23,39.7288
+69th,Kanapaha Middle School,Varvara Folimonova,13,209100921,5,7,18,39.7288
+70th,Gainesville High School,Marissa Molloy,12,268007720,4,4,22,39.4426
+71st,Leesburg High School,Dyuti Peddapuli,11,287001221,5,9,16,39.1564
+72nd,Leesburg High School,Nick Davis,10,287000021,5,10,15,38.8701
+73rd,Kanapaha Middle School,Jenny Baik,9,209101432,5,11,14,38.5839
+74th,Gainesville High School,Ethan Pata,8,268008120,4,8,18,38.2977
+75th,Kanapaha Middle School,Cosette MacLaren,3,209101221,2,5,23,36.8666
+76th,Spruce Creek, ,3,267003922,3,9,18,36.8666
+77th,Gainesville High School,Kian Thomas,2,268010720,2,6,22,36.5803
+78th,Flagler Palm Coast High School,Ally Erickson,-3,221000222,1,7,22,35.1492
